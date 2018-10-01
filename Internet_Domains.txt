@@ -1,0 +1,657 @@
+##name	Internet Domains
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2001/02/11, 09:49
+##author	Nivi Naor
+##email	nivi@babylon.com
+##description	
+##browsingEnabled	
+##bgl_creationTime	2000/12/10, 14:08
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+Abu Dhabi (UAE)|Abu Dhabi	AE
+AC	Ascension Island
+Academic Internet clients|Academic	EDU
+AD	Andorra
+AE	United Arab Emirates
+AF	Afganistan
+AG	Antigua &amp; Barbuda
+AI	Anguilla
+Ajman (UAE)|Ajman	AE
+AK.US	Alaska (USA)
+AL	Albania
+AL.US	United States - Alabama
+Alabama	AL.US
+Alaska	AK.US
+Albania	AL
+Algeria	DZ
+AM	Armenia
+America On Line Clients|AOL	AOL.COM
+American Samoa	AS
+AN	Netherland Antilles
+Andorra	AD
+Angola	AO
+Anguilla	AI
+Antartica	AQ
+Antigua & Barbuda|Antigua|Barbuda	AG
+AO	Angola
+AOL.COM	America On Line Clients
+AQ	Antarctica
+AR	Argentina
+AR.US	United States - Arkansas
+Argentina	AR
+Arizona	AZ.US
+Arkansas	AR.US
+Armenia	am
+Aruba, Neth. Antilles|Aruba|Netherland Antilles	AW
+AS	American Samoa
+Ascension Island	AC
+AT	Austria
+ATTMAIL.COM	US Telex-Hawaii AT&T
+AU	Australia
+Australia	AU
+Austria	AT
+AW	Aruba (Neth. Antilles)
+AZ	Azerbaijan
+AZ.US	United States - Arizona
+Azerbaijan	AZ
+BA	Bosnia and Herzegovina
+Bahamas	BS
+Bahrain	BH
+Bangladesh	BD
+Barbados	BB
+BB	Barbados
+BD	Bangladesh
+BE	Belgium
+Belarus	BY
+Belgium	BE
+Belize	BZ
+Benin,  Dahomey|Dahomey	BJ
+Bermuda	BM
+BF	Burkina Faso
+BG	Bulgaria
+BH	Bahrain
+Bhutan	BT
+BI	Burundi
+BJ	Dahomey Peo. Rep. (Benin)
+BM	Bermuda
+BN	Brunei Darussalam
+BO	Bolivia
+Bolivia	BO
+Botswana	BW
+BR	Brazil
+Brazil	BR
+Brazzaville, Congo/Zaire|Congo|Zaire	CG
+British Virgin Islands|Virgin	VG
+Brunei Darussalam|Brunei	BN
+BS	Bahamas
+BT	Bhutan
+Bulgaria	BG
+Burkina Faso	BF
+Burundi	BI
+BW	Botswana
+BY	Belarus
+BZ	Belize (Br. Honduras)
+C.I.S.|CIS	RU
+CA	Canada
+CA.US	United States - California
+California	CA.US
+Cambodia, Kampuchea|Kampuchea	KH
+Cameroon	CM
+Canada	CA
+Canal Zone (Panama)	PA
+Cape Verde	CV
+Cape Verde Islands|Cape Verde	CV
+Cayman Islands|Cayman	KY
+CC	Cocos - Keeling Is.
+CD	Zaire
+Central African Rep.|CAR	CF
+Ceylon (Sri Lanka)|Sri Lanka	LK
+CF	Central African Rep.
+CG	"Congo, Rep. of (Zaire)"
+CH	Switzerland
+Chad	TD
+Chile	CL
+China  Peoples Rep.|China	CN
+China  Rep of (Taiwan)|Taiwan	TW
+Christmas Islands	CX
+Christmas Islands (Indian)|Christmas Island	IO
+CI	Cote D'Ivoire
+CK	Cook Islands (Rarotonga)
+CL	Chile
+CM	Cameroon
+CN	"China, Peoples Rep."
+CO	Columbia
+CO.US	United States - Colorado
+Cocos - Keeling Is.|Cocos|Keeling	CC
+Colorado	CO.US
+Columbia|Colombia	CO
+COM	Commerical Internet clients
+Commerical Internet clients|Commercial	COM
+Comoros  F & I Rep.|Comoros	KM
+Compuserve Clients	COMPUSERVE.COM
+Congo  Rep. of (Zaire)|Congo|Zaire	CG
+Connecticut	CT.US
+Cook Islands (Rarotonga)	CK
+Costa Rica	CR
+Cote D'Ivoire|Ivory Coast	CI
+CR	Costa Rica
+Croatia	HR
+CS	Czechoslovakia
+CT.US	United States - Connecticut
+CU	Cuba
+Cuba	CU
+CV	Cape Verde
+CX	Christmas Is. (Pacific)
+CY	Cyprus
+Cyprus	CY
+CZ	Czech Republic
+Czech Republic	CZ
+Czechoslovakia	CS
+DBP.DE	German X.400 National Networ
+DC.US	United States - Dist. of Col
+DE	Germany
+DE.US	United States - Delaware
+Delaware	DE.US
+Denmark	DK
+District of Colombia|DC|Washington DC	DC.US
+DJ	Djibouti Rep.
+Djibouti Rep.|Djibouti	DJ
+DK	Denmark
+DM	Dominica
+DO	Dominican Republic
+Dominica	DM
+Dominican Republic	DO
+Dubai	AE
+DZ	Algeria
+East Timor	TP
+EC	Ecuador
+Ecuador	EC
+EDU	Academic Internet clients
+EE	Estonia
+EG	"Egypt, Arab Rep. of"
+Egypt  Arab Rep. of|Egypt	EG
+EH	Western Sahara
+El Salvador	SV
+Ellice Is.|Ellice	TV
+England	UK
+Equatorial Guinea	GQ
+ER	Eritrea
+Eritrea	ER
+ES	Spain
+Estonia	EE
+ET	Ethiopia
+Ethiopia	ET
+Falkland Islands	FK
+Faroe Is.|Faeroe	FO
+FI	Finland
+Fidonet Clients|Fidonet	FIDONET.ORG
+FIDONET.ORG	Fidonet Clients
+Fiji Islands|Fiji|suva	FJ
+Finland	FI
+FJ	Fiji Islands (Suva)
+FK	Falkland Islands
+FL.US	United States - Florida
+Florida	FL.US
+FM	Micronesia
+FO	Faroe (Faeroe) Is.
+Formosa (Taiwan)	TW
+FR	France
+France	FR
+French Guiana	GF
+French Polynesia	PF
+French Southern Territory	TF
+Fujaira	AE
+Futuna & Wallis Is.|Futuna|Wallis	WF
+GA	Gabon Rep.
+GA.US	United States - Georgia
+Gabon Rep.|Gabon	GA
+Gambia	GM
+GB	Great Britain
+GD	Grenada
+GE	Georgia
+Georgia	GE
+Georgia (US)	GA.US
+German X.400 National Network	DBP.DE
+Germany	DE
+GF	French Guiana
+GG	Guernsey
+GH	Ghana
+Ghana	GH
+GI	Gibraltar
+Gibraltar	GI
+GL	Greenland
+GM	Gambia
+GN	Guinea People Rep.
+GOV	Government Internet clients
+Government Internet clients|Government	GOV
+GP	Guadeloupe (Fr. Ant.)
+GQ	Equatorial Guinea
+GR	Greece
+Great Britain	GB
+Greece	GR
+Greenland	GL
+Grenada	GD
+Grenadines & St. Vinc.|Grenadines|Vincent	VC
+GS	South Georgia
+GT	Guatemala
+GU	Guam
+Guadeloupe	GP
+Guam	GU
+Guatemala	GT
+Guernsey	GG
+Guinea-Bissau	GW
+Guinea People Rep.|Guinea	GN
+Guyana	GY
+GW	Guinea-Bissau
+GY	Guyana
+Haiti	HT
+Hawaii	HI.US
+Heard and Mc Donald Is.|Heard|Mc Donald|McDonals	HM
+HK	Hong Kong
+HM	Heard and Mc Donald Is.
+HN	"Honduras, Rep. of"
+Holland	NL
+Honduras  Rep. of|Honduras	HN
+Hong Kong	HK
+HR	Croatia
+HT	Haiti
+HU	Hungary
+Hungary	HU
+IA.US	United States - Iowa
+Iceland	IS
+ID	Indonesia
+ID.US	United States - Idaho
+Idaho	ID.US
+IE	"Ireland, Rep. of (Eire)"
+IL	Israel
+IL.US	United States - Illinois
+Illinois	IL.US
+IM	Isle of Man
+IN	India
+IN.US	United States - Indiana
+India	IN
+Indiana	IN.US
+Indonesia	ID
+INT	International Internet clients
+Internet Military clients|military	MIL
+Internet Network providers|network	NET
+Internet Organizational clients|Organizational	ORG
+IO	Christmas Is. (Indian)
+Iowa	IA.US
+IQ	Iraq
+IR	Iran
+Iran	IR
+Iraq	IQ
+Ireland  Rep. of|Eire|Ireland	IE
+IS	Iceland
+Isle of Man	IM
+Israel	IL
+IT	Italy
+Italy	IT
+Jamaica	JM
+Japan	JP
+JE	Jersey
+Jersey	JE
+JM	Jamaica
+JO	Jordan
+Jordan	JO
+JP	Japan
+Kansas	KS.US
+KE	Kenya
+Kentucky	KY.US
+Kenya	KE
+KG	Kyrgyzstan
+KH	Kampuchea (Cambodia)
+KI	Kiribati Rep.
+Kiribati Rep.|Kiribati	KI
+KM	"Comoros, F & I Rep."
+KN	St. Kitts - Nevis
+Korea  North|North Korea	KP
+Korea  Rep. of|Korea|South Korea	KR
+KP	Democratic People's Republic of Korea <BR>(North Korea)
+KR	Republic of Korea (South Korea)
+KS.US	United States - Kansas
+Kuwait	KW
+KW	Kuwait
+KY	Cayman Islands
+KY.US	United States - Kentucky
+KZ	Kazakhastan
+LA	People's Democratic Republic of Laos
+LA.US	United States - Louisiana
+Laos  Peoples Dem. Rep. of|Laos	LA
+Latvia	LV
+LB	Lebanon
+LC	St. Lucia
+Lebanon	LB
+Lesotho	LS
+LI	Liechtenstein
+Liberia	LR
+Libyan Arab Jamahiriya|Libya	LY
+Liechtenstein	LI
+Lithuania	LT
+LK	Sri Lanka (Ceylon)
+Louisiana	LA.US
+LR	Liberia
+LS	Lesotho
+LT	Lithuania
+LU	Luxembourg
+Luxembourg	LU
+LV	Latvia
+LY	Libyan Arab Jamahiriya
+MA	Morocco
+MA.US	United States - Massachusett
+Macao|Macau	MO
+Macedonia	MK
+Madagascar  Dem. Rep.|Madagascar	MG
+Maine	ME.US
+Malawi	MW
+Malaysia	MY
+Maldives	MV
+Mali  Rep. of|Mali	ML
+Malta	MT
+Marshall Is.|Marshall	MH
+Martinique	MQ
+Maryland	MD.US
+Massachusetts	MA.US
+Mauritania  Islamic Rep.|Mauritania	MR
+Mauritius Is.|Mauritius	MU
+Mayotte	YT
+MC	Monaco
+MCIMAIL.COM	US Telex-WUI/MCI
+MD	Moldova
+MD.US	United States - Maryland
+ME.US	United States - Maine
+Mexico	MX
+MG	Madagascar
+MH	Marshall Islands
+MI.US	United States - Michigan
+Michigan	MI.US
+Micronesia	FM
+MIL	Internet Military clients
+Minnesota	MN.US
+Mississippi	MS.US
+Missouri	MO.US
+MK	Macedonia
+ML	Mali
+MM	"Myanmar, Union of"
+MN	Mongolian Peoples Rep.
+MN.US	United States - Minnesota
+MO	Macao (Macau)
+MO.US	United States - Missouri
+Moldova	MD
+Monaco	MC
+Mongolian Peoples Rep.|Mongolia	MN
+Montana	MT.US
+Montserrat	MS
+Morocco	MA
+Mozambique	MZ
+MP	Northern Mariana Is.
+MQ	Martinique (French Ant.)
+MR	Mauritania, Islamic Rep.
+MS	Montserrat
+MS.US	United States - Mississippi
+MT	Malta
+MT.US	United States - Montana
+MU	Mauritius
+MV	Maldives
+MW	Malawi
+MX	Mexico
+MY	Malaysia
+Myanmar  Union of|Burma|Myanmar	MM
+MZ	Mozambique
+NA	Namibia (S.W. Africa)
+Namibia|South West Africa	NA
+Nauru	NR
+NC	New Caledonia
+NC.US	United States - North Caroli
+ND.US	United States - North Dakota
+NE	Niger Rep.
+NE.US	United States - Nebraska
+Nebraska	NE.US
+Nepal	NP
+NET	Internet Network providers
+Netherland Antilles	AN
+Netherlands	NL
+Neutral Zone	NT
+Nevada	NV.US
+Nevis [St. Kitts]|Kitts|Nevis	KN
+New Caledonia	NC
+New Hampshire	NH.US
+New Hebrides (Vanuatu)	VU
+New Jersey	NJ.US
+New Mexico	NM.US
+New York	NY.US
+New Zealand	NZ
+NF	Norfolk Island
+NG	"Nigeria, Fed. Rep."
+NH.US	United States - New Hampshir
+NI	Nicaragua
+Nicaragua	NI
+Niger Rep.|Niger	NE
+Nigeria  Fed. Rep.|Nigeria	NG
+Niue Is.|Niue	NU
+NJ.US	United States - New Jersey
+NL	Netherlands (Holland)
+NM.US	United States - New Mexico
+NO	Norway
+Norfolk Island|Norfolk	NF
+North Carolina	NC.US
+North Dakota	ND.US
+Northern Mariana Is.|Mariana	MP
+Norway	NO
+NP	Nepal
+NR	Nauru
+NT	Neutral Zone
+NU	Niue Is.
+NV.US	United States - Nevada
+NY.US	United States - New York
+NZ	New Zealand
+OH.US	United States - Ohio
+Ohio	OH.US
+OK.US	United States - Oklahoma
+Oklahoma	OK.US
+OM	Oman
+Oman	OM
+OMPUSERVE.COM	Compuserve Clients
+OR.US	United States - Oregon
+Oregon	OR.US
+ORG	Internet Organizational clients
+PA	Panama
+PA.US	United States - Pennsylvania
+Pakistan	PK
+Palau	PW
+Palestine	PS
+Panama	PA
+Papua New Guinea|New Guinea|Papua	PG
+Paraguay	PY
+PE	Peru
+Pennsylvania	PA.US
+Peru	PE
+PF	French Polynesia
+PG	Papua New Guinea
+PH	Philippines
+Philippines	PH
+Pitcairn Island|Pitcairn	PN
+PK	Pakistan
+PL	Poland
+PM	St. Pierre/Miquelon Is.
+PN	Pitcairn Island
+Poland	PL
+Portugal  Madeira & Azores|Azores|Madeira|Portugal	PT
+PR	Puerto Rico
+PS	Palestine
+PT	"Portugal, Madeira & Azores"
+Puerto Rico	PR
+PW	Palau
+PY	Paraguay
+QA	Qatar
+Qatar	QA
+Ras Al Khaimah	AE
+RE	Reunion Is.
+Reunion Is.|Reunion	RE
+Rhode Island	RI.US
+RI.US	United States - Rhode Island
+RO	Romania
+Romania	RO
+RU	C.I.S. (Former U.S.S.R.)
+Russia (Formerly USSR)	RU
+RW	Rwanda
+Rwanda	RW
+Ryukyu Is. (Okinawa)	JP
+SA	Saudi Arabia
+Saipan (N. Mariana Is.)	MP
+San Marino	SM
+Sao Tome & Principe|Principe|Sao Tome	ST
+Saudi Arabia	SA
+SB	Solomon Islands
+SC	Seychelles
+SC.US	United States - South Caroli
+SD	Sudan
+SD.US	United States - South Dakota
+SE	Sweden
+Senegal Rep.|Senegal	SN
+Seychelles Is.|Seychelles	SC
+SG	"Singapore, Rep. of"
+SH	St. Helena
+Sharjah	AE
+SI	Slovenia
+Sierra Leone	SL
+Singapore  Rep. of|Singapore	SG
+SJ	Svalbard and Jan Mayen Islands
+SK	Slovakia
+SL	Sierra Leone
+Slovakia	SK
+Slovenia	SI
+SM	San Marino
+SN	Senegal
+SO	Somalia
+Solomon Is.|Solomon	SB
+Somali Rep.|Somali	SO
+South Africa  Rep. of|South Africa	ZA
+South Carolina	SC.US
+South Dakota	SD.US
+Spain	ES
+Spitzbergen (Svalbard)	SJ
+SR	"Suriname, Rep. of"
+ST	Sao Tome and Principe
+St. Croix|Croix	VI
+St. Helena|St helena	SH
+St. Lucia|St Lucia	LC
+St. Pierre/Miquelon Is.|Miquelon|Pierre	PM
+St. Thomas|st thomas	VI
+SU	USSR (not used)
+Sudan	SD
+Suriname  Rep. of|Surinam|Suriname	SR
+SV	El Salvador
+Svalbard & Jan Mayen Is.|Jan Mayen|Svalbard	SJ
+Swaziland	SZ
+Sweden	SE
+Switzerland	CH
+SY	Syrian Arab Republic
+Syrian Arab Rep.|Syria	SY
+SZ	Swaziland
+Tanzania (Zanzibar)	TZ
+TC	The Turks &amp; Caicos Islands
+TD	Chad
+Tennessee	TN.US
+Texas	TX.US
+TF	French Southern Territories
+TG	Togo
+TH	Thailand
+Thailand	TH
+Timor	TP
+TJ	Tajikistan
+TK	Tokelau
+TM	Turkmenistan
+TN	Tunisia
+TN.US	United States - Tennessee
+TO	Tonga
+Togolese Republic|Togo	TG
+Tokelau Is.|Tokelau	TK
+Tonga Is.|Tonga	TO
+TP	East Timor
+TR	Turkey
+Trinidad & Tobago|Tobago|Trinidad	TT
+TT	Trinidad &amp; Tobago
+Tunisia	TN
+Turkey	TR
+Turks & Caicos Is.|Caicos|Turks	TC
+Tuvalu (Ellice Is.)|Tuvalu	TV
+TV	Tuvalu (Ellice Is.)
+TW	Taiwan (Rep. of China)
+TX.US	United States - Texas
+TZ	Tanzania (Zanzibar)
+UA	Ukraine
+UG	Uganda
+Uganda	UG
+UK	United Kingdom
+Ukraine	UA
+UM	United States Minor Outlying Islands
+Umm Al Quwain|Quwain	AE
+United Arab Emirates|UAE	AE
+United Kingdom|UK	UK
+United States|US|USA	US
+United States Minor Outlying Islands	UM
+Uruguay	UY
+US	United States
+USSR	SU (not used)
+UT.US	United States - Utah
+Utah	UT.US
+UUNet Clients	UUNET.NET
+UUNET.NET	UUNet Clients
+UY	Uruguay
+UZ	Uzbekistan
+VA	Vatican City
+VA.US	United States - Virginia
+Vatican City	VA
+VC	St. Vincent & the Grenadines
+VE	Venezuela
+Venezuela	VE
+Vermont	VT.US
+VG	British Virgin Islands
+VI	"Virgin Is., U.S."
+Vietnam	VN
+Virgin Is.  British|Virgin	VG
+Virgin Is.  U.S.|Virgin	VI
+Virginia	VA.US
+VN	Vietnam
+VT.US	United States - Vermont
+VU	Vanuatu (New Hebrides)
+WA.US	United States - Washington
+Wallis & Futuna Is.|Futuna|Wallis	WF
+Washington	WA.US
+West Virginia	WV.US
+Western Sahara	EH
+Western Samoa	WS
+WF	Wallis & Futuna Is.
+WI.US	United States - Wisconsin
+Wisconsin	WI.US
+WS	Western Samoa
+WV.US	United States - West Virgini
+WY.US	United States - Wyoming
+Wyoming	WY.US
+YE	Yemen
+Yemen Arab Rep.|Yemen	YE
+Yemen Dem. Rep.|Yemen	YE
+YT	Mayotte
+YU	Yugoslavia
+Yugoslavia	YU
+ZA	"South Africa, Rep. of"
+Zaire	CD
+Zaire  Rep. of	ZR
+Zambia	ZM
+Zimbabwe (Rhodesia)	ZW
+ZM	Zambia
+ZR	"Zaire, Rep. of"
+ZW	Zimbabwe (Rhodesia)

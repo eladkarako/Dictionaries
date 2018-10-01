@@ -1,0 +1,1797 @@
+##name	NATO Acronyms
+##sourceLang	English
+##targetLang	English
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2004/01/13, 07:26
+##author	Marcus Levy Swiss Air Force
+##email	marcus.levy@lw.admin.ch
+##description	Summary of NATO Acronyms mainly related to Air Operations.
+##browsingEnabled	
+##bgl_creationTime	2004/01/13, 07:20
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+A/C	Aircraft
+A/G	Air-to-Ground
+A2C2	Army Airspace Command &amp; Control
+AA	Assembly Area
+AAA	Anti-Aircraft-Artillery
+AADC	Area Air Defence Commander
+AAFES	Army Air Force Exchange Service (US)
+AAM	Air-to-Air Missile
+AAP	Allied Administrative Publication (AAP-6) NATO Publications
+AAR	Air-to-Air Refueling
+AAWC	Anti-Air Warfare Commander
+AB	Airbase
+ABCCC	Airborne Command, Control &amp; Communications
+ABM	Anti Ballistic Missile Treaty 1972
+ABNOC	Airborne Operations Centre
+AC	Alliance Committee
+ACA	Airspace Control Authority
+ACBT	Air Combat Training
+ACC	Air Component Commander
+ACCAP	ACE CIS Contingency Assets Pool
+ACCHAN	Allied Command Channel
+ACCIS	Automated Command and Control Information System
+ACCS	Air Command and Control System
+ACE	Allied Command Europe
+ACEADGE	Allied Command Europe Air Defence Ground Environment
+ACEHIGH	ACE Troposphericscatter Communications System
+ACINT	Acoustic Inteligence
+ACL	Allowable Cabin/Cargo Load
+ACLANT	Allied Command Atlantic ACT as per 01.09.2003
+ACM	Airspace Control Means
+ACMREQ	Airspace Control Means Request
+ACO	Allied Command Operations Former SACEUR
+ACOC	Air Command Operations Centre
+ACOS	Assistant Chief of Staff
+ACP	Airborne Command Post
+ACROSS	ACE Resource Optimisation Software System Allied Command Europe
+ACS	Airspace Control System
+ACSTP	ACE Command and Staff Training Programme
+ACT	Allied Command Transformation Former SCLANT
+ACTORD	Activation Order
+ACTREQ	Activation Request
+ACTWARN	Activation Warning
+ACW	Airborne Control &amp; Warning
+AD	Air Defence
+ADAMS	Allied Deployment and Movement System
+ADATS	Air Defence Anti-Tank System
+ADC	Air Defence Commander
+ADC2S	ACE Deployable Command &amp; Control System CRO / PSO
+ADGE	Air Defence Ground Environment
+ADIZ	Air Defence Identification Zone
+ADL	Allied Disposition List
+ADM	Administration
+ADOC	Air Defence Operations Centre
+ADP	Automatic Data Processing
+ADR	Airfield Damage Repair
+ADROE	Air Defence ROE
+AECC	Aeromedical Evacuation Control Centre
+AEDP	ACE Exercise Directive Programme
+AEGIS	AEW Ground Interpretation System
+AERB	ACE Exercise Review Board
+AES	Aeromedical Evacuation System
+AEW	Airborne Early Warning (Radar Picket Aircraft)
+AF	Amphibious Forces
+AFAC	Airborne Forward Air Controller
+AFCENT	Allied Forces, Central Europe *
+AFFSC(E)|AFFSC	Air Forces Flight Safety Committee (Europe)
+AFL	Allied Forces List
+AFNORTH	Allied Forces North
+AFNORTHWEST	Allied Forces, North-western Europe (MSC)
+AFRC	Armed Forces Recreation Centre
+AFS	ACE Forces Standards
+AFSOUTH	Allied Forces, Southern Europe
+AFV	Armoured Fighting Vehicles
+AGARD	Advisory Group for Aerospace Research and Development
+AGL	Above Ground Level
+AGM	Air-to-Ground Missile
+AGS	Allied Ground Surveillance System
+AH	Armed/Attack Helicopter
+AHC	Attack Helicopter Crew
+AI	Air Interdiction
+AICV	Armoured Infantry Combat Vehicle
+AIE	Alternate means of insertion and extraction
+AIFS	ACE Information Flow System
+AIGS	Airborne Ineterrogation &amp; Guidance System
+AII	Area of Intelligence Interest
+AIM	Air Intercept Misssile
+AIP	Aeronautical Information Publication
+AIR	Area of Intelligence Responsibility
+AIRCENT	Allied Air Forces, Central Europe (PSC), Ramstein
+AIREX	Air (Live) Exercise
+AIRNORTHWEST	Allied Air Forces Northwestern Europe
+AIRSOUTH	Allied Air Forces, Southern Europe
+AJ / AZE	Azerbaijan Nation
+AJF	Allied Joint Force
+AJO	Allied Joint Operations
+AJODWG	Allied Joint Operations Doctrine Working Group
+AJODWP	Allied Joint Operations Doctrine Working Party
+AJP	Allied Joint Publication (e.g AJP-06, 15, ect) NATO Publications
+AL / ALB	Albania Nation
+ALARM	Air Launched Anti-Radar Missile
+ALC	ACE Logistics Centre
+ALCE	Airlift Coodination Centre
+ALCM	Air-Launched Cruise Missile
+ALO	Air Liaison Officer
+ALP	ACE Logistics Publication
+ALSS	Avanced Logistics Support Site
+ALT TOT	Alternate Time on Target
+AM	Augmentation Module
+AM / ARM	Armenia Nation
+AMC	Airborne Mission Commander
+AMCC	Allied Mobility / Movement Coordination Centre
+AMF(A) / (L)|AMF(A) /	ACE Mobile Force (Air) / (Land)
+AMHS	Automated Message Handling System
+AMIB	Allied Military Intelligence Battalion
+AMRAAM	Advanced Medium Range Air-to-Air Missile (AIM-20)
+AMSFOR	Airmobile Security Forces
+AMSL	Above Mean Sea Level
+ANPP	ACE Nuclear Planning Process
+AOA	Amphibious Objective / Operations Area
+AOAD	Army Organic Air Defence
+AOB	Air Order of Battle
+AOC	Air Operations Centre
+AOCC	Air Operations Control Centre (Land/Maritime)
+AOD	Air Operations Directive
+AOEC	Air Operational English Course
+AOFPG	Air Operations Functional Planning Group
+AOI	Area of Interest
+AOO	Area of Operations
+AOP	Air Operation Procedures
+AOPG	Air Operations Planning Guide
+AOR	Area of Responsibility
+AP	Allied Publication NATO Publications
+APA	Air Patrol Area
+APAG	Atlantic Policy Advisory Group
+APC	Armored Personnel Carrier
+APIC	Allied Press Information Centre
+APO	American Post Office
+APOD	Airport of Debarkation
+APOE	Airport of Embarkation
+AQAP	Allied Quality Assurance Publication
+AR	Air Route
+ARCOM	Army Reserve Command
+ARFPS	ACE Reaction Forces Planning Staff (now CJPS)
+ARH	Active Radar Homing
+ARLO	Air Reconnaissance Liaison Officer
+ARM	Anti-Radiation Missile
+ARNG	Army National Guard
+ARRC	ACE Rapid Reaction Corps
+ARW	Advanced Research Workshop NATO Science Program
+ASACS	Air Surveillance and Control System
+ASAP	As Soon As Possible
+ASC	Airspace Control
+ASE	Aircraft Survivability Equipment
+ASF	Aero-medical Staging Facilities
+ASFAO	Anti-Surface Force Aire Operations
+ASG	Assistant Secretary General
+ASI	Advanced Study Institute NATO Science Program
+ASM	Air Space Management
+ASMD	Anti Ship Missile Defence
+ASO	Air Support Organisation
+ASOC	Air Support Operation Centre
+ASR	Alliance Standardisation Requirements
+ASRAAM	Advanced Short-Range Air-to-Air Missile
+ASUW	Anti-Surface Warfare
+ASW	Anti-Submarine Warfare
+ASZ	Air Separation Zone
+AT	Air Transport
+ATA	Atlantic Treaty Association
+ATACMS	Army Tactical Missile System
+ATAF	Allied Tactical Air Force
+ATAOO	Air Trafic Area of Operations
+ATBM	Anti-Tactical Ballistic Missile
+ATC	Air Traffic Control
+ATCCIS	Army Tactical Command &amp; Control Information System
+ATCOORD	Air Transport Coordination Message
+ATEC	Advanced Tactical English Course
+ATF	Amphibious Task Force
+ATGM	Anti-tank Guided Missile
+ATGW	Anti Tank Guided Weapon
+ATM	Air Tasking Message
+ATMCT	Air Traffic Movement Control Team
+ATO	Air Tasking Order
+ATOC	Allied Tactical Operations Centre
+ATOMAL	NATO Marking for US Atomic Information
+ATP	Allied Tactical Publication (ATP-10) NATO Publications
+ATS	Air Traffic Service
+ATSTAT	Air Transport Status Report
+ATTU	Atlantic To The Urals
+AU	Austria Nation
+AULO	Army Unit Liaison Officer
+AUS	Autralia Nation
+AUW	All-up Weight
+AW	Amphibious Warfare
+AWACS	Airborne Warning and Control System
+AWHQ	Alternate War Headquarters
+AWNIS	Allied Worldwide Navigation Information System
+AXP	Allied Exercise Publication
+Acronym Keyword Remarks	A/A Air-to-Air
+BAI	Battlefield Air Interdiction
+BALTAP	Allied Forces, Baltic Approaches (PSC)
+BAOR	Beyond NATO's Area of Responsibility
+BAP	Battalian Aid Post
+BBC	British Broadcast Corporation
+BCE	Battlefield Coordination Element
+BDA	Battle Damage Assessment
+BDE	Brigade
+BDR	Battle Damage Repair
+BDU	Battle Dress Uniform
+BDZ	Base Defence Zone
+BE	Belgium Nation
+BET	BI-MNC Evaluation Team
+BFM	Basic Fighter Maneuvers
+BFPO	British Forces Post Office
+BG	Bangladesh Nation
+BH	Bosnia-Herzegovina
+BI	MNC The two (BI) Major NATO Commands (ACE, ACLANT)
+BI MNC	2 Major NATO Commanders (SACEUR and SACLANT)
+BICES	Battlefield Information Collection &amp; Exploitation Systems
+BLP	Back Loading Point
+BLT	Battalion Landing Team
+BMDO	Ballistic Missile Defence Office
+BMEWS	Ballistic Missile Early Warning System
+BN	Battalion
+BN CMDR	Battalion Commander
+BO	Belarus Nation
+BOA	Basic Ordering Agreement
+BOD	Board of Directors
+BP	Battle Position
+BRA	Bearing, Range and Altitude of target
+BSVA	Basic Servicing Agreement
+BTWC	Biological and Toxin Weapons Convention
+BU	Bulgaria Nation
+BUDFIN	Budget and Finance
+BVR	Beyond Visual Range
+Bi	SC (Bi) Strategic Commands of NATO (ACE, ACLANT)
+BiMIntPol	BI MNC Intelligence Policy
+C	SPT Commander, Support
+C2	Command and Control
+C2W	Command and Control Warfare
+C3	Command, Control and Communications
+C3I	Command, Control, Communications &amp; Intelligence
+C3IS	Command, Control, Communication &amp; Information Systems
+C4	Command, Control, Communications &amp; Computers
+C4I	Command, Control, Communications, Computer &amp; Intelligence
+C4IS	Command, Control, Communications, Computer &amp; Information Systems
+C4ISR	C4 &amp; Intelligence, Surveillance &amp; Reconnaissance
+CA	Civil Affairs
+CADA	Coordinated Air Defence Area
+CADIMS	Coordinated AIr Defence in Mutual Support
+CAFMED	Combined Amphibious Force Mediterranean
+CALS	Continuous Acquisition and Life Cycle Support
+CAO	Chief Administrative Officer
+CAOC	Combined Air Operations Centre
+CAP	Crisis Action Planning
+CAPC	Civil Aviation Planning Committee
+CAPS	Conventional Armaments Planning System
+CARSTRIKEFOR	Carrier Striking Force
+CAS	Close Air Support
+CAST	Chiefs of Army Staff
+CASWF	Commander Anti-Submarine Warfare Force
+CATF	Commander Amphibious Task Force
+CAX	Computer Assisted Exercise
+CBC	Civil Budget Committee
+CBM	Confidence Building Measures
+CBSS	Council of the Baltic Sea States
+CBU	Cluster Bomb Unit
+CC	Component Commander
+CC AIR NORTH	Component Commander Air North
+CC NAV NORTH	Component Commander Naval North
+CCATF	Commander, Combined Amphibious Task Force
+CCC	Capabilities Coordination Cell
+CCIP	CJTF Concept Implementation Plan
+CCIR	Commander’s Critical Information Requirements
+CCIRM	Collection, Coordination &amp;Intelligence Requirements Management
+CCIS	Command, Control &amp; Information System
+CCJTF	Commander Combined Joint Task Force
+CCLF	Commander, Combined Landing Force
+CCMS	Committee on the Challenges of Modern Society
+CCOM	Civil Police Commissioner
+CCP	Casualty Collection Point
+CCPC	Civil Communications Planning Committee
+CCT	Combat Control Team
+CD	Course Director
+CDB	Core Data Base
+CDC	Civil Defence Committee
+CDR	Commander
+CDS	Containerized Delivery System
+CE	Crisis Establishment
+CEAC	Committee for European Airspace Coordination
+CECC	Civil Emergency Crisis Cell
+CEE	Central and Eastern Europe
+CEI	Communications Electronic Instructions
+CEIR	Commanders Essential Information Requirements
+CENTAG	Central Army Group
+CEOA	Central Europe Operating Agency
+CEP	Civil Emergency Planning
+CEPD	Civil Emergency Planning Directorate
+CEPMO(A)|CEPMO	Central Europe Pipeline Management Org (Agency)
+CEPS	Central Europe Pipeline System
+CFE	Conventional Armed Forces in Europe CFE of Treaty 1990
+CFLC	Canadian Forces Liaison Council
+CFMM	Chief, French Military Mission
+CFR	Crash Fire Rescue
+CFSP	Common Foreign and Security Policy
+CFX	Command Field Exercise
+CG	Command Group
+CGO	Chief Geo Officer
+CHANCOM	Channel Committee
+CHOD	Chief of Defence
+CI	Counter Intelligence
+CI&SI	Counter Intelligence &amp; Security
+CIJ	Close-in Jammer
+CIMIC	Civil-Military Cooperation newer definition, AJP-1
+CIMIC Ctr AM	CIMIC Centre Augmentation Module
+CINC	Commander-In-Chief
+CINCAIRNW	CINC Allied Air Forces North-western Europe
+CINCEASTLANT	CINC Eastern Atlantic Area
+CINCENT	CINC Allied Forces Central Europe AFCENT = MSC
+CINCGERFLT	CINC German Fleet
+CINCNORTH	CINC Allied Forces North Europe
+CINCNORTHWEST	Commander-In-Chief, Allied Forces Northwest Europe
+CINCNW	CINC Allied Forces Northwestern Europe
+CINCSOUTH	CINC Allied Forces Southern Europe
+CINCUKAIR	CINC United Kingdom Airforces
+CINCUSAFE	CINC US Air Force, Europe
+CINCUSAREUR	CINC US Army, Europe
+CINCWESTLANT	CINC Western Atlantic Area
+CIO	Chairman-in-Office OSCE
+CIOMR	Inter-Allied Confederation of Reserve Medical Officers
+CIOR	Inter-Allied Confederation of Reserve Officers
+CIP	Communications Improvement Programme
+CIS	Communications and Information Systems
+CIV	MIL-PAM Civil Military Planning Augmentation Module
+CIVPOL	Civilian Police
+CIVSITREP	Civil Situation Report
+CJ	Combined Joint
+CJCMTF	Combined Joint CIMIC Task Force SFOR
+CJF	Combined Joint Forces
+CJFACC	CJF Air Component Command
+CJFLCC	CJF Land Component Command
+CJFMCC	CJF Maritime Component Command
+CJFPSYOPSCC	CJF Psychological Operations Component Command
+CJFSOCC	CJF Special Operations Component Command
+CJOC	Combined Joint Operations Centre
+CJPOTF	Combined Joint Psychological OPS TF
+CJPS	Combined Joint Planning Staff
+CJRACC	Combined Joint Rear Area Component Command
+CJRCC	Combined Joint Rescue Coordination Centre
+CJSOR	Combined Joint Status of Requirements NRF
+CJSOTF	Combined Joint Special Operations Task Force
+CJTF	Combined Joint Task Force
+CJTF HQ	Combined Joint Task Force Headquarters
+CL	Coordination Level
+CLC	Combined Logistic Centre
+CLF	Commander Landing Force
+CLJ	Commander Landjut
+CM	Crisis Management
+CMD	Crisis Management Department
+CMD GP	Command Group
+CMM	1 Crisis Management Manual
+CMMDD	CJTF Manpower / Manning Deployment Document
+CMNTF	Commander Multinational Task Force
+CMO	Crisis Management Organisation
+CMRB	Crisis Management Resources Board
+CMS	Civil Military Support
+CMX	Crisis Management Exercise
+CN	Contributing Nation
+CNAD	Conference of National Armaments Directors
+CNPF	National Confederation of French Employers
+CO	Commanding Officer
+COA	Course of Action
+COE	Contingent Owned Equipment UN term
+COEC	Council Operations and Exercise Committee
+COG	Co-operative Guard name of an exercise
+COLOC	Change of Location of Command
+COLPRO	Collective Protection
+COM	Commander
+COMAIRCENTLANT	Commandre Maritime Air, Central Atlantic Sub-Area
+COMAIRSOUTH	Commander Allied Air Forces, Southern Europe
+COMAJF	Commander Allied Joint Force
+COMAMF	Commander ACE Mobile Forces
+COMAO	Combined Air Operations
+COMARRC	Commander ACE Rapid Reaction Corps
+COMBALTAP	Commander, Allied Forces Baltic Approaches
+COMCARSTRIKFOR	Commander, Carrier Striking Force
+COMCJTF	Commander Combined Joint Task Force
+COMEDS	Committee of the Chiefs of Military Medical Services in NATO
+COMFIVEATAF	Commander Fifth Allied Tactical Air Force
+COMIFOR	Commander Implementation Force
+COMINT	Communication Intelligence
+COMJAM	Communications Jamming
+COMLANDCENT	Commander, Allied Land Forces Central Europe
+COMLANDJUT	Commander, Allied Land Forces, Jutland
+COMLANDSOUTH	Commander, Allied Land Forces Southern Europe
+COMLANDSOUTHEAST	Commander Allied Land Forces, South-Eastern Europe
+COMMPLAN	Communications Plan
+COMMS	Communications
+COMMZ	Communications Zone
+COMNAEFW	Commander NATO Airborne Early Warning Force
+COMNAVSOUTH	Commander, Allied Naval Forces South
+COMNOR	Commander, Allied Forces Norway
+COMPSF	Commander Peace Support Force
+COMPUSEC	Computer Security
+COMRF(A)S	Commander Reaction Forces (Air) Staff
+COMSEC	Communications Security
+COMSFOR	Commander SFOR Stabilization Force
+COMSIXATAF	Commander Sixth Allied Tactical Air Force
+COMSTRIKFLTLANT	Commander Striking Fleet Atlantic (Afloat)
+COMSUBACLANT	Commander Submarines Allied Command Atlantic
+CONMAROPS	Concept of Maritime Operations
+CONOPS	Concept of Operations
+CONUS	Continental United States
+COP	Contingency Operational Plan
+COS	Current Operations Section
+COTS	Commercial off-the-shelf
+COY	Company
+CP	Command Post
+CPC	Conflict Prevention Centre
+CPG	Commander's Planning Guide
+CPIC	Combined Press Information Centre
+CPR	Control and Reporting Post
+CPS	Chief of Personal Staff
+CPSU	Communist Party of the Soviet Union
+CPT	Corps Planning Team
+CPT(M)|CPT	Core Planning Team (Meeting)
+CPX	Command Post Exercise
+CR	Central Region*
+CRA	Corps Rear Area
+CRC	Control &amp; Reporting Centre
+CRD	Commander Required Date
+CRG	Collaborative Research Grant NATO Science Program
+CRO	Crisis Response Operations / Options
+CRONOS	Crisis Response Operations in NATO Open System
+CRSG	Central Region Signal Group
+CS	Callsign
+CSAR	Combat Search and Rescue
+CSARTF	(Combat) Search and Rescue Task Force
+CSBM	Confidence and Security-Building Measures
+CSCE	Conference on Security and Co-operation in Europe now OSCE
+CSCM	Counter Surveillance Control Measures
+CSM	Confidence and Security Measures
+CSR	Combat Stress Reaction
+CSS	Combat Service Support
+CST	Conventional Stability Talks
+CTF	Commander Task Force
+CTG	Commander Task Group
+CTR	Centre
+CTS	Cosmic Top Secret
+CTSA	Cosmic Top Secret Atomal
+CTU	Commander Task Unit
+CTZ	Control Zone
+CUIL	Common User Item List
+CUSRPG	Canada-United States Regional Planning Group
+CV	Curriculum Vitae
+CVB	Combined Visitors Bureau
+CVBG	Aircraft Carrier Battle Group
+CWC	Composite Warfare Commander
+CZ	Czech Republic Nation
+CivSec	Civilian Security
+CofC	Chain of Command
+D & G	Directions &amp; Guidance
+DA	Denmark Nation
+DAC	Dangerous Air Cargo
+DACM	Dissimilar Air Combat Maneuvers
+DACOS	Deputy Assistant Chief of Staff
+DAMCON	Damage Control
+DAR	Dangerous Area Record
+DAS	Direct Air Support
+DAT	Defence Against Terrorism
+DBFM	Dissimilar Basic Fighter Maneuvers
+DBP	Deutsche Bundes Post
+DC	Deployable Capability C2
+DCA	Dual-Capable Aircraft
+DCI	Defence Capabilities Initiative
+DCINC	Deputy Commander-In-Chief
+DCM	Down Crew Member
+DCMC	Deputy Chairman Military Committee NATO
+DCMS	Deployable Communications / CIS Modul
+DCOM	Deputy Commander
+DCOS	Deputy Chief of Staff
+DCP	Deployable Command Post
+DD	Destroyer
+DDP	Detailed Deployment Plan
+DDZ	Desired Engagement Zone
+DEPCOMCJTF	Deputy Commander Combined Joint Task Force
+DF	Direction Finding
+DFP	Defensive Fighting Position
+DGP	Senior Defence Group on Proliferation
+DGZ	Desired Ground Zero
+DHA	Department Of Humanitarian Affairs (UN)
+DICONSTAFF	Directing and Control Staff
+DIDIR	Directing Staff Directive
+DIMS	Director, International Military Staff
+DIR	Director
+DISTAFF	Directing Staff
+DMPI	Desired Mean Position of Impact
+DMTI	Disarmed .......................
+DMZ	Demilitarized Zone
+DNBI	Disease and Non-Battle Injury
+DOA	Desired Order of Arrival
+DOB	Disperse Operating Base
+DOM	Director of Operational Management
+DOO	Director of Operations
+DOS	Director of Support
+DP	Deployment Plan
+DPA	Departement of Political Affairs
+DPAO	Division of Defence, Planning and Operations
+DPC	Defence Planning Committee
+DPKO	Departement of Peacekeeping Operations UN
+DPP	Detailed Planning Phase
+DPQ	Defence Planning Questionnaire
+DPRE	Displaced Persons and Refugees
+DPRES	Displaced Persons &amp; Refugees
+DPSS	Displaced Persons Special Status
+DRALLC	Director RALLC
+DRC	Defence Review Committee
+DRG	Defence Research Group absorbed into the NATO RTO
+DROM	Deployment Reception and on-ward Movement
+DRR	Defence Requirements Review
+DS	Division of Defence Support
+DSACEUR	Deputy Supreme Allied Commander Europe
+DSARP	Deployability, Sustainability and Regeneration Potential
+DSCS	Defence Satellite Communication System
+DSF	Deployable SHED Facility
+DSG	Divisional Support Group
+DSN	Defense Switched Network
+DST	Decision Support Template
+DTG	Date Time Group
+DTO	Daily Tasking Order
+DV	Distinguished Visitors
+DZ	Drop Zone
+Dry pass	An attack with no weapons release
+E & R	Evasion &amp; Recovery
+EA	Engagement Area
+EAC	Exercise and Activities Conference (PCC Annual)
+EADRCC	Euro-Atlantic Disaster Response Coordination Centre
+EADRU	Euro-Atlantic Disaster Response Unit
+EAP	Emergency Action Plan
+EAPC	Euro-Atlantic Partnership Council formerly NACC
+EAPMC	Euro-Atlantic Partnership Military Council
+EASTLANT	Eastern Atlantic Area
+EC	European Community
+ECC	Engineering Coordination Centre
+ECCM	Electronic Counter-Counter Measures
+ECHO	European Community Humanitarian Operations
+ECM	Electronic Counter Measures
+ECMM	European Community Monitor Mission
+ECP	Equipment Collecting Point
+ECR	Electronic Combat and Reconessance
+ECSC	Electronic Combat Support Cell
+EEI	Essential Element of Information
+EEZ	Exclusive Economic Zone
+EFL	Established Financial Limits
+EG / EGY	Egypt Nation
+EHF	Extra High Frequency
+EI / IRE	Ireland Nation
+EID	Electronic Identification
+ELEM	Element
+ELINT	Electronic Intelligence
+ELS	Emitter Location System
+ELT	Emergency Locater Transmitter
+EMCON	Emission Control
+EMIA	Etat-Major Interarmées French Joint Planning Staff
+EMOP	Enhanced and more operational Partnership for Peace
+EMP	Electromagnetic Pulse
+EN / EST	Estonia Nation
+ENG BN	Engineering Battalion
+ENGCC	Engeenering Coordination Centre
+EO	Electro-optical
+EOB	Electgronic Order of Battle
+EOCS	Essential Operational Capabilities
+EOD	Explosive Ordnance Disposal
+EOR	Explosive Ordnance Reconnaissance
+EP	Electronic Protection
+EPA	Evasive Plan of Action
+EPG	Exercise Planning Guide
+EPM	Electronic Protection Measures
+ERC	Emergency Response Coordinator
+ERP	Egress Routine Point
+ERT	Execution Reference Time
+ERW	Enhanced Radiation Weapon
+ES	Exercise Staff
+ESA	European Space Agency
+ESDI	European Security and Defence Identity
+ESDP	European Security &amp; Defence Policy
+ESF	European Security Forum
+ETA	Estimated Time of Arrival
+ETAC	Enlisted Terminal Attack Controller
+ETD	Estimated Time of Departure
+ETE	Estimated Time Enroute
+EU	European Union
+EU / EC	European Union / European Community
+EUCOM	European Command (US)
+EV	Expert Visit NATO Science Program
+EW	Electronic Warfare
+EWCC	Electronic Warfare Coordination Cell
+EWG	Executive Working Group
+EWSM	Electronic Warfare Support Measures
+EXCON	Exercise Control
+EXCONOPS	Exercise Concept of Operations
+EXDIR	Exercise Director
+EXO	Executive Officer
+EXOPLAN	Exercise Operations Plan
+EXOPORD	Exercise Operations Order
+EXPI	Exercise Planning Instructions
+EXSPEC	Exercise Specifications
+EXSPEC(S)|EXSPEC	Exercise Specification(s)
+EXTAC	Extract from Tactical Publication
+FAA	Forward Assembly Area
+FAADS	Forward Area Air Defence System
+FAC	Forward Air Controller
+FAC(A)|FAC	Forward Air Controller (Airborne)
+FACP	Forward Air Control Post
+FACS	Field Assets Control System LTN term
+FAD	Fighter Air Defence
+FAM	Familiarization
+FAOR	Fighter Area of Responsibility
+FAP	Forward Ambulance Post
+FAPC	Food and Agriculture Planning Committee
+FARP	Forward Arming and Refuelling Point
+FASS	Functional Area Sub-System
+FAWEU	Forces Answerable to the Western European Union
+FC	Force Commander
+FCM	Fire Control Measures
+FCRT	Future Capabilities Research &amp; Technology
+FCS	Fire Control System
+FE	Fire Fighting Equipment
+FEBA	Forward Edge of the Battle Area
+FER	Final Exercise Report
+FEZ	Fighter Engagement Zone
+FF	Force Flow
+FG	Force Goal
+FI / FIN	Finland Nation
+FIDS	Force Identification System
+FINCON	Financial Controller
+FIR	First Impression Report
+FIVEATAF	Fifth Allied Tactical Air Force
+FLC	Force Logistic Coordinator
+FLIP	Flight Information Publication
+FLIR	Forward Looking Infrared
+FLOT	Forward Line of Own Troops
+FLPC	Final Logistic Planning Conference
+FLR	Forces of Lower Readyness
+FLS	Forward Logistic Sites
+FLSS	Forward Logistic Support Site
+FM	Frequency Modulation
+FMM	French Military Mission
+FN	Framework Nation
+FOB	Friendly Order of Battle
+FOC	Fully Operational Capability NRF
+FOD	Foreign Object Damage
+FOL	Forward Operating Location
+FOM	Freedom of Movement
+FORACS	Forces Sensors and Weapons Accuracy Check Sites NATO Naval
+FORCEPREP	Force Preparation Message
+FP	Force Protection
+FPC	Final Planning Conference
+FPG (L)|FPG	Functional Planning Guide (Logistics)
+FPM	Final Planning Meeting
+FR	France Nation
+FRAGO	Fragmentation Order
+FRAGOs	Fragmentation Orders
+FRG	Federal Republic of Germany Nation
+FRP	Financial Rules and Procedures
+FRY	Former Republic of Yugoslavia
+FSAS	Force Selection and Activation System
+FSC	Forum for Security Cooperation OSCE
+FSCC	Fire Support Coordination Centre
+FSCL	Fire Support Coordination Line
+FSE	Fire Support Element
+FSG	Forward Support Group
+FSII	Fuel System Icing Inhibitor
+FSO	Fire Support Officer
+FSS	Forward Storage Site
+FSU	Former Soviet Union
+FSWP	Flight Safety Working Party
+FT (Ft)|FT	Feet
+FTS	From the Sea
+FTX	Field Training Exercise
+FWF	Former Warring Faction
+FY	Financial / Fiscal Year
+FYROM	Former Yugoslav Republic Of Macedonia Nation
+G	General Staff
+GAT	Guidance Apportionment Targeting
+GBAD	Ground Based Air Defence
+GCA	Ground Controlled Approach
+GCI	Ground Controlled Intercept
+GDCC	Ground Defence Control Cell
+GDP	General Defence Plan
+GE	Germany Nation
+GEOREF	Geographic Reference
+GEP	Generic Plan
+GFAP in B/H	General Framework Agreement for Peace in Bosnia/Herzegovina
+GG / GEO	Georgia Nation
+GIBMED	Gibraltar Mediterranean Command
+GLC	Group Logistic Coordinator
+GLCM	Ground Launched Cruise Missile
+GLO	Ground Liaison Officer
+GMRO	Generic Manual of Military Response Options
+GMT	Greenwich Mean Time
+GNP	Gross National Product
+GNW	Group on Nuclear Weapons
+GO	Governmental Organisation
+GOB	Ground Order of Battle
+GOP	Guidelines for Operational Planning
+GP	General Purpose
+GPS	Global Positioning System
+GR	Greece Nation
+GS	Ground Speed
+GSZ	Ground Safety Zone
+GZ	Ground Zero
+HA	Humanitarian Assistance
+HAFEZ	Hostile Aircraft Free Engagement Zone
+HARM	High Speed Anti-Radiation Missile
+HAS	Hardened Aircraft Shelter
+HCA	Head of Civil Affairs
+HCAP	High Altitude Combat Air Patrol
+HCHR	High Commissioner for Rights
+HE	High Explosive
+HEC	Head of Election Component
+HEI	High Explosive Incendiary
+HELACK	Acknowledgement to Helicopter Request Message
+HELLSREP	Helicopter Landing Site Report
+HELO	Helicopter
+HELQUEST	Helicopter Request Message
+HELTASK	Helicopter Tasking Message
+HF	High Frequency
+HHC	Head of Humanitarian Assistance Component
+HHQ	High Head Quarter
+HIDACZ	High Density Airspace Control Zone
+HILEX	High Level Exercise
+HIMEZ	High Missile Engagement Zone
+HLG	High Level Group
+HLS	Helicopter Landing Site
+HLTF	High Level Task Force
+HN	Host Nation
+HNS	Host Nation Support
+HNSCC	Host Nation Support Coordination Cell
+HO	Humanitarian Operations
+HOB	Hight of Burst
+HOC	Head of Contracts MNC
+HOIS	Hostile Intelligence Services
+HOSTAC	Helicopter OPS from Ships other than Aircraft Carriers
+HPT	High Payoff Targets
+HPTL	High Payoff Target List
+HQ	Headquarters
+HQ ARRC	Headquarters ACE Rapid Reaction Corps
+HR	High Representative
+HRF	High Readiness Forces
+HSS	Health Service Support
+HU	Hungary Nation
+HUD	Head Up Display
+HUMINT	Human Intelligence
+HUSLE	Helicopter Underslung Load Equipment
+HVA	High Value Asset
+HVAA	High Value Airborne Asset
+HVU	High Value Unit
+HoM	Head of Mission
+I&W	Indicators and Warning
+IADS	Integrated Air Defence System
+IALCE	International Airlift Control Element
+IAP	Instrument Approach Procedures
+IAS	Indicated Air Speed
+IATA	International Air Transport Association
+IAU	Infrastructure Accounting Unit
+IAW	In Accordance With
+IBERLANT	Iberian Atlantic Area
+IC	Infrastructure Committee
+ICAO	International Civil Aviation Organisation
+ICAOC	Interim Combined Air Operations Centre
+ICB	International Competitive Bidding
+ICBM	Intercontinental Ballistic Missile
+ICC	IFOR Coordination Cell
+ICCS	Integrated Command and Control System CC Software Platform
+ICD	International Classification and Disease
+ICRC	International Committee of the Red Cross
+ICTY	International Crime Tribunal for the former Yugoslavia
+ICV	Infantry Combat Vehicle
+ID	Initiating Directive
+IDENT	To Identify by Means of Transponder Code
+IDF	Israeli Defence Forces
+IDP	Internal Displaced Person
+IDRO	International Disaster Relief Operation
+IDZ	Inner Defence Zone
+IEBL	Inter Entity Boundary Line
+IED	Improvised Explosive Device
+IEPG	Independent European Programme Group
+IEPR	Initial Exercise Press Release
+IER	Information Exchange Requirements
+IEW	Intelligence Electronic Warfare
+IFE	In-Flight Emergency
+IFF	Identification Friend or Foe
+IFOR	Implementation Force for Bosnia and Herzegovina
+IFR	Instrument Flight Rules
+IFRC	International Federation Of The Red Cross And Red Crescent Societies
+IFV	Infantry Fighting Vehicle
+IG	Inspector General
+IGC	Inter-Governmental Conference
+IHL	International Humanitarian Law
+IIS	Infrared Imaging System
+IISS	International Institute for Strategic Studies
+ILPC	Initial Logistics Planning Conference
+ILS	Instrument Landing System
+IMC	Instrumental Meteorological Conditions
+IMF	Inernational Monetary Fund
+IMINT	Imaginary Intelligence
+IMPC	Initial Movement Planning Conference
+IMS	International Military Staff
+INF	Intermediate-Range Nuclear Forces Treaty, 1987
+INFOSEC	Information Security
+INFRA	Infrastructure
+INS	Inertial Navigation System
+INTEL or INT	Intelligence
+INTREP	Intelligence Report
+INTSUM	Intelligence Summary
+IO	Interoperability Objective
+IOC	Initial Operational Capability
+IOM	International Organisation for Migration
+IOX	Interoperability Exercise
+IP	Initial Point
+IPB	Intelligence Preparation of the Battlefield
+IPC	Industrial Planning Committee
+IPF	In Place Forces
+IPGs	Initial Partnership Goals
+IPP	Individual Partnership Programme PfP
+IPTF	International Police Task Force
+IR	Infrared
+IRBM	Intermediate-Range Ballistic Missile
+IRF	Initial Reaction Force
+IRLS	Infrared line Scan
+IRM	Intelligence Requirements Management
+IRR	Individual Ready Reservists
+IS	Israel Nation
+ISB	Initial Staging Base
+ISDN	Integrated Services Digital Network
+ISOPREP	Isolated Personnel Report
+ISPG	Intelligence Support Planning Guide
+IT	Italy Nation
+IVSN	International Voice Switched Network
+J	Joint
+JAAT	Joint Air Attack Team
+JALLC	Joint Analysis and Lessons Learned Centre
+JAT	Joint Analysis Team
+JCB	Joint Coordination Board
+JCC	Joint Civil Commission
+JCCC	Joint Communications Control Centre
+JCG	CFE-Joint Consultative Group
+JCO	Joint Coordination Order
+JCOC	Joint Command Operations Centre
+JCP	Joint Committee on Proliferation
+JCS	Joint Chiefs of Staff
+JEEA	Joint Experimentation, Exercises &amp; Assessment
+JET	Joint Education &amp; Training
+JF	Joint Force
+JFACC	Joint Forces Air Component Commander
+JFC	Joint Force Commander
+JHNSP	Joint Host Nation Support Plan
+JHQ	Joint Headquarters
+JIP	Joint Implementation Plan
+JIPTL	Joint Integrated Prioritised Target List
+JLCC	Joint Logistics Coordination Centre
+JLMC	Joint Logistics and Movement Control
+JLOG	Joint Logistics Coordination
+JMA	Joint Military Affairs
+JMC	Joint Multinational Commission
+JMCC	Joint Multinational Coordination Centre
+JMCPC	Joint Military Commission Policy Committee
+JMETL	Joint Mission, Education Task Force
+JMPSE	Joint Multinational Peace Support Element
+JO / JOR	Jordania Nation
+JOA	Joint Operations Area
+JOC	Joint Operation Centre
+JOIIS	Joint Operations and Intelligence Information System
+JOPG	Joint Operations Planning Group
+JPTL	Joint Prioratised Target List
+JRAC	Joint Rear Area Commander
+JRACC	Joint Rear Area Component Command
+JSB	Joint Service Board MAS
+JSEAD	Joint Suppression of Enemy Air Defence
+JSOC	Junior Staff Officers Course
+JSRC	Joint Sub-Regional Command / Commander
+JSTARS	Joint Surveillance and Target Attack Radar System
+JSTPS	Joint Strategic Planning Staff
+JTCB	Joint Targeting Coordination Board
+JTCC	Joint Transport Coordination Centre
+JTF	Joint Task Force
+JTIDS	Joint Tactical Information Distribution System
+JTMS	Joint Theatre Movements Staff
+JTWG	Joint Targeting Working Group
+JVB	Joint Visitors Bureau
+JWC	Joint Warfare Centre
+JWG	Joint Working Group
+KCC	Contract Coordination Centre
+KFOR	Kosovo Force
+KG / KYR	Kyrgyzstan Nation
+KIAS	Knots Indicated Airspeed
+KIO	Knock-it-Off
+KM	Kilometre
+KNS	Key Nucleus Staff
+KTS	Knots
+KVM	Kosovo Verification Mission
+KZ / KAZ	Kasakhstan Nation
+LAAWC	Local AAW Commander
+LAN	Local Area Network
+LANDCENT	Allied Land Forces, Central Europe (PSC)
+LANDSOUTH	Allied Land Forces Southern Europe
+LANDSOUTHCENT	Allied Land Forces South Central Europe
+LANDSOUTHEAST	Allied Land Forces South-Eastern Europe
+LANT	Atlantic
+LAR	Limited Air Response
+LAV	Light Armoured Vehicle
+LCAC	Landing Craft AIr Cushion
+LCAP	Low Altitude Combat Air Patrol
+LCC	Logistics Coordination Centre
+LD	Line of Departure
+LDO	Laser Designator Operator
+LEAP	Logistics Evaluation and Assessment Program
+LEDP	LANT Exercise Directive Program
+LEGAD	Legal Advisor
+LERB	ACLANT Exercise Review Board
+LF	Low Frequency
+LG	Linkage Grant
+LG / LAT	Latvia Nation
+LGW	Laser Guided Weapon
+LH / LIT	Lithuania Nation
+LHA	Liquid Hazard Area
+LIMEX	Limited Extraction
+LIP	Long-Term Infrastructure Program
+LIVEX	Live Exercise
+LLR	Low Level Radiation
+LLTR	Low-Level Transit Route
+LN	Lead Nation
+LO / LNO	Liaison Officer
+LO / SLK	Slovakia Nation
+LOA	Level of Ambition
+LOAC	Law of Armed Conflict
+LOC	Lines of Communications
+LOCE	Linked Operational Intelligence Centres Europe
+LOG	Logistics
+LOGASSESSREP	Logistics Assessment Report
+LOGBASE	Logistic Data Base
+LOGFASS	Logistics Functional Area Sub-System
+LOGMAN	Logistics and Manpower
+LOGREP	Logistic Reporting System
+LOS RR	Line of Sight Radio Relay
+LOS Rate	Line of Sight Rate
+LOWAT	Low Altitude Air-to-Air Training
+LP	Listing Post
+LPC	Logistics Planning Conference
+LPD	Landing Platform - Dock
+LPH	Landing Platform - Helicopter
+LPX	MED Logistic Processor - Medical
+LRC	Logistics Readiness Centre
+LRMP	Long Range Maritime Patrol AIicraft
+LRRP	Long Range Reconnaissance Patrol
+LRSU	Long Range Surveillance Units
+LS	Landing Site
+LSB	Logistics Support Base
+LSCC	Logistic Support Coordination Cell
+LSD	Logistics Support Detatchmen
+LSE	Land South East / Logistic Support Element
+LST	Laser Spot Tacker
+LTD	Laser Target Designator
+LTDP	Long-Term Defence Program
+LTFP	Long Term Force Planning
+LTL	Laser to Target Line
+LTM	Laser Target Marker
+LTPA	Long Term Planning Area
+LTPG	Long Term Planning Guideline
+LTR	Long Term Reserve
+LTS	Long Term Study
+LU	Luxembourg Nation
+LWR	Local Wage Rate
+LZ	Landing Zone
+M (m)|M	Meters
+M&T	Movement and Transportation
+MA	Military Authority
+MAC	Military Advice Coordinator
+MAD	Magnetic Anomality Detector
+MAG	Movement and Transportation Advisory Group
+MAGTF	Marine Air-Ground Task Force
+MALS	Multinational Air Logistic Study
+MANPADS	Man Portable Air Defense System
+MAOS	Minimum Air Operating Strip
+MAOT	Mobile Air Operations Team
+MAP	Military Action Plan
+MAPX	Map Exercise
+MARAIRMED	Maritime Air Forces Mediterranean
+MAREQ	Military Assistance Requirement
+MARV	Manouverable Multiple Independently Targetable re-Entry Vehicle
+MAS	Military Agency for Standardisation Produces AP/AJP/AAP ect
+MASINT	Measurement and Signature Intelligence
+MASSTIC	Maritime ACCS Ship Shore Tactical Interface Comp
+MAT	Medical Analysis Tool
+MB	Military Budget
+MBC	Military Budget Committee
+MBFR	Mutual and Balanced Force Reductions
+MBT	Main Battle Tank
+MC	Military Committee
+MC 319	Principles and Policies for Logistics NATO Publications
+MC 327	Directive on NATO Military Planning for PSO NATO Publications
+MC 327/1	Military Concept for NATO Peace Support Operations NATO Publications
+MC 389	Implementation Directive for the CJTF Concept NATO Publications
+MC 389/1	Policy on NATO’s CJTF Capability NATO Publications
+MC&G	Mapping Charting and Geodesy
+MCAOC	Mobile Combined Air Operations Centre
+MCC	Maritime Component Command/Commander
+MCCAP	Maritime CJTF Contingency Assets Pool
+MCCIS	Maritime Command and Control Information System
+MCD	Military and Civil Defence Assets
+MCG	Mediterranean Cooperation Group
+MCM	Mine Counter Measures
+MCO	Major Contingency Options
+MCRS	Military Communication Requirements
+MCT	Movement Control Team
+MCWG	Military Committee Working Group
+MD / MOL	Moldova Nation
+MDE	Measures and Disarmament in Europe
+MDF	Main Defence Forces
+MDP	Mutual Dialogue Programmes
+MEADS	Medium Extended Air Defence System
+MEB	Marine Expeditionary Brigade (USNC)
+MED	Medical
+MEDAD	Medical Advisor
+MEDCC	Medical Coordination Centre
+MEDEVAC	Medical Evacuation
+MEDSOUTHEAST	South-East Mediterranean Area
+MEF(FWD)|MEF	Marine Expeditionary Force (Forward) (USNC)
+MEL	Main Event List
+MENA	Mediterranean &amp; North Africa
+METL	Mission Essential Task List
+METOC	Meteorological and Oceanographic
+METT	T Mission, Enemy, Terrain, Troops and Time available
+MEZ	Missile Engagement Zone
+MF	Military Function
+MFF	Mixed F&gt;orce Fighters
+MFFO	Mixed Force Fighter Operations
+MG	Major General
+MGRS	Military Grid Reference System
+MHE	Materiel Handling Equipment
+MHQ	Maritime Headquarters
+MIA	Missing in Action
+MICV	Mechanised Infantry Combat Vehicle
+MIL	Main Incident List
+MILREP	Military Representative to the MC
+MILU	Multinational Integrated Logistic support Unit
+MIO	Maritime Interdiction Operation
+MIR	MNC Interoperability Requirements
+MIS	Management Information System
+MISREP	Mission Report
+MJLC	Multinational Joint Logistic Centre / Concept
+MLM	Military Liaison Mission
+MLPC	Main Logistics Planning Conference
+MLRS	Multiple Launch Rocket System
+MMHS	Military Message Handling System
+MMPC	Main Movement Planning Conference
+MMPG	Maritime Medical Planning Guidance
+MN	Multinational
+MNB	Multinational Brigade
+MNC	Major NATO Command became SC 1 September 1999
+MNCAOC	Multinational Combined Air Operations Centre
+MND	Multinational Division
+MND(S)|MND	Multinational Division (South)
+MNDP	Multinational Deployment Plan
+MNL	Multinational Logistics
+MNLC	Multinational Logistics Command / Centre
+MNLC(A)|MNLC	Multinational Logistic Centre (Air)
+MNLC(L)|MNLC	Multinational Logistic Centre (Land)
+MNLC(M)|MNLC	Multinational Logistic Command (Maritime)
+MNMF	Multinational Maritime Force
+MO	Marocco Nation
+MOB	Main Operating Base
+MOBEX	Mobility Exercises
+MOD	Ministry (Minister) of Defense
+MOE	Measures of Effectivenes
+MOLS	Maritime Operational Language Seminar
+MOM	Measures of Merit
+MOOTW	Military Operations Other Than War
+MOS	Minimum Operating Strip
+MOT	Mode of Transportation
+MOU	Memorandum of Understanding
+MOU / (M)MOU	(Multilateral) Memorandum of Understanding
+MOVSITREP	Movement Situation Report
+MP	Military Police
+MPA	Maritime Patrol Aircraft
+MPC	Main Planning Conference
+MPFSEE	Multinational Peace Force South-Eastern Europe
+MPS	Mission Planning Service
+MR / MAU	Mauritania Nation
+MRCA	Multi-Role Combat Aircraft TORNADO
+MRG	Medical Resource Guidance
+MRO	Military Response Option
+MSA	Mutual Support Agreement / Arrangement
+MSC	Major Subordinate Command / Commander became RC on 01.09.1999
+MSD	Minimum Separation Distance
+MSF	Medicins Sans Frontiers
+MSL	Mean Sea Level
+MSR	Main Supply Route
+MSU	Multinational Security Unit
+MSZ	Military Separation Zone
+MTA	Military Technical Agreement
+MTC	Movement &amp; Transport Cell
+MTCC	Movement &amp; Transportation Coordination Cell
+MTI	Moving Target Indicator
+MTN	Mission to NATO
+MTRP	Medium Term Resources Plan
+MTTs	Mobile Training Teams
+MW	Mine Warfare
+MWHQ	Mobile War Headquarters
+MY / MLY	Malaysia Nation
+N/A	Not Applicable
+NAA	North Atlantic Assembly
+NAADC	NATO Analytical Air Defence Cell
+NAAG	NATO Army Armaments Group
+NAC	North Atlantic Council
+NAC/DPC	North Atlantic Council/Defence Planning Committee
+NACC	North Atlantic Cooperation Council
+NACCIS	Maritime CCIS Core System
+NACISC	NATO CIS Committee
+NACMA	NATO ACCS Management Agency
+NACMO	NATO ACCS Management Organisation
+NACOSA	NATO CIS Operating and Support Agency
+NADC	NATO Air Defence Committee
+NADEFCOL	NATO Defense College
+NADGE	NATO Air Defence Ground Environment
+NAEGIS	NATO AEW Ground Interogation Segment
+NAEW	NATO Airborne Early Warning
+NAEWF	NATO Airborne Early Warning Forces
+NAFAG	NATO Airforce Armaments Group
+NAI	Named Areas of Interest
+NALS	National Liaison Staff
+NAMEADSMA	NATO Medium Extended AD System Management Agency
+NAMFI	NATO Missile Firing Installation
+NAMP	NATO Annual Manpower Plan
+NAMSA	NATO Maintenance and Supply Agency
+NAMSO	NATO Maintenance and Supply Organisation
+NAPR	NATO Armaments Periodic Review
+NARAT	NATO Request for Air Transport
+NAROC	NATO Reserve Officers Course NADEFCOL
+NASIP	NAEW System Improvement Plan
+NATINADS	NATO Integrated Air Defence System
+NATO	Not At The Office joke
+NAU	NATO Accounting Unit
+NAV	Navigation
+NAVCAP	Navy Support Combat Air Patrol
+NAVOCFORMED	Naval On-Call Force, Mediterranean
+NAVSOUTH	Naval Forces Southern Europe
+NBC	Nuclear, Biological and Chemical
+NBCD	Nuclear, Biological and Chemical Defence
+NC	No Change
+NC3A	NATO Consultation, Command and Control Agency NATO
+NC3B	NATO Consultation, Command and Control Board NATO
+NC3O	NATO Consultation, Command and Control Organisation NATO
+NCARC	NATO Conventional Armaments Review Committee NATO
+NCC	NATO Community Club
+NCCAP	NATO CIS Contingency Assets Pool NATO
+NCCIS	NATO Command, Control and Information System NATO
+NCCP	Nuclear Command and Control Procedures
+NCF	NATO Composite Forces NATO
+NCISS	NATO Communications and Information Systems School NATO
+NCO	Non-Commissioned Officer
+NCS	Naval Control of Shipping
+NCS/O	Naval Control of Shipping Organisation
+NCWA	NATO Civil Wartime Agency NATO
+NDC	Defence College (Rome) NATO
+NDMC	Defence Manpower Committee NATO
+NDMP	Defence Manpower Plan NATO
+NDN	National Defence Network
+NECB	Exercise Coordination Board
+NELC	National Employers Liaison Committee
+NEO	Non-combatant Evacuation Operation
+NEPB	NATO Exercise Policy Board
+NEPS	North European Pipeline System
+NETF	NATO Expanded Task Force
+NFC	National Force Contribution
+NFR	NATO Financial Regulations
+NFZ	No Fly Zone
+NGO	Non-Governmental Organisation
+NGOs	Non-Governmental Organisations
+NGS	Naval Gunfire Support
+NHQC3S	NATO Headquarters Consultation, Command and Control Staff NATO
+NIAG	NATO Industrial Advisory Group NATO
+NIC	National Intelligence Cell
+NICS	NATO Integrated Communications System
+NIDS	NATO Integrated Data Service
+NIG	Networking Infrastructure Grant NATO Science Program
+NIMIC	Insensitive Munitions Information Centre NATO
+NIS	NATO International Staff
+NL	The Netherlands Nation
+NLLR	National Logistics Liaison Representatives
+NLO	National Liaison Officer
+NLT	Not Later Than
+NM (nm)|NM	Nautical Mile
+NMA	National Military Agencies
+NMC	Not Mission Capable
+NMCC	National Military Command Centre
+NMCCIS	NATO Military Command and Control Information System
+NMICC	NATO Maritime Intelligence Coordination Centre
+NMLT	National Medical Liaison Team
+NMOS	NATO Maritime OPINTEL System
+NMR	National Military Representative
+NNAG	NATO Naval Armaments Group
+NNTCN	Non-NATO Troop Contributing Nations
+NO	Norway Nation
+NOE	Nap of the Earth
+NONEX	Non-Exercise Organisation
+NORAD	North American Air Defence System
+NORTHAG	Northern Army Group
+NOTAM	Notice to Airman
+NPC	Nuclear Planning Committee
+NPG	Nuclear Planning Group
+NPLO	NATO Production and Logistics Organisation
+NPM	Nuclear Planning Manual
+NPS	NATO Precautionary System
+NPSC	NATO Project Steering Committee
+NPSM	NATO Precautionary System Manual
+NPT	Treaty on the Non-Proliferation of Nuclear Weapons (1968)
+NR	Northern Region
+NRC	NATO Russia council
+NRCSG	Northern Region CIS Support Group
+NRDC	NATO Rapid Deployment Corps
+NRFC	National Reserve Forces Committee
+NRLSG	Northern Region Logistics Support Group
+NROA	National Reserve Officers Association
+NS	NATO School
+NS(S)|NS	NATO School (SHAPE)
+NSA	NATO Standardization Agency Org
+NSC	NATO Supply Centre
+NSE	National Support Element
+NSG	NATO Standardisation Group
+NSI	Nuclear Safety/Security Inspection
+NSIP	NATO Security Investment Program
+NSLB	NATO Standardisation Liaison Board
+NSN	NATO Stock Number
+NSO	NATO Standardisation Organisation
+NSPG	NATO Simulation Policy Group
+NSR	NATO Staff Requirement
+NSSG	NATO Standarization Staff Group
+NSVN	NATO Voice Switching Network
+NTF	NATO Task Force
+NTG	NATO Task / Training Group
+NTM	Notice to Move
+NTTS	NATO Terrestrial Transmission Systems
+NTU	Naval Task Unit
+NU	NATO UNCLASSIFIED
+NUC	NATO-Ukraine Commission / Charter
+NVD	Night Vision Device
+NVG	Night Vision Goggles
+NWOO	NATO Wartime Oil Organisation
+NWRA	NATO Wartime Refugees Agency
+O&M	Operation and Maintenance
+OAS	Offensive Air Support
+OAT	Operational Air Traffic
+OAU	Organisation for Afrjican Unity
+OBM	Orbital Ballistic Missile
+OC	Operational Capability
+OCA	Offensive Counter Air
+OCC	Operational Capabilities Concept for NATO led PfP Operations
+OCE	Officer Conducting the Exercise
+OCHA	Office for the Coordination of Humanitarian Affairs
+OCO	Operational Control Organization
+ODIHR	Office for Democratic Institutions and Human Rights
+ODIN	Operational Data Interface
+ODZ	Outer Defence Zone
+OECD	Organisation for Economic Cooperation and Development
+OF	Officer
+OHR	Office of the High Representative
+OLRC	Operations &amp; Logistics Review Conference
+OLRT	Operations Liason Recce Team
+OMG	Operational Manouvre Group
+ONS	Office for NATO Standardisation
+OO	Operations Order
+OOA	Out of Area
+OODA	Observation, Orientation, Decision Action
+OOV	Object of Verification
+OP	Operations / Operational
+OPCEN	Operation Centre
+OPCOM	Operational Command
+OPCON	Operational Control
+OPDEC	Operational Deception
+OPEC	Organisation of Petroleum Exporting Countries
+OPEVAL	Operation Evaluation
+OPFOR	Opposing Forces
+OPG	Operational Planning Group
+OPLAN	Operation Plan
+OPORD	Operation Order
+OPP	Operational Planning Process
+OPR	Officer with Primory Responsebility
+OPS	Operation
+OPSEC	Operation Security
+OPTASK	Operational Task
+OPTEMPO	Operational Tempo
+OR	Other Ranks
+ORBAT	Order of Battle
+ORF	Operational Rercerve Force
+ORM	Operations Risk Management
+ORTP	Operational Readiness Test Programme
+OSC	On Scene Commander
+OSCC	Open Skies Consultative Committee
+OSCE	Organisation for Security and Cooperation in Europe
+OSE	Officer Scheduling the Exercise
+OSI	Other Security Interest
+OSINT	Open Source Intelligence
+OSM	Operational Support Manual UN term
+OTAN	Organisation du TraitÈ d'Atlantique Nord NATO in French
+OTC	Officer in Tactical Command
+OTHT	Over-the-Horizon Targeting
+PA	Political Affairs Division
+PAL	Permissive Action Link
+PAM	Planning Augmentation Module
+PAO	Public Affairs Officer
+PAPS	Periodic Armaments Planning System
+PAR	Precision Approach Radar
+PARP	PfP Planning and Review Process
+PARS	Phase Armaments Programming System
+PAT	Permanent Analysis Team
+PB	Peace Building
+PBEIST	Planning Board for European Inland Surface Transport
+PBOS	Planning Board for Ocean Shipping
+PC	Political Committee
+PCC	Partnership Coordination Cell
+PCG	Policy Coordination Group
+PCNCEP	Political Consultation &amp; NATO Civil Emergency Plannig
+PD	Pulse Doppler
+PDO	Property Disposal Officer
+PDWS	Point Defence Weapon System
+PE	Peace / Peacetime Establishment
+PECC	Patient Evacuation Control Centre
+PERM REP	Permanent Representative to the NAC
+PG	Partnership Goals
+PGM	Precision Guided Munition
+PHIB	Amphibious
+PHQ	Peace (Time) Headquarters
+PI	Public Information
+PIC	Pilot in Command
+PIFWC	Person Indicted For War Crimes
+PIM	Position &amp; Intended Movement
+PIMS	Partnership for Peace Information Management System
+PIO	Public / Press Information Office / Officer
+PIR	Priority Intelligence Requirements
+PJ	Para(Jump)rescue
+PJC	Permanent Joint Council NATO Russia
+PJCMR	Permanent Joint Council Military Representative
+PK	Peacekeeping
+PK / PAK	Pakistan Nation
+PKO	Peacekeeping Operations
+PL	Poland Nation
+PLB	Personal Lacator Beacon
+PLS	Personal Location System
+PLT	Partner Liaison Team
+PM	Peacemaking
+PMC	Personnel, Mail and Cargo
+PME	Principle Military Elements
+PMF	Political Military Framework
+PMR	Principle Military Requirements
+PMSC	Political-Military Steering Committee on Partnership for Peace
+PMSC(PARP)|PMSC	Political - Military Steering Committee (PARP)
+PMSC/AHC	Political Military Steering Committee - ad hoc Group
+PNET	Peaceful Nuclear Explosion Treaty (1976)
+PO	Portugal Nation
+POC	Point of Contact
+POD	Port of Debarkation
+POE	Point of Embarkation
+POL	Policy
+POL/MIL	Political/Military
+POLAD	Political Advisor
+POS	Pre-Occupation Survey
+POTF	Psychological Operations Task Force
+POW	Prisoner of War
+PPC	Petroleum Planning Committee
+PPCG	Provisional Policy Coordination Group
+PPR	Prior Permission Required
+PS	Planning Situation
+PSC	Principal Subordinate Command / Commander
+PSE	Partnership for Peace Staff Element
+PSF	Peace Support Force(s)
+PSO	Peace Support Operations
+PSOF	Peace Support Operations Force
+PSPA	Peace Support Psychological Activities
+PSYOPS	Psychological Operations
+PTBT	Partial Test Ban Treaty
+PTSD	Post Traumatic Stress Disorder
+PTT	Post, Telephone, Telegraph
+PUP	Pick-up Point
+PVO	Private Volunteer Organisation
+PWC	Principal Warfare Commander
+PWG	Permanent Working Group
+PWHQ	Primary War Headquarters
+PWP	Partnership Work Program
+PX	Post Exchange (US military shop)
+PZ	Parachute Zone
+PfP	Partnership for Peace
+Pk	Probability of Kill
+QA	Quality Assurance
+QRA	Quick Reaction Alert
+QRF	Quick Reaction Force
+QS	Quality Surveillance
+R & D	Research &amp; Development
+R & T	Research &amp; Technology
+R/T	Radio Transmission
+R/V	Rondezvous
+RACO	Regional Allied Contracting Office
+RADHAZ	Radiation Hazards
+RAFVR	Royal AIr Force Volunteer Reserve
+RAI	Recce Attack Interface
+RALCC	Regional Airlift Control / Coordination Cell
+RAMCC	Regional Air Movement Control Centre
+RAOS	Restoration Air Operation Strip
+RAP	Recognised Air Picture
+RARO	Regular Army Reserve Officers
+RAS	Replenishment at Sea
+RASP	Recognised Air-Sea Picture
+RAdm	Rear Admiral
+RBA	Rear Briefing Agency
+RBFA	Rear Boundary of Foreward Area
+RC	Response Cell
+RCC	Rescue Coordination Centre
+RCNERB	Regional Command North Exercise Review Board
+RCO	Regional Contracting Office
+RCS	Radar Cross Section
+RCV	Roving Command Vehicle
+RDD	Required Delivery Date
+REAT	Real Estate Advisory Team
+RECCE	Reconnaissance
+RECCEEXREP	RECCE Exploitation Report
+REGT	Regiment
+REO	Regional Engineer Office
+RESCAP	Rescue Combat Air Patrol
+RESCORT	Rescue Escort
+RESF	Restoration Essential Services and Facilities
+RF	Reaction Forces
+RFAS	Reaction Forces Air Staff
+RFI	Request for Information
+RGS	Remote Ground Sensor / Sensing
+RHAW	Radar Homing &amp; Warning
+RHQ	Regional Headquarters
+RM	Royal Marines Amphibious Naval Infantry UK
+RMC	Rescue Mission Commander
+RMP	Recognised Maritime Picture
+RMPC	Redeployment Movement Planning Conference
+RMR	Royal Marines Reserve UK
+RN	Receiving Nation
+RNCS	Regional Naval Control of Shipping
+RNLA	Royal Netherlands Army
+RNLAF	Royal Netherlands Airforce
+RNLMC	Royal Netherlands Marine Corps
+RNR	Royal Naval Reserve UK
+RO	Romania Nation
+RO/RO	Roll-on / Roll-off
+ROA	Radius of Action
+ROD	Rate of Descent
+ROE	Rules of Engagement
+ROTA	Release Other Than Attack
+ROZ	Restricted Operations Zone
+RPG	Regional Planning Guide (MSC)
+RPV	Remotely Piloted Vehicle
+RRF	Rapid Reaction Forces (Air) (Land)
+RRP	Rapid Reinforcement Plan
+RRR	Rapid Runway Repair
+RS	Role Specialisation
+RS / RUS	Russia Nation
+RSC	Reinforcement Support Category
+RSN	Role Specialist Nation
+RSP	Render Safe Procedure
+RSTA	Reconnaissance, Surveillance and Target Acquisition
+RT	Radio Telecommunications
+RTB	Return to Base
+RTO	Research and Technology Organisation
+RV	Rendezvous
+RVA	Rendevous Area
+RWR	Radar Warning Receiver
+S	Staff
+S&S	Supplies and Services
+SA	Situational Awareness
+SAAW	Small Arms Automatic Weapons
+SAC	Strategic Air Command
+SACC	Supporting Arms Coordination Centre
+SACEUR	Supreme Allied Commander Europe SC
+SACEUREP	SACEUR Representative
+SACLANT	Supreme Allied Commander Atlantic
+SACLANTCEN	SACLANT Undersea Research Centre
+SACLANTREPEUR	Representative for the SAC Atlantic (MNC) in Europe
+SAG	Surface Action Group
+SALT	Strategic Arms Limitation Talks
+SAM	Surface to Air Missile
+SAR	Semim-Activ Radar (Missile)
+SARDO	Search and Rescue Duty Officer
+SARH	Semi-Active Radar Homing
+SARLE	Search &amp; Rescue Location Equipment
+SARTF	Search and Rescue Task Force
+SASIR	Search &amp; Rescue Incident Report
+SATCOM	Satellite Communications
+SC	Strategic Command / Commander SACEUR &amp; SACLANT
+SCEPC	Senior Civil Emergency Planning Committee
+SCG	Special Consultative Group
+SCL	Standard Configuration Load Munitions, Weapons
+SCMM	Standing Committee on Military Matters Bosnian Peace Agreement)
+SCP	Security Cooperation Programme
+SCPI	Strategic Concepts, Policy &amp; Interoperability
+SCR	Security Council Resolution UN
+SDC	Strategic Direction Centre
+SDI	Strategic Defence Initiative
+SDP	Standing Defence Plan
+SEAD	Suppression of Enemy Air Defence
+SEEGROUP	South East Europe Security Cooperation Steering Group
+SEEI	South-East European Initiative
+SELRES	Selected Reserve
+SF	Special Forces
+SFC	Single Fuel Concept
+SFOR	Stabilization Force in Bosnia-Herzegovina
+SG	Secretary General
+SGP	Senior Political-Military Group on Proliferation
+SGT	Satellite Ground Termina
+SH	Support Helicopter
+SHAPE	Supreme Headquarters Allied Powers Europe
+SHARE	Stock Holding and Asset Requirements Exchange
+SHED	Special Handling &amp; Education Detachment
+SHF	Super High Frequency
+SHIRBRIG	Stand-by High Readiness Brigade US
+SHOC	SHAPE Operations Centre
+SHORAD	Short Range Air Defence
+SI / SLV	Slovenia Nation
+SIBCRA	Sampling Identification Chemical Radiological Agents
+SIC	Subject Indicator Code
+SIF	Selective Identification Feature
+SIG	Signal
+SIGINT	Signal Intelligence
+SIMNET	PfP Simulation Network
+SINS	Ships Internal Navigation System
+SIOP	Single Integrated Operational Plan USA
+SIP	Security Investment Program
+SITCEN	Situation Centre
+SITREP	Situation Reports
+SIXATAF	Sixth Allied Tactical Air Force
+SL	Safe Lanes
+SLAR	Side Looking Airborne Radar
+SLBM	Submarine-Launched Ballistic Missile
+SLCM	Sea-Launched Cruise Missile
+SLG	Senior Level Group on PfP Enhancement
+SLOC	Sea Lines of Communication
+SLWPG	Senior Level Weapons Protection Group
+SMA	Strategic Military Assessment
+SME	Subject Matter Expert Specialist
+SMO	Senior Military Observer
+SN	Sending Nation
+SNF	Standing Naval Forces
+SNO	Senior National Officer
+SNR	Senior National Representative
+SO	Standardisation Objective
+SOF	Special Operations Force
+SOFA	Status of Forces Agreement
+SOI	Signal Operating Instructions
+SOJ	Stand-off Jammer
+SOMTC	Staff Officers Military Terminology Course
+SOP	Standard Operating Procedures
+SOR	Statement of Requirement
+SP	Spain Nation
+SPC(R)|SPC	Senior Political Committee (Reinforced)
+SPG	Stockpile Planning Guidance MNC
+SPINS	Special Instructions
+SPJ	Self-Protection Jammer
+SPLO	Spanish Liaison Officer
+SPOD	Sea Port of Debarkation
+SPOE	Sea Port of Embarkation
+SPS	Standard Positioning Service
+SPT (AE)|SPT	Support
+SQN	Squadron
+SQOC	Squadron Operations Centre
+SR	Southern Region
+SRA	Suitability and Risk Assessment
+SRAM	Short Range Attack Missile
+SRB	Senior Resource Board
+SRBM	Short Range Ballistic Missile
+SRC	Sub-Regional Command
+SRF	Strategic Reserve Forces
+SRR	Search &amp; Rescue Region
+SRSG	Special Representative to the UN Secretary General
+SSBN	Submarine Ballistic Nuclear
+SSJ	Self-Screening Jammer
+SSM	Surface-to-Surface Missile
+SSN	Submarine Nuclear
+SSR(A)(L)|SSR(A)	SACEUR's Strategic Reserve (Air) (Land)
+SSV	Soft-Skinned Vehicle
+STANAG	Standardisation Agreement (NATO) NATO Publications
+STANAVFORCHAN	Standing Naval Force Channel
+STANAVFORLANT	Standing Naval Force Atlantic
+STANAVFORMED	Standing Naval Forces Mediterranean
+STAR	Surveillance, Target Acquisition &amp; Reconnaissance
+START	Strategic Arms Reduction Talks
+STC	SHAPE Technical Centre
+STO	Survive To Operate
+STOL	Short Take-Off &amp; Landing
+STOVL	Short Take-Off &amp; Vertical Landing Aircraft
+STRAP	Standardization Tasking Review and Analysis Process
+STRIKEFLTLANT	Striking Fleet Atlantic CJTF Parent HQ in ACLANT
+STRIKFORSOUTH	Naval Striking and Support Forces Southern Europe
+STU	Secure Telephone Unit
+STUFT	Ships Taken up From Trade
+SUBACLANT	Submarine Allied Command Atlantic
+SUBOPATH	Submarine Operating Authority
+SUCOC	Succession of Command
+SUP	Support / Supply
+SUPPLAN	Supporting Plan
+SW / SWE	Sweden Nation
+SWHQ	Static War Headquarters
+SYNEX	Synthetic Exercise
+SZ / CH	Switzerland Nation
+SfP	Science for Peace
+T/O	Take Off
+TA	Tower Array
+TAC	Tactical Air Command
+TACAIR	Tactical Air Support
+TACAN	Tactical Air Navigation (System)
+TACC	Tactical Air Control Centre
+TACEVAL	Tactical Evaluation
+TACO	Theatre Allied Contracting Office
+TACOM	Tactical Command
+TACON	Tactical Control
+TACP	Tactical Air Control Party
+TACS	Tactical Air Control System
+TAD	Tactical Air Directive Radio Frequency
+TAI	Target Areas of Interest
+TALCE	Tanker and Airlift Control Element
+TAOO	Theatre Area of Operations
+TAOR	Tactical Area of Responsibility
+TARE	Telegraph Automatic Relay Equipment
+TASM	Tactical Air-to-Surface Missile
+TASMO	Tactical Air Support of Maritime Operations
+TBC	To Be Confirmed
+TBCE	Type "B" Cost Estimate
+TBD	To Be Determined / Defined
+TBM	Tactical Ballistic Missile
+TC	Transit Corridor
+TCCE	Type "C" Cost Estimate
+TCICA	Theatre Counter-Intelligence Coordination Authority
+TCN	Troop Contributing Nation
+TD	Tank Division
+TE	Task Element
+TEC	Tactical English Course
+TEEP	Training and Education Enhancement Programme
+TEREC	Tactical Electronic Reconnaissance
+TF	Terrain Following
+TFA	Toxic Free Area
+TFC	Theatre Financial Controller
+TFCC	Task Force Control Centre/Cell
+TFE	Toxic Free Environment
+TFHE	Tactical Fuel Handling Equipment
+TFMCC	Task Force Movement Coordination Centre/Cell
+TFMS	Task Force Movement Staff
+TFOR	Transition Forces
+TFR	Terrain Following Radar
+TG	Task Group
+TH	Transport Helicopter
+THOC	Theatre Head of Contracts
+TI	Thermal Imager
+TI / TAJ	Tajikistan Nation
+TIC	Toxic Industrial Chemical
+TIH	Toxic Industrial Hazards
+TIM	Toxic Industrial Material Chem, Bio, Nucl
+TKL	Target of Known Location
+TL	Traverse Level
+TLAM	Tomahowk Land Attack Missile
+TLE	Treaty Limited Equipment
+TLM	Tactical Load Master
+TMCC	Theatre Movement Coordination / Control Centre
+TMD	Theatre Missile Defence
+TMRR	Temporary Minimum Risk Route
+TN	Tunisia Nation
+TNF	Theatre Nuclear Forces
+TNL	Target Nomination List
+TOA	Transfer of Authority
+TOE	Table of Organisation and Equipment
+TOO	Theatre of Operations
+TOPFAS	Tools for Operational Planning, Force Activation &amp;
+TOR	Terms of Reference
+TOS	Time On Station
+TOT	Time over/on Target
+TR	Transit Route
+TRANSAR	Air Transport Accept / Refuse Message
+TRP	Timing Reference Point
+TSGT	Transportable Satellite Ground Terminal
+TTA	Time to Accomplish
+TTP	Tactics, Techniques and Procedures
+TTT	Time to Target
+TTW	Transition to War
+TTY	Telex
+TU	Turkey Nation
+TX / TUM	Turkmenistan Nation
+UAJ	Unattended Jammer
+UAV	Unmanned Air Vehicle
+UBL	Unit Basic Load
+UGS	Unattended Ground Sensor
+UHF	Ultra High Frequency
+UK	United Kingdom Nation
+UKRM	United Kingdom Royal Marines
+ULF	Ultra-Low Frequency
+UMF	Unconventional Military FOrces
+UN	United Nations
+UNDHA	UN Department of Humanitarian Affairs
+UNDP	UN Development Program
+UNDPKO	UN Department of Peacekeeping Operations
+UNFICYP	UN Forces in Cyprus
+UNFIL	UN Forces in Lebanon
+UNFOSIL	UN Forces in Sierra Leone
+UNHCHR	UN High Commissioner's Office for Human Rights
+UNHCR	UN High Commissioner for Refugees
+UNLB	UN Logistic Base
+UNMIBH	UN Mission in Bosnia/Herzegovina
+UNMIK	UN Mission in Kosovo
+UNMOGIP	UN Monitoring Group in India &amp; Pakistan
+UNMOP	UN Mission of Observers in Prevlaka (Croatia)
+UNOCHA	UN Office for the Coordination of Humanitarian Affairs
+UNPF	UN Police Force
+UNPROFOR	UN Protection Force
+UNSC	UN Security Council
+UNSCR	UN Security Council Resolution
+UNSRSG	UN Special Representative of the Secretary General
+UNTAES	UN Transition Assistance Force in Eastern Slovenia
+UP / UKR	Ukraine Nation
+URG	Underway Replenishment Group
+US	United States
+US / USA	United States of America
+USAFRES	US Air Force Reserve
+USAR	US Army Reserve
+USAREUR	US Army Europe
+USL	Underslung Load
+USLC	Underslung Load Clearance
+USLE	Underslung Load Equipment
+USMC	United States Marine Corps
+UTC	Until Task Completed
+UTM	Universal Transverse Mercator
+UWC	Underwater Communications
+UXO	Unexploded Ordnance
+UZ / UZB	Uzbekistan Nation
+VCAP	Visual Combat Air Patrol
+VCC	Verification Coordinating Committee
+VCOO's	Volunteer Conscripts for Overseas Operations
+VCR	Video Cassette Recorder
+VDU	Visual Display Unit
+VFR	Visual Flight Rules
+VHA	Vapour Hazard Area
+VHF	Very High Frequency
+VID	Visual Identification
+VIP	Very Important Person People
+VISTA	Virtual Intelligence Support Team Analysis
+VLF	Very Low Frequency
+VMC	Visual Meteorological Conditions
+VOB	Visitors and Observer Bureau
+VRP	Visual Reporting Point
+VRS	Bosnian Serb Forces Vojska Republika Srpska
+VTC	Video-Telephone Conferencing
+VTOL	Vertical Take-off and Landing Aircraft
+WAN	Wide Area Network
+WARDAM	War Damage Stocks
+WC	Weapons Controller
+WCO	Weapons Control Order
+WCS	Weapons Control Status
+WEAG	Western European Armaments Group
+WELG	Western European Logistic Group
+WESTLANT	Western Atlantic Area
+WEU	Western European Union
+WEZ	Weapons Engagement Zone
+WFZ	Weapons Free Zone
+WG	Working Group
+WHO	World Health Organisation
+WHQ	War Headquarters
+WMD	Weapons of Mass Destruction
+WOC	Wing Operations Centre
+WOE	Weight of Effort
+WP	Working Party
+WSM	Water Space Management
+WWMCCS	World Wide Military Command Control System
+WX	Weather
+Xload	Transload or transloading
+ZOS	Zone of separation

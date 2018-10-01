@@ -1,0 +1,300 @@
+##name	Glossary of the European Information Society
+##sourceLang	English
+##targetLang	English
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_lastUpdated	2004/08/08, 09:47
+##bgl_middleUpdated	2004/08/08, 09:47
+##author	European Information Society
+##copyright	� <a href="http://europa.eu.int/">European Communities</a>, 1995-2004
+##description	This glossary contains words, abbreviations and acronyms providing easy and effective access to information regarding policies and activities of the EU
+##browsingEnabled	
+##bgl_creationTime	2004/07/28, 11:18
+##purchaseAddress	
+##email	linguistic-support@babylon.com
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+ACATS	Advisory Committee on Advance Television Service
+ACP	African, Caribbean and Pacific countries
+ACPE	Association of European Private Cable Operators
+ACTS	ACTS* <font color=#B0B0B0>(* EU Programmes)</font><br>\n<A href="http://www.cordis.lu/acts/home.html" target="_blank">Advanced Communications Technologies and Service</A>
+ADB	African Development Bank
+ADSL	Asymmetric digital subscriber line
+ADTT	Advanced Digital Television Technologies
+AHCIET	<A href="http://www.ahciet.es/">www.ahciet.es</A><BR>Asociacion Hispanoamericana de Centros de Investigacion y empresas deTelecomunicaciones
+AIM	AIM* <font color=#B0B0B0>(* EU Programmes)</font><br>\nAdvanced Informatics in Medicine
+ALINVEST	Investment Program for Latin America
+AMTIESA	Association of Management Training Institutions of Eastern and SouthernAfrica
+APEC	<A href="http://www.apecsec.org.sg/" target="_blank">Asia-Pacific Economic Co-operation</A>
+ASCII (American Standard Code for Information Interchange)|ASCII|American Standard Code for Information Interchange	It is the standard code system used on PCs. This is the de facto world-wide standard for the code numbers used by computers to represent all the upper and lower-case Latin letters, numbers, punctuation, etc. There are 128 standard ASCII codes each of which can be represented by a 7 digit binary number: 0000000 through 1111111.
+ASEAN	<A href="http://www.asean.or.id/" target="_blank">Association of South-East Asian Nations</A>.The Association of Southeast Asian Nations or ASEAN was established on 8 August 1967 in Bangkok by the five original Member Countries, namely, Indonesia, Malaysia, Philippines, Singapore, and Thailand. Brunei Darussalam joined on 8 January 1984, Vietnam on 28 July 1995, Laos and Myanmar on 23 July 1997, and Cambodia on 30 April 1999.
+ASEM	<A href="http://asem.inter.net.th/" target="_blank">Asian-European Meeting</A>
+ASINVEST	Investment Program for Asia
+ASYMMETRICAL Digital Subscriber Line (ADSL)|ADSL|ASYMMETRICAL Digital Subscriber Line	Existing telephone networks upgraded to allow VCR-quality video images (but not live orhigh-definition signals) to be transmitted.
+ATM (Asynchronous transfer mode)|ATM|Asynchronous transfer mode	It is an international packet switching standard established by the CCITT. It is asystem for organising a digital signal in such a way as to allow very high speed transmission of the signal while making optimum use of the network's transmission capacity. A standard agreed for B-ISDN networks.
+ATVA	American Television Alliance
+AUPELF/UREF|AUPELF|UREF	Association des Universités Partiellement ou Entièrement de LangueFrançaise - Université des Réseaux d’Expression Française (association of partly or fully French-speaking universities - university of French-speaking networks)
+Adapter	It is the PC translator that converts information to tidy packages that neatly flowdown networks wires. Every PC on a corporate network has one of these adapters, which comes in the form of circuit boards.
+Addressability	The facility by which the subscriber's home equipment may be controlled remotely by acable operator, in order to allow the provision of pay-per-view programmes, changes in the level of the service, or disconnection.
+Applications	Telematic services available in the professional and private spheres such as telework,telemedicine, tele-education and teletraining or telemanagement of traffic.
+B-ISDN (Broadband ISDN)|B-ISDN|Broadband ISDN	A single network capable of carrying several different types of service, based onvoice, data, still or moving image - by means of digital transmission techniques. The ISDN (Integrated Services Digital Network) currently being deployed in Europe carries a communication of up to 2 Megabits/second (Narrowband ISDN). Future networks will carry higher speed communications (Broadband ISDN).
+BID	Banco Interamericano de Desarollo
+Bandwidth	Definition of the transmission capacity of a cable. Highest for fibre optic, lowest for copper telephone wire.
+Baud	Numerical data transmission speed unit. 1 baud correspond to 1 bit/second. Theminimum speed of a modem is 9,600 bauds nowadays.
+Bits/Bytes|Bits|Bytes|bit|byte	The smallest discrete elements in a binary system: eight bits comprise one byte.
+Broadband	A popular way to move large amounts of voice, data and video. Broadband technology letsdifferent networks coexist on a single piece of heavy-duty wiring. It isolates signal as a radio does; each one vibrates at a different frequency as it moves down the line. Its opposite is baseband, which separates signals by sending them at timed intervals.
+Bureautique	Hardware and software used in the framework of an office (e.g. word processing).
+CALS	Computer-aided Acquisition and Logistic Support
+CCITT	Comité Consultatif International Télégraphique et Téléphonique, International Telegraphy and Telephony ConsultativeCommittee (The previous name for the <A href="http://www.itu.int/" target="_blank">ITU</A>-T)
+CEECs	Central and Eastern European Countries (<A href="http://europa.eu.int/ISPO/intcoop/i_ceec.html" target="_blank">CEECsand the Information Society</A>)
+CEN	Comité Européen de Normalisation; <A href="http://www.cenorm.be/" target="_blank"> European Committee forStandardization</A>. CEN's mission is to promote voluntary technical harmonization in Europe in conjunction with worldwide bodies and its partners in Europe.
+CEN-ISSS	<A href="http://www.cenorm.be/isss/" target="_blank">Information Society Standardization System</A>.The mission of CEN/ISSS is to provide market players with a comprehensive and integrated range of standardization-oriented services and products, in order to contribute to the success of the Information Society in Europe.
+CENELEC	<A href="http://www.cenelec.be/" target="_blank">European Committee forElectrotechnical Standardization</A>, Comité Européen de Normalisation Electrotechnique. Together with its members, affiliates and co-operating partners is developing and achieving a coherent set of voluntary electrotechnical standards as a basis to a Single European Market / European Economic Area without internal frontiers for goods and services inside Europe.
+CEPT	Conference Européenne des Postes et des Télécommunications; <A href="http://www.cept.org/" target="_blank"> European Conference of Postal and Telecommunications Administrations</A>
+CERP	Conféderation Europénne des Relations Publiques, <A href="http://www.cerp.org/" target="_blank">Confederation of European Public Relations Professionals</A>. The main objective is to represent the European PR profession and to establish contacts, exchanges, and co-operative links between the PR associations and their members worldwide.
+CIM	Computer Integrated Manufacturing
+CIRCOM Regional	Association of regional television channels in Europe. <A href="http://www.circom-regio.si/" target="_blank">CIRCOM Regional</A>is a European television organisation formed in 1983 to provide a network for the major decision-makers in Europe's regional television. It yearly honours the best European regional productions with the prestigious Prix Circom.
+COM	European Commission; Commission document: COM-documents are issued by theSecretariat-General of the Commission and contain proposals or other communications from the Commission to the Council and/or other institutions. (<A href="http://europa.eu.int/comm/index_en.htm" target="_blank">European Commission</A> on the Interinstitutional Webserver EUROPA)
+COMTELCA	<A href="http://www.comtelca.hn/" target="_blank">Technical Commission on Telecommunications for Central America</A>
+CORDIS	<A href="http://www.cordis.lu" target="_blank">Community R&amp;D Information Service</A>
+COSATI	Committee on Scientific and Technological Information (US)
+COST	<A href="http://www.netmaniacs.com/cost/" target="_blank">European Cooperation in the Field of Scientific and Technical Research</A>.Founded in 1971 COST, is an intergovernmental framework for European Co-operation in the<BR>field of Scientific and Technical Research, allowing the co-ordination of nationally funded research on a European level. COST Actions cover basic and pre-competitive research as well as activities of public utility.
+CRTC	<A href="http://www.crtc.gc.ca/" target="_blank">Canadian Radio-Television and Telecoms Commission</A>
+CYTED	Ciencia y Tecnologia para El Desarrollo
+Cable	A reception system available in areas that are cabled. Opposite to the satellite, thereception of a cable broadcast does not need an aerial on the roof or balcony.
+Carte à puce (Smart Card)|Carte à puce|Smart Card	It is a card that is able to store digital information. It was created in 1974 and usedfor many purposes since (e.g. credit cards, telephone cards).
+Client	A client is usually a PC that communicates over a network both with its peers, otherclients, and with a large computer, called a server, which typically stores data that many workers need to use. The client has just one user, the server many.
+Coaxial Cable	Better known as coax, this is the old fat wire used by cable TV companies and some data networks. It has more capacity than standard copper phone wire, but quite a bit less than fiber-optic lines.
+Community Antenna Television, Cable Television (CATV)|CATV|Cable Television|Community Antenna Television	A public network for the delivery of television programmes to the home by cable. Existing systems use coaxial cable and are limited in Europe to approximately 30 channels of television. Future Broadband systems will carry up to 500 channels.
+Compact Disc Interactive (CD-I)|CD-I|Compact Disc Interactive	The interactive multimedia platform developed by Philips, based on a Motorola 68000 processor and compact disc drive, with universal technical specifications. CD-I supports three levels of audio in stereo and mono, four graphics formats at various levels, four images planes, in/out devices including a remote control unit and keyboard, and output to ordinary TV sets, under its own dedicated operating system (CD-RTOS).
+Compact Disc Read Only Memory (CD-ROM)|CD-ROM|Compact Disc Read Only Memory	The CD format principally devoted to text and data (and occasionally, audio andgraphics).
+Compression	The technique of reducing the amount of data in a signal in order to reduce the amount of required transmission capacity, the signal being reconstructed in its original form at the receiving end. A device to do this is a "codec" (coder-decoder).
+Cyberspace	Word invented by the writer William Gibson in his play "le Neuromacien". It describes the virtual space in which the electronic data of worldwide PCs circulate.
+DA	Dansk (Danish)
+DE	Deutsch (German)
+DECT	Digital European Cordless Telecommunications (European standard fordigital cordless telecommunications)
+DELTA	DELTA* <font color=#B0B0B0> (* EU Programmes)</font><br>\nDeveloping European Learning through Technical Advance - Flexible and distance learning (1990-1994). Specific programme of research and technological development (EEC) in the field of <A href="http://www.cordis.lu/telematics/home.html" target="_blank"> telematic system</A>s in areas of general interest -
+DG	Directorate General of the European Commission (overview of the different <A href="http://europa.eu.int/comm/dgs_en.htm" target="_blank">Directorates General</A>)
+DRIVE	DRIVE* <font color=#B0B0B0>(* EU Programmes)</font><br>\nDedicated Road Infrastructure for Vehicle safety in Europe
+DVB	Digital Video Broadcasting
+Data Discman	A portable device created by Sony that allows book reading. The books are under the shape of small laser discs (8 cm diameter).
+Didactive Software	Educative Software
+Diffusion	Making information available to a wider audience about the work and outcome of a project with the aim of increasing the speed of uptake of its results.
+Digital Compression	A way of reducing the number of bits (ones and zeros) in a digital signal by using mathematical algorithms to eliminate redundant information thereby reducing the space it occupies when being transmitted or recorded.
+Digital European Cordless Telecommunications (DECT)|DECT|Digital European Cordless Telecommunications	DECT is the time division multiple access (TDMA)-based digital standard chosen by the European Telecommunications Standards Institute (ETSI) for future advanced wireless phones, wireless PBX, and radio-based public access telecom services.
+Digital Transmission	In a digital telecommunication service, the original source is transformed into and transmitted as a series of digits in binary code (i.e. 0s or 1s). Voice, text, image or data are all equally capable of being coded as a digital signal, so that a single network can handle all four forms of transmission (multimedia). The string of binary digits can be abbreviated and then re-expanded on arrival, thus economising transmission capacity. Different strings of binary digits can be interleaved and transmitted together, thus permitting several separate conversations on a single line (multiplexing). The string of digits can be encrypted prior to transmission, to ensure a high level of information security and privacy. Through digitalization, even a severely degraded transmission can be reconstructed to reproduce perfectly the original source.
+Digital Video Interactive (DVI)|DVI|Digital Video Interactive	DVI is a mode of image compression conceived by Intel for use by PC micro-computers. Microsoft adopted it for their software Video for Windows, Apple for QuickTime, etc.
+Direct Broadcasting by Satellite (DBS)|DBS|Direct Broadcasting by Satellite	The use of satellite to transmit high-power TV signals in the BSS band for reception via small antennae direct to home (DTH). Such services can also be carried on cable.
+Diskette	Storing device used to save information from computers and other instruments such as digital picture cameras.
+Domotique	Control over the house appliances via a PC.
+EBU	The <A href="http://www.ebu.ch/" target="_blank">European Broadcasting Union</A> the largest professional association of national broadcasters in the world. Headquartered in Geneva, and working on behalf of its members in the European area, the EBU negotiates broadcasting rights for major sports events, operates the Eurovision and Euroradio networks, organizes programme exchanges, stimulates and coordinates co- productions, and provides a full range of other operational, commercial, technical, legal and strategic services. At its office in Brussels, the EBU represents the interests of public service broadcasters before the European institutions.
+EC	European Commission (<A href="http://europa.eu.int/comm/index_en.htm" target="_blank">webserver</A>)
+ECIP	European Community Investment Partnership
+ECS	European Communications Satellites
+ECU	European Currency Unit
+EEA	European Economic Area. The Member States are the 15 European Union Member States(Austria, Greece, Belgium, Portugal, Denmark, Ireland, Spain, Finland, Italy, Sweden, France, United Kingdom (including Gibraltar), Germany, Luxembourg, The Netherlands) and   Iceland, Norway and Liechtenstein.
+EFTA	The European Free Trade Association was established in 1960 by the Stockholm Convention to eliminate tariffs and other restrictions on trade between EFTA members. The organisation is nowadays composed of just four Member States: Iceland, Liechtenstein, Norway and Switzerland.
+EIB	European Investment Bank (<A href="http://eib.eu.int/" target="_blank">http://eib.eu.int/</A>)
+EIB	<A href="http://eib.eu.int/" target="_blank">European Investment Bank</A>
+EISBPG	European Information Society Best Practices Gallery
+EITO	European Information Technology Observatory
+EL	Ellinika (Greek)
+EN	English
+ERMES	European Radio Messaging System
+ES	Español (Spanish)
+ESA	European Space Agency
+ESIS	European Survey of  Information Society
+ESPRIT	ESPRIT* <font color=#B0B0B0>(* EU Programmes)</font><br>\nEuropean Strategic Programme for R&amp;D in <A href="http://www.cordis.lu/esprit/home.html" target="_blank"> Information Technology</A>
+ETSI	<A href="http://www.etsi.org/" target="_blank">European Telecommunications Standards Institute</A>
+EU	European Union
+EUR-OP	EUR-OP is the official publisher of the institutions of the European Union: the European Parliament, the Council of Ministers, the European Commission, the Court of Justice, the Court of Auditors, the Economic and Social Committee (ECSC), the Committee of the Regions, the European Centre for the Development of Vocational Training (CEDEFOP), the European Foundation for the Improvement of Living and Working Conditions, the European Investment Bank (EIB) and other bodies of the Union.  Based in Luxembourg, EUR-OP publishes in more languages than any other publishing house in the world. When first established in 1969, the number of working languages was four. By 1986 this had increased to nine: Spanish, Danish, German, English, Greek, Italian, Dutch and Portuguese. With the accession of three new countries, on 1 January 1995, the number of working languages grew to 11 to include Finnish and Swedish.
+EUREKA	Launched in 1985, <A href="http://www3.eureka.be/Home/" target="_blank"> EUREKA</A> has already changed the face of pan-European cooperative research and development. It is a framework through which industry and research institutes from 26 European countries and the European Union develop and exploit the technologies crucial to global competitiveness and a better quality of life.
+EUTELSAT	European Telecommunication Satellite Organisation
+EVUA	European Virtual User Association
+Electronic data interchange (EDI)|EDI|Electronic data interchange	A way unaffiliated companies can use networks to link their businesses. While electronic mail between companies is common, electronic data interchange passes bigger bundles that replace large paper documents such as bills and contracts. Besides saving paper, computers could save time by taking over transactions like regular purchase orders that now require human intervention.
+Electronic-mail (E-mail)|E-mail|Electronic-mail	The most common use of networks. It is a service which allow computer users to send electronic messages to other computer users. The use of sophisticated software ensures that the sent message will find its way along different networks until it reaches the address.
+Enhanced Television	Designates a TV system which retains the scanning standards of the existing 625-line 50-field or 525-line 60-field systems, whilst providing various improvements in the quality of the picture and additional features, such as the wide screen 16:9 aspect ratio, resulting from new signal processing, with or without modification of the transmission standards.
+Ethernet	The most common sort of network used in corporations. Its top speed is 10 million bits/second. Because it works like a party line, if too many people try to send messages at once, the network slows dramatically.
+FAQ	Frequently Asked Questions
+FCC	Federal Communication Commission (US)
+FI	Suomeksi (Finish)
+FLAG	Fiber-optic Link Around the Globe
+FP	Framework Programme
+FR	Français (French)
+Fiber	Fiber-optic cable, made of glass fibers instead of copper strands. Data, expressed aspulses of light rather than electrons, is transmitted by lasers or other devices. Optical fiber can carry billions of bits a second, many times more than coaxial or copper wire, and is less sensitive to electrical interference.
+Fiber to the Curb (FTTC), Fibre to the Home (FTTH)|FTTC|FTTH|Fiber to the Curb|Fibre to the Home	Future optical fibre networks may extend the optical fibre to the individual home (FTTH), or the fibre may terminate at a "blackbox" located in the street, where the optical signal is converted to an electrical signal and carried the remaining distance to each home on the pre-existing copper wiring (FTTC).
+Fire Wall	One way to keep hackers out. Some networking devices can limit access to sensitive parts of a network. For example, a company might authorize access to its salary records only to a computer in a particular location that gives a secret password.
+Flaming	Bombardment with messages by users of the Internet of any other user or advertiser who breaks the "etiquette" of the network. Can run to billions of bites of useless data, intended to clog up the offender's computer.
+Full motion	Video images that run in "real time". Full motion is defined as 30 frames per second, double the current rate possible on most multi-media applications, such as video conferencing.
+G7	Group of the 7 most developed industrial countries: Canada, France, Germany, Italy,Japan, United Kingdom, United States
+G8	Group of 8 (leading industrialised nations): Canada, France, Germany, Italy, Japan,Russia, United Kingdom, United States
+GATS	General Agreement on Trade in Services
+GATT	General Agreement on Tariffs and Trade
+GBD	Global Business Dialogue
+GBDe	Global Business Dialogue on Electronic Commerce
+GII	Global Information Infrastructure
+GIP	Global Inventory Project
+GPS	Global Position System (US)
+GSM	Global System for Mobile communications (the digital pan-European mobile telephone system)
+Gateway	One of the most common usages for the term is an on-line service company that givescustomers access to a server or a network as Internet. Inside a company, the term usually refers to special hardware that connects two different types of<BR>systems, such as a main-frame to a local-area network.
+Generic Service	A service, such as electronic mail, that can be used for a multitude of purposes and adapted to the needs of a particular application.
+Gigabit Network	A gigabit network means one that operates at a billion bits a second-100 times Ethernet's speed.
+Global System for Mobile Communications (GSM)|GSM|Global System for Mobile Communications	GSM is a pan-European standard for digital mobile telephony which provides a much higher capacity than traditional analogue telephones as well as diversified services (voice, data) and a greater transmission security through information<BR>encoding for users across Europe.
+HD-Mac	Europe's HDTV broadcast transmission standard supporting 1250-line resolution pictures,50 Hz, in the 16:9 aspect ratio with digital stereo sound.
+Hard Disc	High capacity (up to 4 giga-octets= million characters) storing device for computers.
+High Definition Television (HDTV)|HDTV|High Definition Television	System designed to allow viewing at about three times the picture height, such that the system is virtually, or nearly, transparent to the quality of portrayal that would have been perceived in the original scene or performance by a discerning viewer with normal visual acuity. Such factors include improved perception of depth.
+ICANN	Internet Corporation for Assigned Names and Numbers
+ICC	International Chambers of Commerce
+ICT	Information and Communication Technology
+IDA	IDA* <font color=#B0B0B0>(* EU Programmes)</font><br>\n<A href="http://www.ispo.cec.be/ida/" target="_blank">Interchange of Data between Administrations</A>
+IDEIS	International  Dialogue and Information Exchange for the Development of a Global Information Society
+ILPF	Internet Law and Policy Forum
+INFOSEC	Information Security
+INRIA	Institut National de Recherche en Informatique et Automatique (France)
+INTELSAT	International Satellite Organisation
+IPR	Intellectual Property Rights
+IS	Information Society
+ISDN (Integrated Services Digital Network), N-ISDN, B-ISDN|B-ISDN|ISDN|Integrated Services Digital Network|N-ISDN	A single network capable of carrying several different types of service, based on voice, data, still or moving image - by means of digital transmission techniques. The ISDN currently being deployed in Europe carries a communication of up to 2 Megabits/second (Narrowband ISDN). Future networks will carry higher speed communications (Broadband ISDN).
+ISIS	ISIS* <font color=#B0B0B0>(* EU Programmes)</font><br>\n<A href="http://www.ispo.cec.be/isis/" target="_blank">Information Society Initiative in Standardization</A>
+ISO	<A href="http://www.iso.ch" target="_blank">International Standard Organisation</A>
+IST	IST* <font color=#B0B0B0>(* EU Programmes)</font><br>\n<A href="http://www.cordis.lu/ist/home.html">Information Society Technologies programme</A>, a major theme of research and technological development within the European Union's RTD Framework Programme.
+IT	Italiano (Italian)
+ITU	<A href="http://www.itu.int/" target="_blank">International Telecommunications Union</A>, headquartered in Geneva, Switzerland is an international organization within which governments and the private sector coordinate<BR>global telecom networks and services.
+InfoDev	Information for Development (World Bank)
+Information Superhighway	Something that can't be seen or touched, though it can be talked about ad nauseam. Networking devices and computers, allowing them to operate at a higher speed and carry heavy traffic such as video files.
+Int'l	International
+Integrated Broadband Communications (IBC)|IBC|Integrated Broadband Communications	The global term for the future overall communications environment, embracing Broadband-ISDN, Narrowband-ISDN, mobile telephony and existing conventional telephone services together with data communications and cable TV.
+Inter-activity	Interactivity in a service implies a close control by the user of the service by means of ongoing system of two-way communication between the user and the service provider.
+Inter-connectivity	Devices (computers, lines, application programmes, etc) are inter-connected when they can communicate which each other, that is send and receive data. They use the same communication protocols, for example OSI (Open Systems Inter-Connection).
+Inter-operability	Devices, in particular application programmes, are inter-operable when, in addition to communicating with each others, they can also execute together a common task. They co-operate. This requires additional standards, such as API (Application Programme Interfaces) .
+Interface	That which facilitates the communication between the computer and its user. It may be a graphic interface or a textual interface. An interface can also be that which facilitates communication between two appliances (e.g. the PERITEL jack links a TV to a videotape recorder or a videodisc player).
+Internet	The world's largest computer communication system, with an estimated 100-million users. Originated in the United States, though now operating world-wide, the Internet is a loose confederation of principally academic and research computer networks. It is not a network but rather the interconnection of thousands of separate networks using a common language. Developed by the Pentagon, the Internet first linked government agencies and colleges. Now the Net also connects thousands of companies and millions of individuals worldwide who subscribe to on-line services.
+JET	<A href="http://www.jet.efda.org" target="_blank">Joint European Torus</A>. The JET Joint Undertaking was established in June 1978 to construct and operate the Joint EuropeanTorus, of its time the largest single project within the European nuclear fusion programme. It was coordinated by Euratom (the European Atomic Energy Community), and the JET project went on to become the flagship of the Community Fusion Programme and the first fusion facility in the world to achieve significant production of controlled fusion power in 1991. In 1997 JET achieved more than 16 MW fusion power in Deuterium-Tritium plasmas. JET has furthered fusion science well beyond the goals of the original Design Team and is now evolving into a physics and technology basis for preparing ITER, the International Thermonuclear Experimental Reactor. Under EFDA, the European Fusion Development Agreement, a new JET Implementing Agreement has been set up to use the JET Facilities until at least the end of 2002, replacing the Joint Undertaking which came to an end on December 31st 1999.
+JPEG, MPEG	Compression standards for still (JPEG) and moving pictures (MEPG) expert groups.
+JSAT	Japan Satellite System
+Laserdisc	Also known as CDV (Compact Disc Video) or Video Disc. Originally launched by Philips.It was renamed Laserdisc by Pioneer, Philips, Matshusita and Sony in 1990. It stores analogous images and digital sound. The quality of the images is excellent. Laserdisc players can be connected to TVs and Hi-fi systems.
+Latency	Time which elapses between ordering information and receiving it through an interactive system. PC users on a crowded Ethernet network get a demonstration of latency.
+Letterbox	Format used to describe a TV image with black bands at the top bottom of the screen to fit a movie format into a 4:3 TV screen format.
+Local Area Network (LAN)|LAN|Local Area Network	A network for communication between computers confined to a single building or in a closely located group of buildings, permitting users to exchange data, share a common printer or master a common computer, etc. Linked groups of LANs extended over a larger area are termed Wide Area Networks (WANs). WANS may connect users in different buildings or countries. Networks which extend over city-wide areas are called Metropolitan Area Networks (MANs).
+Local loop	The section of the telephone transmission network between the local telephone exchange and the subscriber's premises, which currently consists of copper wiring. In the future, optical fibre or wireless will also be used.
+Low Earth Orbit (LEO), LEOS (Low Earth Orbit Satellite)|LEO|LEOS|Low Earth Orbit|Low Earth Orbit Satellite	Proposed system of personal telecommunications based on communication via a number of satellites in low orbit. The best known of these proposal is called the "Iridium" project.
+MEBF	Mercosur-EU Business Forum
+MEDINVEST	MEDINVEST* <font color=#B0B0B0>(* EU Programmes)</font><br>\nInvestment Program for the Mediterranean Area
+MERCOSUR	The Mercosur - Mercado Común del Sur /Southern Common Market - is the fourth largest trade bloc in the world in order of economic importance. It is made up of four countries: Argentina, Brazil,Paraguay and Uruguay. The Mercosur was established following the Treaty of Asuncion, signed on 26 March 1991. The definitive form adopted by the bloc arose on the basis of the Ouro Preto Protocols, agreed in December 1994. On 1 January  1995 a Customs Union was born between the four signatory countries.
+MM	Multimedia: The concept of closely combining voice, text, data, as well as still and moving image. A multimedia database, for example, would contain textual information, images, video clips, tables of data, all equally easy to access. A multimedia telecommunications service (such as B-ISDN) would permit the user to send or receive any of these forms of information, interchangeability at will.
+MMS	Multimedia Messaging Services - the natural evolution of Short Message Services, where multimedia content (images, sound or even moving video) are sent between phones
+MS	<A href="http://ue.eu.int/en/summ.htm" target="_blank">Member States</A> of the European Union
+MUSE (Multiple Sub-Nyquist Encoding)|MUSE|Multiple Sub-Nyquist Encoding	The signal compression methods developed in Japan for the satellite delivery of HDTV signals.
+Metropolitan Area Network (MAN)|MAN|Metropolitan Area Network	Network which extends over city-wide area.
+Minitel	It is the first global experience of telematics and started in France in 1984. It was the precursor of the electronic highway. France Telecom is currently working on a network "Télétel Vitesse Rapide" which allows to obtain information far more quickly.
+MoU	Memorandum of Understanding
+Mobile Telephone, CT2 (2nd Generation Cordless Telephone, &quot;Telepoint&quot;)	An economical system of cellular telephony. Unlike full cellular, the user may not move from cell to cell during the call. The service is commercialized as "Bi-Bop" in France, "Greenpoint" in the Netherlands, "Pointer" in Finland, etc.
+Mobile Telephone, Cellular|Cellular|Mobile Telephone	A system of mobile telephony whereby a country is divided into thousands of small areas(cells), each of which is served by its own "base station" for low-powered radio transmissions. This allows a user in one cell to transmit on the same frequency as another user in another cell without interfering in each other's conversation. Cellular networks may employ analogue or digital transmission. Existing networks are largely analogue, while new networks use the European GSM digital standard.
+Modem (MODulator-DEModulator)|MODulator-DEModulator|Modem	Device which transforms analogous signals transmitted by telephone lines into digital signals which can be transmitted by computer and vice versa.
+Multimedia (MM)|MM|Multimedia	The concept of closely combining voice, text, data, as well as still and moving image. A multimedia database, for example, would contain textual information, images, video clips, tables of data, all equally easy to access. A multimedia telecommunications service (such as B-ISDN) would permit the user to send or receive any of these forms of information, interchangeability at will.
+Multiplexed Analogue Components (MAC)|MAC|Multiplexed Analogue Components	TV transmission system, pioneered in the UK in the early 1980s, in which the colour signals are time division multiplexed, thus, interference between chrominance and luminance does not occur as in PAL. In the D2-MAC version, sound is carried as digital data sent in a duobinary form (hence the "D" letter) at 10.125 Mbits/s.
+Multiplexing	In telecommunications terminology, this term means carrying multiple signals on a communications carrier channel. In recent cable programming terminology, it refers to "cloning" one cable channel, like MTV or HBO, into multiple,<BR>complementary channels to reach a broader audience. The device that makes this possible is called a "multiplexer" or "mux".
+N-ISDN (Narrowband ISDN)|N-ISDN|Narrowband ISDN	A single network capable of carrying several different types of service, based on voice, data, still or moving image - by means of digital transmission techniques. The ISDN (Integrated Services Digital Network) currently being deployed in Europe carries a communication of up to 2 Megabits/second (Narrowband ISDN). Future networks will carry higher speed communications (Broadband ISDN).
+NGO	Non-Governmental Organisation
+NHK	Nippon Hoso Kyokai (Japanese Broadcasting Corporation)
+NII	National Information Infrastructure (US)
+NISC	Commission Network of Information Society Correspondents
+NL	Nederlands (Dutch)
+NTA	<A href="http://europa.eu.int/comm/trade/index_en.htm" target="_blank">New Transatlantic Agenda</A>
+NTSC	The colour TV system established by the US National Television Standards Committee and used in North America, Japan and their dependents. NTSC produces interlaced 525-line 30-frame/second pictures.
+NTT	Nippon Telegraph and Telephone
+Natural Language	Possibility of interact with a PC using words of daily language.
+Navigator's Guide	In interactive TV it is the system to choose among the proposed programme.
+Network	Communication Networks correspond to a complete system of communications between user's terminals. Networks may be "point to point" (the transmission goes from a fixed origin to a fixed destination), "switched" (the transmission is switched so as to reach a single destination out of many) or "broadcast" (the transmission goes simultaneously to multiple destinations). Networks may be "public" (owned by an operator and open to any member of the public that subscribes) or "private" (owned or leased by an individual or company or group of companies exclusively for its own use).
+Network Operating System	Software that allows a PC or a larger server machine to manage files and handle other central networking functions.
+Network, Data	A network specialised in the transmission of data rather than voice. Among such networks are Circuit Switched Data Networks (CSDN), Packet Switched Data Networks (PSDN), Frame Relay Networks and Switched Multimegabit Data Service Networks (SMDS).
+Network, Intelligent	An intelligent network includes sophisticated features superior to those of the ordinary telephone service, such as advanced software allowing the customisation of the services provided to individual customers. For example, it allows the called party to redirect calls intended to another terminal (e.g. from a home phone to an office phone). It allows calls to be billed wholly or in part to somebody else than the caller ("free phone" services). It also provides virtual private network services.
+Node	Point of connection and conversion between fibre optic and coaxial cable.
+OECD	<A href="http://www.oecd.org/" target="_blank">Organisation for Economic Co-operation and Development</A>
+OJ	<A href="http://eur-op.eu.int/general/en/a3.htm" target="_blank">Official Journal </A> of the European Communities: The Official Journal is <A href="http://eur-op.eu.int/general/en/index.htm" target="_blank">EUR-OP</A>'s(Publications Office) main publication and the only one in the world to appear daily in eleven languages. The L series currently contains all the legislative documents of the European Union, while the C series comprises information and notices issued by the institutions of the Union, such as preparatory legislative documents, reports on the progress of cases before the Court of Justice and questions put by Members of Parliament to the Commission and Council. The S series contains the calls for tenders. Further, the EU Institutions have decided to add an exclusively electronic section to the Official Journal C series, known as the "OJ C E". Some documents previously published in the OJ C may be transferred to the OJ C E. An index of all documents published in a given OJ C E will be printed in the paper edition of the OJ C of the same day.
+ORA	ORA* <font color=#B0B0B0>(* EU Programmes)</font><br>\nOpportunities for applications of information and communication technologies in Rural Areas (1990-1994); Specific programme of research and technological development (EEC) in the field of <A href="http://www.cordis.lu/telematics/home.html" target="_blank"> telematic systems</A> in areas of general interest - Telematics systems for rural areas.
+ORSTOM	Organisation de la Recherche Scientifique et Technique d’Outre- Mer
+Open Network Provision (ONP)|ONP|Open Network Provision	Principle of non-discriminatory opening of telecommunication networks to all telecom operators and service providers on the basis of the harmonisation of access and usage conditions of telecommunications infrastructures with the view to develop a trans-European information market. The ONP is being applied to leased lines, packet switching transmission services and ISDN, and will be applied to voice telephony in 1998.
+Optical Fibre Network	Telecommunication networks based on fined glass fibres, down which signals may be sent by flashing a laser.
+PABX (Private Automatic Branch Exchange), PBX (Private Branch Exchange)|PABX|PBX|Private Automatic Branch Exchange|Private Branch Exchange	The private switchboard located on one's premises and by which a business subscriber controls the calls on his own internal telephones.
+PAL (Phase Alternation Line)|PAL|Phase Alternation Line	West German-developed colour TV systems used in most of Europe, Africa, Australasia and South America. Like SECAM, PAL produce interlaced 625-line, 25 frame/second pictures.
+PC	Personal Computer
+PCM (Pulse code modulation)|PCM|Pulse code modulation	The most common way of converting an analogue source into a digital form.
+PMO	Programme Management Office
+PP	Pilot Project
+PROMISE	PROMISE* <font color=#B0B0B0>(* EU Programmes)</font><br>\n<A href="http://europa.eu.int/ISPO/promotion/i_promise.html" target="_blank">Multiannual Community programme</A> to stimulate the establishment of the Information Society in Europe (1998-2002)
+PSTN (Public Switched Telephone Network)|PSTN|Public Switched Telephone Network	The everyday telephone network used for the transmission of voice conversations, faximages and for low speed data transmission.
+PT	Portugês (Portuguese)
+Pay-per-view	Programming sold on a per-occasion or per-title basis. Access can be controlled electronically in response to subscriber orders using an addressable cable converter. Digital Signals switching the service off or on are sent to that converter's unique "address".
+Personal Communication Network (PCN)|PCN|Personal Communication Network	A form of cellular telephone network specifically adapted for personal portable use based on a technology known as DCS 1800. Such services are currently being deployed in Europe. Similar services in the USA are referred to as PCS (Personal Communication Services).
+Personal Digital Assistant (PDA)|PDA|Personal Digital Assistant	A pocket sized personal computer with advanced features and communications facilities, where text is introduced by handwriting on a screen, also referred to as "notepad" computer.
+Portability	Used in reference to a computer programme, portability means that the programme can be executed on a number of different computers without or with only minimal changes.
+Protocol	Standard rules that govern how computers talk together.
+R&amp;D	Research and Development
+RACE	RACE* <font color=#B0B0B0>(* EU Programmes)</font><br>\nR&amp;D for Advanced Communications in Europe (1990-1994); Specific research and technological development programme (EEC) in the field of communication technologies.
+REFER	Réseau Français de la Recherche
+RIO	Réseau Intertropical d’Ordinateurs
+RIPE	Réseau Internet Protocol Européen
+RTD	Research, Technological development and Demonstration
+Radio messaging	Sending of messages via radio waves.
+SDNP/UNCTAD|SDNP|UNCTAD	Sustainable Development Network Program (United Nations)
+SECAM (Séquentiel couleur à mémoire)|SECAM|Séquentiel couleur à mémoire	The colour TV standard developed in France, also used in Eastern Europe, CIS and parts of the Middle East and Africa. SECAM produces interlaced 625-line, 25-frame/second pictures.
+SES	<A href="http://www.ses-astra.com/index_poll.htm" target="_blank">Société Européenne des Satellites</A>
+SMEs	Small and Medium-sized Enterprises - see the Economy &amp; Work &gt;<A href="http://europa.eu.int/information_society/ecowor/smes/index_en.htm">SMEs</A> theme.
+ST	Software Technologies
+STAR	STAR* <font color=#B0B0B0>(* EU Programmes)</font><br>\nSpecial Telecommunication Action for Regional Development
+SV	Svenska (Swedish)
+Sampling	The transformation of an analogous signal (Sound Image) into a digital code. Sampling consists of the analysis of electronic signals at regular and brief intervals. A large number of synthesisers produce sounds created by sampling.
+Satellite Dish	Device necessary to get channels broadcast via satellite. The diameter varies from 60cm on.
+Security of Information and Systems	It has three basic components: confidentiality, integrity and availability. Confidentiality refers to the protection of sensitive information from unauthorised disclosure. Integrity means safeguarding the accuracy and completeness of information and computer software. Availability relates to ensuring that information and vital services are available to users when required.
+Server	The machine that talks to clients. More precisely, anything from a PC to a supercomputer that shares files and other services with multiple users.
+Smart Card	It is a card that is able to store digital information. It was created in 1974 and used for many purposes since (e.g. credit cards, telephone cards).
+Software	That which belongs to the domain of intellectual creation in contrast to the appliances which facilitates their reproduction. The programmes for computers, CD-ROM and video games are all software.
+Switchable	Ability of a communication network to allow subscribers to conduct two-way dialogue, or the number of screens on a network.
+Synthetic Image	An image created by computer software. Many of the sequences featuring dinosaurs in Jurassic Park were created using 3D synthetic images.
+TABD	<A href="http://www.tabd.org/" target="_blank">TransAtlantic Business Dialogue</A>
+TACD	<A href="http://www.tacd.org" target="_blank">TransAtlantic Consumer Dialogue</A>
+TBP	Technologies for Business Processes
+TEDIS	TEDIS* <font color=#B0B0B0>(* EU Programmes)</font><br>\nTrade Electronic Data Interchange Systems
+TEN	Trans-European telecommunication Networks
+TEP	Transatlantic Economic Partnership
+TMCs	Third Mediterranean Countries
+Telematics	The application of information and communications technologies and services, usually indirect combination. A Telematics Application is a system or service meeting User needs. (<A href="http://www.cordis.lu/telematics/home.html" target="_blank">Telematics Applications</A> within the 4th Framework Programme)
+Telematics Infrastructure	The assemblage of telecommunications and information-processing systems and services that offers a base for telematics applications.
+Teleservice	A service provided from a remote location using the telematics infrastructure.
+Teleworking	Work carried out using the telematics infrastructure at a place other than that where the results of the work are needed. This definition covers home, mobile or "telecottage"-based teleworkers employed by an organisation, independent workers and teleservice companies offering specific services to both firms and individuals.
+Token Ring	The networking scheme most closely associated with International Business Machines Corp. The term comes from a type of data packet, called a token, that is used to keep multiple computers on a network from talking at once. Each user's turn comes as the token passes in turn around the ring of computers of the network.
+UK	United Kingdom
+UNCTAD	<A href="http://www.unctad.org/" target="_blank">United Nations Conference on Trade and Development</A>
+UNDP	United Nations Development Program
+UNESCO	<A href="http://www.unesco.org/" target="_blank">United Nations Education Science Culture Organisation</A>
+UNTPDC	United Nations Trade Point Development Center
+US	United States
+Universal Service	A set of basic services that must be made available at an affordable price to all users by public or private operators irrespective of the user's geographical location.
+Universalisé Bidirectionnalité Interactivité (UBI)|UBI|Universalisé Bidirectionnalité Interactivité	Canadian interactive cable system established by Videotron in Quebec which is due to launch in September 1995.
+User	A person or organisation using a Telematics Application.
+VSAT	Very-Small-Aperture Terminal (for satellite communications)
+Value Added Service (VAS), Value Added Network Service (VANS)|VANS|VAS|Value Added Network Service|Value Added Service	Services other than those under monopoly may be offered by other service suppliers which use national network as the basic transmission medium but "add value" to the basic transmission facility. What is exactly included in the notion depends on the regulatory situation of each country.
+Video-on demand	Systems that enable the viewers to order and see a given programme at the exact time the viewer specifies. Near-video-on-demand (NVOD) systems approximate this capacity. This can be accomplished by staggering the start of a programme every 15 or 30 minutes.
+Virtual Reality	Computer-based systems that supply the visual and aural effects to project the viewer into an imaginary environment beyond the screen. The user is supplied with computer-generated images and sounds giving the impression of reality. The user interacts with the artificial world by means of sensors and apparatus including helmets ("visiocasque") and gloves which link the user's perceptions and movements and the audio-visual effects. Future work in virtual reality is directed towards increasing the impression of reality, for example by means of 3D images, and transmitting "virtual reality worlds" to users located remotely from the source computer.
+Virus	Small informatics programme able to disrupt the functioning of other programmes.
+Visiopass	It is a decodificator that enables the user to contact a video on demand service.
+WIPO	<A href="http://www.wipo.int" target="_blank">World Intellectual Property Organisation</A> Organisation Mondiale de la Propriété Intellectuelle (OMPI)</SPAN>
+WP	Work Programme
+WTO	<A href="http://www.wto.org/" target="_blank">World Trade Organisation</A>
+WTSC	World Telecommunications Standardisation Conference
+WWW	World Wide Web
+Wide-Area Network (WAN)|WAN|Wide-Area Network	A complement to LAN. A WAN consists of multiple local networks tied together, typically using telephone-company services. WANs may connect users in different buildings or countries.
+e-Content	e-Content* <font color=#B0B0B0>(* EU Programmes)</font><br>\n<A href="http://europa.eu.int/ISPO/econtent/i_Welcome.html">europa.eu.int</A><BR>Promoting European digital content on global networks: Building on the success of INFO2000 and MLIS - Commission sets out to further encourage European digital content. The Information Society Directorate General of the European Commission is to launch several preparatory actions for a joint multi-annual follow-on activity to the INFO2000 and MLIS programmes.
+eEurope Initiative|e Europe Initiative|e-Europe Initiative	<i>e</i>Europe Initiative<br>\nOn 8 December 1999 the European Commission has launched an initiative entitled "<A href="http://europa.eu.int/eeurope/" target="_blank">e-Europe: An Information Society for All</A>", which proposes ambitious targets to bring the benefits of the Information Society within reach of all Europeans. The initiative focuses on ten priority areas, from education to transport and from healthcare to the disabled.
+ec	electronic commerce
+ecom (e-com)|e-com|ecom	electronic commerce

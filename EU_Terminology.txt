@@ -1,0 +1,2112 @@
+##name	EU Terminology
+##sourceLang	English
+##targetLang	Turkish
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1254
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1254
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2002/10/26, 10:16
+##author	SMB
+##email	smbulut@hotmail.com
+##description	
+##browsingEnabled	
+##bgl_creationTime	2002/10/26, 10:15
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+abolish	kaldırmak, lağvetmek
+abolition of obstacles to freedom of movement	dolaşım serbestisini kısıtlayan engellerin kaldırılması
+abolition of restrictions (eec57(3))|abolition of restrictions (eec57	kısıtlamaların kaldırılması
+absence	yokluk, bulunmayış
+absence of an opinion	görüş yokluğu
+absence of customs protection	gümrük korumasının yokluğu
+absolute majority (eec141)|absolute majority	salt çoğunluk
+abstain	Kaçınma
+abuse (eec86)|abuse	kötüye kullanma
+abuse of a dominant position	hakim durumun kötüye kullanılması
+acceptance	kabul
+acceptance of appointment	görev kabulü
+acceptance of appointments	görev kabulü
+access	giriş, girme,katılma; erişim
+accession	katılım
+Accession Partnership	Katılım Ortaklığı Belgesi
+accommodation	konaklama
+accommodation facility	konaklama imkanları
+accord	muvafakat, razı olma; anlaşma; uygunluk
+accorded advantages	tanınan avantajlar
+account	hesap
+account being taken	tutulmakta olan hesap
+Account Experts Board	Hesap Uzmanları Kurulu
+accounting officer (eec209c)|accounting officer	sayman
+accreditation	akreditasyon
+accrue	tahakkuk etmek
+achievement of the task	görevin tamamlanması
+acquis communautaire	Topluluk Müktesebatı
+acquisition	iktisap, kazanım, devralma
+acquisition of shares	hisse iktisabı
+acquittal	beraat
+act	hareket,iş,fiil;belge;kanun,yasa
+act declared void	hükümsüz ilan edilen tasarruf
+act of the Council	Konsey tasarrufu
+act of the Council (Council Act)|act of the Council	Konsey tasarrufu
+acting in accordance with the procedure laid down in Article 252 of the Treaty	Antlaşmanın 252. Maddesinde öngörülen usule uygun şekilde hareket ederek
+action	eylem;dava; davranış;tutum
+action for compensation (ecsc47)|action for compensation	tazminat davası
+action programme	eylem programı
+Active implantable medical devices	Vücuda yerleştirilebilir aktif tıbbi cihazlar
+activity	faaliyet,etkinlik
+activity of the Commission	Komisyon faaliyeti
+actual competitor	fiili rakip
+add	katma, ekleme, ilave
+added value	katma değer
+Additional Protocol (1970)|Additional Protocol	Katma Protokol (1970)
+additive	katkı maddesi
+address	hitap etmek
+administer	idare etmek, yönetmek
+administrative arrangements (ecsc16)|administrative arrangements	idari düzenlemeler
+administrative reform	idari reform
+admission	kabul
+adopt	kabul etmek;kanunlaştırmak (meclis); evlat edinme
+adoption	kabul etme, kanunlaştırma, evlat edinme
+adulteration	tağşiş
+advanced treatment	ileri arıtma
+advantage	fayda,yarar,avantaj
+advertisement	reklam
+advisory commitee on restrictive practices and dominant positions	sınırlayıcı uygulamalar ve hakim durumlar danışma kurulu
+advisory committee	istişari komite, danışma komitesi
+after consulting the Commission	Komisyona danıştıktan sonra
+after the entry into force	yürürlüğe girmesinden itibaren
+agency	kurum,ajans, daire,birim
+agree	kararlaştırmak, anlaşmak, mutabakata varmak
+agreement	anlaşma
+Agreement on Pre-Shipment Inspection	Sevkiyat Öncesi Kontrole İlişkin Anlaşma
+Agricultural and Forestry Tractors	Tarım veya Ormancılıkta Kullanılan Tekerlekli Traktörler
+Agricultural Combat Research Institutes	Zirai Mücadele ve Araştırma Enstitüleri
+agricultural currency unit	tarım hesap birimi
+Agricultural Markets	Tarımsal Piyasalar
+agricultural prices	tarım fiyatları
+Agricultural Quarantine Directorates	Zirai Karantina Müdürlükleri
+agriculture	tarım
+Agriculture Sales Co-Operatives	Tarım Satış Kooperatifleri
+aid	yardım
+air	hava
+air pollution measurement vehicle	hava kirliliği ölçüm aracı
+air transport	hava taşımacılığı
+alignment	uyumlu hale getirme
+alleged infringement of an obligation (eec170(2))|alleged infringement of an obligation (eec170	yükümlülük ihlalinin ileri sürülmesi
+allocate	tahsis etme, dağıtma, pay etme
+allocated appropriation	tahsis edilen ödenek
+allocation	tahsisat, dağıtım
+allocation of funds	fon tahsisatı, fon tahsisi
+allowance	tahsisat, ödenek,aylık bağlama,istihkak, tahsis
+amendment	değiş(tir)me, tadil
+amendment of a provision	bir hükümde değişiklik
+amendment of a provision (eec102(1))|amendment of a provision (eec102	bir hükümde değişiklik
+amendment to a treaty	antlaşmada değişiklik yapılması
+amount	miktar, tutar, meblağ
+amount of a compensation (eaec17(3))|amount of a compensation (eaec17	tazminatın tutarı
+amounts devoted to carrying out the programme	programların gerçekleştirilebilmesi için tahsis edilen meblağ
+Amsterdam Treaty	Amsterdam Antlaşması
+analysis	analiz
+animal	hayvan
+animal health	hayvan sağlığı
+animal health and surveillance	hayvan sağlığı ve zabıtası
+animal health certificate	hayvan sağlığı sertifikası
+animal husbandry	hayvancılık
+animal identification code	hayvan tanımlama kodu
+animal identification system	hayvan kimlik sistemi
+animal passport	hayvan pasaportu
+animal waste	hayvansal atık
+animal welfare	hayvan refahı
+announce	duyurma,ilan
+annual allowance	yıllık ödenek
+annul	iptal etmek
+anxious to (in Resolutions)|anxious to	arzu ederek
+appliance	alet
+Appliances Burning Gaseous Fuels	Gaz Yakan Aletler
+application	tatbik etme, uygulama,başvuru
+application for accession	katılım başvurusu
+application of procedures	usulün uygulanması
+application of the "polluter pays" principle	"kirleten öder" ilkesinin uygulanması
+apply	uygulama; başvurma
+appointment	tayin ; görevlendirme
+apprenticeship school	çıraklık okulu
+appropriate	uygun, münasip
+appropriate supervision	uygun denetim
+appropriate supervision (2)|appropriate supervision	uygun denetim
+appropriation	ödenek
+appropriations	ödeme emri verilen krediler
+approve	onaylama,uygun bulma,kabul etme, tasdik etme
+approves	onaylar
+approving .. (in Recommendations)|approving ..	onaylayarak (Tavsiyelerde)
+approximation	yaklaş(tır)ma
+approximation of laws	mevzuatın yaklaştırılması
+aquaculture	akuakültür, su ürünleri yetiştiriciliği
+arbitration	tahkim, hakemlik
+arbitration clause	tahkim hükmü
+arbitration committee	tahkim komitesi
+Arbitration Committee for Consumer Problems	Tüketici Sorunları Hakem Heyeti
+arbitration procedure	tahkim usulü
+area	alan, bölge
+arrangement	düzenleme, tanzim
+arrangements having similar effect	eş etkili düzenlemeler
+art	sanat; zanaat
+article	madde;
+artisan	küçük sanatkar
+as a precaution	ihtiyati olarak
+as the case may be	duruma göre, halin icabına göre
+assembly charges (Annex III)|assembly charges	montaj masrafları
+assent	rıza, uygun görüş, tasvip
+assent of the authorities	yetkili makamların uygun görmesi ,rızası
+Assent of the European Parliament	Avrupa Parlamentosu Uygunluk Görüşü
+assent procedure	uygun görme usulü
+assessment	değerle(ndir)me, keşif ve takdir etme
+assessment of expenditure	gider tahakkuku
+assessment officer	tahakkuk memuru
+assets	varlıklar, değerler,kıymetler
+assign	ayırma, tahsis/tayin etme, devretme
+assistance	yardım,destek, iane, muavenet
+associated member	ortak üye
+associated state	ortak devlet
+association	ortaklık, birlik; dernek
+Association Agreements	Ortaklık Anlaşmaları
+Association Committee	Ortaklık Komitesi
+Association Council	Ortaklık Konseyi
+Association Institutions	Ortaklık Kurumları
+asylum	iltica, sığınma
+asylum seeker	sığınmacı
+atom	atom
+attain	erişmek, elde etmek, kazanmak
+attainment of the objectives (eec5)|attainment of the objectives	amaçlara ulaşılması
+attorneyship	avukatlık
+audit	murakabe, muhasebe denetimi
+audit on records (TMDF16-3)|audit on records	kayıtların denetimi
+auditor	denetçi, murakıp
+author	yazar, müellif
+author's royalties	telif hakkı
+author's royalties (Annex III)|author's royalties	yazarın telif hakları
+authorising officer (eec209(c))|authorising officer (eec209	ita amiri
+authority	otorite,kurum, makam
+authorization	salahiyet/yetki verme, izin
+authorized dealers in foreign exchange	döviz yetkili kurumlar
+authorizing officer (eec209(c))|authorizing officer (eec209	ita amiri
+automatically void	kendiliğinden hükümsüz
+autonomous arrangements	otonom düzenlemeler
+autonomous tariff	otonom tarife
+autonomy	özerklik
+available balances (eec207)|available balances	kullanılabilir bakiye
+Avrupa Topluluklarýna tek bir Konsey ve tek bir Komisyon kurulmasýna	dair Antlaşma (Birleşme Antlaşması) (1965)
+award	hüküm,karar,yargı; tazminat
+award (decision) of an arbitration board	hakem heyeti kararı
+award of an arbitration board	tahkim kurulu kararı
+aware (in Resolutions)|aware	farkında olarak
+balance	denge; bakiye; bilanço
+balance of payments	ödemeler dengesi
+balance of payments (eec3g)|balance of payments	ödemeler dengesi
+bank	banka
+banking commissions	banka komisyonları
+banking operations	banka işlemleri
+banking operations (transactions)|banking operations	bankacılık işlemleri
+banking profession (eec57(2))|banking profession (eec57	bankacılık mesleği
+banking transactions	bankacılık işlemleri
+basic and advanced vocational training	temel ve ileri düzeyde mesleki eğitim
+basic price	temel fiyat
+basic requirements	temel gerekler
+basis	esas, ilke, kural, temel, prensip
+behalf	adına
+beneficiary	yararlanıcı, istifade eden
+benefit	fayda, istifade, kar, menfaat
+bilateral surveillance	çift taraflı gözetim
+bill	hesap, fatura, senet, poliçe
+bill of lading	konşimento
+Binary and Ternary Fibre Textiles	İkili ve Üçlü Lifli Tekstil Ürünleri
+binding	bağlayıcı
+bio	biyo
+Bio-availability	Biyoyararlanım
+Bio-equivalence	Biyoeşdeğerlik
+Biological Diversity and Natural Resources Management	Biyolojik Çeşitlilik ve Doğal Kaynak Yönetimi
+block exemption	grup muafiyeti
+blood products	kan ürünleri
+board	idare meclisi, kurul
+Board of Advertisement	Reklam Kurulu
+Board of Directors of the Bank	Banka Yöneticiler Kurulu
+Board of Governors of the Bank	Banka Guvernörler Kurulu
+body	birim, organ,kuruluş,kurum
+border	sınır, hudut
+border inspection post	sınır kontrol noktası
+branch of activity	faaliyet dalı
+brand	marka; cins; çeşit
+brand name	marka adı
+bribery	rüşvet
+Brussels Tariff Nomenclature	Brüksel Tarife Nomanklatürü (gümrük tarifelerinin standart sınıflandırılması)
+budget	bütçe
+burden	yük; mesuliyet
+burden-sharing	yük paylaşımı
+by common accord	ortak rızayla, ortak mutabakatla
+by cooption (ecsc19(8))|by cooption (ecsc19	seçim yoluyla
+by means of directives (13(2))|by means of directives (13	direktifler vasıtasıyla, aracılığıyla
+cadastre	kadastro
+calibration	kalibrasyon
+call for tenders	ihale için teklif isteme
+capacity	kapasite; yetenek
+capacity decrease	kapasite indirimi
+capacity utilisation	kapasite kullanımı
+capital	sermaye, fon, anapara
+capital goods	yatırım malları
+capital increase	sermaye artırımı
+carnet	karne
+carried motion	kabul edilen teklif
+case	durum, vaziyet, hal; mesele, vaka, hadise
+case-law of the European Court of Justice	Avrupa Toplulukları Adalet Divanı İçtihadı
+case of infringement	ihlal durumu
+cash	nakit, para, efektif
+cash flow table	nakit akım tablosu
+categories of agreements	anlaşma kategorileri
+categories of aid	yardım kategorileri
+categories of economic activity	ekonomik faaliyet kategorileri
+cause	neden olmak, sebebiyet vermek
+censure	tenkit etmek, eleştirmek
+Central and Eastern European Countries (CEEC)|Central and Eastern European Countries	Merkezi ve Doğu Avrupa Ülkeleri (MDAÜ)
+central bureau for nuclear measurements (eaec8(1))|central bureau for nuclear measurements (eaec8	nükleer ölçümler merkez bürosu
+central government	merkezi hükümet
+centre	merkez
+cereals	tahıl, hububat
+certificate	sertifika, vesika, belge, şahadetname
+certificate of origin	menşe şahadetnamesi
+certificate of warranty	garanti belgesi
+certified copy	onaylı nüsha
+certified councillorship	yeminli mali müşavirlik
+cessation	durma
+cessation of joint control (66(5))|cessation of joint control (66	ortak denetimin sona erdirilmesi
+chapter	bölüm,fasıl
+charge	masraf; ücret;vergi
+chief of disbursement	ita amiri
+circulation	devir;dolaşım
+civil	vatandaşlara ait,sivil, medeni
+civil employment	sivil istihdam
+Civil engineering	İnşaat mühendisliği
+civil law (58(2))|civil law (58	medeni hukuk
+civil liability	hukuki sorumluluk
+civil protection	sivil savunma (afetlere karşı)
+claim	iddia etmek, talep etmek, istemek
+claim for damages (Annex III)|claim for damages	tazminat talebi
+clandestine workers	kaçak işçiler
+classes of undertakings	işletme kategorileri
+clearance	gümrük makbuzu; gümrükleme, tasfiye
+clearance of accounts	hesapların ibrası
+climate	İklim
+climate change	iklim değişikliği
+Climate Change Framework Convention (CCFC)|Climate Change Framework Convention	İklim Değişikliği Çerçeve Sözleşmesi (İDÇS)
+close cooperation	yakın işbirliği
+close of financial year	mali yılın kapanması
+closure of accounts	hesapların kapanması
+cluster	bölgesel işbirliği kümesi (bir sektöre ait)
+co-decision	ortak karar
+co-decision procedure	ortak karar usulü
+co-finance	ortak finansman
+co-opt	seçmek
+coal	kömür
+coal site	kömür sahası
+code	kanun, yasa, kod
+code of conduct	davranış kuralları
+code of good practice	iyi uygulama kodu
+coercive measures (eaec17(1,2))|coercive measures (eaec17	zorlayıcı önlemler
+cohesion	uyum
+Cohesion Fund	Uyum Fonu
+collective	ortak;toplu
+collective bargaining	toplu sözleşme
+combined nomenclature	kombine nomenklatür
+commandites	komandit şirket
+commerce	ticaret
+commercial advertisement	ticari reklam
+commercial announcement	ticari ilan
+commercial property	ticari mülkiyet
+commercial property (eec36)|commercial property	ticari mülkiyet
+commercial usage	ticari teamül
+Commission	Komisyon
+Commission Decision	Komisyon Kararı
+Commission Directive	Komisyon Direktifi
+commission on guarantees	garanti komisyonları
+Commission Proposal	Komisyon Tasarısı
+Commission Recommendation	Komisyon Tavsiyesi
+Commission Regulation	Komisyon Tüzüğü
+Commissioner	Komisyon üyesi (Komiser)
+Commissions of the European Parliament	Avrupa Parlamentosu Komisyonları
+commitment	taahhüt, yüklenme, vaat
+commitment of expenditure	gider taahhüdü
+commitment of expenditures	giderlerin taahhüdü
+committee	komite, heyet
+Committee of Agricultural Organisations in the European Community	Avrupa Topluluğu Tarımsal Kuruluşlar Komitesi
+Committee of Ministers of the Council of Europe	Avrupa Konseyi Bakanlar Komitesi
+Committee of Permanent Representatives (COREPER)|Committee of Permanent Representatives	Daimi Temsilciler Komitesi
+Committee of the Regions	Bölgeler Komitesi
+common	ortak
+Common Agricultural Policy	Ortak Tarım Politikası
+common attitude	ortak tutum
+common customs tariff (9(1))|common customs tariff (9	ortak gümrük tarifesi
+Common Customs Tariff (CCT)|Common Customs Tariff	Ortak Gümrük Tarifesi (OGT)
+Common Customs Tariff nomenclature	ortak gümrük tarife nomenklatürü
+Common Fisheries Policy (CFP)|Common Fisheries Policy	Ortak Balıkçılık Politikası
+Common Foreign and Security Policy (CFSP)|Common Foreign and Security Policy	Ortak Dış ve Güvenlik Politikası (ODGP)
+Common Market	Ortak Pazar
+Common Market Organisations	Ortak Piyasa Düzeni
+common organisation of agricultural markets (eec40(2))|common organisation of agricultural markets (eec40	ortak tarım piyasası düzeni
+Common Policies	Ortak Politikalar
+Common Trade Policy	Ortak Ticaret Politikası
+Common Transit and Single Administrative Document(SAD)|Common Transit and Single Administrative Document	Ortak Transit ve Tek İdari Belge (SAD)
+Common Transport Policy	Ortak (Taşımacılık) Ulaştırma Politikası S
+Common Transportation (Transport) Policy	Ortak (Taşımacılık) Ulaştırma Politikası
+communication	iletişim; tebliğ, haber
+communication to the parties	taraflara tebliğ etme,bildirme
+communiqué	tebliğ
+community	topluluk
+Community Acts	Topluluk kuralları
+community formularies	topluluk formları
+Community Initiative	Topluluk inisiyatifi
+Community Instructions	Topluluk talimatları
+Community Instruments	Topluluk Araçları
+Community Law	Topluluk Hukuku
+Community Legal Instruments	Topluluk hukuki araçları
+Community Legislation	Topluluk mevzuatı
+Community rule	Topluluk kuralı
+Community rules	Topluluk kuralları
+Community Support Framework (CSF)|Community Support Framework	Topluluk Destek Çerçevesi
+Community territory	Topluluk alanı
+Community's own resources	Topluluğun kaynakları
+company	şirket, firma
+company law	şirketler hukuku
+compensation	tazminat,telafi
+compensation for damage (178,151)|compensation for damage	zararın tazmini
+compensatory amount	telafi edici tutar
+compensatory indemnity	telafi edici tazminat
+compensatory levy	telafi edici vergi
+compensatory tax	fark giderici vergi
+competence	salahiyet, yetki; ustalık, yeterlik
+competent authorities in Member States	üye devletlerdeki yetkili makamlar
+competent body	ehil kuruluş
+competing industries (ecsc3(g))|competing industries (ecsc3	rakip sanayiler
+competing undertaking	rakip işletme
+competition	rekabet
+Competition Authority	Rekabet Kurumu
+competition policy	rekabet politikası
+competitive capacity	rekabet gücü
+competitiveness	rekabet edebilirlik
+compilation	derleme
+complementary	tamamlayıcı, bütünleyici
+complementary social security schemes	tamamlayıcı sosyal güvenlik sistemi
+compliance audit	uygunluk denetimi
+component	unsur, parça, bileşen
+compromise	uzlaşma
+compulsorily (81)|compulsorily	zorunlu olarak
+compulsory	mecburi, zorunlu
+computerized database	bilgisayar destekli veritabanı
+concentration	yoğunlaşma
+concerned product	ilgili ürün
+concerted action	uyumlu eylem
+concerted practices	uyumlu eylemler
+condition	koşul, şart
+conditions for loans	ödünç verme koşulları
+conditions of accession	katılım şartları
+conditions of competition	rekabet koşulları
+conduct	davranış; hareket; yürütme
+confer	vermek, tevcih etmek
+conference	konferans, kongre, toplantı
+conferring of powers	yetkilerin verilmesi
+confirm	Tasdik etmek, doğrulamak
+confiscation	elkoyma, müsadere
+conformity	uygunluk
+conformity assessment	uygunluk değerlendirmesi
+conformity assessment and certification bodies	uygunluk değerlendirme ve belgelendirme kuruluşları
+conformity mark	uygunluk işareti
+conformity marking	Uygunluk İşareti
+conjunctural policy (eec103(1))|conjunctural policy (eec103	konjonktür politikası
+conscious that (in Protocol)|conscious that	bilincinde olarak
+consider	mülahaza etmek, göz önünde bulundurmak, mütalaa etmek
+Considering that (in Resolutions)|Considering that	göz önünde tutarak
+Considers	göz önünde tutar
+consolidated liberalization list	Konsolide edilmiş liberasyon listesi
+construction	inşaat
+construction Plant and Equipment	inşaatlarda kullanılan İş Makinaları ve Ekipmanları
+construction products	inşaat malzemeleri
+consultancy	danışmanlık
+consultation	danışma, istişare
+consultation procedure	danışma usulü
+consultative committee	istişari komite,danışma komitesi
+consume	tüketmek
+consumer awareness	tüketici bilinci
+consumer by default	temerrüde düşen tüketici
+Consumer Council	Tüketici Konseyi
+consumer court	tüketici mahkemesi
+consumer credit	tüketici kredisi
+consumer goods	tüketim malları
+consumer protection policy	tüketicileri koruma politikası
+Consumers Consultative Committee (CCC)|Consumers Consultative Committee	Tüketiciler Danışma Komitesi
+contact	temas,ilişki
+contagious	bulaşıcı
+contagious disease	bulaşıcı hastalık
+contaminant	kirletici, bulaşan
+contaminate	bulaştırmak, kirletmek
+contested act	itiraz edilen tasarruf
+contingency plans	acil durum planları
+contract	sözleşme
+contract governed by private law (181)|contract governed by private law	özel hukuk sözleşmesi
+contract governed by public law (181)|contract governed by public law	kamu hukuku sözleşmesi
+contract of limited duration (246(3))|contract of limited duration (246	sınırlı süreli sözleşme
+contract process	sözleşme konusu üretim süreci
+contract product	sözleşme konusu ürün
+contracting parties	akit taraflar
+contractual liability (eec215)|contractual liability	sözleşmeden doğan sorumluluk, akdi sorumluluk
+contractual licences (eaec12(2))|contractual licences (eaec12	sözleşme temelinde verilen lisanslar
+contractual licences(eaec12(2))|contractual licences(eaec12	sözleşmeye ait lisanslar, akitten doğan lisanslar
+contrary to the Treaty	antlaşmaya aykırı
+contributions to the capital (eaec54)|contributions to the capital	sermayeye katılım, sermayeye iştirak
+control	kontrol, denetim
+controls on standards	standart denetimi
+convention	sözleşme
+conversion of an undertaking	bir işletmenin(başka bir üretim için) dönüştürülmesi
+convict	mahkum etmek, suçlandırmak; mahkum
+conviction	Mahkumiyet; kanaat
+convinced that (in Resolutions, in Conventions)|convinced that	...inanarak (ilke kararlarında, uluslararası sözleşmelerde)
+cooperation	işbirliği
+Cooperation in the Fields of Justice and Home Affairs	Adalet ve İçişleri Alanlarında İşbirliği
+cooperation procedure	işbirliği usulü
+cooperation with the institutions	kurumlarla işbirliği
+cooperative society (58)|cooperative society	kooperatif ortaklıkları
+corporate tax	kurumlar vergisi
+correction	düzeltme
+correction amount	düzeltici tutar
+correspondence	yazışma
+corruption	yolsuzluk
+cost	Maliyet
+cost accounting	maliyet muhasebesi
+cost-benefit analysis	fayda-maliyet analizi
+council	konsey; meclis
+Council Common Position	Konsey Ortak Tutumu
+Council Conclusions	Konsey Sonuç Belgesi
+Council Decision	Konsey Kararı
+Council Declaration	Konsey Bildirisi
+Council Directive	Konsey Direktifi
+Council Framework Decision	Konsey Çerçeve Kararı
+Council Joint Action ../../CFSP of ... on ...	../../ODGP Sayılı Konsey Ortak Eylemi
+Council of Europe	Avrupa Konseyi
+Council of European Municipalities	Avrupa Belediyeler Konseyi
+Council of Ministers	Avrupa Birliği Konseyi (Bakanlar Konseyi)
+Council of the European Union	Avrupa Birliği Konseyi (Bakanlar Konseyi)
+Council of the European Union (Council of Ministers)|Council of the European Union	Avrupa Birliği Konseyi (Bakanlar Konseyi)
+Council of the Ministers	Bakanlar Konseyi
+Council Recommendation	Konsey Tavsiyesi
+Council Regulation	Konsey Tüzüğü
+Council Regulation (..)No ../.. of ...	,,,sayılı ve ,,, tarihli Konsey Tüzüğü
+Council Resolution	Konsey İlke Kararı
+counterfeit goods	sahte mal
+countervailing	telafi edici
+countervailing charges in respect of imports	ithalata konan telafi edici vergiler
+countervailing import duties	ithalatta telafi edici vergiler
+countervailing measures (eec99(1))|countervailing measures (eec99	telafi edici önlemler
+country where the establishment is effected (eec52)|country where the establishment is effected	yerleşim ülkesi
+court	mahkeme
+Court of First Instance of the European Communities	Avrupa Toplulukları İlk Derece Mahkemesi
+Court of Justice of the European Communities	Avrupa Toplulukları Adalet Divanı
+Court of Justice of the European Communities (CJEC)|Court of Justice of the European Communities	Avrupa Toplulukları Adalet Divanı (ATAD)
+courts and tribunals	divanlar ve mahkemeler
+credit guarantee fund	kredi garanti fonu
+crime	suç
+cross-border cooperation	sınır ötesi işbirliği
+crude oil	ham petrol
+cultural	kültürel
+cultural assets	kültürel varlıklar
+cultural goods	kültürel mallar
+cumulative multi-stage tax	kademeli vergi
+current account balance	cari işlemler dengesi
+current accounts	cari işlemler
+current financial year (ecsc22(1))|current financial year (ecsc22	içinde bulunulan mali yıl
+current payments (eec67(2))|current payments (eec67	cari ödemeler
+customs	gümrük
+customs arrangement	gümrük düzenlemeleri
+customs barrier(110)|customs barrier	gümrük engelleri
+customs clearance (Annex III)|customs clearance	gümrükleme
+customs code	gümrük kodu
+customs duties (9(1))|customs duties (9	gümrük vergileri
+customs duties accrued on the product	mala tahakkuk eden gümrük vergisi
+customs duties of a fiscal nature (17(1))|customs duties of a fiscal nature (17	mali nitelikli gümrük vergileri
+customs duty exemption	gümrük muafiyeti
+customs protection	gümrük vergileri ile koruma
+customs protection (92(3,c))|customs protection (92	gümrük vergileri ile koruma
+customs receipt (14(4))|customs receipt (14	gümrük makbuzu
+customs regime	gümrük rejimi
+customs territory (19)|customs territory	gümrük bölgesi
+customs union	gümrük birliği
+customs union (9(1))|customs union (9	gümrük birliği
+Customs Union Joint Committee	Gümrük Birliği Ortak Komitesi
+customs value	gümrük kıymeti
+dairy products	süt ürünleri
+damage	zarar
+dangerous substances	tehlikeli maddeler
+data	veri
+data processing	veri işleme
+database	veritabanı
+date	tarih
+deadline	süre bitimi
+debt	borç
+decide	karar vermek
+decision	Karar
+Decision-Making Procedure of the Council of the European Union	AB Konseyi Karar Alma Usulü
+Decision-Making Procedure of the European Community	Avrupa Topluluğu Karar Alma Usulü
+decision of an arbitration board	tahkim kurulu kararı
+decisions of the Court	Divan kararları
+declaration	bildiri
+declaration of intent	niyet bildirisi
+declare	beyan etmek, bildirmek
+deep sea discharge system	derin deniz deşarj sistemi
+defective goods	ayıplı mal
+defective products	ayıplı ürünler
+defer	ertelemek, geciktirmek
+deficit	açık, eksik
+degree of liberalisation (eec31,71(2))|degree of liberalisation (eec31,71	serbestleşme derecesi
+deliver	teslim etmek
+delivery (ecsc4(b))|delivery (ecsc4	mal teslimi
+delivery terms	teslim koşulları
+demand for labour	işgücü talebi
+derived intervention price	belirlenmiş (hesaplanmış) müdahale fiyatı
+Derived Law	ikincil hukuk
+derogation (226(3))|derogation (226	derogasyon
+desiring to	arzusuyla
+desirous of (in Recommendations)|desirous of	arzusuyla (Tavsiyelerde)
+development	gelişme, kalkınma
+development activities	kalkınma faaliyetleri
+device	cihaz
+differ	farklı olmak, benzememek
+difficulty	güçlük
+diploma	diploma
+diploma equivalance	diploma denkliği
+direct	doğrudan
+direct applicability	doğrudan uygulanabilirlik
+direct effect	doğrudan etki
+direct income support	doğrudan gelir desteği
+direct universal suffrage (eec138(3))|direct universal suffrage (eec138	doğrudan genel seçim
+directive	direktif
+disadvantage	dezavantaj; zarar
+disbursement	ödeme, harcama
+disclosure	açıklama
+discounted imports	dampingli ithalat
+discriminate	ayrım yapmak
+discrimination	ayrımcılık
+disguised restrictions	örtülü kısıtlamalar
+dispersed settlement	dağınık yerleşim
+disposal of products ((37(4))|disposal of products ((37	ürünlerin pazara sürümü; ürünlerin (imha) bertaraf edilmesi
+dispose	sürmek
+dispute	tartışma, münakaşa, uyuşmazlık
+distant sales	uzaktan satışlar
+distortion	bozulma
+distribute	dağıtmak
+distributor	dağıtıcı
+diversification	çeşitlendirme
+diversification of resources	kaynakların çeşitlendirilmesi
+document	belge
+domestic	İç,evsel , yerli, yurtiçi
+domestic animals	yerli hayvanlar, evcil hayvanlar
+domestic consumers	yerli tüketiciler
+domestic wastewater	evsel atıksu
+Done at Brussels	Brüksel
+door step selling	kapıdan satışlar
+double-checking regime	çift taraflı kontrol rejimi
+double taxation	çifte vergilendirme
+draft	taslak
+draft budget (eec203(3))|draft budget (eec203	bütçe taslağı
+draft decision submitted by the Commission	Komisyon tarafından sunulan taslak karar
+draft opinion (eec197)|draft opinion	taslak görüş
+drinking water	içme suyu
+drug	uyuşturucu,ilaç
+Drug Addiction Prevention Monitoring and Control Board	Uyuşturucu Bağımlılığı Önleme İzleme ve Kontrol Kurulu
+dumped and subdisied imports	dampingli ve sübvansiyonlu ithalat
+dumping	damping
+dumping of waste at sea	atıkların denize verilmesi
+durable consumer goods	dayanıklı tüketim malları
+duty	vergi; vazife
+duty relief arrangement	gümrük muafiyet düzenlemesi
+earnings	kazanç, kar, gelir, ücret
+EBU-EUROVISION	Avrupa Yayın Birliği
+EC Legislation	AT Mevzuatı
+EC-Turkey Joint Parliamentary Committee	AT-Türkiye Karma Parlamento Komisyonu
+economic	ekonomik
+Economic and Monetary Union (EMU)|Economic and Monetary Union	Ekonomik ve Parasal Birlik
+economic and social cohesion	ekonomik ve sosyal uyum
+Economic and Social Committee	Ekonomik ve Sosyal Komite
+Economic Cooperation Organisation	Ekonomik İşbirliği Teşkilatı
+economic equilibrium (ecsc67(2))|economic equilibrium (ecsc67	ekonomik denge
+economic study committee	ekonomik inceleme komitesi
+ECSC General Decision	AKÇT Genel Kararı
+ECSC Interventions	AKÇT müdahaleleri
+ECSC Recommendation	AKÇT Tavsiyesi
+EEC-Turkey Association Agreement	AET-Türkiye Ortaklık Anlaşması
+effect	etki
+electrical	Elektrikli, elektriksel
+electrical equipment	elektrikli techizat
+electrical material	elektrikli materyaller
+electrical risk	elektriksel risk
+electromagnetic compatibility	elektromanyetik uyumluluk
+elevation difference	yükselti farkı
+elimination of quantitative restrictions	miktar kısıtlamalarının kaldırılması
+emphasises the interest in	önemini (yararını) vurgulayarak
+emphasize	vurgulamak
+employment	istihdam
+Employment Guidelines	İstihdam İlkeleri
+enactment	yürürlüğe girme
+energy	enerji
+energy efficiency	enerji verimliliği
+energy manager	enerji yöneticisi
+Energy Sales and Treasury Guarantee Agreements	Enerji Satış ve Hazine Garantisi Anlaşmaları
+enforcement	icra etme, yürütme
+enjoyment of a right	bir haktan yararlanma
+enlargement	genişleme
+enlargement of quotas	kotaların genişletilmesi
+enlargement of quotas (108(2))|enlargement of quotas (108	kotaların genişletilmesi
+enter into force	yürürlüğe girmek
+enterprise	teşebbüs, işletme, girişim
+entrepreneur	müteşebbis, girişimci
+entrepreneurship	girişimcilik
+entrust	tevdi etmek, vermek
+entrusted tasks	verilen görevler
+entrusted tasks (ecsc48))|entrusted tasks	verilen görevler
+entry	giriş
+entry point	giriş kapısı, giriş noktası
+entry price	giriş fiyatı
+environment	çevre
+Environment Policy	Çevre Politikası
+environmental auditing	çevre denetimi
+Environmental Impact Assessment (EIA)|Environmental Impact Assessment	Çevresel Etki Değerlendirmesi (ÇED)
+Environmental Impact Assessment practices	Çevresel Etki Değerlendirmesi uygulamaları
+environmental mangagement	çevre yönetimi
+epidemic animal diseases	salgın hayvan hastalıkları
+Equilibrium	denge
+equipment	ekipman
+essential objective	esas amaç
+essential requirements	temel gerekler
+establishment	yerleşme, kuruluş
+establishment of a customs union (18)|establishment of a customs union	bir gümrük birliğinin kurulması
+establishment of incorporal rights on property	mülkiyetin gayri ayni hak tesisi
+Euro-Info Centres	Avrupa Bilgi Merkezleri
+EUROCHAMBERS	Avrupa Ticaret ve Sanayi Odaları Birliği
+Europartneriat	Europartneriat (Az Gelişmiş Bölgelerin Gelişmesini Destekleme Programı)
+Europe	Avrupa
+European Agency for Medicinal Products	Avrupa İlaç Ajansı
+European Agency for Safety and Health at Work (EU-OSHA)|European Agency for Safety and Health at Work	Avrupa İş Sağlığı ve Güvenliği Ajansı
+European Agricultural Guidance and Guarantee Fund (FEOGA)|European Agricultural Guidance and Guarantee Fund	Avrupa Tarımsal Yönlendirme ve Garanti Fonu
+European Association of Teachers	Avrupa Öğretmenler Birliği
+European Atomic Energy Community (EAEC-EURATOM)|European Atomic Energy Community	Avrupa Atom Enerjisi Topluluğu (AAET)
+European Atomic Energy Community(EAEC-EURATOM)|European Atomic Energy Community	Avrupa Atom Enerjisi Topluluğu (AAET)
+European Bank of Reconstruction and Development (EBRD)|European Bank of Reconstruction and Development	Avrupa İmar ve Kalkınma Bankası
+European Broadcasting Union	Avrupa Yayın Birliği
+European Broadcasting Union (EBU-EUROVISION)|European Broadcasting Union	Avrupa Yayın Birliği
+European Bureau of Consumers Union	Avrupa Tüketici Birlikleri Bürosu
+European Central Bank	Avrupa Merkez Bankası
+European Charter for Small Enterprises	Küçük İşletmelere Yönelik Avrupa Sözleşmesi
+European Coal and Steel Community (ECSC)|European Coal and Steel Community	Avrupa Kömür ve Çelik Topluluğu (AKÇT)
+European Commission	Avrupa Komisyonu
+European Communities	Avrupa Toplulukları
+European Community (EC)|European Community	Avrupa Topluluğu (AT)
+European Community Civil Servants	Avrupa Topluluğu Memurları
+European Community Funds	Avrupa Topluluğu Fonları
+European Community Institutions	Avrupa Topluluğu Kurumları
+European Community Law	Avrupa Topluluğu Hukuku
+European Community of Consumer Cooperatives (EURO-COOP)|European Community of Consumer Cooperatives	Avrupa Tüketici Kooperatifleri Topluluğu
+European Community Presidency	Avrupa Topluluğu Dönem Başkanlığı
+European Community Statistical Office (EUROSTAT)|European Community Statistical Office	Avrupa Topluluğu İstatistik Ofisi (EUROSTAT)
+European Convention on Cross Border Television	Avrupa Sınır Ötesi Televizyon Sözleşmesi
+European Cooperation in the field of Scientific and Technical Research (COST)|European Cooperation in the field of Scientific and Technical Research	Avrupa Bilimsel ve Teknik Araştırma Alanında İşbirliği
+European Council (Summit)|European Council	Avrupa Birliği (Devlet ve Hükümet Başkanları) Zirvesi
+European Court of Auditors	Avrupa Sayıştayı
+European Court of Justice (ECJ)|European Court of Justice	Avrupa Adalet Divanı
+European Currency Snake	Avrupa Para Yılanı
+European Democratic Group	Avrupa Demokrat Grubu
+European Democratic Union	Avrupa Demokratik Birliği
+European Development Fund(EDF)|European Development Fund	Avrupa Kalkınma Fonu
+European Economic Area (EEA)|European Economic Area	Avrupa Ekonomik Alanı (AEA) (Üye ülkeler+EFTA ülkeleri[Norveç, Liechtenstein, İzlanda]
+European Economic Community (EEC)|European Economic Community	Avrupa Ekonomik Topluluğu (AET)
+European Economic Organisations	Avrupa Ekonomik Örgütleri
+European Electro-technical Standardization	Committee (CENELEC) Avrupa Elektroteknik Standardizasyon Komitesi
+European Electro-technical Standardization Committee (CENELEC)|European Electro-technical Standardization Committee	Avrupa Elektroteknik Standardizasyon Komitesi
+European Environmental Agency	Avrupa Çevre Ajansı
+European Federation of Public Administration	Avrupa Kamu Yönetimi Federasyonu
+European Foundation	Avrupa Vakfı
+European Foundation for Science	Avrupa Bilim Vakfı
+European Foundation for the Improvements of Life and Working Conditions	Avrupa Yaşam ve Çalışma Koşullarını İyileştirme Vakfı
+European Free Trade Association (EFTA)|European Free Trade Association	Avrupa Serbest Ticaret Birliği (EFTA)
+European Hymn	Avrupa Marşı
+European Identity	Avrupa Kimliği
+European Integration	Avrupa Bütünleşmesi
+European Interest Groups	Avrupa Çıkar Grupları
+European Investment Bank (EIB)|European Investment Bank	Avrupa Yatırım Bankası (AYB)
+European League for Economic Cooperation	Avrupa Ekonomik İşbirliği Ligi
+European Monetary Cooperation Fund (FECOM)|European Monetary Cooperation Fund	Avrupa Parasal İşbirliği Fonu
+European Monetary System (EMS)|European Monetary System	Avrupa Para Sistemi
+European Ombudsman	Avrupa Ombudsmanı
+European Organization for Testing and Certification (EOTC)|European Organization for Testing and Certification	Avrupa Test ve Belgelendirme Organizasyonu
+European Parliament	Avrupa Parlamentosu
+European Parliament Internal Regulation	Avrupa Parlamentosu İç Tüzüğü
+European Parliament Resolution	Avrupa Parlamentosu İlke Kararı
+European Parliament Sittings Official Reports	Avrupa Parlamentosu Resmi Oturum Tutanakları
+European Patent Office	Avrupa Patent Ofisi
+European Patent Organisation	Avrupa Patent Örgütü
+European People's Party	Avrupa Halk Partisi
+European Political Cooperation	Avrupa Siyasi İşbirliği
+European Productivity Agency	Avrupa Verimlilik Ajansı
+European Refugee Fund	Avrupa Mülteci Fonu
+European Regional Development Fund (ERDF)|European Regional Development Fund	Avrupa Bölgesel Kalkınma Fonu
+European Regions Council	Avrupa Bölgeler Konseyi
+European Single Market	Avrupa Tek Pazarı
+European Social Fund (ESF)|European Social Fund	Avrupa Sosyal Fonu
+European Space Agency (ESA)|European Space Agency	Avrupa Uzay Ajansı
+European Space Research Organisation (ESRO)|European Space Research Organisation	Avrupa Uzay Araştırma Örgütü
+European Standardization Committee (CEN)|European Standardization Committee	Avrupa Standartlar Komitesi
+European Telecommunication Standards Committee (ETSI)|European Telecommunication Standards Committee	Avrupa Telekomünikasyon Standartları Komitesi
+European Trade Unions Confederation (ETUC)|European Trade Unions Confederation	Avrupa İşçi Sendikaları Konfederasyonu
+European Union (EU)|European Union	Avrupa Birliği (AB)
+European Unit of Account	Avrupa Hesap Birimi
+European University Institute (EUI)|European University Institute	Avrupa Üniversite Enstitüsü
+European Venture-Capital Association (EVCA)|European Venture-Capital Association	Avrupa Risk Sermayesi Birliği
+EUROSTAT	Avrupa Birliği İstatistik Ofisi
+evaluate	değerlendirmek
+evaluation	değerlendirme
+ex-ante evaluation	ön değerlendirme
+Ex-post evaluation	Nihai değerlendirme
+ex-post external audit	harcama sonrası dış mali denetim
+ex post financial audit body	harcama sonrası denetim yapan birim
+ex-post internal audit	harcama sonrası iç mali denetim
+exchange arrangement (eaec182(6))|exchange arrangement (eaec182	kambiyo rejimi
+exchange authorization	kambiyo izni
+excise duties	özel tüketim vergileri
+exclusive distribution agreements	tek elden dağıtım anlaşmaları
+Exclusive Economic Zone (EEZ)|Exclusive Economic Zone	münhasır ekonomik bölge
+exclusive purchasing agreements	tek elden satın alma anlaşmaları
+exclusive right	münhasır hak
+exclusively fiscal nature	münhasıran mali nitelik
+executive power	yürütme yetkisi
+exempting regulation	muafiyet tüzüğü
+exemption	muafiyet
+expand	genişle(t)mek, büyü(t)mek
+expenditure	gider, harcama, masraf
+expenditure order	harcama emri
+expire	sona ermek, süresi dolmak
+exploration license	arama ruhsatı
+exploratory talks	istikşafi görüşmeler
+explosive for civil use	Sivil Amaçlı Patlayıcılar
+export	ihraç
+export levy	ihracat prelevmanı
+export promotion	ihracatın teşviki
+export refunds	ihracat iadesi
+export restrictions	ihracat kısıtlamaları
+export subsidy	ihracat sübvansiyonu (desteği)
+export tax refund	ihracatta vergi iadesi
+export volume	ihracat hacmi
+expulsion	sınır dışı etme
+external	dış
+external debt	dış borç
+external debt monitoring report	dış borç izleme raporu
+external equilibrium (ecsc68(3))|external equilibrium (ecsc68	dış denge
+external financial stability	dış mali istikrar
+extra budgetary fund	bütçe dışı fon
+extracontractual (215(2))|extracontractual (215	sözleşme dışı, akit dışı
+extraordinary session	olağanüstü oturum
+fact	fiil, vaka, olay
+factor	faktör, sebep, etmen, unsur
+factors of production (39(1,a))|factors of production (39	üretim faktörleri
+fail	yapmamak, ihmal etmek
+failure to act	karar verememe
+failure to take decision	karar alamama
+family allowance	aile yardımı
+farm	çiftlik
+farm accounting data network	çiftlik muhasebe veri ağı
+farmer registrations	çiftçi kayıtları
+farmers register system	çiftçi kayıt sistemi
+feasibility	fizibilite, yapılabilirlik
+feasibility report	fizibilite raporu
+feasibility studies	fizibilite çalışmaları
+federation	federasyon
+field work	saha çalışması
+finance	maliye
+Financial Protocol	Mali Protokol
+financial regularity	mali uygunluk
+financial regulation	mali tüzük
+financial regulation (eec209(1,a))|financial regulation (eec209	mali tüzük
+financial statements	mali bildirim
+financial tasks (ecsc51(4))|financial tasks (ecsc51	mali görevler
+financial year	bütçe yıl, mali yıl
+financing investment trust	finansman yatırım ortaklığı
+finished goods (29(c))|finished goods (29	nihai mal
+fiscal	mali
+fish	balık
+fish farm	balık çiftliği
+fisheries co-management	ortak balıkçılık yönetimi
+fisheries management	balıkçılık yönetimi
+fixed capital	sabit sermaye
+fixed component	sabit unsur
+flat and high-quality steel products	yassı ve nitelikli çelik ürünler
+food	gıda, besin
+food safety	gıda güvenliği
+Food Safety Action Plan	Gıda Güvenliği Eylem Planı
+foodstuff laboratories	gıda laboratuarları
+foodstuffs	gıda maddeleri
+For the Council	Konsey adına
+for the purposes set out in Article x	x maddesinde belirtilen amaçlar doğrultusunda
+force	güç, kuvvet
+foreign indebtment	dış borçlanma
+forest	orman
+forestation	ağaçlandırma
+foundation	vakıf, temel
+framework	çerçeve
+franchise agreements	franchise anlaşmaları
+fraud	hile, dolandırıcılık, sahtecilik
+free	serbest
+free circulation (eec9(2))|free circulation (eec9	serbest dolaşım
+free movement of capital (eec3(c))|free movement of capital (eec3	sermayenin serbest dolaşımı
+free movement of goods	malların serbest dolaşımı
+free movement of goods (eec3(c))|free movement of goods (eec3	malların serbest dolaşımı
+free movement of persons (eec3(c))|free movement of persons (eec3	kişilerin serbest dolaşımı
+free movement of services (eec3(c))|free movement of services (eec3	hizmetlerin serbest dolaşımı
+free movement of workers	İşçilerin serbest dolaşımı
+free repair	ücretsiz onarım
+Free Trade Agreement	Serbest Ticaret Anlaşması
+free trade area	serbest ticaret bölgesi
+freedom	serbestlik, özgürlük
+freedom of establishment (eec52)|freedom of establishment	yerleşme serbestliği
+freedom of movement for persons (eec3(c))|freedom of movement for persons (eec3	kişilerin serbest dolaşımı
+freedom of movement for workers	işçilerin dolaşım serbestliği
+freedom of movement for workers (eec48)|freedom of movement for workers	işçilerin dolaşım serbestliği
+freedom of trade	ticaret serbestisi
+freedom to provide services	hizmet edimi serbestisi
+freedom to provide services (eec59)|freedom to provide services	hizmet edimi serbestisi
+fresh resources	yeni kaynaklar
+fuel recycling plant	yakıt geri kazanım tesisi
+full power	tam yetki
+fund	fon
+gainful occupation (eec57(2,3))|gainful occupation (eec57	kazanç getirici faaliyet
+gas	gaz
+gas appliances	Gaz Yakan Aletler
+GATT Subsidies Agreement	GATT Sübvansiyonlar Anlaşması
+General Agreement on Tariffs and Trade (GATT)|General Agreement on Tariffs and Trade	Gümrük Tarifeleri ve Ticaret Genel Anlaşması
+general competence	genel yetki
+general incentive system	genel destek sistemi
+general payments system (eec105(2))|general payments system (eec105	genel ödemeler rejimi
+General Product Safety	Genel Ürün Güvenliği
+general provisions	genel hükümler
+general provisions in the field of technical barriers to trade	Ticarette Teknik Engellerin Kaldırılmasına İlişkin Genel Hükümler
+General Standard of Economic Activities in the European Community (NACE)|General Standard of Economic Activities in the European Community	Avrupa Topluluğunda Ekonomik Faaliyetlerin Genel Sınıflandırılması (NACE)
+Generalised System of Preferences	Genelleştirilmiş Tercihler Sistemi
+genetically modified organisms	genetik olarak yapıları değiştirilmiş organizmalar
+geographical information system	coğrafi bilgi sistemi
+geographical signs	coğrafi işaretler
+geography	coğrafya
+global	global, küresel
+Global Environmental Facility (GEF)|Global Environmental Facility	Küresel Çevre İmkanı
+global warming	küresel ısınma
+globalisation	küreselleşme
+good	iyi
+good laboratuary practice (GLP)|good laboratuary practice	iyi laboratuar uygulamaları (İLU)
+Good Manufacturing Practices (GMP)|Good Manufacturing Practices	İyi İmalat Uygulamaları
+goods	mal, ürün
+goods in free circulation	serbest dolaşımdaki mallar
+govern	hakim olmak, idare etmek
+government accountant	sayman
+grace period	ödemesiz dönem
+grant	hibe, imtiyaz
+grant of licences	lisans verilmesi
+grant of licences by arbitration	tahkim yolu ile lisans verilmesi
+green paper	yeşil kitap
+greenhouse gas	sera gazı
+ground water yield	yeraltı suyu verimi
+guarantee	garanti
+guide price	yönelim fiyatı
+guidelines	kılavuz
+Guidelines of Good Clinical Practice	İyi Klinik Uygulamaları Kılavuzu
+Guidelines of Good Laboratory Practice	İyi Laboratuar Uygulamaları Kılavuzu
+habitat protection	doğal yaşam ortamını koruma
+harmonisation	uyumlaştırma
+harmonization of laws	kanunların uyumlaştırılması
+has adopted this Regulation	işbu tüzüğü kabul etmiştir
+has agreed as follows	aşağıdaki gibi anlaşmıştır
+has decided as follows	aşağıdaki gibi karar vermiştir.
+have agreed on the following provisions (in Convention)|have agreed on the following provisions	aşağıdaki hükümler üzerinde anlaşmıştır (uluslararası sözleşmelerde)
+have decided to conclude this agreement	işbu anlaşmayı imzalamaya karar vermiştir
+having noted (in Resolutions)|having noted	kaydederek
+having regard to	göz önünde tutarak
+hazardous waste	tehlikeli atık
+heading	başlık, pozisyon
+headings and subheadings of the CCT	OGT pozisyon ve alt pozisyonları
+headings of the tariff	tarife pozisyonları
+headings of the tariff (eec26(1))|headings of the tariff (eec26	tarife pozisyonları
+hearing	duruşma
+hearing in court	celse
+hereby adopts this Resolution	işbu ilke kararını kabul etmiştir.
+hereby invites the Commission to ...	Komisyonu ....(yapmaya, etmeye) davet eder.
+hereby recommends Member States	üye devletlere.... (yapmalarını, etmelerini) tavsiye eder.
+hidden (disguised) employment	Gizli işsizlik
+High Authority (ecsc7)|High Authority	Yüce Otorite
+High Contracting Parties	yüksek akit taraflar
+holiday	tatil
+homeopathic products intended for human use	Beşeri homeopatik ürünler
+horizontal legislation	yatay mevzuat
+household appliances	ev aletleri
+identity	kimlik
+illegal immigrants	yasa dışı göçmenler
+illegal workers	yasa dışı işçiler
+illicit use of drugs	yasadışı uyuşturucu madde kullanımı
+imitated goods	taklit mal
+imitation	taklit
+immigrant	göçmen
+immigration	göç
+immovable	taşınmaz mal
+immovable purchased on a time share basis	devre mülk esasında satın alınan taşınmaz
+immunity	dokunulmazlık
+immunological products	immünolojik ürünler
+implement	uygulamak
+implementation of a policy (eec43(2,1))|implementation of a policy (eec43	bir politikanın uygulanması
+implementation of a provision	bir hükmün uygulanması
+implementation of a provision (eec69)|implementation of a provision	bir hükmün uygulanması
+implementing convention (136(1))|implementing convention (136	uygulama sözleşmesi
+implementing institution	uygulayıcı kuruluş
+implementing regulation	uygulama tüzüğü
+implementing regulation (eec48(3,d))|implementing regulation (eec48	yönetmelik
+import	ithalat
+import deposit	ithalat teminatı
+import levy	ithalat prelevmanı
+import regime	ithalat rejimi
+import substitution	ithal ikamesi
+improper action	aykırı davranış, uygunsuz davranış
+in accordance with	uygun olarak
+in camera (225)|in camera	kapalı(gizli) oturum
+in case of urgency	acil durumda
+in cash or in kind (eec119)|in cash or in kind	ayni veya nakdi olarak
+in close contact with	ile yakın ilişkide olarak
+in conformity with the guidelines	kılavuzlara uygun olarak
+in consultation with	danışarak, istişare ederek
+in law or in fact (133(5))|in law or in fact (133	hukuken veya fiilen
+in one's personal capacity (eec194)|in one's personal capacity	kişisel yetkinliği çerçevesinde
+in particular Article(s) ... thereof	özellikle ... numaralı maddelerini ..
+in-situ restructuring	mekanda yeniden yapılanma
+in the event of war	savaş durumunda
+income	gelir
+income tax	gelir vergisi
+indemnity payments	tazminat ödemesi
+indirect tax	dolaylı vergi
+individual	bireysel
+individual earnings (eec39(1,b))|individual earnings (eec39	bireysel kazanç
+individual exemption	bireysel muafiyet
+industrial component	sanayi payı
+industrial good	sınai mal
+industrial plant	endüstri tesisi, sanayi tesisi
+industrial property	sınai mülkiyet
+industrial property (eec36)|industrial property	sınai mülkiyet
+industry	sanayi, endüstri
+Industry Policy	Sanayi Politikası
+infant mortality rate	çocuk ölüm oranı
+inform	haberdar etmek, bilgilendirmek
+information	bilgi
+information-network system	Bilgi-Ağı sistemi
+infrastructure works	altyapı çalışmaları
+infringement	ihlal
+initiate	başlatmak, girişmek
+inland waterway	iç su yolu taşımacılığı
+innovation	yenilik
+Innovation Relay Centres	Yenilik Aktarım Merkezleri
+inspection	teftiş, denetim
+installed capacity	kurulu güç
+institute	enstitü
+institution	kurum
+institutions	kurumlar
+instruction	talimat
+instrument	belge, araç; alet
+instrument of accession (ecsc98)|instrument of accession	katılım belgesi
+instrument of ratification	onay belgesi
+instrument of ratification (247)|instrument of ratification	onay belgesi
+Instruments of the European Community	AT Hukukunun Düzenleme Araçları
+insulation standard	yalıtım standardı
+insurance	sigorta
+insurance contract (98(1))|insurance contract (98	sigorta sözleşmesi, sigorta akdi
+insurance services	sigorta hizmetleri
+intangible goods	gayrimaddi mallar
+Integrated Customs Tariff of the European Communities (TARIC)|Integrated Customs Tariff of the European Communities	Avrupa Toplulukları Entegre Gümrük Tarifesi
+integration	bütünleşme
+Intellectual and Industrial Property	Fikri ve Sınai Mülkiyet
+intend	niyet etmek
+intending to ...	niyetiyle
+inter-enterprise agreement	şirketler arası anlaşma
+inter-regional differences in terms of development	bölgeler arası gelişmişlik farkları
+interdiction of smuggling	kaçakçılığın men edilmesi
+interest	menfaat, çıkar; yarar
+interest rate	faiz oranı
+Intergovernmental Conference	Hükümetlerarası Konferans
+interim	geçici, muvakkat
+Interim Agreement (1973)|Interim Agreement	Geçici Anlaşma
+interim measures (ecsc66(5,3))|interim measures (ecsc66	geçici önlemler
+Interim Protocol (1963)|Interim Protocol	Geçici Protokol
+Interim Regulation	Geçici Tüzük
+intermediate goods	ara malları
+internal market	iç pazar
+international	uluslar arası
+international arbitration	uluslar arası tahkim
+International Court of Justice (ICJ)|International Court of Justice	Uluslar arası Adalet Divanı
+international standardization organizations	uluslararası standardizasyon kuruluşları
+interpret	yorumlamak
+intervention	müdahale
+intervention price	müdahale fiyatı
+interventions on the agricultural market	tarım piyasasına müdahaleler
+introduce (eec14(3))|introduce (eec14	yürürlüğe koymak; getirmek, başlatmak
+introductory guidelines	tanıtma kılavuzları
+invested capital	yatırıma dönüştürülmüş sermaye
+investigate	araştırmak
+investigation	araştırma
+investment	yatırım
+investment allowance	yatırım indirimi
+investment authorisation	yatırım izni
+investment authorization	yatırım izni
+investment certificate	teşvik belgesi
+invite	davet etmek
+inward processing procedure	dahilde işleme usülü
+inward processing regime	dahilde işleme rejimi
+irrespective of the provisions of the Article x	x maddesi hükümlerinden bağımsız olarak
+issuing payment order	verile emri
+It shall apply from ... to ...	.. den ... e kadar uygulamada kalır
+it shall expire on ..	uygulama süresi ... tarihinde dolar
+items of the tariff	tarife kalemleri
+joint	karma, ortak
+joint action	ortak eylem
+joint commission (committee)|joint commission	karma komisyon (komite)
+joint financing (6)|joint financing	ortak finansman
+Joint Parliamentary Commission	Karma Parlamento Komisyonu
+joint position	ortak tutum
+Joint Principles	Ortak İlkeler
+joint stock company	anonim şirket
+joint venture	ortak girişim
+journal	gazete
+judgment	yargı, hüküm
+judgment of the Court of Justice	Adalet Divanı kararı
+judicial	adli, tüzel, kanuni
+judicial cooperation	adli işbirliği
+jurisdiction	yargı yetkisi
+jurist consult (eec167(1))|jurist consult (eec167	hukuk danışmanı
+justice	adalet
+Justice and Home Affairs (JHA)|Justice and Home Affairs	Adalet ve İçişleri
+label	etiket
+labelling	etiketleme
+labelling of domestic appliances	ev aletlerinin etiketlendirilmesi
+laboratory	laboratuar
+laboratory certification	laboratuar belgelendirmesi
+labour	İşgücü iş, çalışma
+labour force	iş gücü
+labour force participation rate	işgücüne katılım oranı
+labour market	iş gücü piyasası
+labour requirements	iş gücü gereksinimi
+land	arazi, toprak
+land arrangement	arazi düzenlemesi
+land consolidation	arazi toplulaştırılması
+land filling	düzenli depolama
+land registration system	arazi kayıt sistemi
+land use plan	arazi kullanım planı
+last product	son ürün
+law	hukuk, yasa, kanun,mevzuat
+law enforcement personnel	yasa uygulayıcıları
+Law on the Protection of Cultural and Natural Heritage	Kültür ve Tabiat Varlıklarını Koruma Kanunu
+legal	kanuni, yasal, adli
+legal arrangement	yasal düzenleme
+legal capacity	hukuki ehliyet
+legal conformity	yasal uygunluk, hukuki uygunluk
+legal instruments	hukuki araçlar
+legal personality	tüzel kişilik
+Legislation	mevzuat, yasama, kanun yapma
+Legislation of the European Communities	Avrupa Toplulukları Mevzuatı
+less favoured region	en az gelişmiş bölge
+level	seviye, düzey
+level of activity (ecsc58(2))|level of activity (ecsc58	iş hacmi
+level of employment (104)|level of employment	istihdam düzeyi
+level of prices (eec104)|level of prices	fiyat düzeyi
+levy	vergi,prelevman
+liability	sorumluluk, mükellefiyet
+liberal professions	serbest meslekler
+liberalisation	serbestleştirme
+liberalisation of banking services (eec 61(2))|liberalisation of banking services (eec 61	banka hizmetlerinin serbestleşmesi
+liberalisation of movement of capital (eec 61(2))|liberalisation of movement of capital (eec 61	sermaye dolaşımının serbestleştirilmesi
+liberalization of banking services (eec 61(2))|liberalization of banking services (eec 61	banka hizmetlerinin serbestleşmesi
+liberalization of foreign trade	dış ticaretin serbestleştirilmesi
+liberalization of movement of capital (eec 61(2))|liberalization of movement of capital (eec 61	sermaye dolaşımının serbestleştirilmesi
+liberalization of payments (eec106(1))|liberalization of payments (eec106	ödemelerin serbestleştirilmesi
+liberalization of services (eec106(2))|liberalization of services (eec106	hizmetlerin serbestleşmesi
+licence	lisans, ruhsat
+lifting and mechanical handling appliances	Kaldırma ve Mekanik Taşıma Araçları
+lignite pit	linyit işletmesi
+limit	limit, sınır, had
+limitation of noise emission	gürültü sınırlandırılması
+limited liability companies	limited şirket
+liquidation	tasfiye
+loan	ödünç, borç
+local distribution company	yerel dağıtım şirketi
+local government	yerel yönetim
+Lomé Convention (1975)|Lomé Convention	Lomé Sözleşmesi
+long	uzun
+long steel production	uzun çelik üretimi
+long-term commitments (61)|long-term commitments	uzun vadeli taahhütler
+loss	zarar, kayıp
+lump sum price	götürü bedel
+Luxemburg Compromise (1966)|Luxemburg Compromise	Lüksemburg Uzlaşması (1966)
+maintanence	bakım, tamir,idame
+maintanence service	bakım hizmeti
+majority	çoğunluk
+make	yapmak
+mandatory	zorlayıcı, zaruri
+mandatory instructions (eec194)|mandatory instructions	(zorlayıcı) talimat
+manufacture	imalat
+manufactured goods	mamul mallar
+manufacturing industry	imalat sanayi
+maritime	denizciliğe ait
+maritime freight (Annex III)|maritime freight	navlun
+market	pazar,piyasa
+market inspection	piyasa denetimi
+market price	piyasa fiyatı
+market share threshold	pazar payı eşiği
+market surveillance	piyasa gözetimi
+marketing	pazarlama
+material	madde
+maternity insurance	Analık sigortası
+mayor	belediye başkanı
+measure	önlem, ölçüm
+measurement station	ölçüm istasyonu
+measures taken by the Council	Konsey tarafından alınan önlemler
+measuring instruments	ölçü aletleri
+medical and allied professions (eec57(2))|medical and allied professions (eec57	hekimlik ve yardımcı hekimlik meslekleri
+medical devices	tıbbi cihazlar
+medicinal products/ pharmaceuticals	tıbbi ürünler
+medicine	ilaç
+medicine for humans	beşeri ilaçlar
+Mediterranean	Akdeniz
+Medpartneriat	Akdeniz Ortaklığı
+meet	bir araya gelmek, buluşmak
+member	üye
+Member of the Commission	Komisyon üyesi
+member state	üye devlet
+member states shall abstain from ...	üye devletler ..den kaçınırlar
+member states shall retain the right	üye devletler.. Hakkını saklı tutar
+membership criteria	üyelik kriterleri
+memorandum	zabıt,andıç
+memorandum of understanding	mutabakat zaptı
+merge	birleşmek
+merger	birleşme
+Merger Treaty (1967)|Merger Treaty	Birleşme Antlaşması (1967)
+method	metod, yöntem
+method of calculation (eec40(3))|method of calculation (eec40	hesaplama yöntemi
+methods of cooperation (eec162(1)|methods of cooperation (eec162	işbirliği yöntemleri
+methods of sampling and analysis	numune alma ve analiz yöntemleri
+metrology	metroloji
+Mid-term evaluation	Ara değerlendirme
+migrant worker	göçmen işçi
+minimal amount	asgari tutar
+misleading advertisement	aldatıcı reklam
+misuse of powers (173)|misuse of powers	yetkinin kötüye kullanılması
+mode	usul, koşul, şart
+mode of assessment	değerlendirme usulleri
+mode of collection	tahsil usülleri
+modified cash system	uyarlanmış nakit esası
+monetary	parasal
+money	para
+money laundering	kara paranın aklanması
+monitor	izlemek, denetlemek
+monopolies delegated by the state to others (eec37(1))|monopolies delegated by the state to others (eec37	Devletçe yetkili kılınan tekel
+monopoly	monopol, tekel
+Most Favoured Nation(MFN)|Most Favoured Nation	En Çok Kayrılan Ülke
+motion	önerge, teklif
+motion of censure	gensoru
+motor vehicles	motorlu taşıtlar
+movable and immovable cultural and natural properties	taşınır ve taşınmaz kültür ve tabiat varlıkları
+moveable property	menkul mallar
+movement	dolaşım, hareket
+Movement Certificates	Dolaşım Belgeleri
+Multi Annual Programme for Enterprise and Entrepreneurship	İşletmeler Çok Yıllı Programı
+Multi-Fibre Agreement (MFA)|Multi-Fibre Agreement	Çok Elyaflılar Anlaşması
+multilateral trade negotiations	çok taraflı ticaret müzakereleri
+municipal	belediyeye ait
+municipal committee	belediye encümeni
+municipal council	belediye meclisi
+municipality	belediye
+mutual	karşılıklı
+mutual advantage (eec18)|mutual advantage	karşılıklı yarar
+mutual assistance	karşılıklı yardım
+mutual assistance (eec108(1,2))|mutual assistance (eec108	karşılıklı yardımlaşma
+mutual preferential regime	karşılıklı tercihli rejim
+mutual recognition	karşılıklı tanıma
+mutual recognition (eec220)|mutual recognition	karşılıklı tanıma
+nation	ulus
+national authority (eec192)|national authority	ulusal makam
+National Development Plan (NDP)|National Development Plan	Ulusal Kalkınma Planı
+National Energy Conservation Centre (NECC)|National Energy Conservation Centre	Ulusal Enerji Tasarrufu Merkezi (UETM)
+National Environmental Action Plan (NEAP)|National Environmental Action Plan	Ulusal Çevre Eylem Planı (UÇEP)
+national park	milli park
+nationals (eec58,59)|nationals	uyruklar
+nationals of a Member State	bir Üye Devletin uyrukları
+nationals of a Member State (eec157(1))|nationals of a Member State (eec157	bir Üye Devletin uyrukları
+natural assets	doğal varlıklar
+natural disaster	doğal afet
+natural spring water	doğal kaynak suyu
+nature	doğa
+nature monuments	doğal anıtlar
+nature park	doğal park
+nature protection zone	doğa koruma alanı
+negative clearance	menfi tespit
+negotiation	müzakere, görüşme
+New Approach Directives	Yeni Yaklaşım Direktifleri
+Nice Treaty	Nice Antlaşması
+noise	gürültü
+noise pollution	gürültü kirliliği
+nomenclature	nomenklatür
+Nomenclature of Units for Territorial Statistics (NUTS)|Nomenclature of Units for Territorial Statistics	İstatistiki Bölge Birimleri Sınıflandırması
+non-budgetary public spending	bütçe dışı kamu harcaması
+non-contractual liability (eec215)|non-contractual liability	sözleşme dışı sorumluluk
+non-discrimination principle	ayrımcılık yapmama ilkesi
+non-patented	patenti alınmamış
+non-profit	kar amacı gütmeyen
+non-tariff barriers to trade	ticarette tarife dışı engeller
+normal bona fide commercial practice (eec AnnexIII)|normal bona fide commercial practice	iyiniyetli ticari uygulama
+note	not, kaydetmek
+notes	dikkat eder, kaydeder
+notification	bildirim
+notification of inter-enterprise agreement	şirketler arası anlaşmaya ilişkin bildirim
+Notified Bodies Logistics Support (NBLS)|Notified Bodies Logistics Support	Yetkilendirilmiş Kuruluşlara Lojistik Destek
+notified body	onaylanmış kuruluş
+noting that...(in Recommendations)|noting that...	Kaydederek (Tavsiyelerde)
+noxious chemical substances	zararlı kimyasal maddeler
+nuclear	nükleer
+nullification of tariffs	gümrük vergilerinin sıfırlanması(kaldırılması)
+oath	ant, yemin
+objective	amaç, gaye
+objectives laid down in Article x (14(6))|objectives laid down in Article x (14	madde x de yer alan amaçlar
+obligation	yükümlülük
+obligations arising from their duties	görevlerinden kaynaklanan yükümlülükler
+occupation	uğraş,meslek
+occupational accident	iş kazası
+occupational disease (eec118)|occupational disease	meslek hastalığı
+occupational mobility (eec123)|occupational mobility	mesleki hareketlilik
+occupational safety	iş güvenliği
+occupational safety (ecsc55(1))|occupational safety (ecsc55	iş güvenliği
+occupational standards	meslek standartları
+office	büro, işyeri, bölüm, daire
+office of President (eec146(2))|office of President (eec146	Başkanlık makamı
+official	resmi
+official authorities	resmi makamlar
+official correspondence	resmi yazışma
+Official Journal of the European Communities(EUR-OP, OPOCE)|Official Journal of the European Communities	Avrupa Toplulukları Resmi Gazetesi
+Official Journal of the European Communities(OPOCE)|Official Journal of the European Communities	Avrupa Toplulukları Resmi Gazetesi
+oil	petrol
+Oil Market Regulatory Authority	Petrol Piyasası Düzenleyici Kurumu
+oil/gas transmission	petrol/gaz taşınması
+Old Approach Directives	Klasik Yaklaşım Direktifleri
+on a non-discriminatory basis	ayrımcı olmayan bir temelde
+on a reciprocal basis	karşılıklılık temelinde
+on an equitable basis	hakkaniyet temelinde
+on behalf of the Governments of the Member States	Üye devletlerin hükümetleri adına
+on grounds of urgency	acil niteliği nedeniyle
+on its behalf	kendi adına
+on its own initiative	kendiliğinden
+One Stop Shop	Bir Hizmet Sürecinin Tümünün tek Bir Müessese Tarafınca üstlenilmesi
+open session	kamuya açık oturum
+opened quota	açık kota
+operating accounts	işletme hesapları, faaliyet hesabı
+operating license	işletme ruhsatı
+operating right	işletme hakkı
+operation	işlem, işletim,faaliyet
+opinion	görüş
+order	emir, talimat
+ordinary partnership	adi ortaklık
+organic waste	organik atık
+organise	örgütlemek
+organised crime	örgütlü suç
+organism	organizma
+orientation price	yönelim fiyatı
+origin	menşe, köken
+original acts	esas belgeler
+Outward Processing Regime	Hariçte İşleme rejimi
+overall balance of payments (eec104)|overall balance of payments	genel ödemeler dengesi
+own	kendi,öz
+own resources (eec201(1))|own resources (eec201	öz kaynaklar
+ownership	mülkiyet
+package tour	paket tur
+paid holiday scheme (eec120)|paid holiday scheme	ücretli izin
+paid-up capital	ödenmiş sermaye
+paper	gazete,araştırma, etüd,kitap
+paragraph	fıkra
+parent company (eec Annex III)|parent company	ana firma
+parliament	parlamento
+Partial European Agreements	Avrupa Kısmi Anlaşmaları
+partial replacement	kısmi yenileme
+partnership	ortaklık
+party	parti, taraf
+pasture	mera
+patent	patent
+paying agency	ödeme kuruluşu
+payment	ödeme
+payment of expenditures	giderlerin ödenmesi
+payment order	ödeme emri
+pecuniary obligation (eec192)|pecuniary obligation	parasal yükümlülük
+pecuniary reparation	para ile tazmin
+penal provision	cezai hükum
+penal sanction	cezai yaptırım
+penalty (eec172)|penalty	ceza, yaptırım
+people	halk
+perfect competition	tam rekabet
+perform	ifa etmek
+performance audit	performans denetimi
+performance reserve	performans rezervi
+period	dönem
+periodical settlement	periyodik ödeme
+periodical settlement (eec AnnexIII)|periodical settlement	periyodik ödeme
+permanent	daimi
+Permanent Representatives Committee (COREPER)|Permanent Representatives Committee	Daimi Temsilciler Komitesi
+permissible noise level	izin verilebilir gürültü düzeyi
+permit	izin
+person	kişi, birey
+personal liability (eec215)|personal liability	kişisel sorumluluk
+personal protective equipment	kişisel korunma ekipmanları
+pharmaceutical	farmasötik
+pharmaceutical preparations	farmasötik müstahzarlar
+pharmaceutical professions (eec57(2))|pharmaceutical professions (eec57	eczacılık meslekleri
+Phytosanitary	Bitki Sağlığı
+pirated goods	korsan mal
+pit	maden ocağı, kuyu
+place	yer
+place of origin (60(1))|place of origin (60	menşe yeri
+placing on the market	piyasaya arz
+plan	plan
+plant	tesis, fabrika,bitki
+plant health	bitki sağlığı
+plant species	bitki türü
+plenipotentiary	tam yetkili temsilci
+Plurilateral agreements	Çoklu anlaşmalar
+point	nokta, kapı
+policy	politika
+pollute	kirletmek
+polluter pays principle (PPP)|polluter pays principle	kirleten öder prensibi
+pollution prevention	kirliliğin önlenmesi
+population	nüfus
+position	durum, pozisyon,konum
+power	güç, yetki
+power to take decisions (eec145)|power to take decisions	karar alma yetkisi
+powers which are conferred upon it by this Treaty	iş bu antlaşma gereği verilen yetkiler
+practice	uygulama, adet, usul,eylem
+pre-accession strategy	katılım öncesi stratejisi
+pre-court settlement body	mahkeme öncesi çözüm organı
+pre-court settlement body (arbitration)|pre-court settlement body	mahkeme öncesi çözüm organı
+precaution	ihtiyat
+predatory pricing	yıkıcı fiyat uygulaması
+preference	tercih
+preferential companies	ayrıcalıklı şirketler
+preferential regime	tercihli rejim
+preferential trade	tercihli ticaret
+prejudice	halel, zarar
+prejudiced interests (eaec83)|prejudiced interests	zarar gören çıkarlar
+preliminary	ön
+Preliminary Authorisation	Ön müsaade
+Preliminary Authorization	Ön izin (topluluk mevzuatından süreli muafiyet)
+preliminary ruling	ön karar
+preliminary rulings of the Court	ön karar
+premium	prim ; ek ücret
+prenotified acceptance system (Rotterdam Convention)|prenotified acceptance system	ön bildirimli kabul sistemi (Rotterdam Sözleşmesi)
+president	başkan
+President of the European Parliament	Avrupa Parlamentosu Başkanı
+price	fiyat
+price differences	fiyat farkları
+price fixing	fiyat tespiti
+price index	fiyat endeksi
+prima facie (eaec16(2))|prima facie (eaec16	ilk bakışta, ilk intıba üzerine, vehleten
+Primary Law	Birincil Hukuku
+principle	prensip, ilke
+principle of progressivity	aşamalılık ilkesi
+prior approval	ön onay
+prior authorization	ön izin
+priority regions for development	kalkınmada öncelikli yöreler
+Private Consumption Tax	Özel Tüketim Vergisi
+private property	özel mülkiyet
+privilege	imtiyaz
+privileged position (ecsc66(2)|privileged position (ecsc66	ayrıcalıklı konum
+procedure	usul,süreç
+procedure for revising	gözden geçirme usülü
+procedure for revising (eec44(3))|procedure for revising (eec44	gözden geçirme usülü
+proceedings	duruşma, dava; müzakere; zabıtname, raporlar,tasarruf,hüküm
+proceedings in which a regulation is in issue (eec184)|proceedings in which a regulation is in issue	tüzüğün geçersizliğinin ileri sürüldüğü duruşma
+proceedings of the Parliament	parlamentonun tasarrufları
+process	ameliye, işlem,süreç
+processed agricultural goods	işlenmiş tarım ürünleri
+product	ürün
+product liability	ürün sorumluluğu
+product safety	ürün güvenliği
+production restitution	üretim iadesi
+productivity	verimlilik
+products of the soil	toprak ürünleri
+products of the soil (eec38(1))|products of the soil (eec38	toprak ürünleri
+profession	meslek
+professional	mesleki
+professional disease list	mesleki hastalıklar listesi
+professional occupation (eec193)|professional occupation	serbest meslek
+professional secrecy (eec214)|professional secrecy	meslek sırrı
+profit	kar
+profit and loss account	kar zarar hesabı
+profit-making company	kar amacı güden şirket
+profit-making company (firm)|profit-making company	kar gayesi güden şirket
+profitability	karlılık
+programme	program
+programming	programlama
+progressive expansion of the trade	ticaretin giderek artması
+progressive expansion of the trade (eec44(2))|progressive expansion of the trade (eec44	ticaretin giderek artması
+prompt alarm systems	hızlı alarm sistemleri
+proof of preferential origin	tercihli menşe kanıtı
+property	mülkiyet
+proposal	tasarı
+propose	önermek
+proposed agreement	önerilen anlaşma
+proposed agreement (eaec103)|proposed agreement	önerilen anlaşma
+proposed measures	öngörülen önlemler
+proposed measures (eec93(3))|proposed measures (eec93	öngörülen önlemler
+prosper	refaha ermek, başarmak
+prosperity of people	halkın refahı
+protection	koruma,savunma
+protective measures	koruyucu önlemler
+protective measures (eec73(1,1))|protective measures (eec73	koruyucu önlemler
+protocol	protokol
+provide	temin etmek, sağlamak
+provision	hüküm
+provisions laid down by regulation	tüzükle düzenlenen hükümler
+provisions of the Act	kanun hükümleri
+psychotropic substances	psikotrop maddeler
+public	kamu
+public awareness	kamu bilinci
+public debt accountant	kamu borçlarından sorumlu sayman
+public expenditure	kamu harcamaları
+Public Financial Management Information System (PFMIS)|Public Financial Management Information System	Kamu Mali Yönetimi Bilişim Sistemi (KMYBS)
+public health	genel sağlık
+public interest	kamu yararı
+public morality	genel ahlak
+public offerings	halka arz
+public opinion	Kamuoyu
+public order	kamu düzeni
+public participation	halkın katılımı
+public policy	kamu düzeni
+public procurement	kamu alımları
+public procurement law	kamu ihale kanunu
+public sector	kamu sektörü
+public security	kamu güvenliği
+public service	kamu hizmeti
+public service concession agreements	kamu hizmeti imtiyaz anlaşmaları
+public undertaking	kamu işletmesi
+publicity	tanıtım, ilan
+purchase	satın almak
+purchase price	satın alma fiyatı
+purchasing transaction	satın alma işlemi
+purpose	amaç
+purpose of association	ortaklığın gayesi
+put	koymak
+qualification	nitelik
+qualified majority	nitelikli çoğunluk
+qualifying period	girme süresi
+qualifying period (49 b)|qualifying period	girme süresi
+quality	nitelik, kalite
+quality assurance equipment	kalite güvence ekipmanı
+quorum	toplantı karar yeter sayısı, nisap
+quota	kota
+quota increase	kotaların artırılması
+quota restrictions	kota kısıtlamaları
+rate	oran
+ratification	onay
+raw materials	hammadde
+readmission	geri kabul
+real estate investment trust	gayrimenkul yatırım ortaklığı
+rearing animals	yetiştirme amaçlı hayvanlar
+reason	neden, gerekçe
+reasoned decision	gerekçeli karar
+reasoned submissions	gerekçeli mütalaa
+receiving environment	alıcı ortam
+recognise	tanımak
+Recognising ...	kabul ederek,bilincinde olarak (Uluslararası sözleşmelerde)
+recognition of professional qualifications	mesleki niteliklerin tanınması
+recommendation	tavsiye
+reconcile	uzlaştırmak
+reconciliation	uzlaştırma
+record	kayıt
+record of the proceedings	hükümlerin kaydı
+rectify	düzeltmek, tashih etmek
+recyclable waste	geri kazanılabilir atık
+recycling and disposing of wastes	atıkların geri dönüşümü ve imha edilmesi
+redress	ödeme,tazminat
+reduction	azaltma, indirim
+reduction of customs duties	gümrük vergilerinin indirilmesi
+reference price	referans (gösterge) fiyatı
+referring to the Council Act of .. (in Convention)|referring to the Council Act of ..	... sayılı ve tarihli Konsey tasarrufuna atıfta bulunarak
+refine	arıtmak, inceltmek
+refinery	rafineri
+refugee	mülteci
+refund	para iadesi
+refund of money	para iadesi
+regard	nazar, itibar;saygı
+regime	rejim
+region	bölge
+regional discrepancies	bölgesel farklılıklar
+regional disparities	bölgesel farklılıklar
+regional or local authorities	bölgesel ya da yerel yönetimler
+regional or local authorities (eec68(3))|regional or local authorities (eec68	bölgesel ya da yerel yönetimler
+regional union	bölgesel birlik
+register	kaydetmek
+registered capital	kayıtlı sermaye
+registered office	tüzel merkez
+registered office (eec58)|registered office	tüzel merkez
+regulation	tüzük
+regulation declared void	iptal edilen tüzük
+regulation declared void (eec174(2))|regulation declared void (eec174	iptal edilen tüzük
+Regulation on Environmental Impact Assessment	Çevresel Etki Değerlendirmesi Tüzüğü
+Regulation on Noise Control	Gürültü Kontrol Tüzüğü
+relation	ilişki
+relevant market for the contract products	sözleşme konusu ürünler pazarı
+relief from (free of) customs duties	gümrük vergilerinden muafiyet
+remain	kalmak
+remediation of water quality	su kalitesinin iyileştirilmesi
+remedy	çare,deva, ilaç
+remission	affetme, bağışlama, hafifletme, indirim
+remuneration	ücret
+renew	yenilemek
+renewable energy resources	yenilenebilir enerji kaynakları
+renovation	yenileme
+repair	onarmak
+repair charges	onarım masrafları
+repair charges (Annex III)|repair charges	onarım masrafları, tamir giderleri
+repair service	onarım hizmeti
+reparation	onarım; tazminat
+repayment	iade, geri ödeme
+repayment of internal taxation	iç vergi iadesi
+repayment of taxation	vergi iadesi
+repayment schedule	geri ödeme planı
+repeal	yürürlükten kaldırmak
+replace	yerine başkasını koymak, ikame etmek
+replacement of goods	malın yenisi ile değiştirme
+replacing product	ikame ürün
+report	rapor
+represent	temsil etmek
+required majority (eec8(4)|required majority (eec8	gerekli çoğunluk
+required qualifications	gerekli nitelikler
+requirement	ihtiyaç,şart
+research	araştırma
+Research and Development (R&D) Policy	Araştırma -Geliştirme Politikası
+residence	ikametgah, konut
+residence permit	oturma izni
+resident	mukim, ikamet eden
+residue	artık,kalıntı
+residues	geri dönüşümsüz atıkların güvenli bertaraf edilmesi
+resign	istifa etmek, çekilmek
+resolution	ilke kararı
+resource	kaynak
+responsibility	sorumluluk
+restitution	ihracat iadesi
+restriction	kısıtlama
+restructure	yeniden yapılandırmak
+restructuring	yeniden yapılandırma
+retention of legal personality (eec220)|retention of legal personality	tüzel kişiliğin korunması
+revenue-producing monopoly (eec90(2))|revenue-producing monopoly (eec90	mali tekel
+review	gözden geçirmek
+review of financial statements	mali bildirimlerin incelenmesi
+revise	revize etmek, gözden geçirmek
+revolve	döndürmek
+revolving fund	döner sermaye
+right	hak
+right of access	girme hakkı, katılma hakkı; erişim hakkı
+right of association	dernek kurma hakkı
+right of association (118(1))|right of association (118	dernek kurma hakkı
+right of establishment	yerleşme hakkı
+right to benefit	yararlanma hakkı
+right to benefit (51(a))|right to benefit (51	yararlanma hakkı
+risk assessment systems	risk değerlendirme sistemleri
+risk audit	risk denetimi
+risk capital	risk sermayesi
+road vehicles	karayolu taşıtları
+royalties	telif hakkı ödemeleri
+royalty	telif ücreti
+rule	kural
+rules governing the system of property ownership (eec222)|rules governing the system of property ownership	mülkiyet rejimi
+rules of civil procedure	medeni usul hukuku kuralları
+rules of civil procedure (eec192(2))|rules of civil procedure (eec192	medeni usul hukuku kuralları
+rules of procedure	usul kuralları
+rules of procedure (eec140(4))|rules of procedure (eec140	usul kuralları
+rules on competition	rekabet kuralları
+ruling	hüküm, karar
+rural	kırsal
+rural development	kırsal kalkınma
+rural population	kırsal nüfus
+safe disposal of nonrecoverable waste	geri dönüşümsüz atıkların güvenli bertaraf edilmesi
+safe disposal of nonrecoverable waste, residues	geri dönüşümsüz atıkların güvenli bertaraf edilmesi
+safe product	güvenli ürün
+safeguard	korunma
+safeguard the interests of the Community (ecsc37)|safeguard the interests of the Community	Topluluk çıkarlarının korunması
+safeguards	korunma önlemleri
+safety	güvenlik, emniyet
+safety controls on imports	ithalattaki güvenlik kontrolleri
+sale	satış
+sales campaign	kampanyalı satışlar
+sales on credit	taksitli satışlar
+sanction	yaptırım
+save	den başka, ancak, yalnız
+save as otherwise provided	aksine hüküm olmadıkça
+save for the exceptions or derogations provided for (eec8(7))|save for the exceptions or derogations provided for (eec8	öngörülen istisnalar ya da sapmalar saklı kalmak kaydıyla
+Schengen Agreement	Schengen Anlaşması
+school	okul
+science	bilim
+scope	alan, kapsam
+scope of a measure (eec109(1))|scope of a measure (eec109	önlemin kapsamı
+scope of application	uygulama alanı
+scope of the licence(19)|scope of the licence	ruhsatın kapsamı
+screen	eleme, tarama
+screening procedures	tarama işlemi
+sea	deniz
+sea pollution	deniz kirliliği
+seat	mevki; üyelik; koltuk(parlamento)
+second	ikinci
+Secondary Law	İkincil Hukuku
+secrecy	gizlilik
+secret advertisement	gizli reklam
+Secretariat General of the Council (of the European Union)|Secretariat General of the Council	AB Konseyi Genel Sekreterliği
+sector	sektör, bölge, mıntıka
+sectoral guidelines	sektörel kılavuz
+Sectoral Policies	Sektörel Politikalar
+securities	menkul kıymetler
+securities investments associations	menkul kıymetler yatırım ortaklıkları
+securities investments funds	menkul kıymetler yatırım fonları
+security	güvenlik
+security information form	güvenlik bilgi formu
+security measures	güvenlik önlemleri
+security measures(eaec24(1))|security measures(eaec24	güvenlik önlemleri
+seed capital	çekirdek/başlangıç sermayesi
+seize	zapt etmek, ele geçirmek
+seizure	zaptetme
+sell	satmak
+semi-finished goods (29)|semi-finished goods	yarı nihai mal
+semi-fiscal transaction	yarı mali işlem
+Semiconductor products	Yarı iletken maddeler
+sensitive products	hassas ürünler
+serious misconduct (160)|serious misconduct	vazifeyi suiistimal
+service	hizmet
+session	oturum,toplantı
+Session of the Council of Ministers	Bakanlar Konseyi Toplantısı
+set-off	karşılık olarak koymak
+set-off period	mahsup dönemi
+settlement	yerleşim; tanzim; ödeme,çözüm
+settlement of disputes	anlaşmazlıkların halli
+settlement of payments	ödeme için onay verme
+shanty settlements	kaçak yapılaşma
+should the Commission find	Komisyon ... saptayabilirse
+should the infringement be repeated	cürümün yinelenmesi durumunda
+simple majority	basit çoğunluk
+single administrative document	tek idari belge
+Single European Act (SEA)|Single European Act	Avrupa Tek Senedi
+sluicegate price	set fiyatı
+small	küçük
+small and medium size enterprises (SMEs)|small and medium size enterprises	küçük ve orta ölçekli işletmeler (KOBİ)
+SME Action Plan Framework	KOBİ Eylem Planı Çerçevesi
+SME Finance Facility	KOBİ Finansman İmkanı
+smuggle	kaçakçılık yapmak
+smuggling	kaçakçılık
+social	sosyal
+social insurances	sosyal sigortalar
+social policy	sosyal politika
+social security	sosyal güvenlik
+soil	Toprak
+sole article	tek madde
+sources of finance	finansman kaynakları
+South East European Stability Pact	Güney Doğu Avrupa İstikrar Paktı
+space	uzay
+special	özel
+special and differential treatment	özel ve ayrıcalıklı muamele
+Special Council of Ministers	Bakanlar Özel Konseyi
+special provisions	özel hükümler
+specialisation agreement	ihtisaslaşma anlaşması
+specialised agency	uzmanlaşmış kurum
+specialised agency (eec229)|specialised agency	uzmanlaşmış kurum
+specialised courts	ihtisas mahkemeleri
+Specially Protected Environment Areas	özel çevre koruma alanı
+spend	harcamak
+spirit drinks	alkollü içecekler
+stamp tax	damga vergisi
+standard	standart
+standardisation	standardizasyon
+Standing Committee for Economic and Commercial Cooperation	Ekonomik ve Ticari İşbirliği Daimi Komitesi
+state	devlet
+state aids	devlet yardımları
+State Auditing Board of the Presidency	Devlet Denetleme Kurulu
+state monopolies	devlet tekeli
+state monopolies of commercial character	ticari nitelikli devlet tekelleri
+state resources	devlet kaynakları
+state subsidies	devlet sübvansiyonu
+statement	beyan
+statement of general compliance	genel uygunluk bildirimi
+status of a body (eec177(1,c)|status of a body (eec177	bir kurumun statüsü
+steel	çelik
+stockfarming	besicilik
+stockfarming (38(1))|stockfarming (38	besicilik
+storage charges (Annex III)|storage charges	depolama masrafları
+strategy	strateji
+Structural Funds	Yapısal Fonlar
+structural harmonisation	yapısal uyumlaştırma
+structure	yapı
+sub-heading	alt-pozisyon
+subcommittees	alt komiteler
+subcontracting	alt sözleşme, taşeronluk
+subject to the conditions	öngörülen koşullara bağlı olarak
+submit	teslim etmek, tevdi etmek
+subparagraph	bent
+subsidiarity principle	yetki ikamesi ilkesi
+subsidiary	şube
+subsidised imports	subvansyonlu ithalat
+substance	madde; öz
+such as	gibi
+sufficient time	yeterli süre
+summit	zirve
+summit meetings	zirve toplantıları
+superstructure	üstyapı
+supervision	denetleme,denetim,murakabe, teftiş, gözetim
+supervision of manufacture	imalat denetimi
+supervision of manufacture (annex III)|supervision of manufacture	imalat denetimi
+supplement	eklemek, ilave etmek
+supplementary obligations	ek yükümlülükler
+supplementary obligations (eec86(d)|supplementary obligations (eec86	ek yükümlülükler
+supply	sağlamak, temin etmek, tedarik etmek
+supply contract	tedarik sözleşmesi
+supply contract (53(2))|supply contract (53	tedarik sözleşmesi
+supply of labour	iş gücü arzı
+suppression of terrorism	terörizmin durdurulması
+supra-national	uluslarüstü
+Supreme Auditing Board of the Prime Ministry	Başbakanlık Yüksek Denetleme Kurulu
+surface waters	yüzeysel sular
+surveillance	gözetme, nezaret, denetleme, teftiş
+suspend	askıya almak
+suspension	askıya alma
+suspicious financial transactions	şüpheli mali işlemler
+sustainability	sürdürebilirlik
+sustainable development	sürdürülebilir kalkınma
+system	sistem
+take	almak
+talk	konuşma, görüşme
+target price	hedef fiyat
+tariff	tarife
+tariff barriers	tarife engelleri
+tariff concessions	tarife tavizleri
+tariff description	tarifenin tanımı
+tariff headings	tarife pozisyonları
+tariff headings (eec19(5))|tariff headings (eec19	tarife pozisyonları
+tariff quotas	tarife kotaları
+task	görev
+task of inspection	teftiş görevi
+task of inspection (ecsc86(4)|task of inspection (ecsc86	teftiş görevi
+tasks assigned to it by the Commission	Komisyon tarafından kendisine verilen görevler
+tax	vergi
+tax controller	vergi kontrolörü
+tax exemption	vergi muafiyeti
+tax expenditure	vergi gideri
+tax expenditures	vergi gideri
+taxation	vergilendirme
+technical	teknik
+technical regulation	teknik düzenleme
+technical specification	teknik şartname
+telecommunication	telekomünikasyon
+telephone switchboard capacity	telefon santralı kapasitesi
+temporary	geçici
+temporary admission	geçici kabul
+temporary export	geçici ihracat
+tender	İhale, teklif
+tendering procedure	ihale usulü
+term	müddet, süre, vade, devre
+term of office	görev süresi
+term of office (eec158)|term of office	görev süresi
+term of the license	ruhsat süresi
+terms of reference	çalışma şartnamesi
+territory	toprak,ülke,bölge
+territory of the Member States of the European Union	Avrupa Birliği üye devletlerinin alanı
+terror	terör
+testing, certification and inspection institutions	test, belgelendirme ve muayene kuruluşları
+text	metin
+textiles	tekstil ürünleri
+The European Court of Auditors	Avrupa Sayıştayı
+the initiative of ...(Member State)|the initiative of ...	.... devletinin girişimi
+the interpretation in dispute	tartışmalı yorum
+the licence shall be deemed void	ruhsat geçersiz sayılır
+the licence shall be deemed void (eaec22)|the licence shall be deemed void	ruhsat geçersiz sayılır
+the provision of the Articles 9 to 15	9 ila 15. Maddelerin hükümleri
+the purpose of this directive is to..	bu direktifin amacı ..
+the right to move freely	serbestçe yer değiştirme hakkı
+the right to move freely (48(3-b))|the right to move freely (48	serbestçe yer değiştirme hakkı
+the seat of the institutions	kurumların merkezi
+the seat of the institutions (eec216)|the seat of the institutions	kurumların merkezi
+The Sixth Research and Technological Development Framework Programme	Altıncı Araştırma ve Teknoloji Geliştirme Çerçeve Programı
+the Staff Regulations of Officials of the European Communities	Avrupa Toplulukları Görevlileri Personel Tüzüğü
+The text of the Agreement is attached to this Regulation	Antlaşmanın metni bu tüzüğe eklidir.
+the votes cast	kullanılan oylar
+thermal	termik
+thermal power plant	termik santral
+they shall apply these provisions from ...	bu hükümleri .. den itibaren uygularlar
+they shall forthwith inform the Commission thereof	Komisyonu durumdan derhal haberdar eder
+third party proceedings	üçüncü şahısların açtığı dava
+this decision is addressed to the Member States	bu karar üye devletlere hitap eder
+this decision shall take effect on	bu karar ... tarihinden itibaren geçerlidir.
+This Regulation shall be binding in its entirety and directly applicable in the Member	Bu Tüzük üye devletlerde bütünüyle bağlayıcıdır ve doğrudan uygulanır.
+This Regulation shall be binding in its entirety and directly applicable in the Member States	Bu Tüzük üye devletlerde bütünüyle bağlayıcıdır ve doğrudan uygulanır.
+This Regulation shall enter into force on	Bu tüzük ... tarihinde yürürlüğe girer.
+threshold price	eşik fiyatı
+threshold value	eşik değer
+time	zaman, süre
+time-share holiday contract	devreli tatil sözleşmesi
+TIR (International Road Transport)|TIR	Uluslararası Karayolu Taşımacılığı (TIR)
+tissue	doku
+tissue-typing reagents	doku tipleyici ayıraçlar
+Title	başlık
+title-deed	tapu
+title deed- cadastre system	tapu-kadastro sistemi
+to abolish customs duties	gümrük vergilerini kaldırmak
+to abstain from any measure	her türlü tedbirden kaçınmak
+to accord advantages	avantaj tanımak
+to agree to a right	bir hakkı onamak
+to alter in accordance with the provisions set out below (eec8(1))|to alter in accordance with the provisions set out below (eec8	aşağıda yer alan hükümlere uygun olarak değiştirmek
+to alter the time limit (ecsc42)|to alter the time limit	süreyi değiştirmek
+to amend provisions	hükümleri değiştirmek
+to apply (make) a reduction	bir indirim uygulamak(yapmak)
+to apply (make) a reduction (eec14(1,2,b))|to apply (make) a reduction (eec14	bir indirim uygulamak(yapmak)
+to apply in its entirety (eec23(3))|to apply in its entirety (eec23	bütünüyle uygulamak
+to assign tasks to the Commission	Komisyonu görevlendirmek
+to attain its objectives	amaçlarına ulaşmak
+to be a party to legal proceedings (eec211)|to be a party to legal proceedings	davaya taraf olmak
+to be conditional upon	koşuluna bağlıdır
+to be responsible for	sorumlu olmak
+to be such as to	nitelikte olmak
+to bring an action (before the Court) (eec170(2))|to bring an action (before the Court) (eec170	dava açmak
+to bring an action for an infringement (eec170(2))|to bring an action for an infringement (eec170	bir ihlal üstüne dava açmak
+to bring offers of employment into touch with applications for employment	iş gücü arzı ve talebini bir araya getirmek
+to bring the infringement to an end (eec89(2))|to bring the infringement to an end (eec89	ihlale son vermek
+to carry out continuous monitoring (35)|to carry out continuous monitoring	sürekli bir denetimin sağlanması
+to cause a damage	zarar vermek
+to cause a disadvantage	bir zarara sebep olmak
+to choose by lot (eec167)|to choose by lot	kura yoluyla seçmek
+to claim a compensation (eaec27(3))|to claim a compensation (eaec27	tazminat istemek
+to conclude an agreement	anlaşma yapmak
+to conduct negotiations	müzakereleri yürütmek
+to confer powers	yetki vermek
+to confer rights	hak vermek
+to confer the responsibilities	sorumluluk vermek
+to confine oneself to making a recommendation	bir tavsiye oluşturmakla sınırlı olmak
+to constitute the committee	komiteyi oluşturmak
+to declare a concentration unlawful	bir yoğunlaşmanın hukuka aykırılığını saptamak
+to defer the decision (ecsc90(1))|to defer the decision (ecsc90	kararı ertelemek
+to deliver opinion (236)|to deliver opinion	görüş bildirmek
+to determine by negotiations (eec20(1))|to determine by negotiations (eec20	müzakere yolu ile saptamak
+to direct research towards sectors	araştırmaları sektörlere yönlendirmek
+to dispose of property	malları satmak
+to dispose of the production (59)|to dispose of the production	üretimi sürmek; üretileni imha etmek, elden çıkarmak
+to draw up a treaty	bir antlaşma kaleme almak
+to encounter difficulties (26)|to encounter difficulties	güçlüklerle karşılaşmak
+to enter into negotiations (220)|to enter into negotiations	müzakerelere başlamak
+to entrust a task	bir görev vermek
+to evade the obligations (eaec104)|to evade the obligations	yükümlülüklerden kaçınmak
+to evaluate all relevant factors	bütün ilgili faktörleri değerlendirmek
+to fail to act (eec175)|to fail to act	harekete geçememek
+to fail to fulfil an obligation (eec169)|to fail to fulfil an obligation	bir yükümlülüğü yerine getirememek
+to form associations	ortaklıklar oluşturmak
+to fulfil a condition (eec160)|to fulfil a condition	bir koşulu yerine getirmek
+to give a ruling	karar vermek(mahkemelerde)
+to give judgment (eec177(2))|to give judgment (eec177	bir hüküm vermek
+to grant a remission	bir indirim uygulamak
+to grant a repayment	geri ödeme yapmak
+to grant a repayment (eec98)|to grant a repayment	geri ödeme yapmak
+to grant loans and to give guarantees (eec130)|to grant loans and to give guarantees	borç ve garantiler vermek
+to have a binding force (eec189(5))|to have a binding force (eec189	bağlayıcı olmak
+to have an infringement established	ihlalin saptanması
+to have financial autonomy (54(1))|to have financial autonomy (54	mali özerkliğe sahip olmak
+to have jurisdiction in disputes (eec178)|to have jurisdiction in disputes	uyuşmazlıklara bakma yetkisi
+to have jurisdiction to give preliminary rulings	ön yargılama yoluyla karar vermeye yetkili olmak
+to hear on oath	yeminli ifade almak
+to impose a pecuniary obligation	parasal bir yükümlülük yüklemek
+to include a chapter on	bir bölümü ... konusuna ayırmak
+to initiate the procedure (eec93(2,3))|to initiate the procedure (eec93	süreci başlatmak
+to institute proceedings (ecsc37)|to institute proceedings	bir davayı Divana getirmek
+to investigate a case ((89(1))|to investigate a case ((89	bir durumu soruşturmak, bir davayı soruşturmak
+to involve an advantage	bir avantaj içermek
+to issue a loan (68(3))|to issue a loan (68	borç vermek
+to issue securities	menkul kıymet ihraç etmek
+to make a regulation	bir tüzük çıkarmak
+to make a regulation (eec189(1))|to make a regulation (eec189	bir tüzük çıkarmak
+to make applicable (eaec48)|to make applicable	uygulanabilir kılmak
+to make good a damage (eec92(b))|to make good a damage (eec92	zararı gidermek
+to obtain redress	bir tazminat almak
+to perform a task	bir görevi yerine getirmek
+to possess a right of veto	veto hakkına sahip olmak
+to proceed by common action (eec116(1))|to proceed by common action (eec116	ortak bir davranış izlemek
+to promote relations	ilişkileri geliştirmek
+to provide non-repayable aid	geri ödemesiz bir yardım sağlamak
+to put into effect	uygulamaya koymak
+to put into effect (eec93(3))|to put into effect (eec93	uygulamaya koymak
+to put into force	yürürlüğe koymak
+to record an infringement	yasa ihlalinin kaydı
+to rectify a decision	bir kararı düzeltmek
+to rectify a decision (eec44(4))|to rectify a decision (eec44	bir kararı düzeltmek
+to regard a policy	bir politikayı değerlendirmek
+to remain in office	görevde kalmak
+to remain in office (eec159(3))|to remain in office (eec159	görevde kalmak
+to remedy a situation	bir durumu düzeltmek
+to renew agreements	anlaşmaları yenilemek
+to renew agreements (eaec104(1))|to renew agreements (eaec104	anlaşmaları yenilemek
+to repeal provisions	hükümleri feshetmek
+to resign as a body	toplu olarak istifa etmek
+to result a procedure in a decision	sürecin bir kararla sonuçlandırılması
+to review the legality of acts of the Council (173(1))|to review the legality of acts of the Council (173	Konsey tasarruflarının hukuka uygunluğunu denetlemek
+to revoke an authorization (ecsc65(2))|to revoke an authorization (ecsc65	bir izni yürürlükten kaldırmak
+to run only from this date (244(3))|to run only from this date (244	bu tarihten itibaren işlemeye başlar
+to safeguard the continuity of employment (ecsc2)|to safeguard the continuity of employment	istihdamın devamlılığını korumak
+to safeguard the interests of the Community (ecsc37)|to safeguard the interests of the Community	Topluluk çıkarlarının korunması
+to seek instructions (157(2))|to seek instructions (157	talimat almak
+to set out principles (131(3))|to set out principles (131	ilkeleri belirlemek
+to set up a committee ((105(1,2))|to set up a committee ((105	komite kurmak
+to sit in plenary session	Genel Kurul halinde toplanmak
+to subject the correspondence to censorship	haberleşmeyi sansüre tabi tutmak
+to submit a dispute to the Court of Justice (eec182)|to submit a dispute to the Court of Justice	bir uyuşmazlığı Adalet Divanına götürmek
+to suspend the measures	önlemleri askıya almak
+to suspend the measures (eec109(3))|to suspend the measures (eec109	önlemleri askıya almak
+to sustain development	gelişmeyi sürdürmek
+to table a motion of censure (144)|to table a motion of censure	gensoru önergesi vermek
+to take a decision	karar almak
+to take a decision (33(2))|to take a decision (33	karar almak
+to take an oath	ant içmek
+to take care not to prejudice the financial stability (eec6)|to take care not to prejudice the financial stability	mali istikrarı tehlikeye düşürmemeye dikkat etmek
+to take up an activity	meslek edinmek
+to waive immunity	dokunulmazlığı kaldırmak
+TOOR	işletme hakkı devri
+Tourism	turizm
+trade	ticaret
+trade balance deficit	dış ticaret açığı
+trade in goods	mal ticareti
+trade in goods (9(1))|trade in goods (9	mal ticareti
+trade registry	ticaret sicili
+trading companies	ticari şirket
+traffic	trafik; ticaret, alışveriş
+training	eğitim
+transaction	işlem
+Transboundary Environmental Impact Assessment Convention	Sınıraşırı Çevresel Etki Değerlendirmesi Sözleşmesi
+transboundary movement of pollutants	kirleticilerin sınır ötesi taşınımı
+transfer	devretmek, aktarmak
+transfer of operating rights	işletme hakkı devri
+transfer of operating rights (TOOR)|transfer of operating rights	işletme hakkı devri
+transfer of the seat of a company or firm	bir şirket merkezinin yer değiştirmesi
+transfer of the seat of a company or firm (eec229(4))|transfer of the seat of a company or firm (eec229	bir şirket merkezinin yer değiştirmesi
+transfer of undertaking	İşletme devri
+transit	transit
+transit charges	transit geçiş vergileri
+transport	taşımacılık, ulaştırma
+transport policy	ulaştırma politikası
+transposition	aktarım
+treasury domestic payments accountant	hazine iç ödemeler saymanı
+treasury transactions report	hazine işlemleri raporu
+treatment	arıtma
+treatment facility	arıtma tesisi
+treaty	antlaşma
+Treaty establishing a Single Council and a Single Commission of the European	Communities (Merger Treaty) (1965)
+Treaty establishing the European Atomic Energy Community	Avrupa Atom Enerjisi Topluluğunu Kuran Antlaşma
+Treaty establishing the European Coal and Steel Community	Avrupa Kömür ve Çelik Topluluğunu Kuran Antlaşma
+Treaty establishing the European Community	Avrupa Topluluğunu Kuran Antlaşma
+Treaty establishing the European Economic Community	Avrupa Ekonomik Topluluğunu Kuran Antlaşma
+Treaty of Maastricht	Avrupa Birliği Antlaşması (AB Antlaşması 1991 Maastricht Antlaşması)
+Treaty of Paris	Avrupa Kömür ve Çelik Topluluğunu Kuran Antlaşma (Paris Antlaşması 1951)
+Treaty of Rome	Avrupa Ekonomik Topluluğunu Kuran Antlaşma (Roma Antlaşması 1957)
+Treaty on European Union (TEU)|Treaty on European Union	Avrupa Birliği Antlaşması (AB Antlaşması)
+Treaty on the European Union	Avrupa Birliği Antlaşması (AB Antlaşması 1991 Maastricht Antlaşması)
+turnkey lump sum price	anahtar teslimi götürü bedel
+turnover tax	(iş hacmi), ciro vergisi
+type approval laboratory	tip onay laboratuarı
+type examination laboratory	tip inceleme laboratuarı
+unanimity	oybirliği
+unanimous approval	oybirliği ile onay
+unanimously	oybirliğiyle
+under-developed areas (eec80(2))|under-developed areas (eec80	az gelişmiş bölgeler
+under their jurisdiction	kendi yargı yetkileri dahilinde
+underemployment	eksik istihdam
+undertaking	işletme, teşebbüs, girişim
+undertakings entrusted with the operation	işin idaresi ile yükümlü işletmeler
+unemployed	işsiz
+unemployment	İşsizlik
+unfair competition	haksız rekabet
+unfair competitive practices (ecsc60)|unfair competitive practices	haksız rekabet uygulamaları
+unfair terms in consumer contracts	tüketici sözleşmelerindeki haksız koşullar
+union	birlik
+Union of Industrial and Employer's Confederations of Europe(UNICE)|Union of Industrial and Employer's Confederations of Europe	Avrupa Sanayici ve İşveren Konfederasyonları Birliği
+Union of Industrial and Employers Confederations of Europe(UNICE)|Union of Industrial and Employers Confederations of Europe	Avrupa Sanayici ve İşveren Konfederasyonları Birliği
+Union of Industries of the European Community	Avrupa Topluluğu Sanayileri Birliği
+unit	birim
+unit of measurement	ölçü birimi
+unit of measurement (eec119(3,a))|unit of measurement (eec119	ölçü birimi
+unit price	birim fiyat
+unlimited company (general partnership)|unlimited company	kollektif şirket
+unlimited jurisdiction (eec172)|unlimited jurisdiction	tam yargı yetkisi
+unregistered employment	kayıt dışı istihdam
+up to the amount of their share of capital	kendi sermaye hisselerine düşen miktarına kadar
+urban	kentsel
+urban and industrial waste	kentsel ve endüstriyel atıklar
+urban population	kentsel nüfus
+urgent	acil
+Uruguay Round Multilateral Trade Negotiations	Uruguay Turu Çoktaraflı Ticaret Müzakereleri
+use	kullanmak
+use of free loan	karşılıksız olarak; hibe
+use on free loan	karşılıksız olarak
+user's manual	kullanım kılavuzu
+utility water	kullanma suyu
+vade-mecum	elkitabı
+value	değer
+variable component	değişken unsur
+vehicle	araç
+venture capital	risk sermayesi
+verification	tahkik
+verification of financial statements	mali bildirimin tahkiki
+verification of licences	ruhsatların tahkiki
+veterinary products	veterinerlik ürünleri
+veto	veto
+visa	vize
+vocation	meslek
+vocational rehabilitation	mesleki rehabilitasyon
+vocational retraining	mesleki yeniden eğitim
+vocational training	mesleki eğitim
+void	hükümsüz
+vote	oy kullanmak
+wage	ücret
+wage level	ücret düzeyi
+wage level (eec125(1,b))|wage level (eec125	ücret düzeyi
+waive	kaldırmak
+war	savaş
+warn	uyarmak
+warning level	uyarı düzeyi
+warranty	garanti
+waste	atık
+waste oils	atık yağlar
+waste water treatment facility	atık su arıtma tesisi
+water	su
+watermarked visa label	filigranlı vize etiketi
+wetland	sulak alan
+when Member States adopt these measures	üye devlet bu önlemleri kabul ettiğinde
+where appropriate	uygun olduğu hallerde
+whereas	...dığından
+white paper	beyaz kitap
+wildlife protection areas	yaban hayatı koruma alanı
+withdraw	geri çek(il)mek
+withdrawal of the marketed product	ürünün piyasadan toplatılması
+within	içinde, içerisinde
+within the framework of the task	görev çerçevesinde
+within the limits of its power	yetkileri dahilinde
+within the limits of the powers conferred by this treaty	işbu antlaşma tarafından kendisine verilen yetkiler dahilinde
+within the prescribed time	tanınan süre içinde
+within the terms of the judgment of the Court	divan kararı (hükmü) çerçevesinde
+within three months of the date of	itibaren üç aylık bir süre içinde
+without prejudice to the provisions	hükümler saklı kalmak koşuluyla
+work	iş
+work at piece rates	parça başına çalışma
+work at time rates	zaman esasına gö
+World Trade Organisation (WTO)|World Trade Organisation	Dünya Ticaret Örgütü (DTÖ)
+WTO Ministerial Declaration on Trade of the Information Technology Products	DTÖ Bilgi Teknolojisi Ürünleri Ticaretine İlişkin Bakanlar Deklarasyonu
+Ýllegal trafficking in drugs	yasadışı uyuşturucu madde ticareti
+ýnsurance premium	sigorta primi

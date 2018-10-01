@@ -1,0 +1,21 @@
+##name	Wikipedia English - The Free Encyclopedia
+##sourceLang	English
+##targetLang	English
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##author	Babylon Ltd.
+##copyright	� This article uses material from <b>Wikipedia<sup>�</sup></b> and is licensed under the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GNU Free Documentation License</a> and under the <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"> Creative Commons Attribution-ShareAlike License</a>
+##description	This is the English language <a href="http://en.wikipedia.org/wiki/Main_Page"><b>Wikipedia</b><sup>�</sup></a>. Wikipedia is a multilingual, Web-based, free-content encyclopedia. It is written collaboratively by volunteers with wiki software, meaning articles can be added or changed by nearly anyone.
+##browsingEnabled	
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_creationTime	2005/05/10, 12:04
+##bgl_middleUpdated	2014/11/24, 14:11
+##bgl_lastUpdated	2014/11/24, 14:11

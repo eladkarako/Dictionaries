@@ -1,0 +1,340 @@
+##name	English to Hebrew Idioms & slang
+##sourceLang	English
+##targetLang	Hebrew
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1255
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1255
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2004/01/11, 19:27
+##author	Yael Sela-Shapiro
+##description	This glossary compiles many English and American idioms and provides hebrew translation, both in high prose and slang.
+##browsingEnabled	
+##bgl_creationTime	2002/06/28, 10:56
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+absent mindedly|absent minded	בהיסח הדעת
+according to Hoyle	לפי כל כללי המשחק
+alarmus and excursion	תהפוכות, קלחת
+albatross|millstone around the neck	כאבן ריחיים על הצוואר
+all and sundry	הכל מכל כל
+all his worldly goods|All her worldly goods|All his worldly goods|All one's worldly goods|All their worldly goods|worldly goods	כל רכושו עלי אדמות
+all in the same boat|all in one boat	כולם באותה סירה<BR>
+all in this together	(כולנו) באותה קלחת
+all wool and a yard wide	שופרא דשופרא, משובח
+ancestral acres	נחלת אבות / ארץ אבות<BR>
+ants in one's pants	קוצים בתחת
+apple of one's eye|Apple of her eye|Apple of his eye|Apple of my eye|Apple of our eye|Apple of their eye	בבת עינו
+as good as dead	חשוב בכמת
+as the crow line|as the crow flies	בקו ישיר, מעוף הציפור<BR>
+ashamed|shame	בוש להודות
+at breakneck speed|breakneck speed	במהירות מסחררת
+at one's fingertips|At her fingertips|At his fingertips|At my fingertips|At one's fingertips|At our fingertips|At their fingertips|fingertips	על קצה / בקצה האצבעות
+at the crack of dawn|crack of dawn	עם הנץ החמה / השכם בבוקר / עם הזריחה
+at the earliest	לכל המוקדם
+at the time	בשעתו
+at the tip of one's tongue|at the tip of his tongue|at the tip of my tongue|at the tip of the tongue	על קצה הלשון<BR>
+avoid like the plague|plague	לברוח כמו מאש / ממגפה
+back and fill	להסס
+back to square one|Back to the drawing table|back to the drawing board	חזרה לנקודת המוצא / להתחלה / להתחיל מאפס
+bag of bone	גרוגרת ד'רבי צדוק, "שחיף" , רזה
+bag of tricks	הפתעות מלוא הטנא
+barkis is willin'	מוכן ומזומן; נכון לבצע<BR>
+be all things to all men	להאיר / להסביר פנים<BR>
+bear the brunt	לשאת בעול / בנטל<BR>
+beat a hasty retreat	לסגת בחיפזון<BR>
+beat all hollow	להכות שוק על ירך<BR>|
+beat swords into plowshare	וכיתתו חרבותם לאתים <BR>
+bee in one's bonnet|Bee in a bonnet|Bee in one's bonnet|Bee in the bonnet	ג'וק בראש<BR>
+best bid and tacker	בגדי שבת / מדי אל"ף<BR>
+bete noire	צרה צרורה, מכת בכורות
+between the devil and the deep blue sea|Between the devil	Between the devil and the deep blue sea<BR>בין הפטיש לסדן / בין המיצרים<BR><BR>
+beyond the pale	מחוץ לתחום<BR>
+bite me	קפוץ לי<BR>
+bite off more than one can chew|Bite off|more than one can chew	Bite off more than one can chew<BR>עיניים גדולות<BR>
+bite the hand that feeds	כפוי טובה; נושך את היד המאכילה אותו<BR>
+blaze a trail	לפלס דרך<BR>
+blessing in disguise	מעז יצא מתוק<BR>
+blind as a bat	כסומא בארובה<BR>
+blow off steam	לשחרר קיטור <BR>
+blow one's own horn|Blow one's own horn|blow one's trumpet	נחתום המעיד על עיסתו<BR>
+bolt from a blue	כרעם ביום בהיר<BR>
+bone dry	יבש כמו המדבר<BR>
+born and bred	יליד המקום<BR>
+both feet on the ground	עם הרגליים על הקרקע/ עם שתי רגליים מוצקות על...<BR>
+bottomless pit	בור ללא תחתית<BR>
+breathes his last|breathes one's last|on one's deathbed	על ערש דווי, שכיב מרע<BR>
+bright side	חצי הכוס המלאה
+bring coal to Newcastle|carry coal to Newcastle	תבן אתה מכניס לעֲפָרַיִם<BR>
+bug out|bug off	תתחפף, אל תתערב, אל תדחוף ת'אף<BR>
+burn bridges	לשרוף את הגשרים
+burn the candle on both ends|Burn the candle on both ends|Burn the midnight oil	לעשות לילות כימים<BR>
+burning question	שאלה בוערת, שאינה סובלת דיחוי<BR>
+bury the hatchet	ליישר את ההדורים
+butter up	ללקק (למישהו) / למרוח אותו, להתחנף
+buy for a song	בזיל הזול<BR>
+by a long chalk	בהפרש גדול / משמעותי<BR>
+by the grapevine|By the grapevine|through the grapevine	רס"ן שמועתי<BR>סרן שמועתי<BR>ציפור קטנה לחשה לי
+by the millions|by the	במיליוניהם
+cakes and ale	תענוגות החיים<BR>
+calamity howler	רואה שחורות / נביא זעם<BR>
+call in question	להטיל בספק / להעמיד בסימן שאלה, לפקפק, עננה של ספק
+came the dawn|Came the dawn|it dawned on	נפל האסימון<BR>
+came up smelling like roses	הסתדר על הצד הטוב ביותר / נפל על הרגליים<BR>
+can't see beyond the end of one's nose	לא רואה מעבר לקצה האף
+captain of one's soul	אדון לגורלו<BR>
+cardinal sin	עבירה שיש עמה קלון
+carry the day	להצליח, לעלות יפה<BR>
+cast aspersions	להטיח האשמות
+cast one's bread upon the water	שלח לחמך על פני המים<BR>
+chicken in every pot	מכונית לכל פועל
+chicken out	להשתפן / לתפוס פחד<BR>
+child's play|piece of cake	משחק ילדים, קלי קלות<BR>
+chilled to the bone	קור מקפיא (עצמות)<BR>
+chips are down|chip is down|when the chips are down	ברגע האמת
+clean slate	(לפתוח) דף חדש<BR>
+climb up the wall|Climb the wall|Climb up the wall	לטפס על הקירות
+close call	כמעט ש/ כפסע היה (ביני לבין המוות)<BR>
+clothes make the man	הבגדים עושים את האדם
+coast is clear	הדרך פנויה, אינה נשקפת סכנה<BR>
+cock and Bull Story|Cock and Bul	עורבא פרח, לא דובים ולא יער, לא מניה ולא מקצתיה<BR>
+cock of the walk	שחקן ראשי / דמות מפתח / "מסמר הערב"<BR>
+cold heart|Cold heart|cold hearted	גבה-לב / מתנשא
+come a cropper	איזו נפילה<BR>
+come hell or high water	מה שיהיה יהיה ; על החיים ועל המוות; באש ובמים
+come into one's own|come into her own|come into his own|come into my own	לעשות חיִל, להוכיח את עצמו
+come off it	רד מזה / צא מזה<BR>
+come to grief	לא עלה יפה
+come to one's senses|come to her senses|come to his senses|come to senses	התעשת
+comes to the same thing|Come to the same thing	נו, אז מה ההבדל? מה יום מיומיים<BR>
+conspicuous by one's absence|Conspicuous by one's absence|Conspicuous in one's absence	בולט בהיעדרו<BR>
+conspiracy of silence|tacit collusion	הסכם שבשתיקה<BR>
+contribute	להרים תרומה
+cooked one's goose|Cooked one's goose|cook one's goose	הקדיח את התבשיל
+costs a pretty penny|Cost a pretty penny|pretty penny	יקר נורא
+couldn't care less|could not care less	לא אכפת לי/ שם זין / שם קצוץ / משתין בקשת<BR>
+country cousin	הבן-דוד מעפולה / מהכפר<BR>
+cover up	לטייח, טיוח, כסת"ח
+cradled in the lap of luxury|Cradle in the lap of luxury|lap of luxury	גדל במשפחה "צפונית",/ צפוני-בונבוני/ נולד עם כפית כסף בפה<BR>
+cream of the crop	הדובדבן שבקצפת, השופרא דשופרא, הטוב ביותר, השאור שבעיסה <BR>
+cross the Rubicon	לחצות את הרוביקון / לקבל החלטה גורלית<BR>
+cross the bridge when one comes to it|Cross the bridge	דייה לצרה בשעתה<BR>
+cry over spilled milk	לבכות על חלב שנשפך<BR>
+crying in the wilderness	קריאה באפלה<BR>
+cudgel one's brains	לאמץ / להוגיע את הראש
+curry favor	להתחנחן / לעשות "חיינדעלך" / לחלות פני מישהו<BR>
+cut and run	עזב בחיפזון רב
+cut from whole cloth	שקר וכזב / סיפור שאין לו יד ורגל<BR>
+cut no ice	לא מזיז לי
+cut the coat according to the cloth	על-פי האמצעים / בלי עיניים גדולות/ לפי יכולתך<BR>
+cut the mustard	כוחו עדיין במותניו / לא נס ליחו<BR>
+cut to the quick	לפגוע עד עמקי נשמתו<BR>
+dance attendance on	לעבור לדום/ להיות "שפוט" של מישהו<BR>
+dawned on one	נפל האסימון / פתאום קלט ש....<BR>
+day in day out	לעשות לילות כימים; לעבוד כמו חמור<BR>
+dead letter|old hat|passe	אבד עליו הכלח
+dead of the night|Dead of night	בחשכת הליל / באמצע הליל / באשמורת תיכונה<BR>
+dead ringer	דומים כמו שתי טיפות מים
+death's door	על סף מוות / על הפנים / על הקרשים<BR>
+den of thieves	מאורת גנבים/ פריצים
+desert	לנטוש לאנחות
+det down to brass tack	להגיע לתכל'ס; לרדת לעומק העניין; לשורש הבעיה<BR>
+devil	שד משחת
+diamond in the rough	יהלום לא מלוטש / לא מעובד<BR>כשרון גולמי<BR>
+dictates of conscience	צו המצפון<BR>
+did a cat get your tongue|cat get one's tongue|get got your tongue	נאלמת דום? / בלעת את הלשון<BR>
+did a slow burn|did a slow boil|do a slow boil|do a slow burn	חמתו התלקחה בו (בהדרגתיות, תוך כדי דיבור, למשל)
+die is cast	נפל הפור; הגורל<BR>
+dirt cheap	בזיל הזול; ממש בלי כסף; עלה פרוטות; גרושים<BR>
+dirty dog	מניאק<BR>
+divide and conquer	הפרד ומשול
+divide the spoils	להתחלק בשלל<BR>
+do a bad turn	לשים רגל, לתקוע מקלות בגלגלים<BR>
+do a good turn	להטות שכם, לתת כתף
+do about face	להסתובב לאחור ב-180 מעלות; אחורה-פנה; שנה דעה, נמלך בדעתו <BR>
+dog eat dog	תחרות קשה, חוקי הג'ונגל, מלחמת קיום אכזרית, אדם לאדם זאב <BR>
+dog in the manger	כעכבר על דינרי זהב
+don't count your chickens before they're hatched	אל יתהלל חוגר כמפתח<BR>
+done to a tum|to a tum	עשוי ללא רבב; ללא דופי<BR>
+donkey's years	מקידמת דנא; מזה שנים רבות; משנת תרפפ"ו <BR>
+dresh start	דף חדש
+face value|at face value	להתייחס לדברים כפשוטם
+for good measure|good measure	ליתר בטחון<BR>"על חשבון הברון"
+furiously	בקדחתנות
+gargantuan	(ענק כמו) עוג מלך הבשן / גוליית
+get a grip|got a grip	לקחת את (עצמך) בידיים, להתעשת
+get away with|scot free	לצאת פטור בלא כלום<BR>
+gets one's goat|get one's goat	עולה על העצבים; מביא ת'סעיף
+gift of the gods|god's gift|gods gift	מתת אל<BR>
+gild the lily	כל המוסיף גורע
+gird up one's loins	להפשיל שרוולים; לשנס מותניים<BR>
+give and take	קח ותן; יד רוחצת יד; שמור לי ואשמור לך<BR>
+give some a dose of one's own medicine|give one a taste of one own medicine|taste of own medicine	להשיב לו כגמולו / מנה אחת אפיים<BR>
+give someone a wide berth	לחמוק; להתחמק ממישהו
+give the go around	לסובב בכחש<BR>
+go a full circle|come a full circle	לסגור מעגל<BR>
+go climb a tree|climb a tree|fry an egg	תמצא לך מישהו אחר לטפס עליו; רד לי מהגב<BR>
+gullible	פתי מאמין
+hand it|hand it to	לומר לשבחו (של מישהו)
+hard at work	שוקד על, חוקר
+have an ax to grind	קרדום לחפור בו<BR>
+have one's back to the wall	עם הגב לקיר<BR>
+have the courage of one's convictions	ללא מורך לב (לפעול....)<BR>
+haven't got a clue|have not got a clue|haven't a clue|haven't got faintest idea	אין לי שמץ של מושג / אני לוט בערפל<BR>
+head up	לעמוד בראש (קבוצה)
+helpful	להיות לעזר
+i don't know him from Adam|I don't know him from Adam|from adam|not know one from Adam|one does not know one from Adam	מי זה ? בחיים שלי לא ראיתי אותו; לא ראיתי מימיי<BR>
+i tell you what	אתה יודע מה
+i'll be damned	שככה יהיה לי טוב
+iron hand in a velvet glove	זאב בעור כבש <BR>
+it never rains it always pours|it always pours|it never rains	צרות באות בצרורות<BR>
+it's all Greek to me|Greek to me|Greek to one	בשבילי זה סינית<BR>
+it's the pits	בזבל, במיץ של הזבל
+johnny-come-lately|Johnny come lately	בא לשכונה בחור חדש<BR>
+just in case	מה שבטוח - בטוח.
+keep a stiff upper lip	לשמור "פאסון"<BR>
+keep the ball rolling|keep one's eyes peeled	שמור על עיניים פקוחות<BR>
+keep the mind off|keep one's mind off	מסיח את הדעת, משכיח
+keep your fingers crossed|cross fingers|fingers cross|keep one's fingers crossed	להחזיק אצבעות
+keep your head above the water|head above the water|keep one's head above the water	להחזיק מעמד<BR>
+kick in|kicking in	לתפוס פיקוד
+kick one's heels|kicking her heels|kicking his heels|kicking on'es heels|kicking their heels	בטלה כפויה
+kill the goose that lays the golden eggs|golden eggs	להרוג את האווזה שמטילה ביצי זהב
+kindly	הואיל בטובו
+knock the spots off	ניצחון סוחף; נצחון מוחץ <BR>
+know	יודע דבר וחצי דבר
+lame duck	אחד שנגמר לו הסוס; שאבד עליו הכלח<BR>
+last-ditch effort|last ditch effort	הניסיון האחרון; בדקה התשעים<BR>
+laughed out of court|laughed out of|out of court	הושם למשל ושנינה/ללעג ולקלס<BR>
+lay down the law	להתוות את החוקים<BR>
+lean and hungry look	מבט רעב, רעבתני, להוט
+leave no stone unturned	לא להשאיר אבן על אבן; לא לחסוך באמצעים; לא לפספס; לא לחפף<BR>
+left hand doesn't know what the right hand's doing	יד ימין מקרבת ושמאל דוחה<BR>
+left to one's own devices|devices	אם יתנו לו לעשות כרצונו<BR>
+lend an ear|land an ear	הסכת ושמע, כרה אוזן, הטה אוזן
+length and breadth of the country	לאורכה ולרוחבה של הארץ<BR>
+lesser of two evils	הרע במיעוטו<BR>
+let bygones be bygones|water under the bridge	מה שהיה היה; הבה נשכח מכל העניין<BR>
+let sleeping dogs lie|sleeping dogs	לא לעורר אריות ישנים מרבצם
+let the chips fall where they may	מה שיהיה יהיה; על החיים ועל המוות<BR>
+let's face it	בוא נהיה מציאותיים
+let's get the show on the road	בוא נזיז כבר ת'תחת; בוא נצא לדרך<BR>
+life and soul of the party|life and soul	מסמר הערב; הרוח החיה
+light a fire under|light a fire under somebody|light a fire under someone	לעודד, לדרבן מישהו לעשות משהו
+like a cat on a hot tin roof	כחתולה על גג פח לוהט<BR>
+like it or lump it	לא יעזור לך בית דין; בין אם תרצה או לאו; על אפך וחמתך<BR>
+little bird told me|hear throught the grapevine	ציפור קטנה לחשה לי<BR>
+live and learn	צא ולמד; ואידך זיל וגמור<BR>
+living doll	מותק של "בובה"; "חבובה"<BR>
+lo and behold	שכה אחיה! והנה ראה איזה פלא! הפלא ופלא!<BR>
+lock, stock and barrel	הכל מכל וכל; על טפם ועל נשם<BR>
+loggerheads|logger head|loggerhead	ראש בראש
+look down	להתנשא<BR>להסתכל ממרום מושבו / גובהו
+look the other way|other way	להעלים עין
+lose one's life|die|lose life	לקפח חיים
+lost cause	מטרה אבודה<BR>
+loud and clear	שמעתי אותך...<BR>
+low man on the Totem pole|mad as a hatter	מוטרף על כל הראש<BR>
+make a long story short	בקיצור; וּקצור<BR>
+make a mountain out of a molehill	לראות צל הרים כהרים; לעשות פיל מעכבר; לעשות מעכבר הר<BR>
+make an enemy|Make enemy|make enemies	להקים אויב / אויבים
+make ends meet	לגמור את החודש<BR>
+make hay while the sun still shines|hay while the sun still shines	לא לפספס; להחמיץ את ההזדמנות<BR>
+make no bones about it	דבר דוגרי<BR>
+make no mistake	שלא תבין לא נכון
+make one's hair stand on end|hair stand|make your hair stand on end	מסמר שיער
+make or break	או ש... או ש...<BR>לעשות או לחדול<BR>
+makes one's blood boil	מרתיח את הדם; מקפיץ ת'פיוזים
+makes one's mouth water|makes your mouth water	גורם לך להזיל ריר<BR>
+man among men	גבר שבגברים<BR>
+man bites dog	אדם נושך כלב<BR>
+man of few words	חסכן בלשונו; מקמץ במילים <BR>
+mare's nest|There's nothing to it	עורבא פרח, להד"ם, לא היה ולא נברא, לא דובים ולא יער, לא מניה ולא מקצתה<BR>
+mark my words|mark one's words	תזכור את מה שאמרתי<BR>
+marriage made in heaven|match made in heaven	זוג משמיים<BR>
+might as well	באותה מידה
+millstone around one's neck|albatross around one's neck	אבן ריחיים על הצוואר<BR>
+mind drift|drift	מחשבות נדדו
+mind over matter	ניצחון הרוח, נצחון הנפש על הגוף<BR>
+mind your own business|mind one's own business	אל תתערב! אל תדחוף ת'אף<BR>
+misery loves company	צרת רבים חצי נחמה; נחמה פורתא<BR>
+moment of truth	רגע האמת<BR>
+monday-morning quarterback|monday morning quarterback	חכם בלילה; לאחר מעשה<BR>
+more here than meets the eye	רב הנסתר על הגלוי; מגלה טפח ומכסה טפחיים
+more than one bargained for|more than I have bargained for	בא לי בהפתעה, לא ציפיתי לי לזה, לא מה שפיללתי לו<BR>
+move heaven and earth	לעקור הרים וגבעות<BR>
+never cease	לעשות משהו כל פעם מחדש
+never cease to amaze|never ceased to amaze	נדהם כל פעם מחדש
+nip and tuck	מאבק צמוד, מירוץ צמוד
+no way	לא בא בחשבון
+not a dicky bird|dicky bird	אף מילה (שמעת ממנה? אף מילה - not a dicky bird)
+not have a leg to stand on|a leg to stand on	רעוע; משענת קנה קצוץ; כרעי תרנגולת<BR>
+not one's cup of tea|Not my cup of tea	לא הסגנון שלי / לא מתאים לי בכלל<BR>
+odds and ends	(דברים) שונים ומשונים
+oh my goodness	שככה יהיה לי טוב!
+on tenterhooks|tenterhooks	קוצים בתחת<BR>
+one be damned|i'll be damned	ייקח אותי השד
+one wasn't born yesterday|born yesterday|one was not born yesterday	לא נולדתי אתמול; לא עשו אותי באצבע
+one's days are numbered	ימיו ספורים
+one's lips are sealed|sealed leaps|y lips are sealed	שפתי חתומות<BR>
+order of the moment	צו השעה
+over and done	תם ונשלם
+part and parcel	חלק בלתי נפרד
+poor man's whiskey|poor man|poor men	חיקוי זול
+prove	מסתמן כ...
+prove successful	מסתמן כהצלחה
+put the cards on the table|cards on the table|put one's cards on the table	לחשוף את הקלפים ; לשים את הקלפים על השולחן<BR>
+readjustment	שידוד מערכות
+red-letter day|red letter day|redletter day	יום חג<BR>
+remains to be seen|remain to be seen	השאלה היחידה שנותרה<BR>נחיה ונראה
+right up his alley|up her alley|up his ally|up the alley|up your alley	תפור על...
+rightfully	בדין
+root of all evil	אֵם כל חטאת / שורש כל רע<BR>
+second in command|in command	שני בסולם הפיקוד
+secretly	בסתר ליבו
+see right through	לראות את הפרצוף האמיתי של...
+seize the bull by the horns	לאחוז את השור בקרניו<BR>
+settle down	להשתקע
+short handed|short-handed|shorthanded	חסרו ידיים עובדות
+sicken	להפיל (מישהו) למשכב
+sly as a fox|sly like a fox	ערום כשועל<BR>
+snap out of it	רד מזה; צא מזה<BR>
+stare down a barrel|stare down the barrel	להסתכל ישר בעיניים<BR>להיישיר מבט אל הסכנה
+starting gate	עמדת הזינוק
+still	ללא ניע
+take an oath	להישבע בהן צדק<BR> לתת את דברתו
+take credit|credit	לזקוף לזכותו<BR>לייחס לעצמו
+talk turkey	לדבר תכל'ס; דוגרי<BR>
+that's not cricket|not cricket	זה לא הוגן / לא "פייר"<BR>
+that's the way the ball bounces|That's the way the cookie crumbles|the way the ball bounces	מה לעשות? ככה זה בחיים<BR>
+the bigger they come, the harder they fall	כגודל העליה כן גודל הנפילה;
+the long and the short of it|long and the short of it	בתכל'ס<BR>
+the more the merrier	כמה שיותר, יותר טוב<BR>
+the whole kit and caboodle	כן, וגם את הקיטבג....<BR>
+think light|take lightly|think light of	להקל ראש ב...
+think straight	לחשוב בראש צלול
+throw down one's weapon|throw down one's arms	הניח את נִשקו/ה
+thundered|boomed	הרעים בקולו
+to be around|around|been around	להיות בשטח
+to the manor borne|manor borne|noblesse oblige	האצולה מחייבת; האצילות מחייבת<BR>
+trot	בריצה קלה
+turn a hair|not turn a hair|without turning a hair	מבלי להניד עפעף
+underestimate	להמעיט בערכו של מישהו / משהו
+very often	לעיתים קרובות מאד
+we'll see	עוד נראה, נחיה ונראה
+were right to|i was right to|you were right to	טוב עשינו / עשיתי / עשית
+what it boils down to|boil down to|boils down to	בשורה התחתונה<BR>
+whenever possible	בכל עת שאפשר<BR>בכל עת שיתאפשר הדבר
+where there's a will there's a way	אם תרצו אין זו אגדה; אין דבר העומד בפני הרצון<BR>
+white-glove inspection|White glove|White glove inspection|White-glove	"מסדר המפקד" (בדיקה קפדנית מאד, בדומה להעברת כפפה לבנה על משטח לוודא שאובק כיאות)
+wish one was dead|wish you were dead	תצטער שאתה חי
+with bated breath	בנשימה עצורה; בדריכות; במתח רב<BR>
+with malice aforethought	בכוונת זדון<BR>
+wonder	לשאול את עצמו
+word of mouth	מפה לאוזן<BR>

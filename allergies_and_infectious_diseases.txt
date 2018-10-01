@@ -1,0 +1,40 @@
+##name	Glossary of allergy and infectious diseases
+##sourceLang	English
+##targetLang	English
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	National Institute of Health
+##copyright	<a href='http://www.niaid.nih.gov/publications/autoimmune/glossary.htm'>National Institutes of Health</a>
+##description	Glossary of allergy and infectious diseases
+##bgl_creationTime	2000/06/15, 07:15
+##bgl_middleUpdated	2000/06/28, 06:57
+antibody	a molecule (also called an immunoglobulin) produced by a B cell in response to an antigen. The binding of antibody to antigen leads to the antigen's destruction.
+antigen	a substance or molecule that is recognized by the immune system. The molecule can be from a foreign material such as a bacterium or virus, or the molecule can be from the same organism (one's own body) and called a self antigen.
+antigen-presenting cell	a cell that displays an antigen with an MHC molecule on the cell surface.
+autoantibody	antibodies that are made against the body's own organs and tissues rather than foreignparts of bacteria or viruses.
+autoimmune disease	condition in which the immune system mistakenly attacks the body's own organs and tissues.
+B cell	a type of lymphocyte, which is an immune system cell. Among its many<BR>roles, the B cell produces antibodies that bind antigens.
+cells	the building blocks that make up tissues, organs, and bloodstream of the body. Immune system cells normally move throughout the bloodstream and reside temporarily in the lymph nodes, spleen, and thymus.
+chemokine	a substance manufactured by cells and tissues, that stimulates movement and activation of immune system cells to the area where the chemokine is produced.
+clinical trial	a prospective, scientific evaluation in human volunteers of a treatment regimen, device, or procedure used for the prevention, diagnosis, or treatment of a disease.
+co-stimulatory molecules	pairs of molecules on the surfaces of two cells that work together with the MHC and T-cell receptors of those cells. The co-stimulatory molecules help to stimulate or decrease the immune response produced by the two cells.
+complement system	this series of molecules works together to perform many immune system functions. For example, the complement system helps to dissolve and remove immune complexes and to kill foreign cells.
+cytokines	chemical substances that have varied effects on many cells of the body. For example, some cytokines can cause growth and activation of immune system cells.
+gene	a unit of genetic material that is inherited from a parent. A gene carries the directions that a cell uses to perform a specific function.
+immune complex	a cluster of interlocking antigens and antibodies forming a large network of molecules.
+inflammation	a collection of immune system cells and molecules that invade tissues and organs as part of an immune system response.
+lymphocyte	a type of white blood cell of the immune system. T cells and B cells are lymphocytes that look similar under the microscope but have different functions.
+macrophage	a type of white blood cell that functions as a patrol cell and engulfs and kills foreign infectious invaders.
+MHC (major histocompatibility complex) molecules|major-histocompatibility-complex-molecules|mhc-molecules	molecules that are found on cell surfaces and display antigen; the antigen-MHC molecules may then interact with a T-cell receptor.
+molecule	a small physical unit made up of chemical substances such as proteins, sugars or fats. Molecules are the building blocks of a cell.
+neutrophil	a type of immune system cell that combats infectious agents, in particular bacteria. Neutrophils contain granules filled with potent chemicals that can destroy bacteria or other nearby cells when the chemicals are released.
+reactive oxygen intermediate molecules	toxic molecules that are released by immune cells and help to destroy invading microbes. These molecules can sometimes destroy healthy body tissues nearby.
+T-cell	a type of lymphocyte. T cells have T-cell receptors and, sometimes, co-stimulatory molecules on their cell surfaces. The T cell helps to orchestrate the immune system and can issue "orders" for other cells to make cytokines and chemokines.
+T-cell receptor	a molecule found on the surface of T cells. The T-cell receptor can recognize and interact with a corresponding MHC molecule that is displaying an antigen.
+tolerance	a state in which the T cell can no longer respond to antigen.

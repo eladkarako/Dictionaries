@@ -1,0 +1,508 @@
+##name	Medieval Glossary
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	Colleen McEneany
+##email	brigatta1@aol.com
+##description	Glossary of medieval terms and weapons.  Definitions of popular weaponry and words commonly found from medieval times and in role-playing games
+##browsingEnabled	
+##bgl_creationTime	2000/08/08, 09:28
+##bgl_middleUpdated	2000/08/08, 09:39
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+abbasi	straight-bladed steel sword with a padded hilt; back of the blade was strengthened by supports; often highly decorated with gold inlay and gilt
+abbey	A monastic community of either monks or nuns
+abbot/abbess|abbess|abbot	Superior of a monastery or nunnery
+aclys	wooden Roman throwing stick with a spiked head; attached to user's arm with a strap which enabled it to be retrieved after it had been thrown
+adarga	parrying weapon consisting of a small bladed shield attached to a short spear
+adze	carpenter's tool; consists of an axe-like blade mounted with the edge at right angles to the handle
+ailette	flat plate of leather or parchment which tied to the point of the shoulder; worn between 1250-1350 to display the owner's coat of arms
+aketon	a padded and quilted garment, usually of linen, worn under or instead of plate or mail
+alamani	curved steel Indian sword with a gilt handle
+ama-goi-ken	a Japanese temple sword which represents Amakurikara, or rain dragon; a straight-bladed, double-edged sword
+amice	A square of linen (usually white in color), folded diagonally, worn by the celebrant priest, on the head or about the neck and shoulders.
+ancus	Indian elephant goad; vary greatly in size from about 40 to 120 centimeters in length; shorter ones were used by riders, while the longer versions were used by the trainers who were on foot
+anelace	A heavy, broad-bladed, sharp-pointed, double-edged knife
+angolan battle-axe	weapon with blade attached to a wooden handle
+apostate	one who leaves a religious order after having professed (usually via vows) to remain in the order
+arbalest	A crossbow with a steel box stave
+arcane	secret, mysterious, or obscure
+argent	1. the heraldic color silver or white 2. silvery or white in color
+arit sickle	sickle consisting of a pronounced half-moon blade mounted on a short handle
+armet	a closed helmet consisting of the rounded cap of the bascinet with two cheek pieces overlapping at the front when closed
+arming cap	small quilted cap worn under a mail coif that offered protection against blows and the friction of mail against the head
+arming doublet	quilted garment worn under armour from the early fifteenth century, equipped with points to attach mail gussets and pieces of armour
+artillator	Maker of bows, arrows, and other archery goods
+aventail	1. a mail garment protecting the neck 2. a "curtain" of mail to protect the neck, suspended from the helmet and reaching to the shoulders
+ay-baita axe	Turkish battle-axe; head is mounted with a pick opposite the blade and broad metal bands extend down from the head along the wooden shaft for reinforcement
+babanga	African sword consisting of a metal leaf-shaped blade fitted onto a wooden hilt
+bacinet	Relatively light helmet with a rounded or pointed top. Sometimes fitted with a visor and called a bassinet.
+baculus	heavy European club made of hardwood with a knotty striking head
+badelaire	European sword with a heavy, curved blade and S-shaped quillions; used during the 16th century
+badge	An emblematic figure, placed on some prominent part of the clothing of servants and retainers, such as the breast, back, sleeve, etc., to show to what household they belonged; found also on flags, and buildings
+baggoro club	flat club from Australia made of hardwood with a sharpened edge
+bagh nakh	(tiger claw, bich'hwa bagh nakh) bar with four or five curved blades attached; on each end of the bar a ring is attached so forefinger and pinky can be slipped through the rings with the bar in the palm; sometimes fitted with dagger blades
+bailey	Defended courtyard of a castle.
+bailli/bailiff|bailli|bailliff	Royal officer responsible for the administration of justice and of revenue in a district.
+balestarius axe	large Battak axe/adze; head is fitted into the wooden handle and then lashed with reed
+baleyn	medieval word for whalebone which was used for weapons and armour during the 14th century
+ball & chain	type of European flail; consists of a metal ball attached to a short wooden handle by a chain
+ballinger/balinger|balinger|ballinger	1. English sailing barge usually with from forty to fifty oars 2. small oared vessel with single mast and sail.
+balta axe	Turkish battle-axe; the axe head was normally engraved and often inlaid with silver or gold
+barbut	(also called barbute and barbuta) an open-faced shoulder-length helmet, made in one piece, with a T-shaped face opening
+baselard	13th century European thrusting sword with a straight diamond-shaped blade
+basilica	rectangular building used as a meeting hall
+bassinet	conical helmet with pointed visor
+bastard sword	(also known as hand-and-a-half sword) large, double-edged sword with a long grip which could be wielded with either one or two hands
+battle-axe	generic term for fighting axes, especially European ones; generally consists of a broad, socketed head attached to a wooden handle; metal reinforcement bands extend down from the head to help prevent it from being broken off in combat
+bearded axe	large two-handed war axe used primarily in Europe; socketed metal head fitted to wooden handle
+bearded war axe	smaller, one-handed version of the bearded axe; for use as a missile or while mounted; socketed metal head fitted to wooden handle
+bec-de-corbin	type of war-hammer used in Europe in the 14th and 15th centuries; pick-like head was fitted with a spear like point for thrusting; normally mounted on a wooden haft with metal reinforcing bands extending down from the head
+beladah	steel sword with a sabrelike blade and a knuckle guard
+besagues	circular plates laced to the outside of the elbow joint and front of the shoulder to protect the joints in an armour
+bevor	high collar of plate covering the lower half of the face
+bi-teran	wooden Australian club having a round handle and a flattened end
+bilbo	small European thrusting sword with a rapierlike hilt
+biliong	Malaysian axe/adze consisting of a square-tanged blade fitted into a wooden handle; blade can be placed in line with the handle for use as an axe or at right angles for use as an adze; handgrip is often quite large and the smaller portion of the handle is very flexible; socket into which the head is fitted is normally bound with cane
+binnol	flail consisting of a spiked ball head connected to a wooden handle by a short chain
+bipennis	double-bladed European war axe; mounted on a wooden haft
+bird's head club	hardwood club with pick-like design as an attempt to improve the wounding capabilities of the weapon; often intricately carved
+birnie	(also called byrnie) a mail shirt
+bisacuta	double-pointed pick used by European foot soldiers in the 14th century; metal head mounted on a wooden haft
+blueing	an oxidized blue surface on plate armour, produced through heat treatment
+bodice	1. the close fitting upper part of a woman's dress 2. a woman's wide, sleeveless vest tightly laced in front, worn over a blouse or dress, usually low-cut
+bokken	wooden Japanese practice sword
+bolas	cord or leather thong with stones attached to each end; second cord with stone is attached to the center of the first to create a three-pronged weapon; weapon is spun around the head and then thrown at the target's legs
+bolts|crossbow	shortened arrows used in arbalests; small stocky missiles know for being capable of incredible penetration
+boomerang	wooden throwing stick with an effective range of about 20 meters
+bouzdykan	all metal mace used in Poland in 17th century
+bowyer	bow maker
+bracers	plate armour for the arms
+braquemar	European sword with a short, double-edged blade.
+breeches	trousers reaching to the knees
+brigandine	(also brigantine) 1. metal splints sewed upon canvas, linen, or leather and covered with similar materials; a material used in making light armour; a "pair of brigandines" is a body-coat of this material, in two pieces 2. defensive jacket of metal plates on cloth 3. a canvas or leather jacket with small plates of metal stitched inside
+broad axe	European war axe having a broad, straight edge; head was socketed and attached to a wooden haft
+brocade	a rich silk fabric with raised patterns (raised patterns usually in gold and silver)
+buckler	1. a small round shield carried by infantry to deflect blows 2. a small round shield held by a handle at arm's length 3. a shield worn on the left arm
+bulawa	all metal Russian mace
+bullova	two-handed war axe that varies greatly in size but basically consists of a wide-bladed head attached to a wooden handle; some are fitted with a spike above the head for thrusting
+bullwhip	woven leather whip normally used as an animal herding tool
+burgonet	steel cap with chin-piece; from 16th century armour
+burnoose	(burnous, burnouse) A sort of upper garment, with a hood attached. 1. cloaklike garment and hood woven in one piece, worn by Arabs 2. combination cloak and hood worn by women 3. long hooded cloak woven of wool in one piece; worn by Arabs and Moors
+burrong	wooden club from Australia with an axelike shape
+buskin	footed leggings with thick sole made from expensive soft leathers and embroidered and brocaded fabrics.
+byrnie	mail shirt, the prescursor of the hauberk
+cabacete	type of war hat popular in fifteenth century Europe with a turned-down brim which was drawn up to a point in the front and rear with an almond-shaped skull
+campilan	Malaysian sword with a forked wooden pommel decorated with tufts of dyed hair; blade is single-edged, a curved projection behind the point
+casque	(also called casquetal) a light open helmet, these were often similar in shape to the burgonet and popular in the 15th and 16th centuries
+cat-o'-nine tails	European whip used in flogging; leather thongs were usually knotted at their ends and were sometimes fitted with metal spikes to tear the flesh of the victim
+cervelliere	steel skull cap
+cervèllaire	small skull cap worn under the great helmet (greathelm) during the last part of the 13th century and into the early 14th century
+cestrosphendone	sling dart consisting of a wooden pole with a leaf-shaped blade, attached behind were two or three fixed vanes of wood; sling was fitted at the tip and behind the vanes and the dart then spun above the head; effective range was about fifty meters
+cestus	wide leather thongs, often weighted with lead; worn wound around the hands of Roman boxers
+cghchemarde	European fencing sword of the late 17th century; blade was triangular in section for about 20 centimeters from the hilt and then narrowed to a flat section for the remainder of its length, the design gave the blade great lightness and flexibility
+chakram	(shirikin) flat steel ring with a sharpened outer edge used as a thrown missile; several were often carried on a pointed turban; thrown like a frisbee
+chanfron	armour for a horse's head
+chapel de fer	An iron cap that was a domed helmet, made in three or more pieces, with a wide brow around the outside. During the 14th century it was widely used by English and French men-at-arms and bachelier knights who could not afford a bascinet.
+chausses	mail protection for the legs (particularly the thighs), either in the form of mail hose or strips of mail laced round the front of the leg
+chemeti	whip normally made of buffalo leather or human hair and attached to a hardwood handle; a large knot is normally made in the end of the whip itself; overall length of the weapon can vary from 90 to 160 centimeters
+chereb	straight bronze sword with a double-edged blade
+chijiriki	double-edged Japanese spear with a weighted chain attached to the butt end; two-handed weapon
+chivalry	complicated code of behavior/ethics for knights, based on telling the truth, keeping one's word and protecting those weaker than oneself
+chundrick	a sword with an incurved steel blade and a straight hilt
+circlet	a circular band worn as an ornament on the finger, arm, neck or head
+claw hammer	typical carpenter's tool; metal head fitted to a wooden handle
+claymore	(also called greatswords) Large two-handed swords popular in Scotland during the 15th, 16th and the 17th centuries. Ranging in length from 50" to 72", they possessed handles that were 18" - 21" in length.
+club	universal blunt weapon of many cultures
+coffer	1. a chest in which money or valuables are kept 2. a treasury; funds
+cog	a type of substantial sailing ship
+coif	1. a cap that fits the head loosely 2. a thick skullcap, as of leather, formerly worn under a hood of mail 3. mail hood covering the head
+corslet	(also called corselet) a light half-armour popular in the sixteenth century for general military use; consisted of a gorget, breast, back and tassets, full arms and guantlets
+cote armour	Quilted garment worn over a breastplate, cote of plates, or as the sole body defense during the 14th century.
+cote of arms	A word that seems to have been interchangeable meaning a cote armour blazoned with a device, or a surcoat bearing the heraldic charge of a man's affiliation. Because it was the most visible expression of a knight's arms, the word has come to mean the heraldic device itself rather than the cote upon which it was sewn, painted, or embroidered.
+cote of plates	(pair of plates, plates) A cloth or leather covered armour for the body with several large plates riveted underneath for the defense of the body.
+craquemarte	heavy European sword with a curved blade and a knuckle guard; generally used at sea
+crest	heraldic device worn on helm
+crowbill	(hammer) war-hammer-like fighting pick used in Europe; usually made entirely of iron or steel; point of the pick is very effective in piercing mail and joints in armor
+cudgel	European practice sword made of wood and fitted with a basket hilt; used in broadsword practice
+cuir bouilli	leather hardened in boiling wax
+cuirass	Plate defense for the body. Consisting of a breast and backplate, hoops of steel to defend the hips known as faulds, and tassets to defend the hips.
+cuisses	plate armour pieces protecting the thighs
+cumber-jung	(flail) Indian flail made by attaching two heavy quoits to a short handle of wood by chains
+cutlass	a short, thick, curving sword with a single cutting edge
+dabus	mace that consists of a piece of wood studded with nails
+dacian falx	sword consisting of a curved, single-edged blade with a long wooden hilt; used by the Celtic and Germanic tribes
+dagger mace	European mace/pick made entirely of steel; shaped to look like a hand holding a dagger
+dalwel	Burmese two-handed sword with a tanged steel blade; sword has a heavy, square-ended blade fitted into an unguarded hilt of wood or ivory; consists of a slightly curved, single-edged blade fitted into an unguarded wooden hilt
+dexter	heraldic: on right hand of shield
+dha	sword with a broad blade and a plain, unguarded handle
+dhara	mace having six blades; made entirely of steel with a padded hilt
+dolabra	axe-like Roman tool/weapon used by legionnaires; socketed head attached to a wooden handle
+doloire	(wagoner's axe) European battle axe used in the 15th century; socketed steel head is fitted to a wooden haft
+doublet	a man's close-fitting jacket with or without sleeves, worn chiefly from the 14th to 16th centuries
+dowak	flat throwing stick
+dusack	weapon made of a single piece of iron with a curved blade and guarded hilt
+eccat	sword with a deer horn hilt and no guard
+elephant axe	large two-handed axe used in Africa to ham-string elephants; iron head is fitted into the wooden handle by means of a tang
+epaule de mouton	steel defense for the complete arm; developed during the 15th and 16th centuries; used exclusively in jousts
+epee	French for sword.
+epsilon axe	(eye axe) early axe form used in the ancient Middle East; head of cast copper or bronze was fitted into a wooden handle by tangs; broad head made it suitable for use against unarmoured foes since its penetration capabilities were not great
+espadon	European two-handed sword of the 15th century
+estoc	long, stiff and sharply-pointed sword for thrusting at the joints in plate armour, first introduced in the second half of the fourteenth century
+exchequer	financial department of the royal government, the chief officers of the Exchequer are the Treasurer, the Chancellor and the Justiciar.
+fakir's horns	Indian weapon made of horns; some have spear points attached to the ends of the horns
+falchion	1. short, heavy, broad-bladed sword with a single edge, bearing a similarity to a heavy scimitar 2. short, curved single-edged sword with a broad blade
+fang	all iron Chinese weapon with two double-edged blades at the end
+fauld	skirt of overlapping lames riveted to leather and protecting the wearer below the waist, usually attached to a breastplate
+firangi	straight-bladed sword; the hilts were padded and fitted with spiked pommels
+fist mace	iron or steel mace used in Europe shaped like a clenched fist
+flagellum	three-pronged whip used by the Romans; was ineffective against heavy armor
+flail	large foot soldier's weapon used in Europe; normally made of wood and reinforced with metal bands; some were fitted with hooks to keep the head from swinging around while marching
+flamberge	European two-handed sword with a undulating blade
+flat club	Samoan hardwood club, often elaborately carved; sharp edges on the head to improve effectiveness
+flaxen	pale-yellow in color: straw-colored
+fletcher	arrow maker
+fleuret	European fencing sword with a cup hilt
+flyssa	sword with a straight-backed blade with a long point; often the blades are inlaid with bronze
+francisca	(axe/missle) from 6th-8th centuries it was normally used as a missile; standard tactic was to hurl it at an enemy and then charge in with sword or spear; consists of a socketed, iron head attached to a wooden haft; effective range was about 15 meters when thrown
+fukidake	a blowpipe not normally used in combat but rather to poison opponents; about two meters in length, darts were fitted with paper cones on the ends to ensure an airtight fit; mouthpiece was fitted off to the side of the main tube, a feature which prevented the accidental inhaling of the dart; effective range was approximately ten meters
+full moon	parrying weapon consisting of a steel ring attached to a handle with two curved blades fitted to either end; outer edges of the ring and the blades are sharpened
+fuller	broad groove running down the center of each side of some sword blades (usually to make the sword lighter in weight, not to allow a "channel" for blood to drip off the sword as commonly thought)
+gada	mace of wood with a stone head; normally the head is bound to the handle
+gala	sword with a carved wooden handle and no guard
+galoshes	wooden-soled shoes with leather straps intended to protect shoes from rough stone pavements
+galraki	axe with socketed iron head, attached to a wooden handle
+gambeson	quilted linen jacket stuffed with flax or rags, worn as a body defense by infantry and over the hauberk by poor knights and sergeants
+gamboised	A padded defense made of linen, flax or other fabric, sometimes reinforced and studded. Gamboised cuisses were often worn as an early addition to mail chausses during the late 13th and early 14th centuries.
+ganeugaodusha	deer-horn club of the Indians
+ganjing	all iron club
+gargaz	Indian mace with six to ten blades on the head made of steel, had padded hand guards, and sometimes were richly engraved
+garrett	a room within the roof of a house, an attic
+garth	small piece of enclosed land next to a house, often a garden
+garz	all steel Indian mace with no hilt; head is rather small and has many flanges
+gatlings	small joint defense on a finger gauntlet, usually attached to a leather or canvas base by sewing or by rivets
+gauntlet	1. a medieval glove, usually of leather covered with metal plates, worn to protect the hand from injury in combat 2. a long glove with a flaring cuff covering the lower part of the arm
+gilded	covered with a thin layer of gold-leaf
+gladius	Short thrusting sword of the Romans, developed originally in bronze but more effective in the later iron examples. Designed both for thrusting and for cutting in close-in combat.
+goddara	Turkish sword with a curved blade and padded hilt; often highly decorated
+goliah	heavy Indian sword with a padded hilt and spiked pommel; blade is often engraved and inlaid
+gorget	1. piece of plate armour protecting the neck 2. plate defense covering the throat, meeting the breastplate at the shoulders and chest
+goupillon	steel, three-pronged horseman's flail used in Europe; head could be spiked or plain
+great bascinet	Late 14th early 15th century version of the bascinet where the mail aventail was replaced with two steel plates, one in the front and one in back.
+greaves	defense for the lower leg, usually made of plate
+guige	the strap affixed to the back of the shield by which a shield could be carried over the shoulder
+gunsen	folding war fan with iron sticks used by the Japanese as a parrying weapon
+habergeon (haubergeon)|habergeon|haubergeon	mail coat, smaller than a hauberk
+hachiwara	weapon normally consisted of a slightly curved, square-sectioned bar with a hook near the grip; used as a parrying weapon
+haik	(hyke) large piece of woolen or cotton cloth worn by Arabs as an outer garment
+hair pin	long metal pin used to hold the hair in place
+haketon	leather jacket, sometimes reinforced with mail
+halab	sword with a double- grooved blade and a padded hilt
+halasan	sword with a cylindrical hilt made of horn and no guard
+halberd	axe-headed polearm, usually with a rear and top spike
+hammer (warhammer, martel)|hammer|martel|warhammer	A weapon consisting of a hammer head on one side and a spike on the other, sometimes mounted on a short handle for use in one hand and other times mounted on a short shaft for use in foot combats. Warhammers and poleaxes were popularly used in judicial duels or in combats associated with points of honor.
+han-dachi	Japanese sword used with either one or two hands; fitted with a small, roughly circular hand guard; carried thrust into the belt with the blade facing upwards
+harness	originally, armour and other military equipment for a man or horse
+hatchet	common woodcutter's tool; socketed metal head is attached to a wooden handle
+haubergen	shorter version of the hauberk, a shirt made of mail, usually laced down the sides
+hauberk	1. mail coat 2. armour of chain mail in the shape of a tunic to protect the body 3. mail shirt covering the body as far as the knees, the arms ending in mittens, and with a hood for the head
+heater shield	semi-cylindrical shield with a flat top edge
+herebra	Phoenician sword with a double-edged, leaf-shaped blade OR straight-bladed Bornean sword with a guardless wooden hilt
+hoeroa	whalebone club with a double-curved blade and carved handle
+holy water sprinkler	(morningstar) European mace made of wood and having numerous spikes projecting from the head It was a common foot soldier's weapon
+hoolurge	axe/pick made of steel; often elaborately carved or engraved
+hora	horn knuckle-duster
+horseman's hammer	war hammer made of iron or steel, used by mounted fighters
+houpelande	A garment common to nobility during end of the 14th century; characterized by long flowing sleeves, sometimes dagged in many interesting patterns. Often worn as court attire and later adopted in place of the surcoat, particularly in Germany during the late 14th century.
+hul-tho	bladed rope
+hunga-munga	hooked throwing knife; blade is double-edged, and the handle is covered in rawhide
+hurlbat	iron throwing axe from Europe
+ice pick	small tool consisting of a thin metal spike fitted into a wooden handle
+iverapena	paddle club made of hardwood and slightly pointed
+iwatajinga	club consisting of a stone head attached to a wooden handle
+jack	1. defensive leather coat, either of several layers or quilted, often reinforced with metal studs or small plates 2. canvas or leather jacket reinforced by metal or horn plates stitched between the layers of material
+jadagna	club made of ironwood; sometimes fitted with a stone or metal spike in the head
+japurunga	wooden club with a double-pronged head
+jaweti	square-sectioned club made of hardwood
+jeddart axe	(also called a lochaber axe) Scottish variation of the halberd; the polearm weapon consists of a hook on the reverse side of the blade which was used when scaling walls, a sharp point at the top of the weapon, and a long blade
+jerkin	1. a short, close-fitting coat or jacket, often sleeveless, worn in the 16th and 17th centuries 2. a short, sleeveless vest worn by women and girls
+jitte	Japanese parrying weapon consisting of an iron bar with a hook attached to one side; grip is often woven cord or leather
+jo	wooden Japanese staff slightly longer than the katana
+jumgheerdha	straight-bladed sword with a padded hilt and hand guard
+jupon	a tightly fitted garment resembling a leather tunic worn over armor (particulary chain mail) in the 14th century, often blazoned with one's coat-of-arms.
+kadjo	stone- headed axe; stone head consists of two parts attached to the wooden handle by tree resin; one of the stones is blunt and the other sharp so the tool can be wielded as either a hammer or an axe
+kalus	whip commonly made of buffalo hide or rattan and fitted to a handle of wood
+kama	sickle consisting of a tanged steel head fitted into a wooden handle; fighting style often utilizes two kamas, one in each hand
+kamcha	whip made of leather or cord attached to a wooden handle and often elaborately decorated
+kan sin ke	Chinese whipping chain made of short metal bars joined together with links; two-handed weapon
+kangaroo rat	(weet-weet) slender, wooden Australian throwing stick with conical points on each end; thrown by swinging it back and forth several times and then letting go with a under-hand jerk; effective range is about 25 meters
+kantschar	steel Russian sword with a thin blade and drooping quillions
+kapak	small throwing axe consists of a tanged metal head fitted into a flat wooden handle
+karabela	Turkish, and later Polish, sword consisting of a curved blade, short quillions and curved hilt; often this weapon was highly decorated
+kaskara	a straight, broad-bladed sword with a cross shaped hilt
+kasrullah	club made of wood
+kastane	sword often had European blades which were slightly curved and single-edged; handle, pommel, and ends of the quillions are carved in the form of monsters' heads; entire hilt is often made of silver or gold and inlaid with jewels
+katti	a heavy, curved single-edged blade attached to an unguarded hilt; carried unsheathed in the back from a belt
+kauah	cylindrical stone throwing club
+kauw	parrying weapon, usually used with one in each hand; a wooden staff with a sharp semicircular blade fitted to one end; metal hand guard consisting of two half-moon shaped blades connected by a crossbar
+kawanaga	iron Japanese grapple attached to a long rope used to assist in climbing, tying up prisoners or a horse, or as an entanglement weapon; two handed if used as weapon
+keerli	stone axe consists of a sharpened stone glued onto a wooden handle
+kerrie	wooden or horn throwing stick; end is sometimes sharpened and used for stabbing
+kettle hat	strong, light weight, open-faced helmet, having a conical crown and wide brim
+khanda	sword consists of a curved blade with a broad, sometimes blunt, tip; hilt is padded; a spike on the end of the pommel acts as an arm guard and a grip for delivering two-handed blows
+kharga	sacrificial axe made of steel and usually elaborately carved and engraved
+kheten	Egyptian two-handed axe; bronze head was fitted into the wooden haft
+kiam bokiam	Chinese fighting and parrying metal stick with a hand guard
+killj	sword with a curved blade fitted with a pistol grip handle
+kirasoo	ironwood Indian spiral throwing stick
+kirtle	1. a short skirt worn by women 2. a long gown or dress worn by women 3. a long tunic worn by men
+kiseru	iron smoking pipe; also used to parry sword strikes, as well as deliver counter attacks against a foe because of its metal construction
+klappvisier	The first visored defense for the bascinet. The klappvisier featured a pointed (pignose) or rounded (roundnose) snout to deflect arrows and bolts and a raised area around the eyes. It first defended the area of the face not already defended by the aventail.
+kledyv	ancient Welsh sword with a leaf-shaped blade
+klewang	sword with a straight steel blade and an angled hilt; hilt is generally unguarded and carved
+knuckle duster	iron bar with finger holes in it to give weight to a punch; similar to modern 'brass knuckles'
+kodelly	axe consisting of a socketed steel head attached to a wooden handle; normally used as protection against animals
+konnung	straight, wooden stick from held in the center and used for stabbing
+kopsh	(sappara) ancient Egyptian bronze sword with a sicklelike blade; consists of a heavily curved single-edged blade which widens at the tip
+kotiate	club that is elaborately carved; known to be highly prized heirlooms; were often given names by their owners; club was made of wood or whalebone and shaped somewhat like a violin
+kris	a double-edged, wavy-bladed knife/short sword designed primarily for thrusting
+kujerong	wooden club with a heavy, rounded end
+kunnin	wooden throwing stick
+kusarigama	metal Japanese parrying and whipping chain attached to a metal sickle with a hand guard; chain is used to entangle an opponent's weapon or legs; used with both hands
+kyoketsu-shogi	Japanese ninja parrying weapon; a rope connects a metal ring and a forked knife, could also be used to aid in climbing; used with both hands
+laingtjat	flail that consists of two wooden rods, one about half the length of the other, attached together by a short chain, often the shorter rod is sharpened
+lames	narrow overlapping plates used to make the flexible parts of an armour
+lantern shield	Itallian shield weapon; consisted of a round buckler-type shield to which was attached a number of offensive weapons; handle projected from the inside of the forward edge of the shield which was grasped by the hand, protected by plate gauntlet; center of the shield was fitted with a projecting spike; also made with a fitting in front and the necessary hardware in back so a small lantern could be attached to it (lanterns used by some fencers in effort to dazzle opponents)
+lariat	1. rope lasso used to entrap and ensnare; used both hands 2. Indian parrying shield/weapon consisting of a leather or iron shield fastened over a curving pair of buckhorns which point in opposite directions of one another; often the horns are steel tipped
+latten	Brass, Bronze or a mixture of the two; generally a copper base metal with elements of tin or zinc plus other trace elements; often used to create armor with or to decor armor
+leonile	hardwood club
+lil-lil	wooden fighting club from Australia; usually elaborately carved
+lisan	Egyptian club or throwing stick made of palm wood
+lohangi	Indian mace consisting of a bamboo shaft bound with strips of iron below where the head is attached
+lohar	small, steel fighting pick normally inlaid with silver and brass
+lute	string musical instrument, shaped like half a pear and similar to a guitar, with six to thirteen strings
+mabobo	long, wooden club with a rounded head and squared handle
+macana	club made of wood and having a rectangular section; the grip was covered with woven cane, and the head sometimes fitted with a stone blade; these clubs were sometimes thrown
+mace	A short mass weapon similar to a heavy club.
+mace & chain	European flail consisting of a spiked metal ball attached to a wooden handle by means of a chain
+machera	bronze Greek cutting sword with a straight single-edged blade; pommel was frequently in the form of an animal's head
+mail	1. interwoven links of iron wire riveted together to form a kind of defensive metal cloth, highly resistant to slashing but less effective against piercing or crushing wounds
+main gauche	left-hand daggers for rapier dueling
+mandehi liguje	(coup stick) wooden spear
+manople	gauntlet sword consisting of a double-edged blade with two short, curved side blades
+manor	1. a small holding, typically 1200-1800 acres, with its own court and probably its own hall, but not necessarily having a manor house; generally held by a knight 2. unit of rural lordship, varying greatly in size
+manpau	head-hunting sword which has a tanged steel blade that is slightly curved; hilt was made of wood or deer horn, with no hand guard
+manriki-gusari	metal parrying chain with weighted ends; used with one weight in each hand
+mantle	a loose, sleeveless cloak or cape
+mantling	cloth decor suspended from a helmet, commonly illustrated in armorial artwork
+maquahuilt	wooden club with obsidian blades set around its edges
+martel de fer	war hammer with a metal mallet shaped head attached to a wooden handle
+masakari	battle-axe with a heavy metal head and a point opposite the blade, attached to a wooden handle by a socket
+masse	club-like weapon most often used in tournaments
+massuelle	small, all metal mace; normally had four blades on the head
+mattina	wooden club with shark's teeth fitted into opposite sides of the head
+maul (or mallet)|mallet|maul	a hammer-type weapon, with a heavy leaden head on a five-foot wooden shaft; usually made entirely of wood and used with two hands
+mazule	steel European mace with a pear-shaped, multi-bladed head
+meat cleaver	butcher's tool for chopping meat; has a tanged metal blade fitted into a wooden handle
+meeri	wooden club with two short spikes on the end
+mentok	sword with a slightly curved blade and a guardless wooden hilt
+merai	(maori) jade club; usually consisted of one to three metal heads attached to a wooden handle by chains
+metacarpal	defense for back of the hand, usually a part of a gauntlet
+metsubishi	Japanese weapon designed to blind an enemy; small, wooden box, either round or square, which was hollowed out and could be opened; either end of the flat box was fitted with a mouthpiece and a short tube; substances put into the box depending on desired outcome- ground pepper and dust could blind
+miner's axe	European axe consisting of a socketed steel head fitted onto a wooden handle; often elaborately decorated and carried as symbols of rank
+minstrel	poet and singer, also called a jongleur
+mongwanga	iron throwing knife
+monocle	an eyeglass for one eye
+moot	court or meeting, common names for town courts
+morning star	1. form of mace, consisting of a spiked metal ball attached by a chain to a short metal shaft 2. Five foot long club, its head studded with iron spikes
+mugdar	thick, lead-weighted, wooden club
+muragugna	wooden club with a deeply grooved head
+nagan	sword with a serrated edge; hilt is padded and fitted with a spiked pommel
+nagegama	1. iron Japanese chain weapon that consists of a short sickle-like blade attached to a short handle which the chain is attached; thrown down upon attackers and then drawn up by the chain; two handed weapon 2. small metal throwing rod or knife 3. throwing iron resembling a small axe head
+nawaz khani	slightly curved Indian sword with a disk pommel and reinforced back
+nil-li	wooden club with a grooved striking head; end is pointed for use in stabbing
+novacula	sickle-like tool consisting of a tanged, iron head fitted into a wooden handle
+nunchaku	grain thresher, or flail, used both as a weapon of defense and offense; consists of two short wooden sticks joined together at one end by a short length of rope, leather or chain; normally a two- handed weapon
+oilskin	an oiled waterproof cloth used for coverings and garments
+oncin	one-sided pick which has a socketed metal head fitted into a wooden handle and was used with both hands
+ox mace	mace made of metal; head was shaped like that of an ox's and often had holes in the nostrils so that it whistled when swung
+pacho	(tebutje) wooden club from the South Pacific with shark teeth edges
+pagaya	wooden, paddle-shaped club from Brazil
+pahisa	sword with a broad, double-edged blade which widens at the tip
+pahu	wooden club from New Zealand
+pakayun	curved sword with a forked wooden pommel; blades were generally elaborately engraved
+palache	17th century sword with a slightly curved blade and curved quillions; often highly decorated with gold and silver
+pantaloons	a bifurcated garment for a man, covering the body from the waist downwards, and consisting of breeches and stockings in one
+pappenheimer	European cut-and- thrust sword developed in the 17th century; hilt consisted of a pair of oval guards pierced with holes, recurved quillions, and a knuckle guard
+parang bedak	sword with a butcher knife-shaped blade and a guardless hilt
+parang nabur	sword with a metal blade and bone hilt; quillions and knuckle guard are made of brass or iron; hilt is generally highly ornamental
+parang pandit	sword with a straight double-edged blade and bent hilt
+pareh	stone axe in which head is attached to wooden handle by plant resin
+pattens	shoes, made with wooden soles set on iron rings, which raised the wearer above the wet and mud of the streets
+patu	short club made of basalt, bone, or jade
+pauldron	curved plate worn in pairs to protect the front and rear of the shoulder
+pavise	1. large, free-standing shield on hinged support used by archers as protection when shooting 2. large rectangular shield carried by spearmen and used to provide cover for crossbowmen
+pedang	straight-bladed Malaysian sword with a cross guard
+pendjepit	metal combat pincers used to grab, twist, and tear the flesh of an enemy
+periperiu	long wooden club from Australia with a blunt striking end
+pernat	Russian mace consisting of an iron bead attached to a wooden handle
+petjut	whip/flail consists of a wooden handle with a shirt length of leather thong tipped with a ball of knotted leather or sometimes a metal sphere fastened at the end
+peudeneng	thin-bladed, curved bladed sword with a L-shaped hilt
+pike	long spear with small iron head
+plaque belt	military belt formed from interlocking metal plates or metal plates riveted to a leather base
+plate	A general term for iron defenses fashioned from sheet iron or steel. "Plate" defenses were during the Middle Ages first introduced during the late 13th century, first as reinforcing for mail defenses and later as defenses on their own.
+plombee	lead-weighted mace with a wooden handle
+podang	sword with a curved blade and a steel hilt with cross guards
+polearm	The general term for a group of pole-mounted weapons usually featuring a cutting or slashing weapon on one end. The halberd, guisarm, bill, bec-de-corbin, and poleaxe are all specific kinds of polearms.
+pommel	knob at the top of a sword-hilt, counterbalancing the weight of the blade
+poni	wooden club usually fitted with a woven cord grip
+pourpoint	an arming garment worn under or as an aketon
+pouwhenua	wooden staff flattened on one end and pointed on the other
+puhah bemoh	two-handed sword with a long steel blade and two hand guards
+puiouar	heavily curved indian sword with a metal hilt
+purijimala	wooden Australian club
+quaddara	Persian straight-bladed sword, often inlaid with gold; hilt is of horn with no guard
+quadrelle	small mace with four blades
+quarterstaff	polearm weapon which was merely a long wooded pole
+quillons	bar (usually iron) forming the crossguard of a sword or dagger
+quirriang-an-wun	throwing club similar to a boomerang
+quoit	steel Indian mace with a bead head of a heavy quoit and fitted with a hand guard
+rang-kwan	wooden club used primarily by women; long and is pointed at both ends
+rante	whipping chain designed to entangle an opponent's weapon or ensnare the legs or arms; usually a two-handed weapon
+rante ber gangedug	whipping chain with a T-shaped handle on one end and a sharpened metal rod on the other; parrying weapon designed to entangle an opponent's weapon or ensnare legs or arms
+reiterpallasch	Danish cavalry sword with a straight blade and guarded hilt
+rerebrace	defense for the upper arm (arm greaves)
+roundel	round metal attachment at the base of a polearm to keep the hands from sliding down the shaft and onto the blade
+rucksack	a kind of knapsack strapped over the shoulders
+rungu	club generally made of one piece of wood; handle was generally sharpened so it could be used as a stabbing weapon as well as a club
+sa tjat koen	wooden three-sectioned Malaysian flail; used with both hands
+sabar	Indian pick made of steel
+saboton (also called solleret)|saboton|solleret	1. an armored, pointed shoe 2. armor for the foot usually consisting of plates ending in a toecap 3. armor for the foot made of plate, mail, or other metal
+sai	Japanese parrying baton; an iron bar with a leather covered grip and two small side hooks mounted parallel to the bar; some sai had blades; often used in pairs
+saintie	steel Indian parrying weapon; metal spear with a hand guard mounted in the center; some had a small thrusting dagger concealed in the shaft
+sallet	a light, rounded helmet with projecting neckguard and, often, a visor, worn in the 15th century
+samite	a heavy silk fabric worn in the Middle Ages: it was sometimes interwoven with gold
+sapakana	hardwood club
+sapola	Indian sword with a curved blade and a forked point; pommel is decorated with the figure of a griffin
+sarissa	a polearm weapon measuring about 6 meters in length with a spear attached at the end; used for jabbing or throwing
+sassanid	straight single edged sword; unguarded straight hilt made of horn
+sauscitwerter	European hunting weapon normally used by the nobility; consisted of a hand-and-a-half hilt; could be used with one or two hands if necessary
+savage	axe that generally carried as a symbol of rank
+scabbard	a sheath or case to hold the blade of a sword or dagger
+scale armour	small rectangular plates of metal, attached to a leather or linen coat, lighter and more flexible than mail
+scbnepfer	slightly curved Swiss sword with a broad hand guard and a knuckle guard
+schestopjor	mace with a many-bladed metal head
+schiavona	broadsword; used in the 16th century
+scimeter	broad-bladed curved sword with a small cross guard
+scribe	A person who copied books by hand before the invention of printing.
+sego	metal parrying weapon; used to strike against the arms and head of the enemy
+senangkas bedok	slightly curved Malaysian sword with wide grooves in the blade
+shakujo yari	wooden staff with a removable and hidden straight, double-edged steel blades; requires both hands to use
+shamshir	heavily curved, thick bladed sword; generally quite simple, with no decoration
+shashpar	steel Indian mace with six blades and fitted with a hand guard
+shashqa	consists of a slightly curved single-edged blade fitted into an unguarded hilt
+sheaf arrow	heavy armour piercing arrow used by longbowmen at close range
+shinobi-zue	wooden staff with a concealed blade fitted on the end; two-handed weapon
+shoka	African battle-axe; triangular metal bead is fitted into a hardwood handle by means of a short narrow tang
+shotel	sword with a double-edged blade which had a diamond-shaped cross section; the extreme curvature of these swords made them nearly useless except for cuffing attacks
+shuko	iron palm guards with spikes on the palms for use with climbing; also used to parry sword strikes
+shuriken	metal knife or star
+siangkam	long metal arrowhead attached to wooden handles; used in pairs for thrusting and slashing
+sickle	mace made of steel; striking head is a heavy curved blade and thus the weapon resembles the various ancient sickle swords
+silepe	axe consisting of a wide blade which is connected to the wooden handle by a flat tang; wooden handle is sometimes reinforced by wire coils
+singa	steel boomerang
+sirohi	straight-bladed sword with a padded hilt, slightly curved examples exist also; often these weapons were highly decorated
+siwalapa	wooden club with a small cylindrical handle and a square striking head
+skull	crown of the helmet; the central defense for the upper portion of the head
+slung shot	(sap, or blackjack) club weapon consists of a lead weight with a flexible leather cover handle woven over it
+snood	1. a tie or ribbon formerly worn around the hair, especially by young unmarried women 2. a netlike bag worn at the back of a woman's head to hold the hair
+sodang	broad-bladed Malaysian sword without a hand guard
+sopok	1. wooden blowpipe with an iron spearhead attached to the end; used with two hands 2. shield weapon; small metal shield protecting the forearm to which was fitted a blade or spike
+sosunpattah	sword with a straight blade and a spiked pommel; often highly decorated with engravings
+spadroon	European cut-and-thrust sword with a light, flexible blade; double-edged near the point
+sparte	battle-axe consists of a broad socketed head fitted onto a wooden handle
+spatha	cavalry sword of the romans, between 36" - 40" in length, made from iron; double-edged blade
+spaulder	14th and 15th century defense for the shoulder, featuring a small dished defense for the shoulder point and a number of lames extending down the arm
+spine sword	An Indian sword with a comb-like spring blade
+sporran	large purse or pouch usually made of leather or animal fur, attached to waist in front of the kilt when in full dress
+stechtarsche	small ribbed German shield laced to the left shoulder; sometimes these shields were made of cuirboille, painted, or gold leafed
+suan-tou-fung	metal Chinese mace with globular head
+sugarloaf	A transition helmet between the heaulm and the bascinet, where the skull of the helmet was pointed like a bascinet and the sides enclosed like a heaulm.
+sultani	slightly curved Indian sword with a hand guard
+surai	sword with a curved tip and spiked pommel
+surcoat	long flowing garment worn over armour
+taavish	stone axe with the wooden handle carved at the end to represent a man's head; stone blade is fitted into the handle and represents the tongue
+tabar-i-zin	large two handed axe; socketed metal head fitted onto a wooden shaft
+tabard	short, loose garment, open at the side and having short, wide sleeves, worn in 15th century by some knights
+taber	steel battle-axe
+tailbon	sword with a tanged blade fitted into a carved wooden handle with a cane grip
+takieh	short sword with a slightly curved blade and a broad pommel which could be used as a crutch; often these weapons were highly decorated
+takouba	straight, double-edged sword with no guard; its hilt is fitted with a crosspiece below the pommel
+talwar	sword with a curved blade and a padded hilt with a spiked pommel; often highly decorated; one of the oldest forms of Japanese swords, it consists of a double-edged straight blade and metal hilt; pommel is often in the shape of a ring
+tam	(tam-o'shanter, tammy) woolen cap of Scottish origin
+tambara	wooden club with two to four prongs at the end
+tan-kiev	metal, sword-like parrying weapon; square-sectioned metal bar with a swordlike hilt
+taper	European axe; socketed metal bead fitted onto a wooden handle
+targe	round or oval shield used by knights
+tartan	a plaid textile design of Scottish origin consisting of stripes of varying width and color usu. patterned to designate a distinctive clan
+tashi	curved sword which is essentially the same the katana, differences between the two are the fittings and the way they are worn - tashi is hung from the belt with the edge downward and the katana is thrust into the belt with the edge upward
+tasset (taces)|taces|tasset	15th century defense for the hips that attached to the fauld; usually a plate of iron or steel, often featuring one or more fluted ribs and a thick rolled edge for strength
+tebutje	could be used as a sword or a club; made of light wood with shark teeth attached onto the edges of the club
+tebutje-pacho	heavy wooden club usually with obsidian or shark teeth edge for slashing; two-handed weapon
+tewha-tewha	wooden club with a long, tapering shaft and a quarter-circle shaped bead at one end; feathers were hung from the head to flick them in the face of an enemy in effort to confuse him
+thin axe	European piercing axe
+thinin	broad-bladed sword with an unguarded hilt; a European thrusting sword with a diamond-sectioned blade
+threadbare	shabby; worn down so that the threads show
+thrusting axe	European axe; head has a long point extending up for use in thrusting attacks
+tiara	a woman's crownlike headdress of jewels, flowers, etc.
+tiglun	club-like dagger made of ivory; might have been used by Eskimos
+tindil	wooden club
+tjabang	metal parrying weapon similar to the Sai
+toki kakauroa	fighting axe; usually with elaborately carved bone or wood handle
+tomahawk	North American Indian combat axe and pipe; usually has a narrow iron blade fitted with a pipe bowl opposite the blade, wooden handle is hollow and forms the pipe stem
+tonfa	wooden rice husking tool; as combat weapon it could block attacks when rested along the forearm; also used to jab or club
+tongia	axe with socketed iron head and a semicircular blade attached to a wooden handle; sometimes used as a missile
+toporok axe	Russian battle-axe
+torse	a colorful cloth worn around the crown of the helmet, from which the mantling was attached (used from the 13th century through the 15th, torses and mantling helped to identify knights in war and provided a colorful expressive tool for tournaments and pageants of the 15th century)
+trident	parrying weapon consisting of a L-shaped wooden handle to which a five-pronged horizontal head is attached
+trombash	wooden throwing stick with an angled end
+truncheon	1. a short, thick staff, similar to a policeman's baton 2. European club made of wood
+tschekan	Russian war hammer with a steel head
+tuagh-gatha	Scottish battle-axe
+tungi	fighting axe with socketed steel head attached to a short wooden handle
+tunic	a loose, gownlike garment worn by men and women in ancient Greece and Rome 2. a blouselike garment extending to the hips or lower, usually gathered at the waist, often with a belt
+turban	headdress worn by men in the Levant and by most Mohammedans of the male sex, but also known to be worn by women in some Eastern cultures; consisting of a cap, and a sash, scarf, or shawl, usually of cotton or linen, wound about the cap, and sometimes hanging down the neck
+uchi-ne	1. short throwing dart made of wood with a metal head 2. wooden throwing club
+udlimau	fighting adze of hardwood, had a stone point fixed with resin on the head
+uramanta	throwing stick made of wood
+vambrace	plate defense for the forearm
+veecharoval	Indian scythe-type weapon consisting of a curved, metal blade attached to a wooden handle
+venmuroo	battle-axe consisting of a tanged, steel head fitted into an ebony wood shaft which is reinforced with metal bands; often ornamented with silver and brass
+ventail	mail or plate skirts attached to bascinets to protect the throat (mostly used during the the 14th and 15th century)
+verdun	long European thrusting sword with a diamond or square-sectioned blade used in the 16th century
+vervelles	bronze, brass, or latten staples that attached to a bascinet to enable the leather cuff of an aventail to be secured to the helmet
+voulge	1. a tool used for trimming trees 2. polearm weapon characterized by a broad axe-like blade with a single spike protrusion at the top, often attached to a wooden pole
+waddy	Australian wooden club
+wahaika	club made of wood or bone; often elaborately carved
+wairbi	womens' fighting club from Australia; made of wood
+wakerti	wooden paddle-shaped club
+wakizashi	1. shorter of the two swords which make up the Japanese dai-sho 2. used in ritualistic suicide 3. African sword with a tanged metal blade fitted into a plain wooden hilt
+war hammer	piercing and impact weapon used in Europe; blunt hammerhead set opposite a pointed pick mounted on a wooden shaft
+watilikri	wooden throwing stick
+weerba	hardwood club from Australia
+wfrka	two-pronged wooden club from Australia
+woodsman's axe	common tool generally used with two hands; consists of a socketed metal head fitted onto a wooden handle
+xiphos	bronze sword with a tanged metal blade fitted into a plain wooden hilt
+yatagan	a long knife or short saber that lacks a guard for the hand at the juncture of blade and hilt; usually has a double curve to the edge and a nearly straight back
+yeamberren	wooden club with a large conical head
+zagbnal	steel pick or beaked axe from India; often engraved and inlaid with gold
+zweihander	(also called greatsword or two-handed sword) a two-handed sword that is extremely heavy and used for slashing rather<BR>than thrusting

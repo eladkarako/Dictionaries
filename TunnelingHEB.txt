@@ -1,0 +1,1346 @@
+##name	Tunneling
+##sourceLang	Hebrew
+##targetLang	English
+##bgl_defaultCharset	cp1255
+##bgl_sourceCharset	cp1255
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1255
+##bgl_sourceEncoding	cp1255
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##author	theNoam
+##copyright	<br>&copy; <a href="http://thenoam.com/">theNoam</a>
+##description	Hebrew to English Dictionary for Geo-Engineering, Tunneling, Civil Engineering, Construction Works etc.
+##browsingEnabled	
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_creationTime	2006/08/24, 09:35
+##bgl_middleUpdated	2012/05/23, 14:58
+##bgl_lastUpdated	2012/05/23, 14:58
+אבטחת איכות|א"א	Quality Assurance
+אבן בוץ	Mudstone
+אבן חול	Sandstone
+אבן חרסית	Claystone
+אגירה שאובה	Pumped Storage
+אגף הקורה|אגף|אגף קורה|אגף של קורה|אגפים	Flange
+אגרגאט חד גרגר|אגרגאט חד-גרגר|אגרגאט חד-גרגרי|אגרגט חד גרגרי|אגרגט חד-גרגרי	Single Sized Aggregate
+אגרגאט מינרלי קל	Mineral Lightweight Aggregate
+אגרגט|חצץ	Aggregate
+אוויר דחוס|אוויר בלחץ	Compressed Air
+אוורור|איוורור	Ventilation
+אוזן|וו|קרס	Hook
+אולם תת קרקעי|אולמות תת קרקעיים	Cavern
+אולמות|אולם|חדר|חדרים	Chambers
+אופציונלי|אופציונאלי	Optional
+אופקי	Horizontal
+אורך גלעין	Length of Core
+אורך חופשי|קטע חופשי	Free Length<BR>Unbonded Length
+אורך כללי	Overall Length
+אורך עיגון|אורכי עיגון	Development Length
+אורך פעיל	Effective Length
+אורך קטע מעוגן|אורך מעוגן|אורך תפוס	Tendon Bond Length
+אורך תפיסה	Anchored Length
+אזור גזירה|אזורי גזירה|איזור גזירה|איזורי גזירה	Shear Zone
+אזור הכרייה|אזור החפירה|אזור החציבה	Excavated Region
+אזורי רעידת אדמה|אזורי רעידות אדמה	Earthquake Zones
+אזכור|אזכורים	Reference
+אטום למים|אטומים למים	Waterproof
+אטימות|אי חדירות	Impermeability<BR>Tightness
+אטמים|אטם	Packers
+אי רציפויות|אי רציפות	Discontinuities
+איזור שבר|אזור שבר|אזורי שבר|איזורי שבר	Faulted Zone
+איטום|איטומים	Sealing
+איטום למים	Water Proofing
+איטרציה|איטרציות|חזרה|חזרות	Iteration
+איכול	Erosion
+איכול הבטון	Erosion of Concrete
+איכות גרועה|איכויות גרועות	Poor Quality
+איכות גרועה מאוד	Very Poor Quality
+איכות הסלע|איכויות הסלע|איכויות סלע|איכות סלע	Rock Quality
+איכות טובה	Good Quality
+איכות טובה מאוד	Very Good Quality
+איכות סבירה	Fair Quality
+איכותי|איכויות	Quality
+אינדקס הפלסטיות|אינדקס פלסטיות|מדד הפלסטיות|מדד פלסטיות	Plasticity Index
+אירגון תקינה בינלאומי	International Organization for Standardization - ISO
+אישור רשמי|אישור	Approval
+איתנות	Soudness
+אלומיניום	Aluminum
+אלמנט	Element
+אלמנט טרום|רכיב טרום	Precast
+אלמנט מבטון טרום|אלמנטים מבטון טרום	Precast Concrete Segment
+אלמנט מחזק|אלמנטים מחזקים|רכיב מחזק|רכיבים מחזקים	Reinforcing Member
+אלמנטי שפה|אלמנט שפה	Boundary Elements
+אלמנטי תימוך מקדים|אלמנטים לתימוך מקדים|תימוך מקדים	Forepoles
+אלסטי	Elastic
+אנכי	Vertical
+אנליזה הפוכה	Backanalysis
+אנליזה מבנית	Structural Analysis
+אנליזת יציבות|אנליזות יציבות	Stability Analysis
+אסמכתא|אסמכתאות	Reference<BR>Proof
+אספלט	Asphalt
+אפר פחם	Fly Ash
+אשפרה|אשפרת הבטון	Curing
+אשפרה בקיטור|אשפרת קיטור	Steam Curing
+אתר|אתרים	Job Site
+אתר הבנייה|אתר	Construction Site
+בארות סילון	Jetting Wells
+באתר|אתר	In situ
+בד גיאוטכני	Geoweb
+בדיקה באתר|בדיקת אתר	Field Investigation
+בדיקה להפרשת מים	Bleeding Test
+בדיקות קשיות|בדיקת קשיות	Hardness Tests
+בדיקת אתר|בדיקה באתר|בדיקות אתר|בדיקות באתר	Site Investigation
+בדיקת ביצועים|בדיקות ביצועים	Suitability Test
+בדיקת גזירה|בדיקות גזירה	Shear Test
+בדיקת חדירה|בדיקת חדירות|בדיקת קשיות	Indentation
+בדיקת כיול	Calibration Test
+בדיקת מתיחה|בדיקת שליפה	Pull Test
+בדיקת שליפה|בדיקות שליפה	Pull Out Test
+בולדר|בולדרים	Boulder
+בוץ	Mud
+בורג|ברגים	Bolt
+בורג דייס חלול לעיגון|בורג חלול|בורג חלול לעיגון ע"י דייס צמנטי	Hollow Groutable Re Bar
+בורג משוסע|ברגים משוסעים	Split Set
+בורג סלע|ברגי סלע	Rock Bolt
+בזלת	Basalt
+בטון|בטונים	Concrete
+בטון דרוך|בטונים דרוכים	Prestressed Concrete
+בטון טרום	Precast Concrete
+בטון טרי	Fresh Concrete
+בטון יצוק|בטון יציקה	Cast Concrete
+בטון כלוא	Confined Concrete
+בטון מבני|בטונים מבניים	Structural Concrete
+בטון מותז|בטונים מותזים	Shotcrete<BR>Gunite<BR>Torcrete<BR>Spritzbeton<BR>Spraycrete<BR>Sprayed Concrete<BR>Gunned Concrete
+בטון מותז מבטון דק גרגר|בטון מותז	Gunite
+בטון מותז מזויין	Reinforced Shotcrete
+בטון מזויין	Reinforced Concrete
+בטון קשוי	Hardened Concrete
+בטון רזה	Lean Concrete
+בטיחות	Safety
+בידוק	Check List
+ביניים|מרכזי	Intermediate
+ביסוס|יסודות	Foundations
+בלוי|בלויים	Weathered
+בלוי מאוד|שחוק מאוד	Highly Weathered
+בלוק|בלוקים|לבנה|לבנים	Block
+בלייה|התפוררות פני הסלע	Weathering
+בלתי נסבל	Intolerable
+בנטונייט	Bentonite
+בני|בנוי מבלוקים|בנוי מלבנים	Masonry
+בנייה|מבנה	Construction
+בניין|בנייה|מבנה	Building
+בקרה אנושית|בקרת אדם|שליטה אנושית|שליטת אדם	Human Control
+בקרת איכות|ב"א	Quality Control
+ברגי סלע במערך קבוע	Pattern Bolting
+ברגי סלע בתקרה|ברגי סלע	Roof Bolt
+ברגי סלע מסיבי זכוכית|בורג סלע מסיבי זכוכית	Fiberglass Rock Bolts
+ברגי סלע מפיברגלס|בורג סלע מפירגלס	Fiberglass Rock Bolts
+ברוג סלע אקרעי|בירוג סלע אקרעי|ברגי סלע אקרעיים	Spot Bolting
+ברזל יציקה	Cast Iron
+בריחת אוויר	Blowout
+ברקציה	Breccia
+גאוטכני|גיאוטכני	Geotechnical
+גאולוג האתר	Well Sitter
+גבול בין שני חומרים|גבול משותף בין שני חומרים	Interface
+גבול הנזילות	Liquidity Limit
+גבול הפלסטיות|גבול פלסטיות	Plastic Limit
+גבול הצטמקות|גבולות ההצטמקות|גבולות הצטמקות	Shrinkage Limit
+גבול התחום האלסטי|נקודת הכניעה	Elastic Limit
+גבולות אטרברג|אטרברג	Atterberg Limits
+גבס	Plaster if Paris
+גדיל|גדילים	Strand
+גובה|גבהים	Height
+גובה הכיסוי מעל המנהרה|גובה הכיסוי|גובה כיסוי	Height of Cover
+גובה פני הקרקע|פני הקרקע	Ground Level
+גזירה	Shear
+גזירה שיורית	Residual Shear
+גיאולוג|גאולוג|גאולוגים|גיאולוגים	Geologist
+גיאולוגיה|גאולוגיה|חקר הקרקע	Geology
+גיאופיזיקה|גאו-פיזיקה|גאופיזיקה|גיאו-פיזיקה	Geophysics
+גילוון|גילוונים|גלוון|גלוונים	Galvanization
+גיליון|גיליונות	Sheet
+גימור|גמר	Finish
+גיר דולומיטי	Dolomitic Limestone
+גיר עם רובדי חוואר	Limestone with Marl Interbeds
+גיר קירטוני|גיר קרטוני	Chalky Limestone
+גלי	Undulating
+גלעין|גלעינים	Core
+גמיש	Elastic
+גמלון|גמלונים	Gable
+גנייס	Gneiss
+גס גרגר|גס	Coarse
+גרוס	Crushed
+גרור נתמך|סמי טריילר|סמי-טריילר	Semi-Trailer
+גרנולרי|בעל גרגירים|גרגרי|גרעיני	Granular
+גרניט|גרניטים	Granite
+גרסה|גרסאות	Version<BR>Variant
+גשר|גשרים	Bridge
+דו ממדי|מישורי	Two Dimensional
+דו-רתום|דו רתום|דו רתומים|דו-רתומים	Span Fixed at Both Ends
+דוגמא	Pattern
+דולומיט|דולומיטים	Dolomite
+דולומיט גירי|סלע דולומיט גירי	Limy Dolomite
+דופן|דפנות	Wall
+דופן קורה|דופן|דופן הקורה|דופן של קורה|דפנות|דפנות קורה|דפנות של קורה	Web
+דחוף	Urgent
+דחיקת צינורות|דחיקות צינורות|דחיקת צינור	Pipe Jacking
+דיוס	Grouting
+דיוס בשלב מאוחר	Post Grouting
+דיוס למילוי חללים	Cavity Grouting
+דיוס מאזן	Compensation Grouting
+דיוס מגע	Contact Grouting
+דיוס מדורג יורד	Grouting in Descending Stages
+דיוס מדורג עולה	Grouting in Ascending Stages
+דיוס מקדים	Pre Grouting
+דיוס סילוני	Jet Grouting
+דיוס קונסולידציה	Consolidation Grouting
+דייס	Grout
+דינמיט|דינאמיט	Dynamite
+דיפון|ציפוי פנימי	Lining
+דיפון בטון|דיפון בבטון|דיפון הבטון	Concrete Lining
+דיפון בטון מותז|דיפון בבטון מותז	Shotcrete Lining
+דיפון פלדה|דיפון מפלדה	Steel Lining
+דיפון קבוע|דיפונים קבועים	Permanent Lining
+דירוג|דירוגים|דרוג|דרוגים סיווגים|סיווג	Grade<BR>Grading Quality
+דירוג איכות הסלע	Rock Quality Designation - RQD
+דירוג מבנה הסלע	Rock Structure Rating - RSR
+דלת חסינת אש|דלתות חסינות אש	Fire Resistant Door
+דפוס	Pattern
+דפורמציה אלסטית|עיוות בתחום האלסטי	Elastic Deformation
+דרוג הפלדה|דירוג הפלדה|סיווג הפלדה	Steel Grade
+דרוך|דרוכים	Pre Stressed
+דריכת אחר	Posttensioning
+דריכת קדם|דריכת-קדם	Pretensioning
+הגנה מפני אש|מוגן אש|מוגני אש	Fire Protection
+הגנה מפני נפילות גושי סלע	Rock Fall Protection
+הדמיה נומרית|הדמיות נומריות|סימולציה נומרית|סימולציות נומריות	Numerical Simulation
+הולם	Impact
+הומוגני|אחיד	Homogeneous
+הון	Capital
+הוראות התקנה|הנחיות התקנה	Installation Instruction
+החברה הלאומית לדרכים בישראל|החברה הלאומית לדרכים|מע"צ|מע"צ החדשה	Israel National Roads Company
+החלקה	Sliding
+הטרוגני|לא אחיד	Heterogeneous
+הטרחה|הטרחות	Load Effects
+הטרחות|הטרחה	Disturbing Loads
+הידבקות|הדבקות	Adhesion<BR>Bond
+היסדקות|הסדקות	Cracking
+היפוך	Overturning
+היפותיזה	Hypothesis
+היפרדות	Parting
+היקף	Circumference<BR>Perimeter
+היקפי	Circumferential
+הכתמה	Staining
+המפלס התחתון|גובה תחתית|מפלס תחתון	Invert Level
+המפלס התחתון של קיר הדיפון|מפלס תחתון של קיר דיפון	Wall Toe
+המפרט הכללי|המפרט הבין-משרדי	Standard Specifications
+הנדסה אזרחית	Civil Engineering
+הנדסת מבנים	Structural Engineering
+הנדסת סלע	Rock Engineering
+הנדסת קרקע	Geo Engineering
+הנחות יסוד|הנחת יסוד	Basic Assumptions
+הנחיות לביצוע	Code of Practice
+הסוכנות האמריקאית הפדרלית לטיפול במצבי חירום	Federal Emergency Management Administration - FEMA
+הסרת עומס|הסרת עומסים	Load Removal
+העמסה	Loading
+העמסה אקסצנטרית	Eccentric Loading
+העמקת החתך|חציבה למטה	Benching Down
+הערה|הערות	Note<BR>Comment<BR>Annotation<BR>Remark<BR>Reference
+הערכת סיכונים|הערכות סיכון|הערכות סיכונים|הערכת סיכון	Risk Assessment
+הפרעה	Disturbance
+הפרשת מים מהבטון|הפרשת מים	Bleeding
+הצטמקות	Shrinkage
+הצינור המוביל	Lead Pipe
+הצעת מחיר|מכרז	Bid
+הצפה|הצפות	Flooding
+הקמה	Eraction
+הקפאה	Freezing
+הקצה העליון של קיר הדיפון|קצה עליון של קיר דיפון	Wall Crest
+הקשחה|הקשחות	Stiffening
+הרחבת חתך המנהרה|הרחבה|הרחבות|הרחבות המנהרה|הרחבת המנהרה|הרחבת חתך מנהרה|הרחבת מנהרה	Widening
+הרכב כימי	Chemical Composition
+הרפיה|הרפייה	Relaxation
+הרפיית מאמצים|הרפיות מאמצים	Stress Relaxation
+השבה	Recovery
+השבת גלעין|השבת הגלעין	Core Recovery
+השענה|השענות	Support
+השערה|הנחה|תפיסה	Assumption
+השפלת מי תהום|השפלה|השפלת מים	Dewatering
+השפעה	Impact
+התאוששות	Recovery
+התדרדרות פני הבטון	Scaling
+התזת בטון|תהליך התזת בטון	Shotcreting
+התכנות|בדיקת היתכנות לפרויקט|בדיקת התכנות לפרויקט|היתכנות	Feasibility
+התכנסות	Convergence
+התמוטטות	Collapse
+התמוטטות בשרשרת|התמוטטויות בשרשרת|התמוטטויות שרשרת|התמוטטות שרשרת	Progressive Collapse
+התנגדות לגזירה|התנגדות הגזירה	Shear Resistance
+התנגדות לגלגול|התנגדות לגילגול	Rolling Resistance
+התנגדות שיפועית	Grade Resistance
+התנהגות מבנית	Structural Behavior
+התעייפות	Fatigue
+התפצלויות|התפצלות	Splits
+התקדמות	Advance
+התקלפות|התפוררות קרקע	Slaking
+התקמרות רצפה	Floor Heave
+התקן הבריטי	British Standard
+התקן פענוח|התקן פיענוח|התקני פיענוח|התקני פענוח	Encoder
+התקשות	Hardening
+התקשרות	Setting
+התרוממות	Heave<BR>Heaving
+וו	Bend
+זהירות	Caution<BR>Care<BR>Safety
+זוויתי	Angular
+זוית המדרון	Angle of Slope
+זוית חיכוך פנימית|זוית החיכוך הפנימית|פי	Friction Angle
+זחילה	Creep<BR>Squeeze
+זיון|זיון הבטון	Reinforcement<BR>Reinforcing
+זיון בסיב חיצוני|זיון חיצוני|זיון סיב חיצוני	Outer Reinforcement
+זיון היקפי	Circumferential Reinforcement
+זיון הסלע|זיון זלע	Rock Reinforcement
+זיון לכפיפה|זיון כנגד כפיפה|זיון כפיפה	Flexural Reinforcement
+זיון למתיחה|זיון מתוח|זיון מתיחה	Tensile Reinforcement
+זיון משיך	Extensible Reinforcement
+זיון סיב פנימי|זיון בסיב פנימי	Inner Reinforcement
+זמן הרכבה|זמני הרכבה	Set-Up Time
+זמן עמידה|משך זמן העמידה	Stand up Time<BR>The Bridge Action Period<BR>
+זמני	Temporary
+זר חותך	Cutting Edge
+זרוע חותכת	Cutting Excavator
+זרוע פנימית	Lever Arm
+זרימת מים לתוך המנהרה|זרימת מים|זרימת מים פנימה	Inrush of Water
+חד צירי	Uniaxial
+חדירה	Punching
+חדירות|כושר הקרקע להעביר מים	Permeability
+חדירת הצמיג לקרקע|חדירת גלגל|חדירת גלגל בקרקע|חדירת צמיג|חדירת צמיג בקרקע|חדירת צמיג לקרקע	Tire Penetration
+חדר ועמוד	Room and Pillar
+חוואר|חווארים	Marl
+חוואר קירטוני|חוואר קרטוני	Chalky Marl
+חוות דעת נוספת	
+חוות דעת שנייה|חוות דעת נוספת	Peer Review<BR>Second Opinion
+חוזק|חוזקים	Strength
+חוזק אופייני|חוזק אופיני	Characteristic Strength
+חוזק אמיתי	Actual Strength
+חוזק במצב גבולי של הרס|חוזק במצב גבולי	Ultimate Strength
+חוזק כנגד גזירה|חוזק גזירה|חוזק לגזירה	Shear Strength
+חוזק כניעה במתיחה|מאמץ כניעה במתיחה|מאמצי כניעה במתיחה	Tensile Yield Strength
+חוזק לגזירה|חוזק גזירה|חוזקי גזירה	Shearing Strength
+חוזק לחיצה חד צירי	Uniaxial Compressive Strength - UCS
+חוזק לחיצה חד-צירי של מסת הסלע|חוזק לחיצה חד צירי|חוזק לחיצה חד-צירי	Intact Uniaxial Compressive Strength
+חוזק לכפיפה|חוזק בכפיפה|חוזק כנגד כפיפה	Flexural Strength
+חוזק למתיחה|חוזק מתיחה	Tensile Strength
+חוזק מסת הסלע בלחיצה	Rock Mass Compressive Strength
+חוזק מסת הסלע במתיחה	Rock Mass Tensile Strength
+חוזק קובייה	Cube Strength
+חוזק תכן	Design Strength
+חול|חולות	Sand
+חול חרסיתי	Clayley Sand
+חול טיני	Silth Sand
+חול תחוח	Loose Sand
+חומה|חומות	Wall
+חומר מילוי|חומרי מילוי	Infilling
+חומר מעכב שיתוך	Anti Corrosion Compound
+חומרי בניין	Building Materials
+חופה	Canopy
+חזית בחתך מלא	Full Face
+חזית הכרייה|חזית	Face
+חזית מעורבת	Mixed Face
+חיבור	Connection
+חיזוק הבטון המותז|זיון הבטון המותז|חיזוק בטון מותז|עיבוי הבטון המותז	Strengthening of Shotcrete
+חיכוך פנימי בגלגל|חיכוך פנימי בצמיג	Tyre Internal Friction
+חיפוי	Cladding
+חיצוב חסר|כרייה חסרה	Underbreak
+חישובים|חישוב	Calculations
+חישוק|חישוקים	Stirrup<BR>Hoop<BR>Link
+חיתוך	Cutting
+חלוץ|מנהרת חלוץ	Pilot
+חלוקה מחדש של מומנטים|חלוקה מחדש של מומנטי כפיפה|רדיסטריביוציה	Moment Redistribution
+חלוקים	Pebbles
+חלוקת נטל הסיכון|חלוקת נטל הסיכונים|חלוקת נטל סיכון|חלוקת נטל סיכונים	Risk Sharing
+חלחול|תנועת המים בקרקע|תנועת מים בקרקע	Seepage
+חלל בפני הבטון	Hollow Area
+חלל המסה|חללי המסה	Solution Cavity
+חלק|חלקים	Section
+חלקות	Smoothness
+חמור|חמורה|חמורות|חמורים	Severe
+חסין אש	Fire Resistant
+חספוס|חיספוס|מידת החיספוס|מידת החספוס	Roughness
+חפורת	Debris
+חפייה|חפיות	Overlap
+חפיפה אורכית|חפיפות אורכיות	Longitudinal Overlap
+חפירה|חפירה בידיים	Digging<BR>Dig
+חפירה בידיים|חפירה ביד|חפירה עדינה	Hand Excavation
+חפירה וכיסוי	Cut and Cover
+חפירה ממוכנת|כרייה ממוכנת	Mechanical Excavation
+חפירה פתוחה	Open Cut
+חציבה	Excavation
+חציר	Hay
+חציר שמקורו בביצה	Marsh Hay
+חקירה|חקירות	Investigation
+חרסית	Clay
+חרסית ההעתק|חרסיתות ההעתק	Gouge
+חרסית חולית|חרסית חולי	Sandy Clay
+חרסית קשה|חרסיות קשות|חרסיתות קשות	Hard Clay
+חרסית רכה|חרסיות רכות|חרסיתות רכות	Soft Clay
+חשוב|חשובים	Significant
+חתך|חתכים	Section
+חתך קמור	Convex Section
+חתך קמץ|חתך בצורת קמץ	T Section
+חתך רוחב|חתכי רוחב	Cross Section
+חתך רוחב אופייני|חתכי רוחב אופייניים	Typical Cross Section
+חתך ריש|חתך בצורת האות ריש	L Section
+טבלה|טבלות	Slab<BR>Plate
+טבלת קרום	Composite Panel Deck
+טבעת מתיחה|טבעות מתיחה	Tension Ring
+טווח ארוך	Long Term
+טוף	Tuff
+טופס מיון מוקדם|פידיק	FIDIC
+טיוטה|טיוטות	Draft<BR>Rough
+טיח תרמי	Thermal Plaster
+טין	Silt
+טיפול בפורטל	Portal Treatment
+טכנולוגית מנהור|טכנולוגית מינהור	Trenchless Technology
+טנטטיבי|זמני|ניסיוני	Tentative
+טענה	Claim
+טפסות|טפסה	Formwork<BR>Forms
+טריז|טריז סלע	Rock Wedge<BR>Wedge
+טריזי מילוי	Backpacking Wedges
+טרקטור דחפור|דחפור|דחפורים	Bulldozer Tractor
+טרקטור יעה קדמי|יעה	Front End Loader Tractor
+יועץ|יועצים	Consultant
+יזם|בעלים	Owner
+יחידה גיאולוגית|יחידה גאולוגית	Geological Unit
+יחידת מיתוג|יחידות מיתוג	Switching Unit
+יחס התמירויות|יחס תמירויות	Slenderness Ratio
+יחס התמירות|יחס תמירות	Slenderness Ratio
+יחס חלוקת המאמצים|חלוקת המאמצים|חלוקת מאמצים|יחס חלוקת מאמצים	Stress Ratio
+ייצוג גרפי|תרשים	Graphical Representation
+יישום	Application
+יסוד|יסודות	Footing
+יסוד הדיפון|ביסוס הדיפון|יסודות הדיפון	Liner Foundation
+יסוד נמשך	Continuous Footing
+יסוד רדוד|יסוד בעומק רדוד|יסודות בעומק רדוד|יסודות רדודים	Shallow Foundation
+יצוק	Cast
+יצוק באתר|יצוק במקום	Cast in Place
+יציבות	Stability
+יציבות חזית הכרייה	Face Stability
+יציקה באתר	Cast in Situ
+יציקת בטון|יציקה	Casting
+יריעה|יריעות	Sheet
+יריעה גיאוטכנית|גאוטכסטיל|גיאוטקסטיל|יריעה גאוטכנית|יריעות גאוטכניות|יריעות גיאוטכניות	Geotextile
+יריעות איטום|יריעת איטום|ממברנת איטום	Waterproofing Membrane
+כבול	Peat
+כביש ראשי|דרך	Highway
+כובע מגן|קסדה	Helmet
+כוח|כח	Force
+כוח גזירה|כוחות גזירה|כח גזירה|כחות גזירה	Shear Force
+כוח דריכה מרבי|כוח דריכה מירבי|כוח הדריכה המרבי|כח דריכה מירבי|כח דריכה מרבי|כח הדריכה המרבי	Proof Load
+כוח הדחיקה|כוח דחיקה|כוחות דחיקה|כוחות הדחיקה|כח דחיקה|כח הדחיקה	Jacking Force
+כוח לחיצה|כח לחיצה	Compressive Force<BR>Axial Force
+כוח מרוכז|כוחות מרוכזים|כח מרוכז	Concentrated Load
+כוח מתיחה|כוחות מתיחה|כח מתיחה|כחות מתיחה	Tensile Force
+כוח עילוי|כוחות עילוי|כח עילוי|כחות עילוי	Lift Force
+כוח צירי|כוחות ציריים	Thrust
+כוחות סטטיים|כוח סטטי|כח סטטי|כחות סטטיים	Static Forces
+כוחות קשירה|כח קשירה	Cohesive Forces
+כורכר|כורכרים	Kurkar, Coarse Sandstone<BR>Calcareous sands, cemented to varying degrees to form cemented sandstone embedded in relatively clean sands or sandstone layers of considerable unconfined compressive strength
+כיוון המישור|כיווני המישור	Strike
+כיסוי הזיון|גובה כיסוי הבטון לזיון|כיסוי	Concrete Cover
+כיסוי קרקע	Cover
+כלוא	Confined
+כלוב זיון|כלוב	Cage
+כלוב זיון אליפטי|זיון אליפטי|כלוב אליפטי	Eliptical Cage
+כלוב זיון חיצוני עגול|כלובי זיון חיצוניים עגולים	Outer Circular Cage
+כלוב זיון פנימי עגול|כלוב זיון עגול פנימי	Inner Circular Cage
+כלונס|כלונסאות|קלונס|קלונסאות	Pile<BR>Soldier Pile
+כלונס חיכוך|כלונסי חיכוך|קלונס חיכוך|קלונסי חיכוך	Friction Pile
+כלונס קצה|קלונס קצה	End Bearing Pile
+כלונסאות חופפים|כלונס חופף	Secant Piles
+כלי עבודה ממונעים	Power Tools
+כלי עבודה על בסיס אוויר דחוס	Pneumatic Power Tools
+כמות|כמויות	Quantity
+כנדרש	As Required
+כניעה	Yield
+כף מלתעות	Clamshovel
+כפיס|כפיסים	Stick
+כפיפה	Bending
+כפף	Deflection
+כפף דריכה	Camber
+כרייה	Mining
+כרייה בשלבים|חפירה בשלבים|חציבה בשלבים	Excavation by Steps
+כרייה תת קרקעית	Underground Mining
+כריית יתר	Over Cut<BR>Over Break
+כשל	Failure
+כשל גזירה|כשל עקב מאמצי גזירה	Shear Failure
+כתב כמויות|כתבי כמויות	Bill of Quantities
+לא הורס	Non-Detructive
+לא יציב|לא יציבים	Unstable
+לא מופר	Undisturbed
+לא ממדי|לא מימדי	Non Dimensional
+לא סדוק|ללא סידוק	Crack Free
+להבהיר	Define
+להגביל	Define
+להגדיר	Define
+להכריע	Dominate
+להעמיס	Load
+להעריך	Evaluate
+לוח|לוחות	Plate<BR>Sheet<BR>Slab
+לחות	Humidity
+לחיצה	Compression
+לחץ|לחצים	Pressure
+לחץ אטמוספרי	Atmospheric Pressure
+לחץ הידרוסטטי	Hydrostatic Pressure
+לחץ הקרקע|לחץ קרקע|לחצי הקרקע|לחצי קרקע	Earth Pressure
+לחץ מפורס אחיד	Uniform Pressure
+לחץ עפר פעיל	Active Earth Pressure
+לחץ קרקע פסיבי|לחץ קרקע פאסיבי	Passive Earth Pressure
+לחשב	Calculate
+לייצב|ליצב	Stabilize
+ללא תימוך|חסר תמיכה|חסרי תמיכה|לא תמוך|לא תמוכים	Unsupported
+לנתח	Analyse
+לס	Loess
+לפוצץ	Blasting
+לשלוט	Dominate
+לתחום	Define
+מאוורר יניקה	Air Exhaust Fan
+מאוזן|אופקי	Level
+מאיץ	Accelerator
+מאיץ התקשות	Accelerator
+מאמץ|מאמצים	Stress
+מאמץ אופקי|מאמצים אופקיים	Horizontal Stress
+מאמץ אנכי|מאמצים אנכיים	Vertical Stress
+מאמץ גזירה|מאמצי גזירה	Shear Stress
+מאמץ כניעה בגזירה|מאמץ כניעה לגזירה	Shear Yield Stress
+מאמץ לחיצה|מאמצי לחיצה	Compressive Stress
+מאמץ מגע|מאמצי מגע	Contact Pressure
+מאמץ מותר	Allowable Stresses
+מאמץ מתיחה|מאמצי מתיחה	Tensile Stress
+מאמץ נורמלי|מאמצים נורמליים	Normal Stress
+מאמץ צירי	Axial Pressure
+מאמץ ראשי|מאמץ בכיוון ראשי|מאמצים ראשיים	Principal Stress
+מאמץ ראשי משני|מאמץ ראשי מישני|מאמצים ראשיים מישניים|מאמצים ראשיים משניים	Minor Principal Stress
+מאמץ ראשי עיקרי|מאמצים ראשיים עיקריים	Major Principal Stress
+מאפיין|מאפיינים	Characteristic
+מאפייני החומר|מאפיין החומר|מאפיין חומר|מאפייני חומר|פרמטרים פיזיקליים המאפיינים חומר	Material Properties
+מאפייני חתך|מאפיין חתך	Section Properties
+מאפייני מסת הסלע	Mass Rock Properties
+מאפייני סלע בריא	Intact Rock Properties
+מאפיינים	Properties
+מבחן תסבולת	Bearing Test
+מבחן תסבולת קצה	Plate Bearing Test
+מבט אורכי|מבטים אורכיים	Longitudinal View
+מבנה|מבנים	Structure
+מבנה אטים מים|מבנה אטים למים	Cofferdam
+מבנה בני	Masonry Structure
+מבנה הסלע|מבנה סלע	Rock Structure
+מבנה הקרקע|מבנה קרקע|מבני הקרקע	Strata
+מבנה מגן|מבני מגן	Protective Structure
+מבנה סלע סדוק בינוני|סלע סדוק בינוני	Moderately Jointed Rock
+מבנה עץ|מבני עץ	Timber Structure
+מבנה פלדה|מבני פלדה	Steel Structure<BR>Structural Steelwork
+מבנה רב קומות|גורד שחקים|גורדי שחקים|רב קומות|רב-קומות|רבי קומות	Multi-Story Building (US)<BR>Multi-Storey Building (BR)
+מבנה שכבות נטוי|שכבות נטויות	Inclined Strata
+מבני	Structural
+מגדל השינוע|מגדל שינוע	Headgear
+מגה פסקל|מגה-פסקל|מגפ"ס	Mega Pascal - MPa
+מגיש הצעת המחיר|מגיש המכרז	Bidder
+מגן|מגנים	Shield
+מגן לחץ אוויר	Air Pressurised Shield<BR>Air Pressure Shield
+מגן מחפר	Backhoe Shield
+מגן פתוח|ראש כרייה פתוח	Open Shield
+מגרדה ממונעת|מגרדה|מגרדות|מגרדות ממונעות	Motor Scraper
+מגרסת חצץ|מגרסה|מגרסות|מגרסות חצץ	Stone Crusher
+מד התכנסות	Convergence Meter
+מד זרימה|מדי זרימה	Flow Meter
+מד לחץ|מדי לחץ	Pressure Gauge
+מד תזוזה|מדי תזוזה	Extensometer
+מדוייס	Groutable
+מדחס אוויר|מדחסי אוויר	Air Compressor
+מדי התכנסות|מד התכנסות	Convergence Meters
+מדי שקיעה|מד שקיעה	Convergence Meters
+מדי תזוזה רב נקודתיים|מד תזוזה רב נקודתי	Multipoint Borehole Extensometers<BR>MPBX
+מדרון|מדרונות|מידרון|מידרונות	Slope
+מדריך|מדריכים	Handbook
+מדרכה|מדרכות	Pedestrian Footway
+מהדק קרקע|מהדקי קרקע|מרטט|מרטטים	Vibratory Compactor
+מהירות|מהירויות	Velocity
+מהירות חלקיק|מהירויות חלקיק	Partical Velocity<BR>Peak Particle Velocity - PPV
+מהנדס	Engineer
+מהנדס אזרחי|מהנדס בניין	Civil Engineer
+מהנדס בניין|מהנדס ביניין|מהנדסי ביניין|מהנדסי בניין	Structural Engineer
+מוביל נמוך|מובילים נמוכים	Trailer Low Bed
+מובל	Duct
+מובל אוורור|מובל איוורור	Air Duct
+מודול האלסטיות|מודול יאנג	Modulus of Deformation
+מודול הגזירה|מודול גזירה	Shear Modulus
+מודול החתך|מודול חתך	Section Modulus
+מודול יאנג	Young's Modulus<BR>Modulus of Elasticity<BR>
+מוחזק|מוחזקים	Braced
+מוט|בורג	Re Bar<BR>Rod
+מוט בצורת קרס	Hook Bar
+מוט זיון חלק|מוטות זיון חלקים	Plain Bar
+מוט לחץ במסבך|מוט לחוץ|מוט לחיצה|מוט לחץ|מוטות לחיצה|מוטות לחץ|מוטות לחץ במסבך	Strut
+מוט מצולע|מוטות מצולעים	Ribbed Bar<BR>Deformed Bar
+מוט מצולק|מוטות מצולקים	Indented Bar
+מוט מתוח|מוט מתוח במסבך	Tie
+מוט מתיחה|מוטות מתיחה	Tension Rod
+מוכתב|מוכתבים	Specified
+מומנט אינרציה|מומנט התמדה|מומנטי אינרציה|מומנטי התמדה	Moment of Inertia
+מומנט התנגדות|מומנטי התנגדות	Moment of Resistance
+מומנט כפיפה|מומנט|מומנטי כפיפה|מומנטים	Bending Moment
+מוסף	Additive<BR>Admixture
+מוסף על פלסטי|מוספים על פלסטיים	Superplasticizer
+מופרע	Disturbed
+מורכב	Built Up
+מותר|מותרים	Allowable
+מחבר|מחברים	Connector<BR>Coupling<BR>Joint
+מחוספס|מוחספסים	Rough
+מחזור התקדמות|מחזור ההתקדמות	Advance Per Cycle<BR>Excavating Cycle
+מחיצות|מחיצה	Partitions
+מחיר יחידה|מחירי יחידה	Unit Price
+מחיר קבוע	Fixed Price
+מחפר|מחפרים	Excavator
+מחפר חופנים|מחפר	Clamshell
+מחפר כוח|מחפר|מחפרי כוח|מחפרים	Power Shovel
+מחפר מיכל	Bucket
+מחפר מתעל|מחפר	Trencher
+מחפר נסוג|מחפר	Bagger
+מחפר תעלות|חופר תעלות|חופרי תעלות|מתעל|מתעלים	Trencher
+מחצבה|מחצבות	Quarry
+מחצית כיפה	Half Dome
+מטודולוגיה|דרך פעולה שיטתית	Methodology
+מטען נפץ שלא התפוצץ|מטען שלא התפוצץ|מטעני נפץ שלא התפוצצו|מטענים שלא התפוצצו	Unexploded Charge
+מטריית צינורות|מטריית צינורות לתימוך מקדים|מטריית צינורות קירוי מקדים	Pipe Umbrella
+מטריצת הקשיחות|מטריצות הקשיחות|מטריצות קשיחות|מטריצת קשיחות	Stiffness Matrix
+מי תהום	Underground Water
+מידע טכני	Technical Information
+מיוחד	Distinctive
+מיון	Classification
+מיון סלע בשיטת הק-בראון|מיון סלע בשיטת הק בראון	Hoek Brown Classification
+מיון קרקעות	Soil Classification
+מיוצב|מיוצבים	Stabilize
+מיידי לביצוע	Urgent
+מילוי	Filling
+מילוי גרנולרי	Frictional Fill
+מילוי חוזר	Backfilling
+מילוי מאחורי קיר דיפון|מילוי אחורי	Backfill
+מים כלואים	Confined Water
+מים ממקור מגמטי|מים ממקור יובנילי	Juvenile Water
+מים ממקור מטאורי|מי גשם ושלג	Meteoric Water
+מים פריאטיים	Phreatic Water
+מים שעונים	Perched Water
+מימון	Financing
+מיסעה|מיסעות	Superstructure
+מיסעה גמישה|מיסעות גמישות|מסעה גמישה|מסעות גמישות	Flexible Pavement
+מיסעה קשיחה|מיסעות קשיחות	Solid Superstructure
+מיסעת הגשר	Bridge Deck
+מיקרו מנהור|מינהור מונחה עצמי|מיקרו מינהור|מנהור מונחה עצמי	Micro Tunneling
+מיקרו סיליקה	Silica Fume
+מישור הגזירה|מישור גזירה|מישורי גזירה|מישורי הגזירה	Shear Plane
+מישור החלקה|מישורי החלקה	Slickensided
+מישור משונן|מדורג	Stepped
+מישורי|מישוריים	Planar
+מישורי פצילות|מישור פצילות	Cleavage Planes
+מישורי שיכוב|מישור שיכוב	Bedding
+מישוריות	Planarity
+מיתד|מיתדים	Dowel
+מיתר|גדילים|מוט|מוטות|מיתרים	Tendon
+מכבש|מכבשים	Roller<BR>Compactor
+מכון התקנים הישראלי|מכון התקנים|מת"י	The Standards Institution of Israel - SII
+מכונה להרמה ולהעמסה	Load Haul Dump - LHD
+מכונה לטאטוא|מכונות טאטוא|מכונות לטאטוא|מכונת טאטוא	Sweeper
+מכונה ליציקת שפה	Curb Master
+מכונת חיתוך|מכונות חיתוך	Road Header<BR>Boom Cutter<BR>
+מכונת כרסום|מכונות כרסום	Road Header<BR>Boom Cutter
+מכונת מנהור בחתך מלא|מכונות מינהור בחתך מלא|מכונות מנהור בחתך מלא|מכונת מינהור בחתך מלא	Tunnel Boring Machine - TBM<BR>Full Face Tunneling Machine<BR>Mole<BR>Small Boring Unit - SBU
+מכונת מנהור עם איזון לחץ עפר	Earth Pressure Balance Machine
+מכונת סלארי|מכונות סלארי	Slurry Machine
+מכונת קידוח|מכונות קידוח	Jumbo<BR>Rock Jumbo
+מכניזם|מנגנון התפקוד	Mechanism
+מכניקת הסלע|מכניקת סלע	Rock Mechanics
+מכניקת הקרקע|מכניקת קרקע	Soil Mechanics
+מכסה ראש העוגן|דיסקת דריכה	Bearing Head
+מכריע	Dominating
+מכרסמת|מכונת חיתוך|מכונת כרסום|מכונת מנהור בשיטת החיתוך|מכונת מנהור בשיטת הכרסום	Boom Cutter
+מכשור גיאוטרכני|מיכשור גאוטכני|מיכשור גיאוטכני|מכשור גאוטכני	Geotechnical Instrumentation
+מלגזה|מלגזות	Fork Lift
+מלט	Mortar
+מלט מעוכב	Retarded Mortar
+ממגורה|ממגורות	Silo
+ממד|מימד|מימדים|ממדים	Diamension
+ממצאי הגאולוגיה באתר	On-Site Geology
+ממשק	Interface
+מנהור|מינהור	Tunneling
+מנהור בחזית מעורבת|מינהור בחזית מעורבת	Mixed Face Tunneling
+מנהור בסלע	Rock Tunneling
+מנהור בקרקע רכה|מינהור בקרקע רך|מינהור בקרקע רכה|מנהור בקרקע רך	Soft Ground Tunneling
+מנהל אתר	Construction Manager
+מנהרה|מנהרות	Tunnel
+מנהרה בחתך עגול	Circular Tunnel
+מנהרה העוברת דרך קרקע רכה|מנהרה בקרקע רכה|מנהרה העוברת בקרקע רכה|מנהרות בקרקע רכה|מנהרות העוברות בקרקע רכה|מנהרות העוברות דרך קרקע רכה	Soft Ground Tunnel
+מנהרה מקשרת	Connecting Tunnel<BR>Connection Tunnel
+מנהרת גישה|מנהרות גישה	Access Tunnel
+מנהרת מילוט|מנהרת חילוץ|מנהרת חילוץ והצלה	Escape Tunnel<BR>Rescue Tunnel
+מנהרת סלע|מנהרה העוברת דרך סלע|מנהרות העוברות דרך סלע|מנהרות סלע	Rock Tunnel
+מנוף|מנופים	Crane
+מנת התימוך	Rib Ratio
+מס ערך מוסף|מע"מ	Value Added Tax - VAT
+מסבך|מסבכים	Truss
+מסבכון פלדה|מסבכוני פלדה	Pantex Lattice Girder
+מסבכונים|מיסבכון|מיסבכונים|מסבכון	Girders
+מסגרת המכרז|מסגרת החוזה	Tenter Frame
+מסגרת לא מוחזקת|מסגרות לא מוחזקות|מסגרת שאינה מוחזקת	Sway Frame
+מסגרת מבנית|מסגרות מבניות|מסגרות תומכות|מסגרות תמיכה|מסגרת תומכת|מסגרת תמיכה	Structural Frame
+מסגרת מוחזקת	Braced Frame
+מסגרת מישורית|מסגרות מישוריות	Plane Frame
+מסגרת מרחבית|מסגרות מרחביות|שלד תלת ממדי	Space Frame
+מסוע|מסועים	Conveyor
+מסור לחיתוך בטון|מכונה לחיתוך בטון|מסור חיתוך מטון	Concrete Cutting Saw
+מסיבי	Massive
+מסלול המראה|מסלולי המראה	Runway
+מסמכי החוזה|מסמכי חוזה	Contract Documents
+מסמר|מסמר קרקע|מסמרי קרקע|מסמרים	Nail
+מסמר קרקע|מסמרי קרקע	Soil Nail
+מסנן|מסננים|פילטר|פילטרים	Filter
+מסננים|מסנן	Scrubbers
+מסעף|התפלות לשני חלקים|התפצלות|התפצלות לשתיים|נתפצלות לשניים	Bifurcation
+מספר חתך	Chainage
+מספר מכות לחדירה|מכות לחדירה	Standard Penetration Test - SPT
+מסת הסלע	Rock Mass
+מסתיים	Resulting
+מעבר חירום להולכי רגל|מעבר חירום|מעברי חירום|מעברי חירום להולכי רגל|נתיב בטוח|נתיב בטוח להולכי רגל|נתיבים בטוחים|נתיבים בטוחים להולכי רגל	Safety Walkway
+מעבר שבר	Fault Crossing
+מעבר תת קרקעי|מעברים תת קרקעיים	Drift
+מעגל מוהר|מעגלי מוהר	Mohr Circle
+מעוות	Deformed
+מעטפת|מעטפות	Envelope
+מעטפת הכשל	Failure Envelope
+מעטפת כוחות	Load Envelope
+מעכב התקשרות|מעכב|מעכבי התקשרות|מעכבים	Retarder
+מעקב	Observation
+מעקף	Bypass
+מערבל בטון|מערבלי בטון|ערבל|ערבלים	Concrete Mixer
+מערך|מערכים	Layout
+מערך ברגי סלע|מערכי ברגי סלע	Rockbolt Pattern
+מערך הסעת המונים	Mass Transit System
+מערך קבוע|חלוקה קבועה	Pattern
+מערכת|מערכות	System
+מערכת הזיון|מערכות הזיון|מערכות זיון|מערכת זיון	Reinforcement System
+מערכת הכוונה וניהוג|מערכת הכוונה|מערכת כיוון|מערכת ניהוג	Guidance System
+מערכת הקשחה	Bracing System
+מערכת הרמה|מערכות הרמה	Lifting System
+מערכת ניהוג|מערכת ג'קים לכיוונון|מערכת ג'קים לכיוונון ראש הקידוח בדחיקת צינורות|מערכת כיוון	Steering Jacks
+מערכת סידוק|מספר קבוצות סידוק	Joint System
+מערכת קואורדינטות	Coordinate System
+מפוח אוויר	Bellows
+מפוח אוורור|מפוח|מפוח איוורור|מפוחי אוורור|מפוחי איוורור|מפוחים	Fan
+מפורס|מפורסים	Distributed
+מפלס|מפלסים|רום|רומים	Level
+מפלס המים|מפלס מים|מפלסי המים|מפלסי מים	Water Level
+מפלס מי תהום|מפלס מי תיהום|מפלס מי-תהום|מפלס מי-תיהום	Ground Water Table
+מפלס מילוי|מפלסי מילוי	Fill Up Level
+מפלס תחתון במנהרה|המפלס התחתון במנהרה	Invert
+מפלסת|מפלס ממונע|מפלסות	Motor Grader
+מפקח|מפקחים	Supervisor<BR>Inspector
+מפרט|מיפרט|מיפרטים|מפרטים	Specifications
+מפתח|מיפתח|מיפתחים|מפתחים	Span
+מצב גבולי|מצב גבולי של הרס	Limit State<BR>Ultimate
+מצב גבולי של הרס	Ultimate Limit State
+מצב גבולי של שירות|מצב גבולי בשירות|מצב גבולי בשרות|מצב גבולי של שרות	Serviceability Limit State
+מצב פני הסלע|מצב פני סלע	Surface Condition
+מצגת|מצגות	Presentation
+מצוי|מצויים	Common<BR>Usual<BR>Frequent<BR>Available
+מצעים|מצע	Bedding
+מקדח	Auger<BR>Drilling Jumbo
+מקדח אדמה|מקדח|מקדחי אדמה|מקדחים	Earth Auger
+מקדח להתקנת ברגי סלע|מכונות ברגי סלע|מכונת ברגי סלע|מקדח ברגי סלע|מקדחי ברגי סלע|מקדחים להתקנת ברגי סלע	Rock Bolter
+מקדח מטפס	Raise Drill
+מקדח סלע ממונע|מקדח ממונע לסלע|מקדחי סלע ממונעים	Driven Rock Drill
+מקדם	Coefficient<BR>Factor
+מקדם ביטחון|מקדמי ביטחון	Safety Factor - SF
+מקדם ההחלשה עקב המים בסדקים|מקדם החלשה עקב המים בסדקים	Jw - Joint Water Reduction
+מקדם החדירות	Coefficient of Permeability
+מקדם הציפה	Buoyant Unit Weight
+מקדם חדירות	Permeability Coefficient
+מקדם חספוס הסדק	Jr - Joint Roughness Number
+מקדם לחץ הקרקע במנוחה	Coefficient of Earth Pressure at Rest
+מקדם פואסון|פואסון	Poisson's Ratio
+מקדם צורה|מקדמי צורה	Shape Factor
+מקדם קשיחות הקרקע|מקדם קשיחות קרקע|מקדמי קשיחות הקרקע|מקדמי קשיחות קרקע	Soil Stiffness Factor
+מקדמי ביטחון חלקיים|מקדם ביטחון חלקי	Partial Safety Factors
+מקיף	Surrounding
+מקל|מקלות	Stick
+מקשי|מיקשי|מיקשיים|מקשיים	Solid
+מראה מקום|מראי מקום	Reference
+מרווח בין חישוקי הגזירה|מרווח בין חישוקי גזירה	Spacing of Stirrups<BR>
+מרווח בין כלונסאות	Spacing of Piles
+מרווח בין מוטות הזיון|מרווח בין מוטות זיון|צפיפות הזיון|צפיפות זיון	Spacing of Reinforcement Bars
+מרוכב	Composite
+מרחק מהחזית|מרחק מחזית|מרחק מחזית הכרייה	Distance from Working Face
+מרטט|מהדק|מרטטים	Vibrator
+מרכזית של שטח|מרכזית	Centroid
+מרתף	Basement
+משאבת בטון|משאבות בטון	Concrete Pump
+משוכב היטב עד דק	Well Bedded Laminated
+משטח דריכה|משטחי דריכה	Load Transfer Block
+משטח עבודה|משטחי עבודה	Working Platform
+משטר	Regime
+משטר מאמצים	Stress Regime
+משיך	Extensible
+משיכות	Ductility
+משמעותי|משמעותיים	Significant
+משני|שניוני	Secondary
+משקל מרחבי	Bulk Density<BR>Unit Weight
+משקל עצמי|משקלים עצמיים	Self Weight
+משרד הבינוי והשיכון|משרד הבינוי|משרד השיכון	Ministry of Construction &amp; Housing - MOCH
+משרד הכרייה האמריקאי	US Bureau of Mines
+משרד התחבורה	Ministry of Transport - MOT
+משתנה|משתנים	Variable<BR>Parameter
+משתנה קלט|משתני קלט	Input Parameter
+משתרע|משתרעים	Extending
+מתאר|מיתאר	Contour
+מתיחה	Tension
+מתקן לייצור אספלט|מתקן ייצור אספלט	Asphalt Plant
+מתקן קידוח|מתקני קידוח	Wagon Drill
+מתקנים תת קרקעיים|מתקן תת קרקעי	Underground Facilities
+נארי	Nari
+נגרר|גרור|גרורים|נגררים	Trailer
+נגרר נטוי|נגררים נטויים	Tilt Trailer
+נובע	Resulting
+נוהלי בטיחות|נוהל בטיחות|תהליכי בטיחות	Safety Procedures
+נזק|נזקים	Damage
+נזק מבני|נזקים מבניים	Structural Damage
+נזק מקומי|נזק שאינו משפיע על הסביבה|נזקים מקומיים	Local Damage
+נטוי|נטויים	Inclined
+נטייה לצוף	Buoyancy
+נטיית מישור הסידוק|נטיית המישור|נטיית מישור	Dip
+ניהול איכות	Quality Management
+ניהול פרויקט|ניהול פרויקטים	Project Management
+ניטור|ניטורים	Monitoring
+ניטור האיכות המבנית|ניטור איכות מבנית|ניטור מבנה בעזרת מדידים|ניטור מבנה על בסיס מדידים	Structural Health Monitoring - SHM
+ניטור רעידות אדמה|ניטור רעידת אדמה	Earthquake Monitoring
+ניכר|ניכרים	Significant
+ניסוי אתר|ניסוי באתר|ניסויי אתר	Site Investigation
+ניסוי בקיעה|ניסויי בקיעה	Splitting Test
+ניסוי שדה|ניסוי בשדה	Field Investigation
+ניסיון העמסה|ניסיונות העמסה	Load Test
+ניסיון העמסה לעומס מלא|ניסיון העמסה בעומס מלא	Full Scale Load Test
+ניסיון מעשי|פרקטיקה	Practice
+ניסיון מעשי מקובל|פרקטיקה מצוייה	Common Practice
+ניצב	Normal to<BR>Vertical
+ניקוז|מערכת ניקוז|מערכת תיעול|תיעול	Drainage
+ניקוי תקרת המנהרה|ניקוי תקרת מנהרה|סקיילינג	Scaling
+נישת ניקוז|גומחאות ניקוז|גומחת ניקוז|נישות ניקוז	Drainage Niche
+ניתוח|אנליזה|בדיקה	Analysis
+נפה|נפות	Screen
+נפה ויברציונית|נפה|נפות|נפות ויברציוניות	Vibrating Screen
+נפולת התזה	Rebound
+נפילה|נפילות	Fall<BR>Fall of Ground
+נפילות חלקי סלע|נפילת חלקי סלע	Rock Falls
+נפילות חלקי סלע מקומיות	Local Rock Falls
+נפצים עם השהיות קצרות|נפץ עם השהיה קצרה|נפץ עם השהייה קצרה|נפצי השהיות קצרות	Short Delay Detonators
+נציב|ניצב	Abutment
+נציב הגשר	Bridge Pier<BR>Abutment
+נציב לגשר|נציב	Pier
+נקודות שאיבה|באר|בארות|נקודת שאיבה	Wellpoints
+נקודת כניעה|גבול התחום האלסטי	Yield Point
+נתזים|נתז	Pop Outs
+נתיב|נתיב בכביש|נתיב כביש	Lane
+נתיב תכן|נתיב התכן|נתיבי התכן|נתיבי תכן	Traffic Lane
+נתיבי איילון	Ayalon Highways
+סדוק	Cracked
+סדוק במקצת|סדוק במידת מה	Blocky
+סדק|סדקים	Joint<BR>Crack
+סדק גזירה|סדקי גזירה	Shear Crack
+סדק מתיחה|סדק שנוצר עקב מתיחה|סדקי מתיחה	Tension Crack
+סדק סגור	Closed Joint
+סדק עקב הצטמקות|סדק הצטמקות|סדקי הצטמקות|סדקים עקב הצטמקות	Shrinkage Crack
+סדקי שערה|סדק שערה	Hairline Cracks
+סובב	Surrounding
+סומך	Consistency
+סיבי פוליפרופילן	Polypropylene Fibers
+סיבי פלדה	Steel Fibre
+סיד	Lime
+סידוק בעץ|סדקים בעץ	Checks
+סידוק מוקדם	Pre Splitting
+סידור הריווח	Arrangement of Spacing
+סיום	Termination
+סיכה	Lubrication
+סיכון|סכנה	Hazard
+סילוק	Disposal
+סימוכין	Reference
+סימני החלקה|החלקה	Slickenside
+סכום כולל	Lump Sum
+סכר|סכרים	Dam
+סלע|מסלע|סלעים|קרקע קשה	Rock
+סלע איתן|פורמציה איתנה|תצורה איתנה	Solid Formation
+סלע באיכות סבירה|סלע סביר	Fair Rock
+סלע בריא	Intact Rock
+סלע גירי|גיר|סלע גיר	Limestone
+סלע זוחל|סלעים זוחלים	Squeezing Rock
+סלע יסוד|סלעי יסוד	Badrock
+סלע ללא מישורי אי רציפות קרובים	Intact Rock
+סלע מגמטי|מגמטי|סלע יסוד	Igneous Rock
+סלע מותמר|סלע מטמורפי|סלעים מותמרים|סלעים מטמורפיים	Metamorphic Rock
+סלע מעורער|סלעים מעורערים	Fractured Rock
+סלע משקע|סלעי משקע	Sedimentary Rock
+סלע נחות|סלעים נחותים	Inferior Rock
+סלע שבור|סלע באיזור שבר|סלע הממוקם באיזור שבר|סלע מאיזור שבר	Faulted Rock
+סלע תופח	Swelling Rock
+סמך|סמכים	Restrain<BR>Support
+סמך אלסטי|סמק קפיצי	Elastically Support
+סמך חופשי|חופשי	Free Support
+סמך נייד|נייד	Guided Support
+סמך פרקי|סמך פירקי|סמכים פרקיים	Simple Support
+סמך קבוע|קבוע	Hinged Support
+סמך רתום|סמכים רתומים|רתום	Fixed Support<BR>Clamped Support
+ספק|ספקים	Supplier
+ספר הוראות בטיחות|מדריך בטיחות	Safety Manual
+סקר|סקרים	Survey
+סקר גיאו-הנדסי|סקר גיאו הנדסי	Geo Engineering Survey
+סקר גיאוטכני|סקר גאוטכני|סקרים גאוטכניים|סקרים גיאוטכניים	Geotechnical Survey
+סקר גיאולוגי|סקר גאולוגי|סקרים גאולוגיים|סקרים גיאולוגיים	Geological Survey
+עבודות בטון יצוק באתר	Cast in-Situ Concrete Works
+עבודות בנייה	Construction Works
+עבודות עפר	Earth Works<BR>Earthworks
+עבידות	Workability
+עבר קונסולידציה	Consolidated
+עגורן|עגורנים	Crane
+עובד מיומן|עובדים מיומנים	Skilled Worker
+עובי|עוביים	Thickness
+עובי סדק|עובי הסדק	Crack Width
+עוגן	Anchor
+עוגן זמני|עוגנים זמניים	Temporary Anchor
+עוגן מוט	Bar Anchor
+עוגן מיתרים|עוגן|עוגן גדילים|עוגן כבלים	Multi Strand Anchor<BR>Strand Anchor
+עוגן סלע|עוגני סלע	Rock Anchor
+עוגן קבוע|עוגנים קבועים	Permanent Anchor
+עוגן קרקע|עוגני קרקע	Tieback
+עוגנים נושאים	Loadbearing Fixings
+עודף חלופי|עודף	Redundant
+עוות צמיג|עוות בצורת הצמיג|עוות הצמיג|עוות צורת הצמיג|עיוות בצורת הצמיג|עיוות הצמיג|עיוות צורת הצמיג|עיוות צמיג	Tire Flexing
+עומס|עומסים	Load
+עומס אקראי|עומסים אקראיים	Accidental Load<BR>Transient Load
+עומס בפני הסלע|עומס פני הסלע|עומס פני סלע	Surface Load
+עומס דינמי|עומס דינאמי|עומסים דינאמיים|עומסים דינמיים	Dynamic Load
+עומס הנובע ממשקל עצמי|עומס משקל עצמי|עומס עצמי|עומסי משקל עצמי|עומסים עצמיים	Self Weight Load
+עומס השכבות העליונות מעל המנהרה|עומסי השכבות העליונות מעל המנהרה	Overburden
+עומס חוד סכין|עומס חוד-סכין	Knife Edge Load
+עומס ייחוס|עומס יחוס	Datum Load
+עומס מפורס|עומסים מפורסים	Distributed Load
+עומס מפורס אחיד|עומס מפורס|עומסים מפורסים|עומסים מפורסים אחיד	Uniform Load
+עומס מרוכז|עומסים מרוכזים	Concentrated Load
+עומס משתנה|עומסים משתנים	Live Load<BR>Variable Load<BR>Imposed Load
+עומס נתון|עומס מוגדר|עומסים מוגדרים|עומסים נתונים	Specified Load
+עומס סרן	Axle Load
+עומס צמד גלגלים|עומס גלגל|עומס גלגלים|עומסי גלגל|עומסי גלגלים	Wheel Load
+עומס קבוע|עומסים קבועים	Dead Load<BR>Permanent Load
+עומס קווי|עומסים קוויים	Line Load
+עומס רוח|עומסי רוח	Wind Load
+עומס שימושי|עומס משתנה|עומס נייד|עומסים משתנים|עומסים ניידים|עומסים שימושיים	Live Load
+עומס שירות|עומס בעבודה|עומס בשירות|עומס בשרות|עומס עבודה|עומס שרות	Service Load<BR>Design Load<BR>Working Load
+עומס תכן|כולל מקדמי בטחון|עומסי תכן	Factored Load
+עומסי קרקע|עומס קרקע	Earth Loads
+עומסים משתנים	Variable Loads
+עומק	Depth
+עטיפה	Casing
+עיבור|עיבורים	Strain
+עיגון	Anchorage
+עיגון מכני	Mechanical Anchoring
+עיוות|דפורמציה|שינוי צורה	Deformation<BR>Distortion
+עלות אחזקה|עלויות אחזקה|עלויות תחזוקה|עלות תחזוקה	Maintenance Cost
+עלות נחסכת	Avoided Cost
+עלות קבועה|עלויות קבועות	Fixed Cost
+עמוד|עמודים	Column
+עמוד סלע|עמודי סלע	Pillar
+עמידות באש	Fire Resistance
+עמידות כימית	Chemical Resistance
+עמיסה סטטית	Static Loading
+עץ	Timber<BR>Wood
+עץ אגוז|אגוז	Walnut
+עץ אורן|אורן|אורנים	Pine
+עץ אלון|אלון|אלונים	Oak
+עץ ארז|ארז|ארזים	Cedar
+עץ דובדבן|דובדבן	Cherry
+עץ מהגוני|מהגוני	Mahogany
+עץ מייפל|מייפל	Maple
+עץ מנוסר|עץ|עצים מנוסרים	Lumber
+עצר מים|עצרי מים	Waterstop
+עקבה	Trace
+עקומת שקיעה|עקומות שקיעה	Settlement Curve
+ערבל מהיר קולואידי	High Speed Colloidal
+ערך אופייני|ערך אופיני|ערכים אופייניים|ערכים אופיניים	Characteristic Value
+ערך ממוצע|ממוצע|ממוצעים|ערכי ממוצע|ערכים ממוצעים	Mean Value<BR>Average
+ערך מצוי|מצוי|ערכים מצויים	Common Value
+ערכי חוזק	Strength Parameters
+פוליאטילן בעל צפיפות גבוהה	High Density Polyethylene - HDPE
+פורטל|חזית הכניסה|חזית הכניסה למנהרה|כניסה למנהרה|פורטלים	Portal
+פח חיזוק|פח להקשחה|פח מקשיח|פחי חיזוק	Stiffener
+פטיש	Hammer
+פטיש שבירה הידראולי	High Energy Hydraulic Hammer
+פיגום|פיגומים	Scaffolding
+פילוג	Distribution
+פיצוץ	Blast
+פיצוץ המספק פני סלע חלקים|פיצוץ לפני סלע חלקים	Smmoth Blasting
+פיצוץ חלק	Smooth Wall Blasting
+פיצוץ מבוקר	Controlled Blasing
+פיקוח	Supervision
+פיר|פירים	Shaft
+פיר אוורור|פיר איוורור|פירי אוורור|פירי איוורור	Ventilation Shaft
+פיר דחיקה|פירי דחיקה	Jacking Shaft<BR>Thrust Pit
+פיר מטפס	Raise Boring<BR>Raise Climbing
+פיר שוקע	Shaft Sinking
+פירוס	Distribution
+פירוס כוח	Load Distribution
+פיתול	Torsion
+פלדה	Steel
+פלדה חרושתית|פלדה מובאת	Fabricated Steel
+פלדה מבנית	Structural Steel
+פלדה עתירת חוזק|פלדה מיוחדת|פלדות מיוחדות|פלדות עתירות חוזק	High Strength Steel
+פלטה|פלטות	Plate<BR>Slab
+פלטות תימוך מקדים|פלטת תימוך מקדים	Poling Plates
+פלטת דיפון|פלטות דיפון	Liner Plate
+פלטת יסוד|פלטות יסוד	Foundation Slab
+פן לחוץ|סיב לחוץ	Compressed Face
+פני הקרקע|פני השטח|פני קרקע|פני שטח	Ground Surface
+פנס ראש	Cap Lamp
+פסיעה|פסיעות	Pitch<BR>Step
+פעולת הקימור|קימור	Ground Arch
+פצילות	Cleavage
+פצלים	Shales
+פקח|פקחים	Inspector
+פרופיל הכרייה|חתך הכרייה|חתך כרייה|פרופיל המינהור|פרופיל המנהור|פרופיל כרייה|פרופיל מינהור|פרופיל מנהור	Excavated Profile
+פרטי איטום|פרט איטום	Waterproofing Details
+פריך	Brittle
+פרץ סלע	Rockburst
+פרק|פרקים|ציר|צירים	Hinge
+פרק פלסטי|מפרק פלסטי|מפרקים פלסטיים|פרקים פלסטיים	Plastic Hinge
+צביעה	Painting
+צבע|צבעים	Paint
+צבען|פיגמנט|פיגמנטים|צבענים	Pigment
+צור	Chert
+צורה	Pattern
+ציוד לעבודות עפר|ציוד עבודות עפר	Earth Moving Equipment
+ציוד לקידוח בהקשה|ציוד קידוח בהקשה|קידוח בהקשה	Percussion Drilling
+ציוד לקידוח גלעין סיבובי	Rotary Core Drills
+ציוד מנהור|ציוד המנהור|ציוד למנהור|ציוד מינהור	Tunneling Equipment
+ציוד עבודות בינוי|ציוד בינוי	Building Equipment
+צינור איסוף|צינורת איסוף	Collection Pipe
+צינור בטון	Concrete Pipe
+צינור דחיקה|צינור הדחיקה|צינור לדחיקה|צינורות דחיקה|צינורות לדחיקה	Driven Pipe<BR>Jacking Pipe
+צינור לחץ	Penstock
+צינור פלדה|צינור מפלדה|צינורות מפלדה|צינורות פלדה	Steel Pipe
+צינור שרשורי|צינור פרפורציה|צינור פרפורצייה|צינורות פרפורציה|צינורות פרפורצייה|צינורות שרשוריים	Perforation Pipe
+ציפוי|ציפויים	Coating<BR>Liner
+ציפוי בטון|ציפוי בבטון|ציפוי הבטון	Concrete Liner
+ציפוי פנימי|דיפון	Liner
+ציר הסימטרייה|ציר הסימטריה	Center of Symmetry
+צמנוט|צימנוט	Cementation
+צמנט|מלט	Cement
+צעד בזמן|פרק זמן|צעד	Length of Time
+צרורות|חצץ	Gravels<BR>Gravel
+צרורות חרסיתיים	Clayley Gravels
+קאנט	Edge
+קארסט	Karst
+קארסטי	Karstic
+קבוע	Fixed
+קבוצת מוטות	Bundled Bars
+קבוצת סידוק|קבוצת סדקים	Joint Set
+קבלן|קבלנים	Contractor
+קבלן משנה|קבלני משנה	Subcontractor
+קדח|קדחים	Borehole
+קדח ניקוז|חור ניקוז|חורי ניקוז|קדחי ניקוז	Drainage Hole
+קדיחה במקדח פטיש|קדיחה עם מקדח פטיש|קידוח במקדח פטיש|קידוח עם מקדח פטיש	Down the Hole Hammer
+קדיחה בסיבוב והקשה	Rotary Percussion
+קדיחה ויברציונית תוך כדי דחיקת צנרת מגן	Vibratory Driven Casing
+קדיחה סיבובית	Rotary Drilling
+קדיחת גלעין|קדוח גלעין|קידוח גלעין	Core Drilling
+קו הקשת|קו קשת	Spring Line
+קו מרכז|קו מרכזי	Centerline
+קו סריקה	Scan Line
+קו צינורות|קווי צינורות|קוי צינורות	Pipeline
+קואורדינטות|קואורדינטה|שנתה|שנתות	Coordinates
+קוהזיה	Cohesion
+קוטר|קטרים	Diameter
+קוטר כרייה|קוטר החפירה|קוטר הכרייה|קוטר המינהור|קוטר המנהור|קוטר חפירה|קוטר מינהור|קוטר מנהור	Excavated Diameter
+קוטר מוט|קוטר מוט הזיון|קוטר מוט זיון	Rod Diameter<BR>Bar Diameter
+קוטר צינור|קוטר של הצינור|קוטר של צינור|קטרי צינור|קטרי צינורות|קטרים של צינורות	Pipe Diameter
+קומה|קומות	Floor
+קומפקטי	Compact
+קומפקטי למחצה|קומפקטיים למחצה	Semi Compact
+קונגלומרט|קונגלומראט	Conglomerate
+קונזול|זיז	Cantilever
+קונסולידציה	Consolidation
+קונסטרוקטור|קונסטרוקטורים	Structural Engineer
+קורה|קורות	Beam
+קורה נמשכת	Continuos Beam
+קורה עליונה|קורות עליונות	Upper Beam
+קורה קונזולית|קורות זיז|קורות קונזול|קורת זיז|קורת קונזול	Cantilever Beam
+קורה תחתונה|קורות תחתונות	Lower Beam
+קורוזיה|איכול|שיתוך	Corrosion
+קורת מסבך|קורות מסבך|קורות שבכה|קורת שבכה	Lattice Girder
+קיבולת	Capacity
+קידוח	Augering<BR>Boring<BR>Drilling
+קידוח אופקי|קדוח אופקי	Horizontal Boring
+קידוח חלוץ|קידוחי חלוץ	Pilot Hole
+קידוח מקדים	Pre Drilling
+קידוח עצמי|קדיחה עצמית|קידוח עצמאי|ראש קדיחה עצמאי|ראש קדיחה עצמי	Self Drilling
+קידוח פיצוץ	Drill and Blast
+קידוח פיר|קידוח פירים|קידוחי פירים	Shaft Drilling
+קיים	Durability
+קילו ניוטון	kiloNewton
+קילוף בטון|קילוף הבטון|קילופי בטון|קילופי הבטון	Spalling
+קימור	Arching
+קיני חצץ|חלת דבש|קן חצץ	Honeycomb
+קיר|קירות	Wall
+קיר בני	Masonry Wall
+קיר דיאפרגמה|קירות דיאפרגמה	Diaphragm Wall<BR>Sheet Wall
+קיר התמוך על בסיס מסמרי קרקע|קיר מיסמור|קיר מסמרי קרקע|קירות מיסמור|קירות מסמרי קרקע	Soil Nail Wall
+קיר כובד|קירות כובד	Gravity Wall
+קיר כלונסאות עם עוגני קרקע|קיר כלונסאות מעוגן|קיר קלונסאות מעוגן	Tied Back Piles
+קיר סלארי|קירות סלארי	Sluury Wall<BR>Sheet Piles
+קיר תגובה	Reaction Wall<BR>Thrust Wall
+קיר תמך|קירות תמך	Retaining Wall
+קיר תמך קונזולי|קירות תמך קונזוליים	Cantilever Wall<BR>Counterfort Wall
+קירטון חווארי|קירטונים חוואריים	Marly Chalk
+קמרון	Crown
+קמרון טבעי|קמרונות טבעיים	Natural Arch
+קנה מידה|סקאלה|קנ"מ	Scale
+קפיץ|קפיצים	Spring
+קצב|קצבים|שיעור|שיעורים	Rate
+קצב הסמכה|קצבי הסמכה	Stiffening Rate
+קצב שאיבה|קצבי שאיבה	Pumping Rate
+קצה	Edge
+קרום אשפרה	Curing Membrane
+קרטון	Chalk
+קרטון גירי	Limy Chalk
+קרטון ורובדי צור|קרטון עם רובדי צור	Chalk with Chert
+קריטריון הכשל	Failure Criterion
+קריטריון הכשל של מוהר קולומב|קריטריון מוהר קולומב	Mohr Coulomb Criterion
+קריטריון הק-בראון|קריטריון הק בראון	Hoek-Brown Criterion
+קריסה	Collapse<BR>Buckling
+קריסה אלסטית	Elastic Buckling
+קריסה בכפיפה	Flexural Buckling
+קריסה צידית	Lateral Torsional Buckling
+קרקע|קרקעות	Soil<BR>Ground
+קרקע בלתי מופרת|קרקע לא מופרת	Undisturbed Soil
+קרקע גרנולרית|קרקע גרגרית	Granular Soil
+קרקע המתפוררת במהירות	Fast Raveling
+קרקע זוחלת|קרקעות זוחלות	Squeezing Ground
+קרקע זורמת|קרקעות זורמות	Flowing Ground
+קרקע משוריינת	Reinforced Soil
+קרקע מתפוררת	Raveling Ground
+קרקע נשפכת|קרקעות נשפכות	Running Ground
+קרקע קוהזיבית|קרקע קוהסיבית|קרקעות קוהזיביות|קרקעות קוהסיביות	Cohesive Soil
+קרקע רכה|קרקעות רכות	Soft Ground
+קרקע שזמן העמידה העצמי שלה קצר|קרקע בעלת זמן עמידה עצמי קצר|קרקע עם זמן עמידה עצמי קצר	Slow Raveling
+קרקע תופחת	Swelling Ground
+קשה|קשים	Rough<BR>Stiff
+קשיח|קשיחים	Rigid<BR>Stiff
+קשיחות|קשיחויות	Stiffness
+קשיחות אורכית	Axial Stiffness
+קשיחות צירית|קשיחות אורכית	Axial Stiffness
+קשת	Arch
+קשת תימוך מפלדה|קשת פלדה	Steel Arch
+ראש מתפשק	Expansion Shell
+רב שלבי	Multi Stage
+רגיל|רגילים	Ordinary<BR>Average<BR>Normal<BR>Usual<BR>Simple<BR>Standard<BR>Common
+רדאר חודר קרקע|ראדר חודר קרקע|רדאר חודר קרקעות	Ground Penetrating Radar
+רדיוס ההתמד|רדיוס אינרציה|רדיוס האינרציה|רדיוס התמד	Radius of Gyration
+רובד|רובדים|שכבה|שכבות	Strata
+רווח לקצה|מרחק לקצה אלמנט	Edge Spacing
+רווי	Saturated
+רוחב	Width
+רטט	Vibration
+רטט פיצוץ	Blast Vibrations
+ריווח	Spacing
+ריטוש	Ripping
+ריסון	Control<BR>Reduction<BR>Restrain
+ריפ-רפ|ריף רף|ריף-רף|ריפ רפ	Rip Rap
+ריקבון|רקבון	Decay
+ריתוך|ריתוכים	Welding
+ריתוך אוטומטי	Automatic Welding
+ריתוך אוטומטי למחצה|ריתוכים אוטומטיים למחצה	Semi Automatic Welding
+רכב חירום|רכבי חירום	Emergency Vehicle
+רכבת ישראל	Israel Railways
+רכבת קלה|רכבות קלות	Light Rail Transit - LRT<BR>Light Rail
+רכיב	Element
+רכיב לא מבני|אלמנט לא מבני|אלמנטים לא מבניים|רכיבים לא מבניים	Non Structural Element
+רכיב מבני|אלמנט מבני|אלמנטים מבניים|רכיבים מבניים	Structural Component<BR>Structural Element
+רמת המטען	Charge Level
+רסיס|רסיסים	Fragment
+רסיסי סלע|רסיס סלע	Rock Fragments
+רעידת אדמה|רעידות אדמה	Earthquake
+רצועת המסוע|רצועת מסוע	Conveyor Belt
+רציני|רציניות|רציניים	Severe
+רציפות|המשכיות	Continunity
+רצפה|רצפות	Floor
+רשימת ברזל|רשימות ברזל|רשימות זיון	Reinforcement Schedule
+רשימת זיון|רשימות זיון	Reinforcement List
+רשת|רשתות	Mesh
+רשת גיאוטכנית|גאו גריד|גאוגריד|רשת גאוטכנית	Geogrid
+רשת זיון|רשתות זיון	Reinforcement Mesh<BR>Mesh
+רשת זיון קלה|רשת גביונים|רשת גדר|רשת קלה|רשתות גביונים|רשתות גדר|רשתות זיון קלות|רשתות קלות	Wire Mesh
+רשת מרותכת|רשתות מרותכות	Welded Mesh
+רתום	Fixed
+רתיך|רתיכים	Weldable
+רתך השקה	Butt Weld
+רתך חריץ|רתכי חריץ	Slot Weld
+רתך מילאת|מילאת	Fillet Weld
+שבירת יתר	Overbreak
+שבר|שברים	Fault<BR>Fracture
+שבר מפיצוץ	Blasting Fracture
+שוחת ביקורת|שוחה|שוחות|שוחות ביקורת	Manhole
+שולט	Dominating
+שולי בטיחות	Margin of Safety
+שוליים	Edges
+שוליים לדרך	Hard Strip
+שומר מרחק|שומרי מרחק	Spacer
+שומרי מרווח|שומר מרווח	Centralizers
+שונה	Distinctive
+שחוק|שחוקים	Weathered
+שחוק במקצת|בלוי במקצת|בלוי מעט|שחוק מעט	Slightly Weathered
+שחיקה	Abrasion
+שטח חתך|שטח החתך	Cross Section Area
+שיורי	Residual
+שיטה|שיטות	Method<BR>System
+שיטות בדיקה|שיטת בדיקה	Test Methods
+שיטות דגימה|שיטת דגימה	Sampling Methods
+שיטות להערכה|שיטה להערכה|שיטות לקבלת אומדן|שיטת הערכה	Estimation Methods
+שיטת אלמנטים סופיים|אלמנטים סופיים|שיטת האלמנטים הסופיים	Finite Elements Method - FEM
+שיטת הביצוע|שיטות הביצוע	Method Statement
+שיטת המנהור האוסטרית החדשה|שיטת המינהור האוסטרית החדשה	New Austrian Tunneling Method - NATM
+שיטת המנהור הנורבגית|שיטת המינהור הנורבגית	Norwegian Tunneling Method - NTM
+שיטת חפירה בשלבים	Sequential Excavation Method - SEM
+שיטת כרייה בשלבים	Sequential Excavation Method - SEM
+שיטת תכנון ביצוע|תכנון ביצוע	Build and Design Method
+שיכוב המאופיין בגליות|גליות	Wavy Bedding
+שילוב עומסים|שילובי עומסים	Load Combination
+שיסט|ציפחה	Schist
+שיפוע	Slope
+שיקום|לשקם	Repair
+שירות	Service
+שיש	Marble
+שכבה|שכבות	Layer<BR>Stratum
+שכבה עליונה|שכבות עליונות	Upper Layer
+שכבות דקות|שיכוב דק	Bedded Planes
+שכבת זיון|שכבות זיון	Layer of Reinforcement
+שלא עבר קונסולידציה	Unconsolidated
+שלבי הכרייה|שלבי החציבה|שלבי המינהור|שלבי המנהור|שלבי חציבה|שלבי כרייה|שלבי מינהור|שלבי מנהור	Excavation Stages
+שלבי חישוב	Calculation Steps
+שליפה	Pull Out
+שעות עבודה נטו|זמן עבודה נטו	Running Time
+שפה	Edge
+שפוכת	Debris
+שקול|שקולי|שקולים	Resultant
+שקיל	Equivalent
+שקיעה|שקיעות|תזוזת קרקע כלפי מטה	Settlement<BR>Settling
+שרוול מעבר|שרוולי מעבר	Trumpet
+שרוולי מגן|שרוול מגן	Debonding Sleeves
+שרטוט|שרטוטים	Layout
+שרטוט עקרוני|סקיצה עקרונית|סקיצות עקרוניות|שרטוטים עקרוניים	Principle Sketch
+שרידות|הינצלות	Survivability
+שרידי|שלא נוצל	Residual
+שרף	Resin
+תא מעלית	Cage
+תאחוז|חלק	Percentage
+תביעה	Claim
+תבנית נעה|תבניות נעות	Moveable Form
+תגובה	Response
+תגובה אלסטית|תגובה בתחום האלסטי|תגובה בתחום האלסטי של החומר	Elastic Response
+תהליך הבנייה|שיטת הבנייה	Construction Process
+תהליך המילוי|שיטת המילוי	Filling Process
+תוכנית עדות|כפי שבוצע|עדות	As Made Drawing
+תולדות המקרה	Case History
+תופעה הניתנת למעקב|תופעה בלתי רגילה|תופעה הנתנת למעקב	Phenomenon
+תזוזה|תזוזות	Displacement
+תזוזה מקסימלית|תזוזות מקסימליות	Total Displacement
+תזוזת חלקיק|תזוזות חלקיק	Particle Displacement
+תחום בטיחות|תחומי בטיחות	Safety Limit
+תחזוקה|אחזקה	Mauntenance
+תחנת ביניים|תחנת ג'קים משנית|תחנת דחיקה משנית|תחנת הביניים	Intermediate Jacking Station - IJS<BR>Interjack Station<BR>
+תחנת דחיקה משנית|צינור הפלדה העוטף את תחנת הביניים|צינור הפלדה של תחנת הביניים	Intermediate Jacking Pipe
+תיאום פעולות	Coordinates
+תיאור	Description
+תיבת קריאה|תיבות קריאה	Reading Box<BR>Readout Box
+תיווי	Alignment
+תיל רוטט	Vibrating Wire
+תימוך|תימוכים	Support
+תימוך הסלע|תימוך סלע	Rock Support
+תימוך מקדים	Forepoling
+תימוך סופי	Final Lining<BR>Final Support
+תימוך ראשוני	Preliminary Support<BR>Primary Support
+תימוך שניוני|תימוך נוסף	Secondary Lining
+תיקון|לתקן|תיקונים	Repair
+תכולת המים	Content of Water
+תכולת הצמנט|תכולת המלט	Contenet of Cement
+תכונה|סגולה	Attribute
+תכונות מכניות	Mechanical Properties
+תכונות מכניות עלובות	Poor Mechanical Properties
+תכן	Design
+תכן חיבורים פרקיים|תכן בחיבורים פרקיים|תכן פשוט	Simple Design
+תכן חיבורים קשיחים|תכן בחיבורים קשיחים	Rigid Design
+תכן חיבורים קשיחים למחצה|תכן בחיבורים קשיחים למחצה	Semi Rigid Design
+תכן לגזירה|תכן גזירה	Shear Design
+תכן מבנים	Structural Design
+תכנון|תיכנון	Design
+תכנון חלופי	Alternative Design
+תכנון לביצוע	Execution Planning
+תכנון מפורט	Detailed Design
+תכנון ראשוני	Preliminary Design
+תכנון שמרני|תכנון זהיר	Conservative Design
+תכנון תוך כדי ביצוע	Observational Method of Design<BR>Design as you go
+תכניות הנדסיות|תוכניות הנדסיות|תוכנית הנדסית|תכנית הנדסית	Design Drawings
+תכניות הקמה|תוכניות הקמה|תוכנית הקמה|תכנית הקמה	Erection Drawings
+תכניות ייצור מפורטות|תוכניות ייצור מפורטות|תוכניות יצור מפורטות|תכניות יצור מפורטות	Detailed Shop Drawings
+תכניות למכרז|תכניות מכרז|תכנית למכרז|תכנית מכרז	Tender Drawings
+תכנית|תוכניות|תוכנית|תכניות	Drawing<BR>Layout<BR>System
+תכנית מימון|תוכניות מימון|תוכנית מימון|תכניות מימון	Financing Plan
+תלת ממדי|שלושה ממדים|תלת ממד	Three Dimensional
+תלת צירי	Triaxial
+תמוך פרקי|תמוך פירקי	Simply Supported
+תמיכה|תמיכות	Support
+תמיכות פלדה|תמיכת פלדה	Steel Ribs
+תמיר|תמירים	Slender
+תמירות|תמירויות	Slenderness
+תנוחה|תכנית	Plan
+תנועה יומית ממוצעת	Average Daily Traffic, ADT
+תסבולת	Bearing
+תסבולת במאמצי מגע	Bearing Capacity
+תסבולת הקשר	Adherence Capacity
+תעלה	Duct
+תעלת שירות|תעלות שירות	Service Duct
+תערובת בקרה	Control Mix
+תערובת ניסיון|תערובות ניסיון	Trial Mixture
+תפוקת התכן	Design Output
+תפיחה	Swelling
+תפקוד|תפקודים	Performance
+תפקיד מפתח	Key Role
+תפר	Joint
+תפר בקרה|תפרי בקרה	Control Joint
+תפר הפסקת יציקה|הפסקת יציקה|תפרי הפסקת יציקה	Construction Joint
+תפר הפרדה|תפרי הפרדה	Isolation Joint
+תפר התכווצות|תפרי התכווצות	Contraction Joint
+תפר התפשטות|תפרי התפשטות	Expansion Joint
+תפר יציקה	Casting Joint
+תפרחת|תפרחות	Efflorescence
+תצורה|קונפיגורציה	Configuration<BR>Formation
+תצורת הסידוק	Crack Formation
+תצפית|תצפיות	Observation
+תקופת שירות	Service Life
+תקן|תקנים	Standard
+תקן ישראלי|ת"י	Israeli Standard<BR>SI
+תקנות|תקנה	Regulations
+תקנות בטיחות|תקנת בטיחות	Safety Regulation
+תקציב|תקציבים	Budget
+תקרה|תקרות	Ceiling
+תקרה מצולבת|תקרות מצולבות	Two Way Slab
+תקרה שטוחה|טבלה שטוחה	Flat Slab
+תקרת המנהרה|גג|תקרה|תקרת מנהרה	Roof
+תקרת ערוגות|תקרות ערוגות	Two Way Ribbed Slab
+תקרת צלעות|תקרות צלעות	Ribbed Slab
+תרשים מאמץ כנגד עיבור|תרשים מאמץ עיבור	Stress Strain Diagram<BR>Stress Strain Curve
+תת קרקעי	Underground

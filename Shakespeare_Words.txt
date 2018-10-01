@@ -1,0 +1,3592 @@
+##name	Shakespeare Words
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2003/04/26, 23:14
+##author	Andy Boyle
+##email	andyboyle@videotron.ca
+##description	Shakespeare into modern english
+##browsingEnabled	
+##bgl_creationTime	2003/01/19, 16:41
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+'slight	by God's light (common Elizabethan oath). [Twelfth Night]
+'Tis all one	i.e., 'tis all the same, it makes no difference to me. [Romeo and Juliet]
+A	HOLD: a sea-term
+a dairy	maid
+a free	school
+a gallows	bird
+A-GOOD	a good deal, plenteously.
+A-HOLD	a sea-term.
+a nick	name applied to Caliban
+a pan	cake
+a patient list	the limits of patience
+A-ROW	one after another.
+a saddle	cloth hanging down to the ground
+a sea	term
+ABANDONED	banished, kept away from.
+ABATE	to lessen, shorten; to blunt; to bar.
+ABATEMENT	diminution
+ABHOR	protest; disgust
+ABIDE	to sojourn to expiate
+ABILITY	wealth, means.
+ABJECT	adj. an object of contempt.
+ABJECTLY	basely, horribly.
+Abjects	outcasts, servile persons
+ABLE	to uphold
+ABORTIVE	born prematurely; unnatural.
+Abram	auburn
+ABRIDGEMENT	a short play.
+ABROAD	away, apart
+ABROOK	to brook, abide
+ABSEY	BOOK: a primer
+ABSEY-BOOK	a primer.
+ABSOLUTE	positive, certain Complete
+ABUSE	to deceive; deception
+Abused	deceived
+ABY	to expiate a fault
+ABYSM	abyss
+Accident	event, happening
+ACCITE	to cite, summon
+Accompt	agreement
+ACCUSE	accusation
+Acheron	A river in Hades (one of five, this one of woe), compared to the cave where he meets the witches [link]
+ACHIEVE	to obtain.
+ACKNOWN	'to be acknown' is to acknowledge
+ACQUITTANCE	a receipt or discharge
+ACQUITTANCE (1)|ACQUITTANCE	a receipt or discharge.
+ACQUITTANCE (2)|ACQUITTANCE	to acquit, clear.
+ACTION	TAKING: litigious
+ACTION-TAKING	wanting satisfaction through the law.
+ACTURE	action, performance.
+Adamant	Loadstone
+adder's fork	The forked tongue of the adder.
+ADDITION	title, attribute.
+ADDRESS	to prepare oneself
+Address'd	Ready
+ADDRESSED	prepared
+adhere	agree
+Admirable	to be wondered at
+admired disorder	astonishing crazed behavior
+ADVANCE	to prefer, promote to honour
+Advantage	opportunity
+adventure my discretion	risk my reputation.
+ADVERTISEMENT	admonition
+ADVERTISING	attentive.
+ADVICE	consideration, discretion.
+ADVISE	sometimes neuter, sometimes reflective, to consider, reflect
+ADVISED	considerate, on your guard
+ADVOCATION	pleading, advocacy
+aery	nest.
+AFEARED	afraid
+AFFECT	to love
+Affectioned	affected, one who puts on airs
+affections swayed	passions ruled.
+Affects	passions
+affeered	affirmed
+Affined	related, bound
+Affront	to confront, meet
+AFFY	to affiance To trust
+AFRONT	in front.
+Against	in preparation for
+Against the hair	"against the grain" (i.e. going against what is usually done)
+AGAZED	looking in amazement
+AGLET	BABY: the small figure engraved on a jewel
+AGLET-BABY	the small figure engraved on a jewel.
+AGNISE	to acknowledge, confess
+Agnize	to acknowledge, confess
+Agood	much
+AIERIE	the nest of a bird of prey
+AIM	a guess.
+Aimed so near	guessed as much
+alack	an expression of dismay or surprise
+alarm	call to arms
+alarum	battle noise not on the stage
+alarum'd	summoned to action.
+ALDER	LIEFEST: most loved of all
+ALDERLIEFEST	dearest of all.
+ALE	alehouse
+alembic	device used for distilling wine
+Aleppo	city in Syria [link]
+alike bewitched	each of them equally enchanted.
+all	thing in every way
+All amort	completely dejected, depressed
+all exercise	i.e., all their habitual activity.
+ALL HID	the game of hide and seek.
+ALLAYMENT	abatement; antidote (Cym. 1.5.22).
+ALLICHOLLY	a corruption of melancholy.
+ALLIGANT	a corruption of either 'elegant' or 'eloquent', used in Wiv. 2.2.69.
+ALLOW	to approve
+ALLOWANCE	approval
+Allowed	acknowledged
+ALMAIN	a German.
+ALMS-BASKET	public charity (to live on public charity - LLL 5.1.42).
+ALMS-DEED	act of charity.
+ALMS-DRINK	remains of drink set aside for the poor.
+ALMS-MAN	a person supported by charity.
+ALOES	a bitter drug.
+ALONE	unique.
+ALTER	to exchange.
+AMAIN	with force.
+amaking	in course of progress
+AMAZE	to bewilder, confound.
+amazement	confusion
+ambition	unscrupulous pursuit of power.
+AMBLE	to move around with ease; to move affectedly.
+amerce	punish.
+AMES	ACE: two aces, the lowest throw of the dice
+AMES-ACE	two aces, the lowest throw of the dice.
+AMISS	misfortune; disaster.
+AMORT	dead, dejected
+AN	if.
+an aide	de-camp
+an icy	cold brook
+ANCHOR	an anchorite, hermit
+ANCIENT	an ensign-bearer
+ANGEL	a coin, so called because it bore the image of an angel
+ANIGHT	by night
+annoyance	self-injury
+Anon	soon
+ANSWER	retaliation
+Anters|Antres	caves
+ANTHROPOPHAGINIAN	a cannibal ANTICK: the fool in the old plays
+Antic	crazy
+antic round	grotesque round dance
+ANTICK	the fool in the old plays
+Antique	Strange
+ANTRE	a cave.
+apace	quickly
+APPARENT	heir-apparent
+apparent prodigies	wonders that have appeared.
+APPEAL	to accuse; accusation
+APPEARED	made apparent
+APPLE	JOHN: a kind of apple
+Apple-john	a shriveled winter apple
+APPOINTMENT	preparation
+APPREHENSION	opinion
+APPREHENSIVE	apt to apprehend or understand
+APPROBATION	probation
+APPROOF	approbation, proof
+APPROPRIATION	special attribute or excellence..
+APPROVE	to prove; to justify, make good
+Approved	proved
+APPROVER	one who proves or tries
+Apricocks	apricots
+AQUA-VITAE	ardent spirits.
+AQUILON	the north wind.
+ARABIAN BIRD	phoenix.
+ARABIAN TREE	the tree of the phoenix.
+ARCH	chief
+ARGAL	a ridiculous word intended for the Latin ergo
+ARGENTINE	silver
+ARGIER	Algiers
+Argo	therefore
+ARGOSY	originally a vessel of Ragusa or Ragosa, a Ragosine; hence any ship of burden
+ARGUMENT	proof, evidence; subject of debate; subject matter of discourse.
+ARMIGERO	a mistake for Armiger, the Latin for Esquire
+Aroin thee	go away, get lost
+AROINT	found only in the imperative mood, get thee gone
+aroint thee	begone.
+arrant	out-and-out.
+arras	tapestry.
+ARREST	to seize; an order or decree.
+Article	statement
+ARTICULATE	to enter into articles of agreement to exhibit in articles
+Artificial	skilled in art
+As	that as
+as thou list	any way you like.
+ASK	to require
+ASKANCE	to turn aside.
+ASPECT	look, glance.
+ASPEN	of the asp tree.
+ASPERSION	sprinkling; hence blessing, because before the Reformation benediction was generally accompanied by the sprinkling of holy water
+ASPIC	venomous serpent.
+ASPIRE	to be ambitious; to rise; to mount up to (obs).
+asquint	crookedly, falsely.
+ASSAIL	to address with offers of love.
+ASSAY	to attempt, test, make proof of.
+Assay of reason	reasonable test
+ASSINEGO	an ass
+ASSUBJUGATE	to subjugate.
+ASSURANCE	deed of assurance
+ASSURED	betrothed
+ASTRAE	goddess of justice.
+atomies	miniature beings.
+ATOMY	an atom; tiny being (insect).
+ATONE	to put people at one, to reconcile to agree
+ATTACH	to seize, lay hold on.
+ATTASKED	taken to task, reprehended
+ATTEND	to listen to
+ATTENT	attentive
+ATTORNEY	to employ as an agent To perform by an agent
+Attorneyed	done by proxy
+Attribute	reputation
+AUDACIOUS	spirited, daring, but without any note of blame attached to it
+aught	something, anything
+AUGUR	augury
+AUGUR (1)|AUGUR	carpenter's tool for creating holes in wood.
+AUGUR (2)|AUGUR	a prophet; to prophesy (vb).
+augur hole	obscure place
+AUGURE	augury.
+AUGURER	religious official among the Romans.
+augurers	priests who interpreted omens.
+Augurs	A group of ancient Roman religious officials who foretold events by observing and interpreting signs and omens
+AUNT	old woman; a gossip.
+AURICULAR	perceived by the ear.
+AUSPICIOUS	favourable; spreading happiness.
+auspicious mistress	as a favorable influence.
+Austerity	strictness of life
+AUTHENTIC	of authority.
+Avail	profit
+avarice	greed
+AVAUNT	order to be gone.
+AVE	MARY: the angelic salutation addressed to the Blessed Virgin Mary
+AVE-MARY	recited in saying the Rosary.
+AVERRING	confirming
+Avise	to inform
+AVOID	get rid of
+AVOUCH	guarantee; an assurance.
+avouches	affirms
+AWELESS	fearless; that inspires no awe.
+AWFUL	worshipful
+AWKWARD	contrary
+AY	yes.
+AYE	ever.
+BABE	a child's rag doll.
+Baby	doll
+BACCARE	stand back!
+BACCHANAL	from Bacchus, Roman god of wine.
+BACCHUS	the god of wine and the son of Zeus and Semele.
+BACK	sound all the way through; rear of an army; support, backing; to mount (invented by Shk.).
+BACK-FRIEND	a bailiff (usually the bailiff approached from the back to arrest the criminal); false friend.
+Back-trick	a backwards jump in dancing
+BACKWARD	what lies behind; in the past.
+BACKWARDLY	perversely.
+BACON	a man from the country.
+BACON-FED	country-bred (the modern form is "chaw-bacon"); also slang for "fat".
+BAFFLE	embarrass
+BAG	to retreat without surrender of any goods.
+BAIT	to harass (i.e. "bear-baiting").
+BAKED-MEATS	meat-pies, pastry.
+BALD	naked; bare; bare-headed.
+BALDRICK	a belt.
+BALE	evil; mischief; injury.
+BALK	to let slip; to dispute logic.
+BALKED	heaped, as on a ridge
+BALLOW	syn. for cudgel.
+BALM	the oil of consecration
+BALMY	fragrant and soothing (invented by Shk.).
+BALSAM	balm.
+BAN	to curse
+Band	bond
+BANDY	to strike or throw; to contend, strive, or fight.
+BANE	poison; murder, destruction, cause of death of another.
+BANK	to sail by the banks
+Bare	to shave
+bark	small ship
+BARM	yeast
+BARN	a child
+BARN (1)|BARN	a child.
+BARN (2)|BARN	to store in a barn.
+BARNACLE	a shellfish, supposed to produce the sea-bird of the same name
+Barren	empty headed
+Base|basest	a game, sometimes called Prisoners' base, blackest, dirtiest, of humble origin, low birth
+BASE (1)|BASE	a boy's game, sometimes called "prisoners' base".
+BASE (2)|BASE	reason.
+BASE (3)|BASE	dark-coloured; low-lying.
+BASE-COURT	outer court of a mansion or castle.
+BASE-VIOL	an early version of a modern cello.
+BASES	an embroidered mantle worn by knights on horseback, and reaching from the middle to below the knees
+BASILISK	a reptile, said to kill with its breath; large cannon, made of brass.
+BASIMECU	negative term for a Frenchman.
+BASTA	enough
+BASTARD	raisin wine
+BASTARD (1)|BASTARD	sweet Spanish wine.
+BASTARD (2)|BASTARD	counterfeit; false.
+bastinado	thrashing or cudgeling.
+BAT	FOWLING catching birds with a clap-net by night
+BAT-FOWLING	catching birds in the dark with a bright light.
+BATE	to flutter, as a hawk
+BATE (1)|BATE	strife.
+BATE (2)|BATE	a bird's beating wings.
+BATE (3)|BATE	to blunt; to reduce or diminish.
+Bated	excepted
+BATLET	a small bat, used for beating clothes
+batten	glut yourself.
+BATTLE	army
+BAVIN	used as a piece of waste wood, applied contemptuously to anything worthless
+Baw-cock	a fine fellow
+bawbling	small.
+BAWCOCK	a fine fellow
+BAWD	procurer
+BAY	the space between the main timbers of the roof
+BE	METE: to measure
+Be-lee'd	left in the lurch (be-lee'd and calme'd)
+BE-METE	to measure.
+BE-MOILED	to befoul with dirt.
+BEADSMAN	one who bids bedes, that is, prays prayers for another
+Bear	capture
+bear hard	bear a grudge against.
+Bear in hand	to decieve with false hopes
+beard	to confront boldly
+BEARING	CLOTH: a rich cloth in which children were wrapt at their christening
+BEARING-CLOTH	child's christening robe.
+BEAT	to flutter as a falcon, to meditate, consider earnestly
+BEAVER	the lower part of a helmet
+Becoming	graceful
+BED PRESSER	lazy person.
+BEDLAM	the Hospital of St. Mary of Bethelem in London, used as an insane asylum.
+bedlams	hags
+BEEF-WITTED	thick-headed.
+Beelzebub	the devil [audio] [link]
+BEETLE	a mallet
+BEETLE (1)|BEETLE	a kind of mallet.
+BEETLE (2)|BEETLE	overhang threateningly.
+Beetle-headed	stupid
+beetles o'er	overhangs.
+before	ahead (in merit)
+beggarly account	very small number.
+Beguile	to cheat, deprive of its due rights
+Behave	to control
+Behest	command
+Behove	suits, is appropriate to
+behoveful	necessary.
+BEING	dwelling
+BEING (1)|BEING	life, existence.
+BEING (2)|BEING	abode; dwelling.
+BELDAME	grandmother; hag.
+beldams	hags
+belike	probably.
+bellman	bellmen rang bells to announce a death in Elizabethean times
+BELLONA	the goddess of war (Macbeth is "Bellona's bridegroom").
+Bellows-Mender	mender of the bellows of organs
+Bench-hole	the hole of a privy
+bend up	stretch tight, like a bow - reference back to sticking place
+BENDING	stooping under a weight
+benison	blessing
+bent	determined
+BENVENUTO	(Italian), welcome
+BENVENUTO (Italian)|BENVENUTO	welcome
+berattle	abuse.
+Bergamo	town in Venetian territory, capital of Bergamasco, whose inhabitants were ridiculed as clownish
+BERGOMASK	a rustic dance (named after the people of Bergamo, Venice).
+Bergomask Dance	rude clownish dance practiced by town of Bergamo or of province of Bergamasco.
+BESHREW	evil befal
+Besort	to fit, to suit, suitability
+bestowed	housed
+BESTRAUGHT	distracted.
+bestride	stands over
+BETEEM	to pour out
+BETID	happened
+BETIDE	to happen.
+betimes	at once.
+betoken	indicate.
+Beweep	weep for, bewail
+bewray	reveal.
+BEZONIAN	a beggarly fellow
+biddy	common name for a hen.
+BIDING	abiding-place
+Bier	wagon, cart, (also a coffin bearing cart)
+BIGGEN	a night-cap.
+BILBERRY	the whortleberry
+BILBO	a sword, from Bilboa, a town in Spain where they were made
+BILBOES	fetters or stocks
+BILL	a bill-hook, a weapon
+BIN	been, are
+BIRD	BOLT a bolt to be shot from a crossbow at birds
+BIRD-BOLT	a bolt to be shot from a crossbow at birds.
+bird of night	the owl.
+BIRDING	part. hawking at partridges.
+Birnam	A high hill twelve miles from Dunsinance
+birthdom	native land
+BISSON	blind
+bite my thumb	an insulting gesture in Shakespeare's time. bite thee by the ear: a term of endearment, not of assault.
+bladed	When the ear of the corn is still green
+blanched	pale
+BLANK	the white mark in the middle of a target; hence, metaphorically, that which is aimed at
+blasted	barren.
+blazon	proclamation (like a coat-of-arms, or possibly, a triumphant blast on the trumpet).
+BLENCH	to start aside, flinch
+BLENT	blended
+blind	worm A glow worm
+blinking idiot	that is, a fool's head.
+Blistered	padded, puffed out
+Blood	BOLTERED smeared with blood, passions
+Blood-boltered	clotted with blood
+BLOOD-DRINKING	"blood-drinking sighs": reference to the belief that every sigh causes the heart to lose a drop of blood.
+BLOW	to inflate
+Blowse	a coarse beauty
+BOARD	to make advances to; accost
+BOB	to strike, metaph. to ridicule, or to obtain by raillery
+BOB (1)|BOB	to taunt.
+BOB (2)|BOB	to cheat.
+BOB (3)|BOB	to bang or thump.
+bodements	prophecies.
+BODGE	to give way.
+BODIKIN	a corrupt word used as an oath. 'Od's Bodikin,' God's little Body
+bodkin	dagger.
+Boggle	to swerve, to hesitate
+BOITIER VERT	green box
+BOLD	to embolden
+BOLLEN	swollen
+Bolt	to sift, to refine
+BOLTED	sifted, refined
+BOLTER	a sieve
+BOLTING	HUTCH a hutch in which meal was sifted
+BOLTING-HUTCH	a hutch in which meal was sifted.
+BOMBARD	a barrel, a drunkard
+BOMBAST	padding
+BONA	ROBA a harlot
+BONA-ROBA	a harlot.
+Bona-robas	flashily dressed sluts
+BOND	that to which one is bound
+BOOK	a paper of conditions.
+BOOT	to help, to avail.
+BOOTLESS	without boot or advantage, useless
+BOOTS	bots, a kind of worm
+BORE	calibre of a gun; hence, metaph. size, weight, importance
+borne	handled
+borne in hand	deluded
+bosky	wooded.
+BOSOM	wish, heart's desire
+BOTS	worms which infest horses.
+Bottle	bundle, truss
+Bouncing	imperious
+BOURN	a boundary.
+bowers	glades.
+Brabble	quarrel, brawl
+Brabbler	a brawler
+BRACE	armour for the arm, state of defence, readiness
+brach	hound bitch.
+BRAID	deceitful
+Brain	to think of
+brainsickly	foolishly.
+BRAVE	boast
+BRAVERY	finery; Boastfulness
+BRAWL	a kind of dance
+bray out	celebrate.
+break his day	fail to pay on the prescribed day.
+break with	break our news to, discuss.
+BREAST	voice
+BREATHE	to exercise.
+BREATHING	exercising
+BREECHING	liable to be whipt
+BREED	BATE a breeder of debate, a fomenter of quarrels
+BREED-BATE	a breeder of debate, a mischief-maker.
+BREESE	the gadfly
+BREWAGE	brewed drink.
+BRIBE	BUCK: a buck given away in presents
+BRIBE-BUCK	a buck given away in presents.
+Brief	short statement
+brief candle	life is compared to a candle flame. bring the device to the bar: bring the trick out into the open, to be judged (a flavor of the law is in these words).
+briefly	quickly
+BRING	to attend one on a journey
+Broach'd	stabbed, spitted
+broad	plain spoken
+broad words	plain speaking
+BROCK	a badger, a term of contempt
+broil	battle
+BROKE	to act as a procurer.
+BROKEN	having lost some teeth by age.
+Broken mouth	a mouth missing some teeth
+BROKEN MUSIC	the music of stringed instruments.
+broken sinews	racked nerves.
+BROKER	an agent.
+BROTHERHOOD	trading company
+BROWNIST	a sectary, a follower of Brown, the founder of the Independents
+BRUIT	noise, report, rumour
+bruited	to spread news, make noise
+BRUSH	rude assault
+BUCK	suds or lye for washing clothes in
+BUCK-BASKET	the basket in which clothes are carried to the.
+BUCK-WASHING	washing in lye.
+BUCKING	washing
+Buckle	to fight with hand to hand
+buckler	shield.
+BUG	a bugbear, a spectre
+Bugbear	a monster, a terrifying thing
+BULLY	ROOK: a bragging cheater
+BULLY-ROOK	a bragging cheater.
+Bung	a pickpocket
+BURGONET	a kind of helmet
+BURST	to break
+Burthen	burden
+Buskin'd	wearing the Buskin- a boot with high heels worn by hunters
+BUSKY	bushy
+but soft	slowly.
+BUTT	SHAFT a light arrow for shooting at a target
+BUTT-SHAFT	a light arrow for shooting at a target.
+BUXOM	obedient
+by	judging by
+by inch	meal, by portions of inches
+BY'RLAKIN	by our little Lady: an oath
+CABIN (1)|CABIN	temporary shelter; a cave; the den of an animal.
+CABIN (2)|CABIN	to imprison; to dwell in a cabin.
+CABLE	scope (a nautical metaphor used in Oth 1.2.17).
+CACODEMON	evil spirit.
+CADDIS	worsted galloon, so called because it resembles the caddis-worm
+CADE	a cask or barrel
+CADENT	falling.
+CADMUS	son of Agenor, King of Phoenicia, and the founder of Thebes.
+CADUCEUS	the wand of Mercury, around which two snakes are twined.
+CADWALADER	last king of the Welsh. Known for his feats of valour against the Saxons.
+CAESAR	supreme ruler; emperor.
+CAGE	a prison
+CAGE (1)|CAGE	a prison.
+CAGE (2)|CAGE	a wicker-work basket.
+CAIN	COLOURED: red (applied to hair)
+CAIN-COLOURED	red (supposed color of Cain's hair).
+Caitiff	slave, wretched person
+CALCULATE	prophesy
+CALIVER	a hand-gun
+Callet	a drab, a trull
+CALLET, CALLAT, CALLOT	a woman of bad character.
+CALLING	appellation
+CALM	qualm
+CALM (1)|CALM	to becalm.
+CALM (2)|CALM	confused with "qualm" in 2KH4 3.4.39.
+CAMEL	derrogatory name for an awkward person.
+CAMELOT	the court of King Arthur.
+CAN	to know, be skillful in
+CANAKIN	a little can
+CANARY	a wine brought from the Canary Islands
+CANARY (1)|CANARY	a wine brought from the Canary Islands.
+CANARY (2)|CANARY	lively Spanish dance.
+CANARY (3)|CANARY	mistaken for "quandary" by Mrs. Quickly in Wiv. 2.2.61.
+CANCER	the fourth sign of the zodiac.
+CANDIDATUS	candidate for Roman office, named after the white gown worn by Roman senators.
+CANDLE	WASTERS persons who sit up all night to drink
+CANDLE-CASE	case to store candles.
+CANDLE-HOLDER	one who lights others while they work.
+CANDLE-MINE	a mass of tallow.
+CANDLE-WASTER	one who wastes candles by studying late into the night.
+cank'red, cankered	rusty, malignant (a canker is a bud-destroying worm; hence cancer).
+CANKER	a caterpillar; The dog-rose
+Canker-Blossom	the worm that eats into blossoms
+Cankers	worms
+CANSTICK	a candlestick
+CANTLE	a slice, corner
+CANTON	a canto
+cantons	love songs (cantos). cap-a-pe: fully armed from head to foot.
+CANVAS	to sift: hence, metaphorically, to prove
+CANVASS	to deal with severely; to toss.
+CANZONET	a short song.
+CAP	a head-covering; give up for lost; top, chief.
+CAP-A-PE	from head to foot.
+CAPABLE	subject to Intelligent; Capable of inheriting Ample, capacious
+Capacity	ability to understand
+CAPER	the flower of the caper-bush, used for pickling.
+CAPET	Hugh Capet, the first French king of the Capetian dynasty.
+CAPITULATE	make a combined force
+CAPOCCHIA	a simpleton
+CAPRICCIO	caprice.
+CAPRICIO	caprice
+CAPRICIOUS	lascivious
+CAPTIOUS	capacious
+CARACK	a large ship of burden, treasure ship
+CARBONADO	meat scotched for broiling.
+CARD	playing-card; to mix with something foul.
+carded	mixed with something base. The word was in use from 1590 to 1635 for mixing different kinds of drink.
+CAREIRE	the curvetting of a horse
+CARKANET	a necklace
+CARL	a churl
+Carlot	a peasant
+CAROUSE	a toast.
+carrion men	decaying corpses.
+carrions	living carcasses.
+Case	the skin of an animal
+cashier'd	dismissed
+cashiered	dismissed (but not necessarily without honor).
+casing	enveloping
+CASSIBELAN	Cassivelaunus, King of the Britons during Caesar's reign.
+Cast	discharge
+CASTILIAN	a native of Castile; used as a cant term
+CASTILIANO VULGO	a cant term, meaning, apparently, to use discreet language
+cat in the adage	"The cat would eat fish, but would not wet her feet."
+CATAIAN	a native of Cathay, a cant word
+catch	musical round.
+cater-cousins	close friends.
+caterwauling	making a wailing noise like a cat. From Middle English cat + wawen, to wail (an onomatopoetic word, whose sound echoes its meaning).
+CATLING	cat-gut
+Catlings	catgut strings for musical instruments
+CAUTEL	deceit.
+CAUTELOUS	deceitful.
+CAVALERO	a cavalier, gentleman
+CAVIARE	the roe of sturgeon pickled; metaph. a delicacy not appreciated by the vulgar
+CEASE	put off, made to cease
+CEASE (1)|CEASE	cessation.
+CEASE (2)|CEASE	silence.
+Censure	opinion, judgment (usually negative)
+censures	opinions
+CENTURY	one hundred years or men.
+cerecloth	shroud. [The Merchant of Venice]
+cerements	winding-sheets, shroud. [Hamlet]
+ceremony	courtesy
+CERTES	certainly
+Certify	to inform, to make certain of
+CESS	rate, reckoning
+CH'ILL	vulgar for 'I will.'
+CHACE	a term at tennis.
+chafing with	beating on. [Julius Caesar]
+chalice	a cup or goblet
+chalked forth	indicated the direction. [The Tempest]
+Challenge	claim the right
+CHAMBER	a species of great gun
+CHAMBERER	an effeminate man.
+chamberlains	attendants in a bed chamber
+champain	flat, open country. [Twelfth Night]
+changed eyes	fallen in love; the phrase, arising from the exchange of amorous glances, was a common Elizabethan one. [The Tempest]
+Changeling	a child substituted by the fairies for the one stolen by them
+Channel	gutter Chapless- without jaws
+CHANSON	a song
+Chapfallen	depressed
+chaps	jaws
+CHARACT	affected quality
+CHARACTER	a letter, handwriting; to carve or engrave
+CHARACTERY	handwriting; That which is written
+CHARE	a turn of work.
+CHARGE	HOUSE
+CHARGE-HOUSE	a boarding-school.
+chariest	most modest and virtuous. [Hamlet]
+CHARLES' WAIN	the constellation called also Ursa Major, or the Great Bear
+charmingly	for the Elizabethans the word "charm" usually carried a reference to magic, as it does here. [The Tempest]
+CHARNECO	a species of sweet wine
+charnel houses	houses for storing the bones of the dead [link]
+Charter	privilige
+chastise	nag, criticize, reprimand
+chaudron	entrails
+CHEATER	for escheator, an officer who collected the fines to be paid into the Exchequer A decoy
+Check|cheque	to rebuke, to stop, to reprimand
+checking at	swerving aside from. [Hamlet]
+Cheek by Jole	cheek to cheek, side by side
+CHEER	fortune, countenance
+CHEQUE|check	a technical term in falconry; when a falcon flies at a bird which is not her proper game she is said to cheque at it
+CHEQUES	perhaps intended for ethics
+CHEQUIN	sequin, gold coin of Turkey and Italy.
+CHERRY	PIT a game played with cherrystones
+CHERRY-PIT	a game played with cherrystones.
+cherubin	angels in the second order [link]
+CHEVERIL	kid leather, glove
+cheveril glove	kid leather (easily stretchable). [Twelfth Night]
+CHEWIT	cough
+Chiding	barking
+CHILDING	pregnant
+CHILL	'I will'.
+chinks	cash (from the clatter of the coins). [Romeo and Juliet]
+CHIRURGEONLY	like a skilled surgeon.
+chop-logic	one who bandies logic; one who exchanges trivial points of logic. [Romeo and Juliet]
+CHOPIN	a high shoe or clog
+CHOPINE	a high shoe with a cork sole, worn in Renaissance Italy and Spain.
+Choppy	chapped
+chopt	chapped. [Julius Caesar]
+chough	jackdaw (i.e., a chatterer). [Hamlet]
+CHRISTENDOM	the state of being a Christian
+Christian cursy	Christian charity. [The Merchant of Venice]
+CHRISTOM	clothed with a chrisom, the white garment which used to be put on newly-baptized children
+CHRISTOM CHILD	child in its christening garment.
+CHUCK	chicken, a term of endearment
+CHUFF	a coarse blunt clown
+Churl	boor, peasant, countryman, rustic
+CINQUE PACE	a kind of dance
+CIPHER	to decipher
+CIPHER (1)|CIPHER	zero, a mere nothing.
+CIPHER (2)|CIPHER	to decipher.
+CIRCUMSTANCE	a condition; the state of affairs.
+CITAL	recital
+CITE	to incite
+Citizen	a person of the town, an effeminate fellow
+CITTERN	a guitar
+civet	perfume. [King Lear]
+CLACK	DISH a beggar's dish CLAP I' THE CLOUT to shoot an arrow into the bull's eye of the target
+Clack dish	a begging bowl
+clad	Y-CLEPED called, named
+Clapper-claw	to beat, to thrash
+CLAW	to flatter
+cleave to	stick to
+cleave to my consent	lend support or allegiance
+clepe	call. [Hamlet]; "clept." [Macbeth]
+clept	called
+Clerk	scholars
+CLIFF	clef, the key in music
+climatures	regions. [Hamlet]
+CLING	to starve
+CLINQUANT	glittering.
+CLIP	to embrace, enclose
+clodpole	blockhead. [Twelfth Night]
+Closely	secretly
+closet	desk
+CLOUT	the mark in the middle of a target
+CO	MART a joint bargain
+CO-MART	a joint bargain.
+COAST	to advance
+cobbler	this means bungler as well as shoemaker. [Julius Caesar]
+COBLOAF	a big loaf.
+COCK	AND-PIE: an oath
+COCK (1)|COCK	a cockboat.
+COCK (2)|COCK	a spout to release liquor.
+COCK-AND-PIE	an oath.
+COCK-SHUT-TIME	the twilight, when cocks and hens go to roost.
+cockatrices	mythological creatures, half serpent, half cockerel, famed for killing at a glance. [Twelfth Night]
+COCKLE	tares or darnel
+COCKNEY	a cook
+Codding	lecherous
+Codling	an unripe apple; also slang for testicles
+COG	to cheat, dissemble
+COGNIZANCE	badge, token.
+COIGN	projecting corner stone
+coign of vantage	convenient corner
+COIL	tumult, turmoil
+COLLECTION	drawing a conclusion.
+COLLIED	blackened. Othello;
+collier	coal-miner. [Twelfth Night]
+Colmekill	place where Scottish kings were buried, on the island of Iona
+colors	flags
+Colossus	the huge statue of Apollo at the harbour of Rhodes. It was erroneously thought that its legs spanned the harbour entrance. [Julius Caesar]
+COLOUR	pretence.
+COLOURABLE	specious.
+COLT	to defraud, befool.
+COMBINATE	betrothed
+COMBINE	to bind.
+Comment	to devise, invent
+COMMODITY	interest, profit
+common proof	common experience. [Julius Caesar]
+COMMONTY	used ludicrously for comedy
+COMPACT	compacted, composed
+COMPARATIVE	rival
+COMPARE	comparison
+Compare with	try to rival
+compass	bring about. [Twelfth Night]
+compassed	surrounded
+COMPASSIONATE	moving comparison
+COMPETITOR	one who seeks the same thing, an associate in any object
+COMPLEMENT	accomplishment
+COMPLEXION	passion
+Compliment	ceremony
+compliment extern	outward appearance. [Othello]
+COMPOSE	to agree
+Composition	agreement, consistancy
+COMPOSTION	composition
+COMPTER	counter.
+COMPTIBLE	tractable
+compunctious	having feelings of pity
+CON	to learn by heart.
+CONCAVE	hollow.
+concave shores	overhanging banks. [Julius Caesar]
+CONCEIT	conception, opinion, fancy
+CONCEPTIOUS	fruitful.
+Concern	accord with, befit
+CONCUPISCIBLE	lustful.
+CONCUPY	concubine
+CONDITION	temper, quality
+CONDOLEMENT	grief
+CONDUCT	escort
+CONFECT	to make up into sweetmeats
+CONFOUND	to consume, destroy
+confounds	to ruin or destroy
+Confusion	ruin
+CONJECT	conjecture
+CONSANGUINEOUS	of the same blood.
+CONSCIONABLE	conscientious.
+Consent	agreement, plot
+CONSIGN	to sign a common bond, to confederate
+CONSORT	company; to accompany
+CONSTANCY	consistency
+CONSTANT	settled, determined
+CONSTANTLY	firmly
+CONSTER	to construe
+Contagious	pestilential
+contagious blastments	destructive blights. [Hamlet]
+contemned love	love that is given but not returned. [Twelfth Night]
+CONTEMPTIBLE	contemptuous
+Content	substance (possibly male semen)
+CONTINENT	that which contains anything That which is contained
+Continents	banks
+CONTINUATE	uninterrupted
+contracted bachelors	young men who are engaged to be married and whose banns are being called in church. [King Henry IV, Part 1]
+CONTRACTION	the marriage contract
+CONTRARY	to oppose
+CONTRIVE	to conspire; to wear away
+CONTROL	to confute
+CONVENT	to convene, summon to be convenient
+Convert	to change, to turn to, give attention to
+Converted	to turn away, avert, change religion, handed over or changed
+CONVERTITE	a convert
+CONVEY	to manage To filch
+Conveyance	theft, fraud, escort
+CONVICT	convicted
+CONVICTED	overpowered, vanquished A doubtful word
+CONVINCE	to conquer, subdue.
+CONVIVE	to feast together.
+CONVOY	escort.
+CONY	CATCH to cheat
+CONY-CATCH	to cheat.
+CONY-CATCHING	poaching, pilfering.
+COOLING CARD	used metaphorically for an insurmountable obstacle
+COPATAIN HAT	a high-crowned hat.
+COPE	to reward, to give in return.
+COPESMATE	companion.
+COPY	theme
+copyhold	a type of lease
+CORAGIO	courage
+CORAM	an ignorant mistake for Quorum
+CORANTO	lively dance
+CORINTH	a cant term for a brothel
+CORINTHIAN	a wencher
+CORKY	dry like cork
+CORNUTO	a cuckold
+COROLLARY	a surplus
+coronets	small crown, or perhaps a laurel wreath. [Julius Caesar]
+CORPORAL	bodily. "Corporals of the field" were army officers who acted as assistants to the sergeant-major.
+Corrigible	corrective
+CORRIVAL	rival
+corse	body. [Hamlet]; corpse. [Romeo and Juliet]
+COSTARD	the head.
+COSTER	MONGER peddling, mercenary
+COSTER-MONGER	peddling, mercenary.
+COT	QUEAN an effeminate man, molly-coddle
+Cot-quean	a man who occupies himself with women’s business
+COTE	to quote, instance
+COUCHINGS	crouchings.
+COUNT CONFECT	a nobleman composed of affectation
+countenance	look at
+counter-caster	cashier
+COUNTERFEIT	portrait; A piece of base coin
+COUNTERPOINT	a counterpane
+COUNTERVAIL	to counterpoise, outweigh
+COUNTRY	belonging to one's country
+COUNTY	count.
+COUPLEMENT	union
+Courageous	happy, fortunate
+course	a bout in bearbaiting, where a bear is tied to a stake and attacked by dogs
+Courses	the strings of many instruments such as a lute were strung in pairs and these pairs were called courses.
+COURT HOLY	WATER, flattery
+COURT HOLY-WATER	flattery.
+court of guard	headquarters. [Othello]
+coused	chased
+COVENT	a convent.
+COVER	to lay the table for dinner
+COWISH	cowardly
+COWL	STAFF: the staff on which a vessel is supported between two men COX MY PASSION: an oath, a euphemism for 'God's Passion'
+COWL-STAFF	the pole on which a basket is supported between two people.
+coxcomb	a fool's cap, often with a cock's comb attached to the top. [King Lear]
+Coy	fondle
+COY (1)|COY	to stroke or caress.
+COY (2)|COY	to disdain.
+COYSTRIL	a kestrel, a cowardly kind of hawk
+coystrill	knave or base fellow. [Twelfth Night]
+coz	cousin
+cozen	cheat. [The Merchant of Venice]
+COZENAGE	cheating
+COZENER	a cheater
+COZIER	a tailor
+CRACK	a loud noise, clap A forward boy
+CRACK-HEMP	a gallows-bird.
+crack of doom	the thunder at the day of doom
+CRACKER	boaster
+CRANK	a winding passage
+CRANKING	winding
+CRANTS	garlands. A doubtful word
+CRARE	a ship of burden.
+CRAVEN	a dunghill cock.
+CREATE	formed, compounded
+CREDENT	creditable; Credible; Credulous
+Credit	report, credibility, reputation
+CRESCIVE	increasing
+CRESTLESS	not entitled to bear arms, lowborn
+crickets cry	thought of as an omen of death. [Macbeth]
+CRISP	curled, winding.
+crisped	curly. [The Merchant of Venice]
+Critical	censorious
+crochets	whims. [Romeo and Juliet]
+CROSS	a piece of money, so called because the coin was formerly stamped with a cross
+CROSS (1)|CROSS	a piece of money, coin.
+CROSS (2)|CROSS	passing from side to side.
+CROSS (3)|CROSS	across.
+CROSS (4)|CROSS	to meet, face; to pass.
+Cross-row	alphabet
+crossed	opposed. [Julius Caesar]
+CROW	KEEPER one who scares crows
+CROW-KEEPER	one who keeps crows away from corn-fields.
+CROWNER	a coroner
+CROWNET	a coronet
+crush a cup	a common colloquial expression in Elizabethan English comparable to "crack open a bottle." [Romeo and Juliet]
+CRY	the yelping of hounds A pack of hounds A company, use contemptuously
+CRY (1)|CRY	the yelping of hounds.
+CRY (2)|CRY	to appeal; to beg.
+CRY (3)|CRY	public report or rumour.
+CRY AIM	to encourage.
+cry you mercy	beg your pardon. [Othello]
+cubiculo	room, chamber. [Twelfth Night]
+CUE	the last words of an actor's speech, which is the signal for the next actor to begin
+CUISSES	pieces of armour to cover the thighs
+CULLION	a base fellow
+cullionly barbermonger	rascal who goes too often to the barber. [King Lear]
+CUNNING	skill.
+Cupid's Flower	the pansy, "love in idleness"
+CURB	to bend, truckle
+CURRENTS	occurrences.
+Curst	bad tempered, shrewish
+CURST CURSTNESS	shrewishness
+CURSTNESS	shrewishness
+cursy	curtsey, bow. [The Merchant of Venice]
+CURTAIL	a cur
+CURTAL	a docked horse.
+CURTAL-AXE	a cutlass.
+CUSTALORUM	a ludicrous mistake for Custos Rotulorum
+CUSTARD	COFFIN: the crust of a custard-pudding
+CUSTARD-COFFIN	the crust of a custard-pudding.
+CUSTOMER	a common woman
+CUT	a cheat 'To draw cuts' is to draw lots
+cut-purse	thief. [Hamlet] D
+Cut Thread and Thrum	cut everything good and bad
+cyme	A usually flat-topped or convex flower cluster in which the main axis and each branch end in a flower that opens before the flowers below or to the side of it. Refers to senna. [link]
+CYPRESS	a kind of crape
+CYPRESS (1)|CYPRESS	a kind of crape.
+CYPRESS (2)|CYPRESS	tree of durable wood (symbol of mourning).
+CYTHEREA	Venus.
+Daff	to take off, to thrust aside
+dainty of	particular about
+dallying	fondling one another. [Hamlet]
+DAMN	to condemn
+DANGER	reach, control, power
+DANSKER	a Dane
+DARE	to challenge
+dareful	boldly
+DARKLING	in the dark
+DARRAIGN	to set in array
+Dash	a mark of disgrace
+date is out, the	it is no longer the fashion. [Romeo and Juliet]
+Dateless	without end
+DAUB	to disguise
+DAUBERY	imposition
+daws	jackdaws, or fools. [Othello]
+DAY	WOMAN
+Dear	expensive, a privilege dearly bought, deeply felt
+dear account	sad reckoning. In Elizabethan English the word "dear" intensified the meaning -- you could have a "dear friend" and a "dear enemy." [Romeo and Juliet] death's-head: skull. [The Merchant of Venice]
+DEARN	lonely
+Dearths	famines, shortages
+Debate	contention
+DEBOSHED	debauched, drunken
+Debosht	debauched
+DECK	to bedew (this is probably a form of the verb 'to dag,' now a provincial word); a pack of cards
+DECLINE	to enumerate, as in going through the cases of a noun
+DECLINED	fallen
+DEEM	doom; judgment
+DEFEAT	destruction
+DEFEATURE	disfigurement
+DEFENCE	art of fencing
+DEFEND	to forbid
+DEFENSIBLE	having the power to defend
+Deficient	mentally defective
+DEFTLY	dexterously
+DEFY	renounce
+degrees	degrees of ranks
+DELAY	to let slip by delaying
+deliver thee	report to thee
+delivers	communicates to us
+DEMERIT	merit, desert
+Demerits	deservings
+demi	wolves a cross between dogs and wolves
+DEMURELY	solemnly
+DENAY	denial
+DENIER	the 12th part of a French sol coin
+denotement	careful observation. [Othello]
+DENY	to refuse
+DEPART	departure; to part
+DEPARTING	parting, separation
+DEPEND	to be in service
+DERIVED	born, descended
+Dern	secret, dismal
+DEROGATE	degraded
+DESCANT	a variation upon a melody, hence, metaphorically, a comment on a given theme
+Deserve	reward
+DESIGN	to draw up articles
+DESPATCH	to deprive, bereave
+DESPERATE	determined, bold
+DETECT	to charge, blame
+Determinate	decided upon
+Determination	termination, end of lease
+DETERMINE	to conclude
+Devices	plans, projects
+Dewlap	neck, the loose skin hanging from the throat of cattle
+DICH	optative mood, perhaps contracted for 'do it.'
+DIET	to have one's food regulated by the rules of medicine
+DIFFUSED	confused
+DIG	YOU-GOOD-DEN give you good evening
+dignities	honors
+DIGRESSING	transgressing, going out of the right way
+DIGRESSION	transgression DIG-YOU-GOOD-DEN: give you good evening
+Dilate	to tell in full
+DILDO	the chorus or burden of a song
+Diminutives	the smallest coins
+DINT	stroke
+Direct	regular
+DIRECTION	judgment, skill
+DISABLE	to disparage
+DISAPPOINTED	unprepared
+DISCASE	to undress
+Discharge	perform
+DISCONTENT	a malcontent
+DISCOURSE	power of reasoning
+discovery	scouting reports
+DISDAINED	disdainful
+Disdains|Disdaineth	is contemptous of
+Disfigure	to obliterate
+disjoint	fall to pieces
+DISLIMN	to disfigure, transform
+DISME	a tenth or tithe
+dismount thy tuck	take thy rapier out of its scabbard or sheath. [Twelfth Night]
+DISPARK	to destroy a park
+dispatch	management
+displaced	banished
+DISPONGE	to squeeze out as from a sponge
+Disports	recreations
+DISPOSE	disposal
+DISPOSITION	maintenance
+DISPUTABLE	disputatious
+DISPUTE	to argue, examine
+dispute it	fight against it; reason upon it
+disseat	unseat
+dissemble	deceive. [Twelfth Night]
+DISSEMBLY	used ridiculously for assembly
+distaff	the spinning staff, and hence symbol of the woman. [King Lear]
+distance	hostility
+DISTASTE	to corrupt
+Distemperature	disorder of the elements
+DISTEMPERED	discontented
+Distract	divide
+DISTRACTION	a detached troop or company of soldiers
+DISTRAUGHT	distracted, mad
+divers	diverse, varied
+DIVERTED	turned from the natural course
+DIVISION	a phrase or passage in a melody
+DIVULGED	published, spoken of
+do my duties	voice my loyalty. [Othello]
+DOFF	to do off, strip To put off with an excuse
+dog at	clever at. [Twelfth Night]
+doit	cheap coin. [The Merchant of Venice]
+DOLE	portion dealt Grief, lamentation
+dolor	sadness
+DOLT	a small Dutch coin
+DON	to do on, put on
+DONE	'done to death,' put to death
+dormouse valour	small amount of bravery. [Twelfth Night]
+DOTANT	one who dotes, a dotard
+doublet	lined jacket. [King Henry IV, Part 1]
+Doubt	fear, apprehension
+DOUT	to do out, quench
+doves	the Chariot of Venus was drawn by doves, which were sacred to her. [Romeo and Juliet]
+Dowager	a widow with a jointure
+DOWLAS	a kind of coarse sacking
+DOWLE	the swirl of a feather
+DOWN	GYVED: hanging down like gyves or fetters
+Down-gyved	hanging down
+DRAB	a harlot
+DRABBING	whoring
+dram	small amount. [Twelfth Night]
+DRAUGHT	a privy
+DRAWN	having his sword drawn; drunk, having taken a good draught
+DRIBBLING	weak
+DRIVE	to rush impetuously
+DROLLERY	a puppet-show
+dropping fire	thunderbolts. [Julius Caesar]
+drops of sorrow	tears. [Macbeth]
+drossy	frivolous. [Hamlet] dry sorrow (drinks our blood): another old belief, that sorrow caused people to go pale through lack of blood. [Romeo and Juliet]
+drowse	become drowsy
+Drumble	clumsy or slow
+DRY	thirsty
+Dry-beat	to beat
+DUC	DAME perhaps the Latin duc-ad-me, bring him to me
+DUDGEON	a dagger
+DULL	soothing
+DULLARD	a dull person
+DUMP	complaint
+dun's the mouse	a slang Elizabethan phrase meaning "Keep quiet." [Romeo and Juliet]
+dunnest	darkest
+Dup	to open
+dupp'd	opened. [Hamlet]
+durst	dared
+dwell on form	do the proper thing (in the formal, conventional way). [Romeo and Juliet] E
+E'ER	contraction of 'ever'.
+EAGER	sour Harsh Biting
+EANLING	a yeanling, a lamb
+eanlings	lambs. [The Merchant of Venice]
+EAR	to plough
+EAR-KISSING	private; whispered.
+earnest	pledge, money paid beforehand
+EASEFUL	restful.
+EASILY	without difficulty; smoothly, freely.
+easy	easily
+EAVES	the clipt edge of a thatched roof.
+EBB	to decline, decay.
+EBON	black, ebony
+EBREW	common spelling of Hebrew in the Renaissance.
+ECHE	to eke out
+ECHO	mountain nymph (from Greek mythology).
+ecstasy	any state of being beside one's self
+Edward	Edward the Confessor, king of England [link]
+EFFECT (1)|EFFECT	end result; drift, tenor; expression; intimation.
+EFFECT (2)|EFFECT	(vb.) to produce; to give effect.
+effects	act, actions
+EFFUSE	pouring out.
+EFT	ready, convenient.
+Eftest	readiest
+Eftsoons	immediately
+EGAL	equal.
+Egally	equally
+egg	term of contempt
+Eglantine	sweetbriar
+EGMA	used mistakenly for 'enigma' in LLL 3.1.75.
+EGREGIOUS	very great.
+Egyptian	gypsy. [Othello]
+EISEL	vinegar
+EKE (1)|EKE	to increase; to add; to supplement.
+EKE (2)|EKE	(avb.) also.
+ELD	old age
+Elf	to tie hair into knots
+elflocks	when dirty hair became clotted together it was superstitiously put down to elves, hence "elflocks." [Romeo and Juliet]
+eliads	from the French "oeillades," amorous glances. [King Lear]
+Elysium	paradise (Illyria). [Twelfth Night]
+EMBALLING	the ceremony of carrying the ball at a coronation (invented by Shk.).
+Embarquemnet	restraint, hindrance
+EMBASSADOR	ambassador.
+EMBASSAGE	errand.
+EMBATTLE	to engage in combat.
+EMBOSSED	swollen into protuberances; covered with foam
+embowell'd	embalmed. [King Henry IV, Part 1]
+EMBOWELLED	disembowelled, emptied
+EMBRASURE	embrace.
+EMBRUE	old spelling of 'imbrue'.
+EMINENCE	exalted station
+EMPERY	empire
+Emulation	jealous competition, rivalry
+EMULOUS	jealous.
+ENCAVE	to place oneself in a cave
+enchafed	angry. [Othello]
+END	'Still an end,' continually for ever
+Endeared	made dear, made precious, is dear to
+endues	brings. [Othello]
+ENFEOFF	to place in possession in fee simple
+Enforced	forced, violated
+ENGINE	a machine of war
+ENGLUT	to swallow.
+engluts	devours. [Othello]
+ENGROSS	to make gross or fat
+ENGROSSMENT	immoderate acquisition
+ENKINDLE	to make keen, to incite
+ENLARD	to fatten.
+Enlargement	freedom, libarty
+ENMEW	to shut up, as a hawk is shut up in a mew
+enow	enough
+ENSCONCE	to cover as with a fort.
+ENSEAMED	fat, rank
+Ensear	to wither, to dry up by heat
+ENSHIELD	hidden
+ensteeped	submerged. [Othello]
+ENTERTAIN	to keep up; to treat; to occupy (time).
+ENTERTAINMENT	treatment A disposition to entertain a proposal Service
+Entreatment	invitation
+ENTREATMENTS	interviews.
+envy	hatred. [The Tempest]; malice. [Julius Caesar]
+enwheel	encompass. [Othello]
+EPHESIAN	a toper, a cant term
+epicures	a person devoted to luxury (especially with food), the root of hedonisitic philosophy was Epicureanism as definde by the Greeks
+EQUIPAGE	attendance
+equivocate to heaven	get to heaven by equivocation
+equivocator	a person who speaks ambiguously, perhaps to mislead. Here is alludes to the 1606 trial of Henry Garnet, accused of treason.
+Ercles	Hercules
+ere	before
+Erewhile	a little while ago
+erns	grieves. [Julius Caesar]
+Escape	escapade
+Escot	to pay for
+ESPERANCE	hope, used as a war-cry.
+ESPIAL	a scout or spy.
+estate	royal dignity, succession to the crown
+Estate Unto	bestow upon
+ESTIMATION	conjecture ESTRIDGE: ostridge
+ESTRIDGE	ostridge.
+eternal jewel	immortal soul
+eterne	perpetual
+Ethiop's	Negro, as used by Shakespeare, not Ethiopian in its narrower sense. [Romeo and Juliet]
+EVEN	coequal
+EXAMINE	to question.
+exasperate	exasperated
+EXCREMENT	that which grows outwardly from the body and has no sensation like the hair or nails Any outward show
+EXECUTOR	an executioner
+EXEMPT	excluded.
+EXERCISE	a religious service
+Exeunt	They leave the stage[audio]
+EXHALE	to hale or draw out to draw the sword
+EXHIBITION	allowance, pension.
+EXIGENT	death, ending.
+EXION	mistakenly used for "action" by Mrs. Quickly in 2KH4 2.1.34.
+EXPECT	expectation
+expectation	those guests who are expected
+EXPEDIENCE	expedition, undertaking.
+EXPEDIENT	expeditious, swift
+expedition	haste
+EXPIATE	completed.
+EXPOSTULATE	to expound, discuss.
+EXPOSTURE	exposure.
+EXPRESS	to reveal
+EXPULSE	to expel
+EXSUFFICATE	contemptible.
+EXTEND	to seize.
+EXTENT	a seizure
+Extenuate	mitigate, relax
+EXTERN	outward.
+EXTIRP	to extirpate
+EXTRACTING	distracting
+EXTRAUGHT	extracted, descended.
+EXTRAVAGANT	foreign, wandering.
+extravagant and erring	vagrant and wandering (both used in original Latin sense, a common device of Shakespeare). [Hamlet]
+EXTREMES	extravagance of conduct.
+extremities	extremes of power. [Julius Caesar]
+EYAS	a young hawk taken fromthe nest for training.
+EYAS-MUSKET	'nest-bird', used to mean 'sprightly child'.
+EYE	the organ of sight; attributed to the heavenly bodies; sight, a slight shade or tinge.
+EYE-GLASS	the lens of the eye.
+EYE-WINK, EYE-BEAM	look, glance.
+eyeless	invisible. [King Lear]
+eyes' windows	eyelids (
+EYESTRINGS	the nerves and tendons of the eyes
+EYNE	eyes
+FACINOROUS	wicked.
+FACT	guilt.
+FACTIOUS	instant, importunate.
+faculties	powers, prerogatives
+FACULTY	essential virtue or power.
+FADGE	to suit
+FADING	a kind of ending to a song
+Fadom|Fathom	capacity
+fain	gladly
+Faint	pale
+FAIR	beauty.
+faith	breach treachery
+FAITOR	a traitor
+FAll	to let fall.
+fall off	become a rebel or traitor. [King Henry IV, Part 1]
+falling sickness	epilepsy. [Julius Caesar]
+FALLOW	fawn-coloured
+Falls purpose	is close to the truth. [Julius Caesar]
+FALSE	falsehood
+FALSING	deceptive
+familiar	a witch's evil spirit who acts as a servant
+Famine	emptiness, starvation, lack of provision for posterity
+Famoused	famous, renowned
+FANCY	FANCY-FREE untouched by love
+FANCY FANCY	FREE: untouched by love
+Fancy-free	free from the power of love
+Fancy-sick	sick for love
+FANG	to seize in the teeth
+FANTASTIC	a fantastical person
+fantastical	imaginary, not real
+FAP	drunk.
+FAR	farther.
+FARCED	stuffed
+FARDEL	a burden
+farrow	litter of pig
+FARTUOUS	used ridiculously for ' virtuous.'
+fashion	shape to our purpose. [Julius Caesar]
+FAST	assuredly, unalterably.
+FAT	dull.
+Fates	in classical mythology, the three goddesses who directed human destinies. [Julius Caesar]
+favor	pardon, countenance, face
+Favors	features, love tokens, nosegays of flowers
+FAVOUR	countenance; complexion; quality
+FEAR	the object of fear.
+FEARFUL	subject to fear, timorous.
+fears	objects of fears
+FEAT	dexterous
+FEATER	comp. degree. more neatly.
+feather-bed	i.e.. marriage. [The Merchant of Venice]
+FEATLY	nimbly, daintily.
+FEATURE	beauty.
+FEDERARY	confederate.
+fee	grief "grief that hath a single owner" (private grief)
+feed	feeding
+FEEDER	agent, servant
+FEERE	a companion, husband.
+FEHEMENTLY	used ridiculously for 'vehemently.'
+fell	deadly, evil, extremely angry
+Fellow	match, equal
+fen	swamp or marsh
+FENCE	art or skill in defence
+FEODARY	one who holds an estate by suit or service to a superior lord; hence one who acts under the direction of another
+FESTER	to rankle, grow virulent.
+festinate	speedy. [King Lear]
+FESTINATELY	quickly
+FET	fetched
+fetches	excuses. [King Lear]
+fia	forward! (from the Italian via.) [The Merchant of Venice]
+FICO	a fig.
+Fie	shame on you
+FIELDED	in the field of battle
+Fife	a county in eastern Scotland, Macduff is the thane of Fife
+FIG	to insult.
+FIGHTS	clothes hung round a ship to conceal the men from the enemy
+Figure	typify
+figures	fantasies. [Julius Caesar]
+File	list
+filed	made foul, defiled
+FILL	HORSE
+FILL-HORSE	shaft-horse.
+FILLS	the shafts
+FILTH	a whore
+FINE	end.
+FINELESS	endless.
+FIRAGO	ridiculously used for 'Virago.'
+FIRE	NEW with the glitter of novelty on, like newly- forged metal
+FIRE-DRAKE	Will o' the Wisp.
+FIRE-NEW	with the glitter of novelty on, like newly-.
+FIRK	to chastise
+first	once for all from the beginning to the end
+FIT	a canto or division of a song A trick or habit
+Fitchew	a skunk
+fits	caprices
+FIVES	a disease incident to horses
+FLAP	JACK: a pan-cake
+FLAP-DRAGON	raisins in burning brandy.
+FLAP-JACK	a pan-cake.
+FLAT	certain
+FLATNESS	lowness, depth.
+Flatter	to stroke (usually means insincerity or deception)
+FLAW	to make a flaw in, to break.
+flaws	storms of passion
+FLECKED	spotted, streaked.
+fleer	scorn, or mock at. [Romeo and Juliet]
+fleering	the Elizabethan meaning combined our "fawning" and "sneering." [Julius Caesar]
+FLEET	to float To pass away to pass the time
+FLEETING	inconstant.
+FLESHMENT	the act of fleshing the sword, hence the first feat of arms
+Flew'd	having an overhanging lip on the upper jaw
+FLEWED	furnished with hanging lips, as hounds are
+Flibbertigibbet	the name of a devil; here and later Shakespeare takes the names of his devils -- Smulkin, Modo -- from a book by Samuel Harsnett published in 1603. The names also give the effect of the devils, fiends and goblins of folk mythology, which would come naturally to Tom o' Bedlam. [King Lear]
+FLIGHT	a particular mode of practising archery.
+flighty	fleeting
+FLIRT	GILL: a light woman
+Flirt-gill	a trivial wench
+flirt-gills	loose women. "Gill" was a familiar or contemptuous term for a girl (as "Jack" for a boy). [Romeo and Juliet]
+Floodgate|Flood-gate	sweeping
+FLOTE	wave, sea
+Flourish	trumpet fanfare announcing the king
+Flout	mock at
+flowerets	young men in the flower of their manhood. [King Henry IV, Part 1]
+flung out	kicked and plunged wildly. [Macbeth]
+FLUSH	fresh, full of vigour
+fly	fly from me
+Fobbed	cheated, tricked
+FOIL	defeat, disadvantage
+FOIN	to fence, fight
+FOISON	plenty
+foisons	plenty, rich harvests, abundance
+follows	attends
+FOND	foolish, foolishly affectionate
+foolish	MOUSE-HUNT a weasel
+fools' zanies	clowns' assistants. [Twelfth Night]
+FOOT	CLOTH
+FOOT-CLOTH	a saddle-cloth hanging down to the ground.
+fopped	duped. [Othello]
+FOR	for that, because.
+FORBID	accursed, outlawed.
+FORBODE	forbidden
+FORCE	to stuff, for 'farce.'
+forced	strenghtened (reinforced)
+fordid	destroyed. [King Lear]; destroys. [Othello]
+FORDO	to kill, destroy To weary
+Fordone	exhausted
+Foregone	in the past
+FOREIGN	obliged to live abroad
+FOREPAST	former.
+FORESLOW	to delay
+FORFEND	to forbid
+forge	fabricate, invent
+Forgeries	idle inventions
+FORGETIVE	inventive.
+FORKED	horned
+forks	legs. [King Lear]
+FORMAL	regular, retaining its proper and essential characteristic
+formal constancy	steadfast self-possession. [Julius Caesar]
+Forres	a town in northern Scotland
+Forslow	to delay
+FORSPEAK	to speak against.
+FORSPENT	exhausted, weary
+forsworn	gone against one’s word, sworn a falsehood
+FORTHRIGHT	a straight path; forthrights and meanders, straight paths and crooked ones
+FORWEARY	to weary, exhaust
+FOSSET	SELLER one who sells the pipes inserted into a vessel to give vent to the liquor, and stopped by a spigot
+FOSSET-SELLER	one who sells the pipes inserted into a vessel.
+founded	firmly fixed
+four elements	earth, air, fire, and water: The Elizabethans believed that humanity was made up of various combinations of these four elements. The theory of humours was based upon this theory. [Twelfth Night]
+FOX	SHIP: the cunning of the fox
+FOX-SHIP	the cunning of the fox.
+Fracted	broken
+frame of things	universe
+FRAMPOLD	peevish, unquiet
+franchised	free, unstained
+Frank	generous, liberal,the feeding place of swine
+FRANKED	confined.
+FRANKLIN	a freeholder, a small squire.
+FRAUGHT	freighted.
+FRAUGHTAGE	freight.
+FRAUGHTING	to fraught; foarming the cargo.
+free	honorable
+French Crown Color	light yellow, the color of the gold of the french crown
+French hose	tight breeches
+FRESH	a spring of fresh water
+FRET	to wear away.
+FRIEND	to befriend.
+frieze	rough cloth. [Othello]
+fright	frighten, terrify
+frippery	old-clothes shop. [The Tempest]
+FROM	prep. contrary to
+from the main	not the strong. [Julius Caesar]
+FRONT	to affront, oppose
+FRONTIER	opposition
+FRONTLET	that which is worn on the forehead.
+FRUSH	to break or bruise.
+FRUSTRATE	frustrated.
+fry	literally a swarm of young fishes; here used as a term of contempt
+FUB OFF	to put off
+Fubbed off	put off with execuses
+FULFILL	to fill full
+FULL	complete
+FULLAM	a loaded die.
+Fullams	fixed dice
+FULSOME	lustful.
+function	power of action
+furbish'd	burnished
+FURNISHED	equipped.
+FURNITOR	furnitory, an herb
+fust	grow moldy. [Hamlet]
+fustian	bombastic, ridiculously pompous (when used as an adjective). [Twelfth Night] G
+GABERDINE	a loose outer coat, or smock frock
+GAD	a sharp spike.
+Gadge	to pledge
+Gadooks!	Holy Cow!
+gage	to bind as by oath or promise; to pledge. [King Henry IV, Part 1]
+gaged	indebted. [The Merchant of Venice]; pledged. [Hamlet]
+GAIN	GIVING: misgiving
+GAIN-GIVING	misgiving.
+Gaingiving	misgiving
+GAIT	going, steps
+Gall	bitterness, annoy
+GALLIARD	a kind of dance
+GALLIASSE	a kind of ship.
+GALLIMAUFRY	a ridiculous medley.
+GALLOW	to scare.
+GALLOWGLASS	soldiers formerly maintained by Irish chiefs.
+gallowglasses	heavy-armed Irish troops
+Gallows-bird	a person who deserves to be hanged
+galls his kibe	steps on (scrapes) his heel. [Hamlet]
+gamesome	sportive. [Julius Caesar]
+GAMESTER	a frolicsome person A loose woman
+GARBOIL	disorder, uproar
+GARISH	gaudy, staring
+GARNER	to lay by, as corn in a barn.
+gaskins	breeches. [Twelfth Night]
+GAST	frightened.
+gasted	frightened (as in "aghast"). [King Lear]
+GAUDY	festive.
+gauntlet	armored glove flung down as a challenge. [King Lear]
+Gawds	trifles, trinkets
+GAZE	an object of wonder
+GEAR	matter of business of any kind.
+GECK	a fool.
+Gender	kind
+GENERAL	the generality, common people
+GENERATIONS	children.
+GENEROSITY	noble birth.
+GENEROUS	noble.
+genius	guardian spirit which influences destiny
+Gennets	spanish horses
+GENTILITY	good manners.
+GENTLE	gentlefolk.
+gentle senses	senses which are soothed (by the "gentle" air)
+GENTRY	complaisance, conduct becoming gentlefolk.
+GERMAN	akin.
+GERMEN	seed, embryo.
+germins	germs, seeds, origins
+GEST	period.
+get	beget
+get the start	i.e., a head start; the metaphor from the running of a race is carried on in the victor's "palm" in the next line. [Julius Caesar]
+GIB	a he-cat
+gibbet	gallows
+GIFTS	talents, endowment
+GIGLOT	a wanton girl.
+Gild'st	make golden, enrich with gold
+GILDER	a coin.
+GILT	money.
+GIMMAL	double.
+GIMMOR	contrivance.
+gin	a trap to catch birds
+GING	gang GIRD: to gibe; a sarcasm or gibe
+Gird	scoff, jest
+give him o'er	leave someone alone. [The Tempest]
+gives out	proclaims
+Glance at	hint at
+Glass	mirror
+glazed	a combination of glared and gazed. [Julius Caesar]
+GLEEK	to scoff.
+Glib	to geld
+GLOSE	to comment; hence, to be garrulous.
+GLUT	to swallow.
+GNARL	to snarl
+Gnarling	snarling
+Go about	attempt
+go off	die
+goatish	the goat was frequently used to represent lechery by the Elizabethans. [King Lear]
+God-den	good evening, a contraction of the fuller "God give you a good even." [Romeo and Juliet]
+God dild us	God reward us
+God dild you	God reward you
+golden round	the crown
+Golgotha	Where Jesus was crucified, "place of the skull" [link]
+good	evening, contracted from 'Good-even.' GOOD-YEAR or GOOD-JER a corruption of the French goujere; the venereal disease
+GOOD-DEED	indeed.
+GOOD-DEN	good-evening, contracted from 'Good-even.'.
+goodness	"the chance of success
+goodyears	the word is usually taken to refer to the forces of evil, in accordance with the folk tradition of calling evil spirits by innocent names, e.g., "little people" for "goblins." [King Lear]
+goose	tailor's iron. [Macbeth]
+GORBELLIED	corpulent
+Gorgon	A monster of Greek myth, whose look could turn a person to stone, as with Medusa.
+gospeled	versed in the first four books of the New Testament, the Gospels [link]
+Gossip's Cup	originally a christening cup; then applied to a drink usually<BR>prepared for christening feasts which ingredients were<BR>ale, spice, sugar, and roasted crab-apples
+GOURD	a species of game of chance
+GOUT	a drop
+gouts	drops
+GOVERNMENT	discretion
+grace	honor
+grace for grace	favor in return for favor. [Romeo and Juliet]
+graced	gracious, full of graces
+GRACIOUS	abounding in grace Divine.
+GRAINED	engrained
+GRAMERCY	int. grand mercy, much thanks
+grandam	Grandmother
+GRANGE	the farmstead attached to a monastery, a solitary farm-house
+GRATILLITY	used ridiculously for 'gratuity.'
+GRATULATE	to congratulate
+GRAVE	to bury.
+Graymalkin	The first witch's familiar, a gray cat
+GREASILY	grossly
+great doom's image	a sight horrible like the end of the world or Judgement Day
+great wheel	the wheel of Fortune, and the great man (King Lear) in decline. [King Lear]
+GREEK	a bawd
+GREEN	immature, fresh, unused
+green sour ringlets	fairy rings formed by toadstools. [The Tempest]
+GREENLY	foolishly
+GREET	to weep.
+Grimalkin	gray cat
+gripe	grasp
+grise	degree. [Othello]
+GRIZE	a step.
+grizzled	gray. [Hamlet]
+Gross	obvious
+gross and scope	general conclusion. [Hamlet]
+gross in sense	perfectly clear. [Othello]
+GROSSLY	palpably
+groundings	the poorer and less critical section of the audience who stood in the pit. [Hamlet]
+GROUNDLING	one who sits in the pit of a theatre
+Grow	come to the point
+GROWING	accruing.
+GUARD	decoration.
+GUARDAGE	guardianship
+gudgeon	a fish. [The Merchant of Venice]
+GUINEA	HEN the pintado, a cant term
+GUINEA-HEN	the pintado, a cant term.
+GULES	red, a term in heraldry.
+GULF	the throat.
+gull	deceive and trick. [Twelfth Night]
+GUN	STONE a cannon ball
+GUN-STONE	a cannon ball.
+GUST	taste, relish.
+guttered	jagged. [Othello] H
+GYVE	to fetter
+Habits	garments
+HACK	to become common
+Hackney	a loose woman
+HAG	SEED: seed or offspring of a hag
+HAGGARD	a wild or unreclaimed hawk
+HAIR	course, order, grain
+HALIDOM	holiness, sanctification, Christian fellowship; used as an oath, and analogous to 'By my faith.'
+HALL	an open space to dance in
+HALLOWMAS	All Hallows' Day
+hams	knees. [Romeo and Juliet]
+HANDSAW	perhaps a corruption of Heronshaw; a hern
+HAP	chance, fortune
+haply	perhaps
+HAPPILY	accidentally
+Harbinger	forerunner, an officer of the king's household
+hard construction	uncharitable interpretation. [Twelfth Night]
+HARDIMENT	defiance, brave deeds
+hardly	with difficulty
+HARLOCK	charlock, wild mustard
+Harlot	lews, base
+harms	injuries
+harp'd	hit, touched
+Harpier	familiar of the third witch, maybe derived from harpy (a bird with a woman's head, part of Greek myth)
+harpy	a mythical beast having the head of a woman and the body, wings, and talons of an eagle: supposed to act as an agent of vengeance. [The Tempest]
+HARRY	to annoy, harass
+hart	deer, with a pun on heart. [Julius Caesar]
+Haste-Post-Haste	speediest
+HAUGHT	haughty
+HAUNT	company
+hautboys	high-pitched win instruments, oboes [audio]
+have at thee	on guard! [Romeo and Juliet]
+have old	have a great deal of trouble (a slang term). [Macbeth]
+HAVING	property, fortune
+HAVIOUR	behavior
+HAY	a term in fencing
+HEADY	violent, headlong
+hear	talk with
+heart	the heart of any man
+Hearts	good fellows
+hearts of controversy	in rivalry. [Julius Caesar]
+Heat	of 'to heat,' heated, urgency, desire
+heat-oppressed	capable of being handled. [Macbeth]
+heath	a waste tract of land. [Macbeth]
+heave the gorge	become nauseated. [Othello]
+heavily	sadly
+heavy summons	a feeling of heavy drowsiness. [Macbeth]
+HEBENON	henbane
+Hecate	goddess of hell
+hedgepig	hedgehog (like Sonic, except real hedgehogs are not blue)
+HEFT	furnished with a handle: hence, metaphorically, finished off, delicately formed
+heir-apparent	next in line to the throne. [King Henry IV, Part 1]
+HELM	to steer, manage
+Helpless	useless, not helping
+Hempen	coarse fellows
+hen	pecked
+HENCE	henceforward
+HENCHMAN	a page or attendant
+HENT	to seize, take
+Herald	one who announces, a messenger
+hermit	this is a person who leads a reclusive life, originally for religious reasons being paid to pray; (in context) Lady Macbeth will pray for Duncan
+HEST	command HIGH: used in composition with adjectives to heighten or emphasize their signification, as, high- fantastical
+hests	commands. [The Tempest]
+hie	hurry. [Julius Caesar]
+hie thee	hasten
+HIGH	used in composition with adjectives to heighten or emphasize their signification, as, high- fantastical
+high-lone	quite alone. [Romeo and Juliet]
+high-sighted	ambitious. [Julius Caesar]
+HIGHT	called
+HILD	held
+HILDING	a paltry fellow
+hinds	deer. [Julius Caesar]
+HINT	suggestion
+HIREN	a prostitute. with a pun on the word 'iron.'
+hit	matched
+hit together	agree. [King Lear]
+hob, nob	hit or miss. [Twelfth Night]
+Hobnob	to have or have not, to mingle or associate casually
+HOISE	to hoist, heave up on high
+HOIST	hoisted
+hold carelessly	think little of someone. [Romeo and Juliet]
+hold!	Stop!
+holds	withholds
+holidam	originally the holy relics upon which oaths were sworn; by the late 16th century this word was used as a weak asseveration or mild oath. [Romeo and Juliet]
+holp	helped
+Homage	psys homage to, worships, bows down to
+HOME	to the utmost
+homely	plain
+Honest	chaste
+HONESTY	chastity
+HONEY	STALKS the red clover
+HOODMAN	BLIND: the game now called blindman's-buff
+hoodwink	blind
+HORN	MAD: probably, 'harn-mad,' that is, brain-mad
+horned man's	cuckold's. [Othello]
+HOROLOGE	a clock
+HOT	HOUSE a brothel
+Hot-house	a brothel
+housekeeper	watchdog
+housewives	hussies. [Othello]
+how say'st thou	what do you think!
+howlet	small owl
+HOX	to hamstring
+HUGGER	MUGGER: secrecy
+Hugger-mugger	secretly
+HULL	to drift on the sea like a wrecked ship
+Hum!	a groan
+Human	humane, courteous
+humane	human
+HUMOROUS	fitful, or, perhaps, hurried
+humour	feeling (of fear); to persuade by flattery; or a mood, temperament, or mist. [Julius Caesar]
+HUNT	COUNTER: to follow the scent the wrong way
+HUNTS	UP a holla used in hunting when the game was on foot
+hunts-up	originally the sound that roused huntsmen, this expression means any morning greeting. [Romeo and Juliet]
+HURLY	noise, confusion
+hurlyburly	tumult, uproar
+HURTLE	to clash
+HURTLING	noise, confusion
+husbandry	economy
+HUSWIFE	a jilt
+Hyrcan	from Hyrcania, formerly a region south of the Caspian Sea
+I'FECKS	int. in faith, a euphemism.
+ICE	BROOK
+ides	the 15th day of the month. [Julius Caesar]
+Idle	trivial
+IGNOMY	ignominy.
+ill	composed compounded of evil qualities
+ill-divining	foreboding evil. [Romeo and Juliet]
+illness	evil
+Illyria	a mythical land somewhere in the Mediterranean. [Twelfth Night] impawn'd pledged. [King Henry IV, Part 1]
+IMAGE	representation
+IMBARE	to bare, lay open
+Imbossed	swollen
+Imbrue	stain with blood
+IMMEDIACY	close connexion.
+Immediately	purposely
+IMMOMENT	unimportant
+IMP	to graft. to splice a falcon's broken feathers.
+IMPAWN	to stake, compromise
+IMPEACH	impeachment.
+IMPEACHMENT	cause of censure, hindrance
+IMPERCEIVERANT	duff of perception
+IMPETICOS	to pocket.
+import	concern. [Othello]
+IMPORTANCE	importunity
+IMPORTANT	importunate
+IMPORTING	significant
+IMPOSE	imposition, meaning command or task imposed upon any one
+Imposition	command
+IMPOSITIONS	command
+IMPRESE	a device with a motto.
+IMPRESS	to compel to serve
+in fine	in short
+in scarlet, to be	blush. [Romeo and Juliet]
+INCAPABLE	unconscious
+incarnadine	make blood-red
+INCARNARDINE	to dye red.
+INCENSED	incited, egged on
+INCH	MEAL
+INCH-MEAL	by inch-meal, by portions of inches.
+INCLINING	compliant
+INCLIP	to embrace.
+INCLUDE	conclude
+Incontinent	immediate
+incontinently	immediately
+INCONY	fine, delicate
+Incorporate	made one body
+INCORRECT	ill-regulated
+Increase	procreation, offspring ( from sonnets), abundance, fruition
+IND	India.
+indeed	GOOD-DEN
+INDENT	to compound or bargain
+INDEX	a preface.
+INDIFFERENT	ordinary
+INDIGEST	disordered.
+Indign	unworthy
+Indirect	illegal
+INDITE	to invite; to convict
+INDUCTION	introduction, beginning
+INDURANCE	delay.
+Infest	to vex, trouble
+INFINITE	infinite power.
+informs	takes visible form
+INGRAFT	to engraff, engrafted.
+ingrafted	deep-rooted. [Julius Caesar]
+INHABITABLE	uninhabitable
+INHERIT	to possess
+Inhibited	forbidden
+INHOOPED	penned up in hoops.
+Injointed	joined
+Injurious	insulting
+INKHORN	MATE: a contemptuous term for an ecclesiastic, or man of learning
+INKLE	a kind of narrow fillet or tape
+INLAND	civilized, well-educated.
+INLY	inward.
+INQUISITION	enquiry
+INSANE	that which causes insanity.
+insane root	hemlock, which can make you insane, or kill you like Socrates
+INSCONCE	to arm, fortify
+INSTANCE	example Information Reason, proof
+instant	present moment
+insuppressive	unsuppressable, indomitable. [Julius Caesar]
+INTEND	to pretend.
+INTENDING	regarding
+INTENDMENT	intention.
+INTENTIVELY	attentively.
+interdiction	exclusion
+INTERESSED	allied
+INTERMISSION	pause, delay
+intermit	hold off. [Julius Caesar]
+intrenchant	can't be cut or penetrated
+INTRENCHMENT	not capable of being cut.
+INTRINSE	intricate.
+INTRINSICATE	intricate.
+inurn'd	buried. [Hamlet] J
+invention	falsehood
+Inverness	Macbeth's castle in Dunsinane, in northern Scotland. [audio] [ link]
+INWARD	an intimate friend.
+INWARDNESS	intimacy.
+IRREGULOUS	lawless, licentious.
+is pure innocence	i.e., has the same childlike sincerity. [The Merchant of Venice]
+ITERATION	reiteration.
+JACK	A-LENT a puppet thrown at in Lent
+JACK-A-LENT	a puppet thrown at in Lent.
+JACK GUARDANT	a jack in office.
+Jacks	fellows (contemptuous). [The Merchant of Venice]
+JADE	to whip, to treat with contempt.
+JAR	the ticking of a clock
+JAUNCE	to prance
+jaundice	a symptom of violent passion. [The Merchant of Venice]
+jealous	in the sense of suspicious. [Julius Caesar]
+JESS	a strap of leather attached to the talons of a hawk, by which it is held on the fist
+JEST	to tilt in a tournament.
+JET	to strut.
+jocund	joyful
+jointress	partner. [Hamlet]
+JOURNAL	daily
+Jove	King of the Roman gods. [Romeo and Juliet]
+JOVIAL	appertaining to Jove
+Jowl	to hit, to dash
+jowls	bumps. [Hamlet] K
+JUDICIOUS	critical
+juggling	deceitful
+jump	risk
+just	exactly
+JUSTICER	a judge, magistrate
+JUT	to encroach.
+JUTTY	a projection.
+jutty, frieze, buttress, coign of vantage	places where birds nest
+JUVENAL	youth, young man
+KAM	crooked
+KECKSY	hemlock
+Keech	a lump of fat or tallow
+KEEL	to skin
+KEEP	to restrain
+KEISAR	Caesar, Emperor
+Ken	perception, knowledge, sight
+KERN	the rude foot soldiers of the Irish
+kerns	light-armed Irish troops
+kerns and gallowglasses	Irish soldiers, gallowglasses carry axes [audio]
+KIBE	a chilblain
+KICKSHAW	a made dish
+KICKSY WICKSY	a wife, used in disdain KILN-HOLE: the ash-hole under a kiln
+KILN	HOLE
+Kin	nature
+KIND	nature
+KINDLE	to bring forth young; used only of beasts
+KINDLESS	unnatural
+KINDLY	natural
+kingdom's pearl	nobles
+KIRTLE	a gown
+kisses Emilia	the usual Renaissance form of social courtesy. [Othello]
+kites	scavenging birds
+Knack	a pretty trifle, knick-knacks
+KNAP	to snap, crack
+knapped	knocked. [King Lear]; nibbled. [The Merchant of Venice]
+Knave	a boy, A serving-man, a rascal
+knell	funeral bell
+knits up	straightens out. [Macbeth]
+knolled	rung
+KNOT	a figure in garden beds
+knotted and combined locks	i.e., lying together in a mass. [Hamlet] L
+KNOW	to acknowledge
+knowings	knowledge
+L'ENVOY	the farewell or moral at the end of a tale or poem
+Laboursome	elaborate, involved
+LABRAS	lips
+LACED	MUTTON a courtesan
+Laced mutton	a highter class floozy, a courtesay
+lack	requirment
+ladybird	a term of endearment, similar to "lamb." [Romeo and Juliet]
+LAG	late, behindhand
+LAKIN	ladykin, little lady, an endearing term applied to the Virgin Mary in the oath, 'By our lakin.'
+LAND	DAMN : perhaps to extirpate; Hanmer thinks it means to kill by stopping the urine
+lapp'd	wrapped
+LAPSED	taken, apprehended
+LARGE	licentious, free
+LARGESS	a present
+LASS	LORN: deserted by a mistress
+latch	catch the sound of
+Latch'd	moistened, anointed
+LATED	belated
+LATTEN	made of brass
+lattice	work across a woman's stomacher
+LAUND	lawn
+lave	wash
+LAVOLTA	a dance
+LAY	wager
+lay-to	use. [The Tempest]
+lazar-like	like leprosy. [Hamlet]
+LEAGUE	besieging army
+lease of nature	term of natural life
+LEASING	lying
+LEATHER	COATS: a kind of apple
+leave	leave off
+lechery	excessive sexual activity, lewdness
+LEECH	a physician
+LEER	countenance, complexion
+lees	the dregs left after the best part of wine is gone, and is compared to what is left with the loss of the best part of life
+Leese	loosen, release
+LEET	a manor court
+LEGE	to allege
+LEGERITY	lightness
+LEIGER	an ambassador resident abroad
+LEMAN	a lover or mistress
+Length	delay
+LENTEN	meagre That which may be eaten in Lent
+LET	to hinder to binder; hindrance
+LETHE	death
+LEVEL	to aim; that which is aimed at
+Leviathon	whale
+LEWD	ignorant, foolish
+LEWDLY	wickedly
+LEWDSTER	a lewd person
+LIBBARD	a leopard
+Liberal	licentious, dirty minded
+LIBERTY	libertinism
+LICENCE	licentiousness
+lief	soon. [Hamlet]
+LIFTER	a thief LIGHT O' LOVE a tune so called
+lighted	descended
+LIGHTLY	easily, generally
+LIKE	to please; to liken, compare; likely
+LIKELIHOOD	promise, appearance LIKING: condition
+LIKING	condition
+lily	liver'd cowardly
+LIMBECK	an alembick, a still
+LIMBO	or Limbo patrum, the place where good men under the Old Testament were believed to be imprisoned till released by Christ after his crucifixion
+lime	birdlime (a sticky substance used to catch birds by putting it on branches)
+limited	appointed
+LIMN	to draw
+LINE	to cover on the inside To strengthen by inner works
+LINSTOCK	a staff with a match at the end of it used by gunners in firing cannon
+Lion-Fell	lion's skin
+list	place of combat, the lists
+LITHER	lazy
+LITTLE	miniature
+LIVELIHOOD	appearance of life
+liver	the Elizabethans considered the liver to be the seat of the emotions. [The Merchant of Venice]
+liver, brain, and heart	the liver vied with the heart as the seat of the bodily passions in the Elizabethan physiology; the brain was to control the exercise of both the affections and the passions. [Twelfth Night]
+Livery	a law phrase, signifying the act of delivering a freehold into the possession of the heir or purchaser, uniform worn by servants in a nobleman's house.
+LIVING	lively, convincing
+livings	possessions. [The Merchant of Venice]
+LOACH	a fish so called
+loath	reluctant. [Twelfth Night]
+Lob	a lout, buffoon, clown
+LOCKRAM	a sort of coarse linen
+LODE	STAR
+Lode-Star	the leading star, polar star
+lodged	thrown down
+LOFFE	to laugh
+LOGGATS	the game called nine-pins
+loggerheads	numbskulls. [King Henry IV, Part 1]
+long-ingraffed	long-standing. [King Lear]
+LONGLY	longingly
+LOOF	to lull, bring a vessel up to the wind
+look up clear	act normal, without troubles
+loon	brute
+loose	immoral
+Lord's annointed temple	this refers to the king's body, as the king was though to be God's representative
+Lose	forget
+LOT	a prize in a lottery
+LOTTERY	that which falls to a man by lot
+lown	rascal. [Othello]
+LOWT	a clown
+LOZEL	a spendthrift
+LUBBER	a leopard
+LUCE	n. the pike or jack, a fresh-water fish
+LUMPISH	duff, dejected
+LUNES	fits of lunacy
+LURCH	to defeat, to win; to shift, to play tricks
+LURE	a thing stuffed to resemble a bird with which the falconer allures a hawk
+Luscious	delicious, sweet
+LUSH	juicy, luxuriant
+LUSTIG	lusty, cheerful
+LUXURIOUS	lascivious
+LUXURY	lust
+LYM	a limer or slow hound
+MADE	having his fortune made
+Maggot-pie	magpie
+maggotpies and choughs and rooks	magpies and choughs and rooks are birds that can be taught to talk
+MAGNIFICO	the chief magistrate at Venice
+magnificoes	magnates, great men. [The Merchant of Venice]
+MAGOT	PIE a magpie, a pie which feeds on magots
+Maiden-Pilgrimage	passage through life unwedded
+maidenhead	virginity. [Twelfth Night]
+MAIL	covered as with a coat of mail
+MAIN	COURSE
+MAKE	to do up, bar; To do
+Make Mouths Upon	make face at, mock at
+make shift	be able to, manage. [The Merchant of Venice]
+makes dainty	comes shyly. [Romeo and Juliet]
+malapert	impertinent. [Twelfth Night]
+MALKIN	a familiar name for Mary; hence a servant wench
+MALLECHO	mischief
+MAMMERING	hesitating
+MAMMETS	a woman's breasts A doll
+MAMMOCK	to break, tear
+MAN	to tame a hawk
+MANAGE	management
+MANDRAGORA	or Mandrake a plant of soporiferous quality, supposed to resemble a man
+MANKIND	having a masculine nature
+Manured	cultivated
+Mar	to spoil
+MARCHES	frontiers, borders
+MARCHPANE	a kind of sweet biscuit
+MARGENT	margin
+mark	listen
+Mark Antony	Roman orator, politican and soldier around 80-30 BC. His love affair with Cleopatra split the empire, and he lost the war to Octavian (Augustus Caesar). [link]
+Marry	an oath ("By the Virgin Mary")
+MARRY TRAP	an oath
+MARTLEMAS	the Feast of St. Martin, which occurs on the 11th of Nov. when the fine weather generally ends; hence applied to an old man
+martlet	a bird from the swallow family, a martin
+masterless	abandoned. [Romeo and Juliet]
+MATCH	an appointment
+MATE	to confound, dismay
+mated	bewildered
+Material	full of matter
+maugre	despite (Fr. malgre). [Twelfth Night] [King Lear]
+maw	mouth
+maws	stomachs
+Mazed	perplexed
+Mazzard	skull, head
+MEACOCK	tame, cowardly
+MEALED	mingled
+MEAN	instrument used to promote an end; the tenor part in a harmony; opportunity, power
+Means	moans
+MEASURE	reach A stately dance
+measuring	wand
+MEAZEL	a leper, spoken in contempt of a mean person
+Mechanicals	working men
+MEDAL	a portrait in a locket
+MEDICINE	a physician
+MEED	reward, hire Merit
+meet	proper. [Julius Caesar]
+meetest	fittest. [The Merchant of Venice]
+MEHERCLE	by Hercules
+MEINY	retinue
+MELL	to mix, to meddle
+memento mori	reminder of death (usually a skull). [King Henry IV, Part 1]
+MEMORISE	to cause to be remembered
+memorize	make as memorable as
+MEPHISTOPHILUS	the name of a familiar spirit
+MERCATANTE	a foreign trader
+mere	asolutely
+MERELY	simply, absolutely
+meshes	net. [The Merchant of Venice]
+MESS	a company of four
+METAPHYSICAL	supernatural
+METE	YARD
+Metheglin	an alcoholic beverage made of fermented honey water
+mettle	spirit
+mettlesome	troublesome
+MEW UP	to confine
+mewed up to her heaviness	encased in her grief. [Romeo and Juliet]
+MICHER	a truant MICKLE: much
+Miching	sneaking
+miching mallecho	slinking mischief. [Hamlet]
+MICKLE	much
+might not but	must. [Othello]
+MILL	SIXPENCE: a milled sixpence
+Mimic	actor
+MINCE	to do any thing affectedly
+MINCING	affected
+Minding	intending
+Minikin	small, pretty
+Minimus	tiny creature
+minion	darling, favorite. [Macbeth]
+minutely	every minute
+Mirable	admirable
+MISCREATE	illegitimate
+MISDOUBT	to suspect
+Misdread	fear of evil
+MISER	avarice MISPRISE to despise; To mistake
+MISERY	avarice
+Misgraffed	grafted on a wrong tree
+MISPRISE	to despise To mistake
+Misprised	mistaken
+Misprision	mistake
+MISSIVE	messenger
+missives	messengers
+MISTEMPERED	angry
+MISTHINK	to think ill of
+Mistress	the jack in bowling, also the modern meanings of th word.
+Mistress of effects	determiner of results
+MOBLED	muffled
+mockery	imitation
+MODERN	commonplace
+MODULE	a model, image
+MOE	and more; Of frequent occurrence
+MOIETY	a portion
+moiety competent	sufficient portion. [Hamlet]
+Mome	blockhead, dolt
+MOMENTANY	momentary
+Month1s mind	an intense desire, yearning
+MONTHS	MIND a monthly commemoration of the dead, but used ludicrously to mean a great mind or strong desire
+moo	more. [Othello]
+MOOD	anger
+MOON	CALF
+mooncalf	monstrosity. [The Tempest]
+MOONISH	inconstant
+Moorish	pike
+MOP	nod
+Moralize	to explain, to interpret
+MORISCO	a Moor
+Morning's Love	cephalus
+MORRIS	PIKE: Moorish-pike
+MORT	DU-VINAIGRE: a ridiculous oath
+MORTAL	fatal, deadly Murderous
+mortal arbitrament	settle a dispute by duelling to the death of one contestant. [Twelfth Night]
+mortal thoughts	thoughts of death or murder
+mortified	dead
+MOSE	a doubtful word, applied to some disease in a horse
+MOTION	solicitation Emotion; a puppet
+motion of the liver	the liver was regarded as the seat of the passions. [Twelfth Night]
+MOTIVE	one who moves; That which moves
+MOTLEY	or the many-coloured coat of a fool, or a fool
+mounch'd	munched, chewed with closed lips
+mountebanks	charlatans who sell quack medicine. [Othello]
+MOUSE	HUNT: a weasel
+mouse-hunt	one who runs after women. [Romeo and Juliet]
+Moused	torn in pieces, as a cat worries a mouse
+Mouth	sound
+MOW	to make grimaces
+MOY	a coin, probably a moidore
+MUCH	int. significant of contempt; used ironically
+much ado	much trouble, fuss. [King Lear]
+much unfurnished	not ready. [Romeo and Juliet]
+Mugs	common name for a country bumpkin. [King Henry IV, Part 1]
+Mulled	flat, insipid, flavorless
+murdering minister	evil agents
+Murdering piece	a canon loaded with chain shot
+MURE	a wall
+Murrion	infected with murrain, a disease among cattle
+Muse	to wonder
+mushrumps	mushrooms. [The Tempest]
+music from the spheres	according to Pythagoras, the universe consisted of eight hollow spheres, inside of which the earth and all the other planets are fixed. The spheres produced a note, each of which combined to produce perfect harmony that is inaudible to the human ear. The earth is at the center of this system. [Twelfth Night]
+MUST	a scramble
+must be	was destined to be
+mute	slave whose tongue has been removed for security reasons, or silent person. Both mutes and eunuchs were associated with oriental courts. [Twelfth Night] N
+MUTINE	to mutiny; a mutineer
+Mystery	professional skill, professional knowledge
+NAPKIN	a handkerchief
+napkins enow	enough handkerschiefs to wipe sweat caused by the heat of hell
+NATURAL	an idiot
+Naught	nothing, a worthless thing
+naughty	insolent, wicked. A stronger term for the Elizabethans than for us. [Julius Caesar]
+nave	navel, middle
+NAYWARD	towards denial
+NAYWORD	a catch-word, by-word
+Neaf	fist
+near'st	of life, inmost life, most vital parts
+NEB	the beak
+NEELD	a needle
+Neeze	to sneeze
+NEIF	hand
+NEPHEW	a grandson
+NETHER	STOCKS: stockings
+new abroach	newly afoot (newly underway). [Romeo and Juliet]
+NEXT	nearest
+NICE	foolish
+NICK	score or reckoning; to brand with folly
+niggard	stingy person
+Niggarding	being miserly, stingy
+nigh	near
+NIGHT	RULE
+Night-rule	revelry, partying
+night-tripping fairy	it was commonly believed that elves and fairies sometimes exchanged well-favored babies for nasty ones, who were often called changelings. [King Henry IV, Part 1]
+NIGHTED	black as night
+nightgown	dressing gown
+nightly solemnity	NINE MEN'S MORRIS a place set apart for a Moorish dance by nine men
+nimble-footed	madcap. [King Henry IV, Part 1]
+nimble-pinioned doves	nimble-winged doves. Doves pulled Venus' chariot and were held sacred by her. [Romeo and Juliet]
+NINNY	a fool, jester
+NOBILITY	nobleness
+NOBLE	a coin, worth 6s. 8d
+NODDY	a dolt
+noise	music
+Nole	noddle, head
+nonce	occasion. [Hamlet]
+None	have nothing to do with
+nonpareil	without equal
+Nonsuits	dismisses
+NOOK	SHOTTEN: indented with bays and creeks
+Norway himself	the Norwegian king
+Norweyan	Norwegian [link]
+nose	painting drink makes the nose red
+note	notoriety
+nothing	not at all
+nothing jealous	have no doubt. Frequently used by Elizabethans. [Julius Caesar]
+Nott-pated	short haired
+NOURISH	a nurse
+NOVUM	a game at dice
+NOWL	head
+nuncle	an abbreviation of mine uncle; intimacies of address such as this were permitted to a "licensed fool." [King Lear] O
+nunnery	convent or brothel
+NUTHOOK	a hook for pulling down nuts, hence a thief
+O	a circle
+O proper stuff	A fine thing this! [Macbeth]
+O'ER	RAUGHT: overreached overtasked
+o'er ears	i.e., underwater. [The Tempest]
+O'ERPARTED	having too important a part to act
+OAR	to row as with oars
+Oathable	capable of taking an oath
+oblivious	causing forgetfulness
+obscure bird	owl, the bird of darkness
+Obsequious	fawning, eager to obey,behaving as becomes one who attends funeral obsequies
+OBSEQUIOUSLY	funereally
+OBSTACLE	ridiculously used for 'obstinate.'
+occulted	hidden. [Hamlet]
+OCCUPATION	persons occupied in business
+OCCURENT	an incident
+occurrences	CURST
+OD'S	a euphemism for 'God's' in exclamations such as OD'S BODY, OD'S HEARTLINGS, OD'S PITTIKINS, and OD'S PLESSED WILL
+Odd	unnoticed
+odd-even	between night and day. [Othello]
+Odsbodkin!	Holy Cow! (Literally, “God’s little body”)
+OEILLIAD	an amorous glance
+of	by
+of general assault	common to all men. [Hamlet]
+of wax	i.e., as handsome as if he had been modeled in wax, finer than men usually are. [Romeo and Juliet]
+Offend	vex, displease, cause discomfort to
+OFFERING	challenging
+OFFICE	benefit, kindness use, function
+offices	duty, employment
+old	established law
+On	of, fond on
+on the hip	at my mercy. [Othello]
+on's	of his
+on't	of it
+ONCE	some time
+ONEYER	a banker; a doubtful word
+Only	most important, chief, unique
+OPE	open; to open OPEN: plain; public; to give tongue as a hound
+OPEN	to give tongue as a hound
+open'd	unfolded
+OPERANT	active
+OPINIONED	used ridiculously for pinioned
+OPPOSITE	adversary
+OPPOSITION	combat
+OR	before
+or ere	before
+orb	poetic word for world. [Twelfth Night]
+Orbs	rings of rich green grass thought to be caused by fairies
+order	battle plan
+ORDINANCE	rank, order
+ordinary	a tavern. [Julius Caesar]
+ORGULOUS	proud
+Original	originators
+ORT	leaving, refuse
+OSTENT	show, appearance
+OSTENTATION	show, appearance
+other's	other man's
+othergates	otherwise (than). [Twelfth Night]
+OUNCE	a beast of prey of the tiger kind
+OUPHE	a fairy
+ourselves	one another
+OUSEL	COCK: the blackbird
+OUT	LOOK: to face down
+out of haunt	away from others. [Hamlet]
+out of warrant	unjustifiable. [Othello]
+outface them	get the better of them. [The Merchant of Venice]
+outrun	did outrun
+OUTWARD	not in the secret of affairs; outside
+over	worked
+Overbear	overrule
+overcome	overshadow
+overname	name them over. [The Merchant of Venice] P
+owe	own, possess
+owed	owned
+owing to	due to, because of
+owl	an owl's screech was considered to portend death
+PACK	a number of people confederated
+Paddock	The second witch's familiar, a toad
+pageant	a false show, a pretense
+PAID	punished
+Pajock	peacock (a contemptuous name)
+PALABRAS	words, a cant term, from the Spanish
+PALE	to enclose
+pale Hecate	Hecate, goddess of the moon and the underworld, was queen of the witches and witchcraft. [Macbeth]
+PALL	to wrap as with a pall
+PALLED	impaired
+PALMER	one who bears a palm-branch, in token of having made a pilgrimage to Palestine
+PALMY	victorious
+palter	trifle (deal dishonestly)
+PARCELLED	belonging to individuals
+Parcels	parts
+PARD	the leopard
+pard or cat o' mountain	leopard. [The Tempest]
+PARITOR	an apparitor
+PARLE	talk
+PARLOUS	perilous keen, shrewd
+PARTED	endowed, gifted
+Particular	personal
+Partisan	a pike
+PARTIZAN	a pike
+Parts	qualities
+PASH	the face; to strike violently, to bruise, crush
+PASS	to practise To surpass expectation
+PASSANT	a term of heraldry, applied to animals represented on the shield as passing by at a trot
+passed in probation	went over the evidence
+PASSING	surpassingly, exceedingly
+Passion	to have feelings, suffering, affliction
+PASSIONATE	to suffer
+PASSY	MEASURE: a kind of dance
+PASTRY	the room where pastry was made
+Pat	exactly, just as it should be
+PATCH	a mean fellow
+PATCHED	dressed in motley
+PATCHERY	trickery
+Patent	privilege of virginity
+PATH	to walk
+PATHETICAL	affected, hypocritical
+PATIENT	to make patient, to compose
+PATINE	the metal disc on which the bread is placed in the administration of the Eucharist
+PATTERN	to give an example of Afford a pattern for
+PAUCA VERBA	few words
+PAUCAS	few, a cant word
+paunch	stab. [The Tempest]
+PAVIN	a dance
+Pawn	to pledge
+PAX	a small image of Christ
+PAY	to despatch
+peak	dwindle away
+pearl	all that's good in the kingdom. [Macbeth]
+PEAT	a term of endearment for a child
+PEDASCULE	a pedant, schoolmaster
+PEER	to peep out
+Peevish	silly, childish, spiteful, quarrelsome
+PEIZE	to balance, weigh down
+PELTING	paltry
+pennyworths	small quantities (of sleep); pronounced "pennorths." [Romeo and Juliet]
+Pensioners	retainers
+pent-house lid	the eyelid that resembles a sloped roof. [Macbeth]
+penthouse lid	eyelid
+PERDU	lost
+PERDURABLE	durable
+perdy	from the French par dieu, by God. [King Lear]
+PERFECT	to inform perfectly
+PERIAPTS	charms worn round the neck
+Period	end, conclusion
+periwig-pated	bewigged. [Hamlet]
+PERJURE	a perjured person
+perpetual wink	endless sleep; death. [The Tempest]
+PERSEVER	to persevere
+PERSPECTIVE	a telescope, or some sort of optical glass
+Pert	lively
+perturbation	disruption
+pester'd	troubled
+petard	bomb
+PEW	FELLOW a comrade
+PHEEZE	to comb, fleece, curry
+Phibbus	phoebus
+Phraseless	indescribable
+physics	cures
+PIA	MATER: the membrane covering the brain, the brain itself
+PICK	to pitch, throw
+PICKED	chosen, selected
+PICKERS	(and stealers), the fingers, used ridiculously
+PICKING	insignificant
+PICKT	HATCH: a place noted for brothels. Merry Wives of Windsor
+PIED	motley-coated, wearing the motley coat of a jester
+PIELED	shaven
+Pierced	touched
+pignuts	peanuts. [The Tempest]
+PILCHER	a scabbard
+PILL	to pillage
+PIN	a malady of the eye; The centre of a target
+Pin-buttock	skinny butt
+PINFOLD	a pound, a place to confine lost cattle
+PIONED	digged
+pitfall	snare
+Pith	strength
+PLACKET	a petticoat-front
+PLAIN SONG	a simple air
+PLAITED	intricate
+PLANCHED	made of boards
+PLANTATION	colonizing, planting a colony
+Plausive	persuasive, pleasing
+play the Roman fool	commit suicide the way way Roman officials to avoid being captured
+PLEACHED	interwoven
+Pliant	favorable
+PLIGHT	pitched
+plume up	gratify. [Othello]
+Plurisy	an over abundance
+POINT	DE-VICE: faultless
+point-devise	to the point of perfection. [Twelfth Night]
+POISE	balance Doubt
+POLLED	bare
+POMANDER	a perfumed ball
+POMEWATER	a kind of apple
+poor	feeble
+poor pennyworth	only a small quantity. [The Merchant of Venice]
+poorly	dejectedly, unworthily
+POPINJAY	a parrot
+Porpentine	porcupine
+PORT	a gate
+portable	endurable
+PORTANCE	conduct, behavior
+possess	fill
+Possess'd	possessed of as much wealth
+posset	a hot drink of milk, wine, and spices
+possets	a drink made from hot curdled milk, ale, wine, etc., and taken usually on retiring. [Macbeth]
+posters	speedy travelers
+posy	inscription inside a ring, often in verse. [The Merchant of Venice]
+POTCH	to push violently
+POTENT	a potentate
+Potential	powerful
+Pottle	a tankard, a two shilling measure of drink
+POUNCET	BOX a box for holding perfumes
+pout'st upon	treat with contempt. [Romeo and Juliet]
+POWER	forces, army
+Practice	plot
+practicing upon	plotting against. [Othello]
+PRACTISANT	a confederate
+PRACTISE	wicked stratagem
+Practises	plots
+praetor	magistrate. [Julius Caesar]
+PRANK	to dress up
+prate	chatter, gossip. [Macbeth]
+Pray	please
+PRE	ORDINANCE
+PRECEPT	a justice's summons
+PRECIOUSLY	in business of great importance
+predominance	superior power
+PREFACE	interj. much good may it do you
+Prefer	present
+Preferred	submitted for approval
+PREGNANCY	fertility of invention
+Pregnant	clever, quick witted
+PRENOMINATE	to name beforehand, to prophesy
+Preposterously	perversely
+Presager|presagers	prophets, seers
+PRESENCE	the presence-chamber High bearing
+present	present time
+presently	immidiately
+PREST	ready
+Pretence	project, scheme
+PRETEND	to portend To intend
+Prevailment	weight, sway
+PREVENT	to anticipate
+PRICK	the mark denoting the hour on a dial; to incite; To choose by pricking a hole with a pin opposite the name
+PRICKET	a stag of two years
+PRIDE	heat
+PRIG	to steal
+PRIME	rank, lecherous
+PRIMER	more-important
+PRIMERO	a game at cards
+primy	in its prime, youthful. [Hamlet]
+Prince of Cumberland	The title of the king's successor
+Princess	paragon. perfection
+PRINCIPALITY	that which holds the highest place
+PRINCOX	a coxcomb
+PRISER	a prize-fighter
+prithee	I entreat you. [Twelfth Night]
+probably, 'harn	mad,' that is, brain-mad
+probal to	provable by
+PROCURE	to bring
+prodigies	unnatural events. [Julius Caesar]
+Prodigious	unnatural
+Produced	brought forward
+Proface	much good may it do you!
+PROFANE	outspoken
+PROGRESS	a royal ceremonial journey
+PROJECT	to shape or contrive
+PROMPTURE	suggestion
+PRONE	ready, willing
+pronounce	say, announce
+proof	proved armour, strength of manhood
+proof of constancy	test of endurance. [Julius Caesar]
+PROPAGATE	to advance, to forward
+PROPAGATION	obtaining
+proper	fine, excellent
+Proper-false	handsome and treacherous
+proper stuff	nonsense
+PROPERTIED	endowed with the properties of
+propertied me	made a tool of. [Twelfth Night]
+PROPERTIES	scenes, dresses, &c. used in a theatre
+PROPERTY	to take possession of
+PROPOSE	conversation
+PROROGUE	to defer
+prorogued	adjourned (postponed). [Romeo and Juliet]
+Prosperous	favorable
+protest	show publicly, proclaim
+PROVAND	provender
+Prove	to test, try out, turn out to be, become
+PROVISION	forecast
+PUCELLE	a virgin, the name given to Joan of Arc
+pudder	tumult. [King Lear]
+puddled	muddied. [Othello]
+PUDENCY	modesty
+Pugging	thieving
+puling	whining. [Romeo and Juliet]
+pull in	rein in
+PUN	to pound
+Punk	strumpet
+purblind	quite blind or merely dimsighted. [Romeo and Juliet]
+PURCHASE	to acquire, win; gain, winnings
+purgative	cleansing (such as a laxative or cathartic)
+purged	cleansed
+purple-hued malt-worm	purplefaced beer-drinkers. [King Henry IV, Part 1]
+Purple-in-Grain	dyed deep red
+pursy	sensual. [Hamlet]
+purveyor	an officer of the king sent before to provide food for the king and his retineu, as the harbinger provided lodging
+push	attack, onset
+PUT	to compel
+put foil	set it off by contrast. [The Tempest]
+put on	incite. [Othello]; reveal. [Julius Caesar]
+put to silence	a euphemism for executed. [Julius Caesar]
+put up our pipes	pack up. [Romeo and Juliet]
+PUTTER	ON: an instigator
+PUTTING	ON instigation
+PUTTOCK	a kite
+Puzzle	a dirty strumpet
+QUAIL	to faint, be languid, be afraid to cause to quail
+quailing	cowardly giving up. [King Henry IV, Part 1]
+quaint	the word has various Elizabethan meanings: skillful, ingenious, delicate, elegant. [The Tempest]
+Quaintly	cleverly, ingeniously
+QUAKE	to cause to quake or tremble
+QUALIFY	to moderate
+Quality	those of the same nature Rank or condition, character, essence, nature, capability
+QUARREL	a suit, cause
+quarry	a heap of slaughered game
+QUART D'ECU	a quarter crown
+QUARTER	the post allotted to a soldier
+QUAT	a pimple; used in contempt of a person
+Quatch-buttock	flat butt
+Quean	wench, hussy
+QUEASY	squeamish, unsettled
+quell	stop, (in context) murder
+QUENCH	to grow cool
+QUERN	a hand-mill
+QUEST	enquiry, search, inquest, jury QUESTRIST: one who goes in search of another
+Question	contest, conversation
+Questions	arguing
+QUESTRIST	one who goes in search of another
+Quests	groups of searchers
+QUICK	so far gone in pregnancy that the child is alive
+quick mettle	mentally sharp. [Julius Caesar]
+QUICKEN	to come to life
+QUIDDIT	| a subtle question QUIDDITY |
+quiddities	subtle distinctions, hair-splitting. [Hamlet]
+QUIDDITY	that which makes a thing what it is; the essential nature
+quilets	quibbles. [Hamlet]
+QUILLET	quidebet, a subtle case in law
+quillets	quips. [Othello]
+QUINTAIN	a post for tilting at
+QUIP	sharp jest, a taunt
+QUIRE	to sing in concert
+QUIT	to requite, respond
+QUITANCE	requital
+QUIVER	active
+QUOTE	to note
+R	rack'd reference to the rack, an instrument of torture. [Twelfth Night]
+RABATO	a ruff
+RABBIT	SUCKER: a weasel
+RACE	breed; inherited nature
+RACK	wreck; to enhance the price of anything To drive as clouds
+RAG	a term of contempt applied to persons
+RAKE	to cover
+Ramps	wanton strumpets
+rank garb	gross manner. [Othello]
+ranker	greater. [Hamlet]
+RAPT	transported with emotion
+RAPTURE	a fit
+RASCAL	a lean deer
+RASH	quick, violent
+RATE	to assign, to value To scold
+rated	upbraided. [Julius Caesar]
+RATOLORUM	a ludicrous mistake for Rotulorum
+RAUGHT	past tense of reach
+raveled sleave	yarn or thread that is tangled or twisted
+RAVIN	to devour
+ravin up	devour greedily
+ravin'd	ravenous
+RAWLY	inadequately
+rawness	hurry
+RAYED	arrayed, served
+raze	erase
+RAZED	slashed
+razes	roots (from Latin, radix root). [King Henry IV, Part 1]
+REAR	MOUSE the bat
+reasonable shore	the shore of reason, the mind. [The Tempest]
+REBATE	to deprive of keenness
+REBECK	a three-stringed fiddle
+receipt	receptacle
+received	believed
+receiving	sensitive understanding. [Twelfth Night]
+RECHEAT	a point of the chase to call back the hounds
+recks rede	takes no care of his own counsel. [Hamlet]
+recoil	swerve
+Recommends	reports to
+RECORD	to sing
+Recorder	a kind of flageolet
+RECURE	to cure, recover
+RED	PLAGUE erysipelas
+Rede	counsel, advice
+REDUCE	to bring back
+Reechy	smoky, grimy
+reeking	sweating. [King Lear]
+REFELL	to refute
+REFER	to reserve to
+Reference	assignment
+REGIMENT	government
+REGREET	a salutation; to salute
+REGUERDON	requital
+relation	narrative
+RELATIVE	applicable
+relish	smack
+REMEMBER	to remind
+remembrances	love-tokens. [Hamlet]
+remorse	pity
+REMORSEFUL	full of pity, compassionate
+REMOTION	removal
+REMOVED	sequestered, remote
+RENDER	account
+rendered	surrendered
+RENEGE	to renounce, to deny
+Rent	rend
+REPAIR	to renovate, comfort
+REPEAL	to reverse the sentence of exile
+repose	rest
+REPROOF	confutation
+REPUGN	to resist
+REQUIEM	mass for the dead, so called because it begins with the words " Requiem eternam dona eis, Domine"
+require	ask her to give
+Rere-Mice	bats
+RESOLVE	to satisfy To dissolve
+resolve yourselves	decide, make up your mind
+Respect	consideration, care, esteem
+RESPECTIVE	respectful, thoughtful
+RESPECTIVELY	respectfully
+Respects	regards
+rest	remain
+rest you merry	a colloquial term of farewell, comparable to our "All the best!" [Romeo and Juliet]
+Restem	to steer again
+Resty	idle, lazy
+RETAILED	handed down
+RETIRE	retreat; to draw back
+return	give back, render
+REVERB	to echo
+reverb no hollowness	i.e., make no noise, as a hollow vessel does when it is struck. [King Lear]
+REVOLT	a rebel
+rheumy	moist. [Julius Caesar]
+rhubarb	The dried, bitter-tasting rhizome and roots of Rheum palmatum or R. officinale of eastern Asia, used as a laxative.
+RIB	to enclose as within ribs
+Rid	to do away with
+RIFT	to split; a split
+RIGGISH	wanton
+RIGOL	a circle
+Ripe	ready for presentation, grow ripe
+Riper	older, more mature (person, plant, thing)
+RIVAGE	the shore
+RIVAL	a partner
+RIVALITY	equal rank
+RIVE	to fire
+ROAD	the high road, applied to a common woman
+robustious	ranting. [Hamlet]
+ROISTING	roistering, violent ROMAGE unusual stir
+ROMAGE	unusual stir
+Rondure	roundness, sphericity
+RONVON	a term of contempt applied to a woman
+ronyon	a term of abuse or contempt. [Macbeth]
+ROOD	the crucifix
+Roof	house, family. lineage (especially a noble one)
+roof'd	gathered under one roof
+ROOK	a cheater
+rooky	gloomy
+ROPE	TRICKS: tricks such as are played by a rope-dancer
+ROPERY	roguery
+ROUND	to whisper; to become great with child; to finish off; a diadem; unceremonious
+ROUNDEL	a dance or song
+ROUNDURE	an enclosure
+ROUSE	carousal
+ROYNISH	mangy
+RUBIOUS	ruddy
+rubs	hindrances, impediments
+RUDDOCK	the redbreast
+Rude	unpolished (as in speech), course, brutish
+Rudesby	a rude fellow
+Ruinate	to ruin, destroy
+rump	fed
+rump-fed	fed with expensive cuts of meat. [Macbeth] S
+Run Through Fire	to do impossibilities
+runnion	skag, mangy woman
+RUSH	to push
+RUSHLING	rustling
+sable silver'd	black streaked with white. [Hamlet]
+SACRIFICIAL	reverent, as words used in religious worship
+SACRING	BELL the little bell rung at mass to give notice that the elements are consecrated
+SAD	serious
+SADLY	seriously
+SADNESS	seriousness
+SAFE	to make safe
+safe toward	with a sure regard to
+sag	droop, sink
+Sagittary	an inn at the sign of the Archer or Centaur
+Saint Colme's inch	Inch is Scots for "island". Inchcolm.
+sallies	sudden advances in battle. [King Henry IV, Part 1]
+SALT	lascivious
+salute	greet
+SANDED	marked with yellow spots
+SANS	without
+SAUCY	lascivious
+Savors	scents, fragrance
+SAW	a moral saying
+saws	maxims, aphorisms. [Twelfth Night]
+SAY	silken; assay, taste, relish SCAFFOLDAGE; the gallery of a theatre
+SCAFFOLDAGE	the gallery of a theatre
+SCALD	scurvy, scabby SCALE; to weigh in scales
+SCALE	to weigh in scales
+SCALL	a scab, a word of reproach
+SCAMBLE	to scramble
+SCAMEL	probably a misprint for sea-mel, sea-mew
+SCAN	to examine subtly
+SCANT	to cut short, to spare; scanty, short scarcely
+scant show well	scarcely appear attractive. [Romeo and Juliet]
+scanted	ignored. [King Lear]; stingy. [King Lear]
+SCANTLING	a small portion
+SCAPE	to escape
+scarf up	blindfold
+scarfed	with flags flying. [The Merchant of Venice]
+SCATHE	injury; to injure
+SCATHFUL	destructive
+SCONCE	the head
+Scone	where Scottish kings were crowned. [Macbeth]
+scorched	slashed
+SCOTCH	to bruise or cut slightly
+scotch'd	slashed, gashed. [Macbeth]
+SCRIMER	a fencer
+scrimers	fencers. [Hamlet]
+Scrip	scroll, list of actors
+SCROYLE	a scabby fellow
+scruples	qualms
+SCULL	a shoal of fish
+SCURVY	scabby; mean
+scutcheon	shield on coat of arms. [King Henry IV, Part 1]
+se offendendo	in self-defense. [Hamlet]
+Seal	pledge, stamp
+SEAM	fat
+SEAMY	showing the seam or sewing
+SEAR	to stigmatise
+SEARCH	to probe; hence, to apply a healing remedy
+season	seasoning
+seat	situation, site
+SEATED	fixed, confirmed
+seated in the mean	with neither too much nor too little. [The Merchant of Venice]
+second cock	the second crow of the rooster (3 AM)
+SECT	a slip or scion A political party
+Sect or Scion	cutting or graft
+Secure	without care, confident
+SECURELY	inconsiderately
+security	confidence, consciousness of security, carelessness
+seel	blind, close. [Othello]
+SEELING	closing, blinding
+SEEMING	seemly, becomingly
+SEEN	versed, instructed
+Seething	heated, excited
+SELD	seldom
+SELF	BOUNTY: native goodness
+self-bounty	inherent goodness. [Othello]
+selfsame	very same
+selfsame flight	same sort. [The Merchant of Venice]
+SEMBLABLY	alike
+SENIORY	seniority
+senna	The dried leaves of Cassia angustifolia or Cassia acutifolia (which are pinnately compound leaves and showy, nearly regular, usually yellow flowers) used medicinally as a cathartic (for emotional release).
+sennet	a trumpet call for formal entrances and exits
+Sensible	capable of feeling
+SEPULCHRE	to bury
+Sequent	successive
+SEQUESTRATION	separation
+SERE	dry
+SERJEANT	a bailiff
+Serpent's Tongue	hissing, as a sign of disapproval
+SERPIGO	a cutaneous disease
+SERVICEABLE	'serviceable vows,' vows that you will do her service, or be her servant
+set cock-a-hoop	orig., to drink without stint, make good cheer recklessly, (hence) to cast off all restraint. [Romeo and Juliet]
+set forth	shewed
+SETEBOS	the name of a fiend
+SETTER	one who watches travellers to give information to thieves
+settled	determined
+sev'nnights	weeks
+sevennight	a week
+SEVERAL	land which is not common but appropriated
+several bastardy	not true Roman blood [Julius Caesar]
+Sewer	one who tasted each dish to prove there was no poison in it
+shadow	hide
+shaft	horse
+shag	eare'd having having hairy ears
+Shakespeare’s vocabulary	Here you go.
+SHAME	modesty
+shard	borne borne by scaly wing-cases
+SHARDS	the wing cases of beetles; hence 'sharded,' and 'shard-borne,'
+shark'd	gathered indiscriminately. [Hamlet]
+SHARKED	snatched up, as a shark does his prey
+Sharked up	gathered indiscriminately
+SHEEN	brilliancy
+Sheep-biter	a malicious creep
+SHEER	pure; unmixed
+SHENT	rebuked, blamed Hurt SHERIFF'S-POST a post at the door of a sheriff, to which royal proclamations were fixed
+SHERIFF'S	POST; a post at the door of a sheriff, to which royal proclamations were fixed
+shipman's card	a card used by sailors showing the compass
+SHIVE	slice
+shoal	a shallow part of a water body, or an elevated sand formation that makes the watter shallow and becomes a danger (sandbar)
+shoon	shoes. [Hamlet]
+Shore	shorn
+SHOT	the reckoning at an ale-house
+shough	a kind of shaggy dog
+SHOUGHS	shaggy dogs
+SHOULDERED	plunged
+SHOVEL	BOARD: game played by sliding metal pieces along a board at a mark
+SHREWD	mischievous
+SHRIFT	confession; absolution
+SHRIVE	to confess
+SHRIVING	TIME: time for confession
+SHROUD	to enshroud oneself, cover oneself up
+shut up	ended his day
+sick offence	harmful illness. [Julius Caesar]
+sicken	be surfeited
+SIDE	SLEEVES loose hanging sleeves
+SIEGE	seat; stool; rank
+sift him	find out what one knows. [Hamlet]
+SIGHT	an aperture in a helmet
+sightless	invisible
+SIGN	to give an omen
+signifying nothing	lacking sense or meaning. [Macbeth]
+Signiory	government of venice
+SILLY	simple, rustic
+SIMULAR	counterfeit, feigned
+Sinel	The former thane of Glamis, Macbeth's father
+SINGLE	feeble
+Sinister	left
+SIR	a title applied to a bachelor of arts at the Universities
+sir-reverence	filth, dung. "Sir-reverence" came to mean this because the word prefaced mention of unpleasant things (a corruption of "save your reverence;" i.e., excuse my mentioning it). [Romeo and Juliet]
+Sirrah	a term used to address male servants, inferiors, and sometimes children [audio]
+Sisters Three	the Fates
+SITH	since
+SITHENCE	since
+SIZES	allowances
+SKAINS	MATES: scapegraces
+SKILL	to be of importance
+SKILLESS	ignorant
+SKIMBLE	SKAMBLE rambling, disjointed
+skimble-skamble stuff	confused, rambling nonsense. [King Henry IV, Part 1]
+SKINKER	a drawer of liquor
+SKIRR	to scour
+slab	viscid
+SLACK	slacken
+SLAVE	to turn to slavish uses
+sleave	sleave-silk, floss silk
+SLEDDED	sledged
+sleek o'er	smooth
+SLEIDED	untwisted, raw, applied to silk (Gower)
+SLEIGHTS	artifices
+slenderly known himself	knows little of his real self. [King Lear]
+slipp'd	let slip
+slipp'd the hour	passed the appointed time. [Macbeth]
+SLIPPER	slippery
+SLIPS	a kind of noose, or leash; a piece of base money
+SLIVER	to slice; a slice
+slivered in the moon's eclipse	cut during the creepy time when the moon is in an eclipse
+SLOPS	loose breeches
+SLUBBER	to slur over
+Slubber the Gloss of	take the shine off
+slug-abed	lit. slug in a bed, i.e., lazy creature. [Romeo and Juliet]
+smack	have the taste, savor
+Small	in treble voice like a boy or a woman
+smilets	little smiles. [King Lear]
+SMIRCHED	smeared, soiled
+SMOOTH	to flatter
+SMOOTHED	flattered, fawned upon
+SNEAP	taunt, sarcasm
+SNEAPED	pinched SNECK-UP: go hang!
+SNECK	UP go hang!
+sneck up!	Go hang (onomatopoetic sound of a man's neck breaking.) [Twelfth Night]
+snipe	a person not worth consideration, a pain in the...
+Snorting	snoring
+SNUFF	anger; 'To take in snuff' is to take offence
+so well	as well
+Soft you!	i.e., Hold on; wait. [Hamlet] [Julius Caesar]
+SOFTLY	gently
+SOIL	spot, taint
+sole	alone, mere
+Solemnities	marriage festivities
+Solemnly	with due ceremony
+SOLICIT	solicitation
+soliciting	inciting
+solicits	enreats, moves by prayer
+SOLIDARE	a small coin
+SOLVE	solution
+something	some distance
+sometime	sometimes
+SOMETIMES	formerly
+sonties	saints. [The Merchant of Venice]
+sooth	truth
+SORE L	a buck of the third year
+SOREL	a buck of the third year
+sorely charged	heavily burdened
+SORRIEST	most sorrowful
+SORRY	sorrowful, dismal
+SORT	a company; rank, condition; lot 'In a sort,' in a manner; to choose to suit; to consort
+SOT	fool
+SOUL	FEARING : soul-terrifying
+sounded	proclaimed. [Julius Caesar]
+sow'd a grizzle on thy case	grown a beard on your face. [Twelfth Night]
+SOWL	to lug, drag
+SOWTER	name of a dog
+SPECIALLY	a special contract
+speculation	intelligence
+SPED	settled, done for
+SPEED	fortune
+SPERR	to bolt, fasten
+Sphery	star-like
+SPIAL	spy
+SPILL	to destroy
+SPILTH	spilling
+SPLEEN	violent haste; used of the lightning flash
+splenetive	full of spleen, hot-tempered. [Hamlet]
+Split	"to make all split", a proverbial expression used to denote violent action; originally used by sailors
+spongy	drunk, saturated with liquor. [Macbeth]
+Spotted	polluted
+SPRAG	quick
+SPRING	shoot, bud Beginning
+springe	snare. [Hamlet]
+SPRINGHALT	stringhalt, a disease of horses
+SPRITED	haunted
+sprites	ghosts, spirits
+SPURS	roots of trees
+spy	Note
+SQUANDERED	scattered
+SQUARE	equitable
+SQUARER	quarreller
+SQUASH	an unripe peascod
+SQUIER	a square or rule
+SQUINY	to squint
+Srubbed	scrubby, paltry
+stableness	constancy
+staff	lance
+STAGGERS	a disease in horses, attended with giddiness: hence any bewildering distress
+STAIN	to disfigure
+STALE	to make stale, deprive anything of its freshness
+stamp	stamped coin
+stanchless	insatiable
+stand	remain
+stand close	stand back, conceal yourself. [Julius Caesar]
+STAND UPON	to be incumbent on
+STANIEL	an inferior kind of hawk
+star-crossed	i.e., their fortunes were marred by the influence of the stars. That men's natures and fortunes were influenced by the star under which they were born was a widespread superstition of Elizabethan times. [Romeo and Juliet]
+STARK	stiff
+STARKLY	stiffly
+starting	startled actions
+state	chair of State
+state of honor	noble rank, condition
+STATION	attitude Act of standing
+STATIST	a statesman
+STATUA	a statue
+STATUE	image, picture
+STATUTE	security, obligation
+stay	wait for
+Stead	to help
+steads	benefits. [Romeo and Juliet]
+stealing out of	overcharging for
+Stealth	stealing away
+Steeled|Steel'd	set or fixed
+STERNAGE	steerage, course
+Stick'st	hesitate
+sticking place	This is a reference to the medieval crossbow. The bowstring was pulled back by a crank, and the arrow placed in a notch (sticking place) until released.
+STICKLER	an arbitrator in combats
+STIGMATIC	a deformed person
+STIGMATICAL	deformed
+Still	always, ever
+still quiring	ever singing. [The Merchant of Venice]
+STILLY	softly
+STINT	to stop to stop
+stir	stirring, moving
+STITHY	a smith's forge; to forge
+STOCCADO	a stoccata, or thrust in fencing
+STOCK	a stocking
+STOMACH	courage, stubbornness Appetite, inclination
+STONE	BOW: a cross-bow for throwing stones
+Stood Upon	depended upon
+storehouse	place of burial
+stoup	cup, flagon, or tankard. [Twelfth Night] [Hamlet]
+STOUT	strong, healthy
+STOVER	fodder
+STRACHY	A word of doubtful meaning
+STRAIGHT	immediately
+STRAIN	lineage; disposition
+STRAITED	straitened
+STRANGE	foreign ; coy, reserved Marvellous
+strangely	visited afflicted with strange diseases
+STRANGENESS	coyness, reserve
+STRANGER	foreigner
+STRAPPADO	a kind of punishment
+Streak	touch softly
+Stretch'd	strained
+STRICTURE	strictness
+stronds	shores. [King Henry IV, Part 1]
+STROSSERS	trowsers
+Stubborn	rough
+STUCK	a thrust of a sword
+STUCK IN	corruption of stoccata
+STUFF	baggage; material, substance
+stuff'd	crammed, full to bursting
+STUFFED	filled, stored
+stumblest on my counsel	overhears by accident my secret thoughts. [Romeo and Juliet]
+STY	to lodge as in a sty
+suborn'd	secretly induced or hired. [Macbeth]
+suborned	bribed (subordinated)
+SUBSCRIBE	to yield to succumb
+substances	forms
+SUCCESS	issue, consequence; succession
+SUCCESSIVE	succeeding; in succession
+SUCCESSIVELY	in succession
+sudden	violent
+SUDDENLY	hastily
+suffer	perish
+SUFFERANCE	suffering
+Sufficiency	ability
+SUGGEST	to tempt, entice
+SUGGESTION	temptation, enticement
+suit	wooing. [Twelfth Night]
+SUITED	dressed
+SULLEN	doleful, melancholy
+SUMPTER	a horse that carries provisions on a journey
+sundry	various
+supp'd	had supper
+SUPPOSE	a trick, imposition
+SUPPOSED	counterfeit
+SUR	REINED : over-worked
+surcease	cessation
+surfeited grroms	servants who had too much wine
+SURPRISE	to capture by surprise
+surveying	noticing, perceiving
+SUSPECT	suspicion
+SUSPIRE	to breathe
+SWABBER	a sweeper of the deck of a ship
+swag-bellied	loose-bellied. [Othello]
+Swart-Complexion'd|Swart-Cmplexioned	of dark complexion, grim faced
+SWARTH	black
+SWASHER	swaggerer
+SWASHING	dashing, smashing
+swashing blow	knock-out blow. [Romeo and Juliet]
+SWATH	The same as 'swarth.'
+SWATHLING	swaddling
+SWAY	to move on
+sway by	am directed by
+SWEAR	to adjure
+SWEAR OVER	to out-swear
+swears	swears allegiance
+sweet friends	i.e., the two lips. [The Merchant of Venice]
+sweltered	sweated
+SWIFT	ready, quick
+SWINGE	BUCKLER a bully
+swoopstake	in a clean sweep. [Hamlet]
+swounded	fainted. [Julius Caesar] T
+Swounds!	Holy Cow! (literally, “God’s wounds”)
+syllable	sound
+TABLE	BOOK: note-book
+TABLES	the game of backgammon A note-book
+tabor	small drum used by professional clowns and jesters. [Twelfth Night]
+TABOUR	a small side-drum
+TABOURER	a player on the tabour
+TABOURINE	tambourine, drum
+TAG	the rabble
+TAINT	tainted
+TAINTURE	defilement
+TAKE	to infect, blast, bewitch
+TAKE IN	to conquer
+TAKE OUT	to copy
+TAKE UP	to borrow money, or buy on credit To make up a quarrel
+TAKING	infection, malignant influence
+taking off	murder
+TAKING UP	buying on credit
+TALE	counting, reckoning
+TALL	strong, valiant
+TALLOW	CATCH: a lump of tallow
+TANG	twang, sound; to sound
+TANLING	anything tanned by the sun
+taper	candle. [Julius Caesar]
+tardiness in nature	natural reticence. [King Lear]
+Tarquin	The son of a Roman king who raped a married woman named Lucretia
+TARRE	to excite, urge on
+TARRIANCE	delay
+Tartar	A member of any of the Turkic and Mongolian peoples of central Asia who invaded western Asia and eastern Europe in the Middle Ages. Often used to mean a violent person.
+TASK	to tax Challenge
+TASKING	challenging
+TASTE	to try
+TAWDRY	LACE : a rustic necklace
+TAXATION	satire, sarcasm
+TAXING	satire
+Tear	to rant violently
+teems	teems with
+TEEN	grief
+TELL	to count
+tell the clock	answer appropriately. [The Tempest]
+TEMPER	to mix
+TEMPERANCE	temperature
+TEMPERED	mixed
+tempest	storm
+TEND	to attend to
+tend on	wait on
+TENDER	to hold, to esteem; To have consideration for
+tenders	offers. [Hamlet]
+tending	tendrance, attendance
+TENT	a probe for searching a wound
+TERCEL	the male of the goshawk
+TERMAGANT	a ranting character in old plays
+terms compulsative	force. [Hamlet]
+Test	evidence
+TESTED	pure, assayed
+TESTERN	to reward with a tester, or six-pence
+tetchy	fretful, peevish. [Romeo and Juliet]
+Tetter	an eruption of the skin
+Thane	Scottish noble [audio]
+THARBOROUGH	a constable
+the ash	hole under a kiln
+the evil	scrofula was a disease of the lymph glands thought to be cured by the king's touch. James I, like Edward the Confessor in the play, thought to cure victim's of the king's evil by touching them [link]
+the golden round	crown
+the leading	star, pole-star
+Theban	the association of the Greek city Thebes, as with Athens, is with philosophical inquiry. [King Lear]
+Theoric	theory
+THEORICK	theory
+therewithal	therewith
+THEWES	sinews, muscles
+THICK	rapidly
+THIRD	BOROUGH: a constable
+thirst	desire to drink
+THOUGHT	anxiety, grief So 'to take thought' is to give way to grief
+thought-executing	numbing the thought. [King Lear]
+Thrall	a slave
+thralls	slaves, bondment
+THRASONICAL	boastful
+threat	threaten
+THREE	PILE
+THRENE	lament
+THRID	thread, fibre
+Thriftless	showing no sense of thrift or economy
+THROE	to put in agonies
+Thrum	the loose end of a weavers warp
+THRUMMED	made od coarse ends or tufts
+thunder-stone	thunderbolt, lightning. [Julius Caesar]
+TICKLE	ticklish
+TIGHT	nimble, active
+TIGHTLY	briskly, promptly
+TIKE	a cur
+till that	till
+TILLY	VALLY: int. an exclamation of contempt
+TILTH	tillage
+TIMELESS	untimely
+timely	betimes, early
+TINCT	stain, dye
+tinkers	tinkers were a noisy lot and, being gypsies, had their own language (Romany). [Twelfth Night]
+TIRE	to tear as a bird of prey Hence, metaphorically, to feed
+Tiring-house	dressing room
+titles	possessions
+to charge	to command
+to credit	to believe
+to dally	to have sex with, to fool around with
+TOD	to yield a tod of wool
+Toged	gowned, clothed
+TOKENED	marked with plague spots
+TOKENS	plague spots
+TOLL	to exact toll To pay toll
+Tom o' Bedlam	one who begs on the roads and has been released from the London madhouse, Bethlehem ("Bedlam") Hospital. [King Lear]
+TOO TOO	excessively
+top	overtop, surpass
+topgallant	highest sail on the mast; hence, summit. [Romeo and Juliet]
+TOPLESS	supreme, without superior
+Topping|Tupping	sexual intercourse (also; making the beast with two backs)
+Tottered	tattered
+TOUCH	touchstone for testing gold Trait An acute feeling
+touch'd	injured, hurt
+TOUCHED	pricked
+TOUSE	to pull, drag
+TOWARD	nearly ready
+TOWARDS	nearly ready
+towering	turning about
+toy in blood	trifling passion. [Hamlet]
+TOYS	trifles, foolish tricks
+Trace	traverse
+Tract	pathway, track, area of land
+TRADE	beaten path
+traffic	trade, commerce. [The Tempest]
+trains	artifices, devices
+traject	ferry (from Italian traghetto). [The Merchant of Venice]
+trammel up	catch, as in a net. [Macbeth]
+TRANECT	a ferry
+TRANSLATED	transformed
+transport	convey
+transpose	change
+TRASH	to cheque, as a huntsman his hounds
+TRAVAIL	labour, toil
+traveling lamp	the sun
+travelling lamp	the sun. [Macbeth]
+TRAY	TRIP an old game played with dice
+TREACHERS	traitors
+treasons capital	crimes of treason that merit capital punishment (death)
+TREATIES	entreaties
+treatise	story
+treble scepters	An ornamental staff signifying royalty. This likely shows King James' position as King of Great Britain, France, and Ireland in 1604
+TRENCHED	carved
+trencher	wooden plate, lit. one to cut food upon. [Romeo and Juliet]
+TRICK	technically, a copy of a coat of arms; hence, any peculiarity which distinguishes voice or feature; to dress up
+TRICKED	blazoned
+TRICKING	ornament
+TRICKSY	elegantly quaint
+trifled	made trifling, made to sink into insignificance
+trimmed	dressed up. [Othello]
+TRIPLE	third
+Triple-Hecate	ruling in three capacities- as Luna or Cynthia in heaven, Diana on earth, and Hecate in hell
+tristful	sorrowful. [Hamlet]
+Triumph	public show
+TROJAN	a cant word for a thief
+TROL	MY-DAMES the name of a game; also called pigeon-holes
+TROTH	PLIGHT betrothed
+TROW	to trust, think
+trowest	believe, give credit to. [King Lear]
+truckle-bed	small bed on wheels (cf. "truck") which (for a servant) was pushed under a larger bed (the master's), trundle bed. [Romeo and Juliet]
+TRUE	honest
+True-penny	an honest fellow
+truest issue	rightful heir
+truncheon	a general's baton. [Hamlet]
+TRUNDLE	TAIL a long-tailed dog
+trusted home	believed completely
+TUCKET	SONANCE: a flourish on the trumpet
+TUNDISH	a funnel
+Tuneable	tuneful
+Turk	a person from Turkey or a Moslem [link]
+TURLYGOOD	a name adopted by bedlam-beggars
+TURN	to modulate
+turn Turk	turn bad. [Hamlet]
+TWANGLING	twanging
+TWIGGEN	made of twigs, wicker
+TWILLED	Retained by woven branches
+TWINK	a twinkling
+TWIRE	to peep, twinkle
+two	fold balls Orbs (sphere topped by a cross) signifying royalty. This refers to King James and his kingship of both England and Scotland.
+two-headed Janus	a Roman god represented with two faces, one smiling and the other frowning. [The Merchant of Venice] U
+tyranny	usurper
+Umber	brown color
+UMBERED	stained, dark, as with umber
+UNANELED	without extreme unction
+UNAVOIDED	unavoidable
+UNBARBED	untrimmed
+UNBATED	unblunted
+unbend	relax. [Macbeth]
+Unbitted	unbridled
+UNBOLT	to disclose
+UNBOLTED	unsifted, unrefined
+Unbonneted	in all courtesy
+unbound	unbounded, unmarried, free. [Romeo and Juliet]
+unbraced	with doublet untied, open. [Julius Caesar]
+Unbreathed	unexercised
+unbruised	unspoiled. [Romeo and Juliet]
+UNCAPE	to throw off the hounds
+uncharge the practice	acquit us of plotting. [Hamlet]
+UNCHARGED	undefended, applied to the gates of a city
+UNCLEW	to unravel, undo
+UNCOINED	unalloyed, unfeigned
+Unconfirmed	inexperienced, untried
+UNDER	WROUGHT undermined
+UNDERGO	to undertake
+undergoing stomach	enduring spirit. [The Tempest]
+UNDERTAKER	one who takes up another's quarrel
+undone	returned to chaos. [Macbeth]
+uneared|unear'd	unploughed
+UNEATH	hardly
+UNEXPRESSIVE	inexpressible
+UNFAIR	to deprive of beauty
+unfix	make to stand on end
+ungently	discourteously. [Julius Caesar]
+UNHAPPILY	censoriously
+UNHAPPY	mischievous
+Unharden'd	impressionable
+UNHATCHED	undisclosed
+Unhoused	not tied down
+unhousel'd	not having received the sacrament. [Hamlet]
+UNHOUSELED	without receiving the sacrament
+UNIMPROVED	unreproved
+UNION	a pearl
+UNJUST	dishonest UNKIND: unnatural
+Unkind	unnatural
+UNLIVED	bereft of life
+unmake	unnerve. [Macbeth]
+UNMANNED	untamed, applied to a hawk
+UNOWED	unowned
+UNPREGNANT	stupid
+unprevailing	futile. [Hamlet]
+UNPROPER	common to all
+unprovide	unsettle. [Othello]
+Unprovident	improvident, failing to provide for the future
+UNQUESTIONABLE	not inquisitive
+UNREADY	undressed
+unreclaimed	untamed. [Hamlet]
+UNRESPECTIVE	inconsiderate
+unrough	beardless
+Unseminared	deprived of seed or virility
+unsex me	(in context) take away my soft, feminine characterstics
+Unsifted	untried, inexperienced
+unsinew'd	weak. [Hamlet]
+UNSISTING	unresting
+unspeak	recall, withdraw
+UNSTANCHED	incontinent
+unstuffed	by care (anxiety). [Romeo and Juliet]
+untaught	unmannerly, ignorant. [Romeo and Juliet]
+UNTEMPERING	unsoftening
+UNTENTED	unsearchable
+unthrifty	unlucky. [Romeo and Juliet]
+untimely ripped	born prematurely, by Caesarean section
+untitled	having no title or claim
+unto	to
+UNTRADED	unused, uncommon
+UNTRIMMED	spoiled of grace or ornament
+UNTRUE	untruth
+UNVALUED	invaluable
+unyoke	i.e., consider your day's work done. [Hamlet]
+up-staring	standing straight up. [The Tempest]
+upon	to
+upon the gad	on the spur of the moment. [King Lear]
+UPSPRING REEL	a boisterous dance
+URCHIN	the hedge-hog
+urchin-shows	it was an Elizabethan folk belief that malignant spirits appeared in the form of hedgehogs to torment people. [The Tempest]
+usance	interest on money lent. [The Merchant of Venice] V
+USE	interest
+using	cherishing, entertaining
+UTIS	riotous merriment, which accompanied the eighth day of a festival
+UTTER	to expel, put forth
+UTTERANCE	extremity
+VADE	to fade
+VAIL	to lower
+vailing	lowering. [The Merchant of Venice]
+VAINNESS	vanity
+VALANCED	adorned with a valence or fringe; applied to the beard
+VALIDITY	value
+vantage	opportunity
+VANTBRACE	armour for the front of the arm
+VARLET	a servant, valet
+varlets	low, uncouth characters. [The Tempest]
+varnished faces	i.e., wearing painted masks. [The Merchant of Venice]
+VAST	a waste-place; metaphorically, the dead of night; a gulf
+VASTIDITY	immensity
+VASTLY	like a waste
+VASTY	vast, waste
+vault	place where wine is kept, or the earth with its vaulted (arched) sky
+Vaunt	COURIERS, forerunners, boast
+VAWARD	the van, vanguard, advanced guard of an army Hence, metaphorically, the first of anything
+VEGETIVES	herbs
+VELURE	velvet
+VELVET	GUARDS literally, velvet trimmings; applied metaphorically to the citizens who wore them
+VENEW	a bout in fencing, metaphorically applied to repartee and sallies of wit
+VENEY	a bout at fencing
+VENGE	to avenge
+VENTAGES	holes in a flute or flageolet
+VERBAL	wordy
+verdure	vitality, health. [The Tempest]
+verity	truthfulness
+VERY	true, real
+vestal livery	virgin uniform. [Romeo and Juliet]
+VIA	int. off with you!
+VICE	the buffoon in the old morality plays
+VIE	to challenge; a term at cards; to play as for a wager
+VIEWLESS	invisible
+VILLAIN	a lowborn man
+villanies	evil qualities. [Macbeth]
+VINEWED	mouldy
+VIOL	DE-GAMBOYS a bass viol
+virgin hue	whiteness; the Elizabethans usually spoke of silver as being white. [The Merchant of Venice]
+VIRGINALLING	playing as on the virginals, a kind of a spinet
+Virtue	the essential excellence, valour, power
+VIRTUOUS	excellent Endowed with virtues
+VIZAMENT	advisement
+vizards	masks
+void your rheum	spit. [The Merchant of Venice]
+VOLUBLE	fickle
+VOLUNTARY	volunteer
+VOTARIST	votary, one who has taken a vow
+Vouch	assert, bear witness
+vouch'd	assured, warranted
+Vouchsafe	to grant (normally suggestive of prayer, humility, and respectful to things Divine)
+VULGAR	common
+vulgar, the	the common people. [Julius Caesar] W
+VULGARLY	publicly
+Waft	to beckon
+WAFTAGE	passage
+wafter	wave. [Julius Caesar]
+WAFTURE	waving, beckoning
+Wag	to move, to stir
+WAGE	to reward as with wages
+WAILFUL	lamentable
+WAIST	the middle of a ship
+WANNION	'with a vengeance.'
+want-wit	one who lacks wits. [The Merchant of Venice]
+WAPPENED	withered, overworn
+WARD	guard Prison
+WARDEN	a large pear used for baking
+WARDER	truncheon
+WARN	to summon
+warranted	justified
+wassail	drinking, partying [audio]
+WAT	a familiar word for a hare
+WATCH	to tame by keeping constantly awake
+watch him tame	keep after him until he agrees with you. [Othello]
+watchful cares	cares that keep one awake. [Julius Caesar]
+watching	waking
+water	rugs water dogs, a kind of poodle
+WATER-RUG	a kind of dog
+water-rugs	rough water dogs. [Macbeth]
+WAX	to grow
+WAXEN	perhaps, to hiccough
+weak supposal	poor opinion. [Hamlet]
+weal	welfare, can also be used to mean skin raised by a blow (welt)
+WEALTH	weal, advantage
+WEAR	fashion
+WEATHER	FEND to defend from the weather WEB AND PIN the cataract in the eye
+weather-fends	protects from the weather. [The Tempest]
+WEB AND PIN	the cataract in the eye
+WEE	small, tiny
+WEED	garment
+WEET	to wit, know
+WEIGH OUT	to outweigh
+weird sisters	weird, meant fateful, as in the three fates of Graeco-Roman mythology. [Macbeth]
+welkin	sky, one of the elements. [Twelfth Night]
+WELL	LIKING in good condition
+well bethought	a good idea, a timely reminder
+well conceited	both correctly conceived and aptly expressed. [Julius Caesar]
+WELL SAID	int. well done!
+WEND	to go
+weraday	alas the day. [Romeo and Juliet]
+WESAND	the wind-pipe
+whe'r	frequent in Shakespeare for whether. [Julius Caesar]
+WHELK	a weal
+WHELKED	marked with whelks or protuberances
+WHEN	an exclamation of impatience
+WHEN AS	when
+whence	where
+WHERE	whereas
+wherefore	why
+whey	face pallid (white) face, as from fear
+WHIFFLER	an officer who clears the way in processions
+WHILE	ERE: a little while ago
+while then	till then
+WHILES	until
+WHIP	STOCK: handle of a whip
+whispers	whispers to
+WHIST	hushed, silent
+WHITE	the centre of an archery butt
+white-upturned	with eyes rolled, as in the whites of the eyes turned upward. [Romeo and Juliet]
+whitehearted	cowardly
+WHITELY	pale-faced. A doubtful word
+WHITING	TIME: bleaching time
+WHITSTER	bleacher
+WHITTLE	a clasp knife
+wholesome	healthy
+WHOO	BUB hubbub
+WHOOP	to cry out with astonishment
+whoreson	worthless (literally bastard). [Hamlet]
+WICKED	noisome, baneful
+WIDOW	to give a jointure to
+WIDOWHOOD	widow's jointure
+wight	person
+WILD	weald
+wild-goose chase	my following you. The term "wild-goose chase" was applied to a contest where two riders started together and as soon as one obtained the lead, the other had to follow over the same ground, unless he could overtake him, when the position was reversed. The name is taken from the way a flock of geese flies in a line. The phrase has a rather different meaning now. [Romeo and Juliet]
+WILDERNESS	wildness
+will he, nill he	willy-nilly, whether he wishes or not. [Hamlet]
+willow cabin	small hut with willow (the sign of unrequited love) before it. [Twelfth Night]
+wilt	must. [Romeo and Juliet]
+WIMPLED	veiled, hooded
+windlasses	roundabout means, indirect attempts. [Hamlet]
+WINDOW	BARS
+WINDRING	winding
+WINTER	GROUND: to protect (a plant) from frost
+WIS	in the compound 'I wis,' certainly
+Wise-woman	a witch
+WISH	to commend
+WISTLY	wistfully
+WIT	knowledge, wisdom
+witches' mummy	human flesh mummified
+withal	with
+without	outside
+witness	testimony, evidence
+WITS	five, the five senses
+WITTOL	a contented cuckold
+WITTY	intelligent
+WOMAN	TIRED: hen-pecked WONDERED: marvellously gifted
+wonder-wounded	overcome with wonder. [Hamlet]
+WONDERED	marvellously gifted
+wondrous sensible	very deeply felt. [The Merchant of Venice]
+WOOD	mad WOODCOCK a simpleton
+WOODCOCK	a simpleton
+WOODMAN	a forester, huntsman; A cant term for a wencher
+WOOLWARD	shirtless
+WORD	to flatter or put off with words; To repeat the words of a song
+WORLD	'To go to the world' is to get married So 'a woman of the world' is a married woman
+worlds	heaven and earth
+worm	small serpent
+WORSER	worse
+worser genius	bad spirit. [The Tempest]
+WORSHIP	to honour
+WORTH	wealth, fortune
+WORTS	cabbages
+WOT	to know
+WOUND	twisted about
+wrack	ruin
+WREAK	to avenge
+WREAKFUL	revengeful, avenging
+WREST	an instrument used for tuning a harp
+WRIT	gospel, truth
+WRITHLED	shrivelled
+WROTH	calamity, misfortune
+wrought	agitated
+WRUNG	twisted, strained
+WRY	to swerve
+X	Y
+XANTHIPPE	Socrate's scolding wife
+Y	CLAD
+Yare	ready, nimble
+YARELY	readily
+YAW	out of control
+yawning peal	a peal which lulls to sleep
+YEARN	to grieve, vex
+YELLOWNESS	jealousy
+YELLOWS	a disease of horses
+YEOMAN	a sheriff's officer
+Yerked|Yerk'd	stabbed
+yesty	foamy (from the yeast used to make beer)
+yew	a tree thought to be poisonous
+YIELD	to reward; To report
+yoeman	a property owner, but beneath a gentleman in social rank. [King Lear]
+YOND	and yonder
+young-eyed	the cherubim, according to Ezekiel 10:12: were endowed with keenness of vision above all other heavenly creatures. [The Merchant of Venice]
+YOUNKER	tyro
+your mind hold	if you don't change your mind; if you are still sane. [Julius Caesar]
+yours	your relatives
+ZANY	a clown
+zealous	earnest, passionate, devoted
+~ B ~	BACCARE: keep back
+~ C ~	CADDIS: worsted galloon, so called because it resembles the caddis-worm
+~ D ~	DAFF: to befool; to put off; this seems to be a corruption of 'doff.'
+~ E ~	EAGER: sour; harsh; biting
+~ F ~	FACINOROUS: wicked
+~ G ~	GABERDINE: a loose outer coat, or smock frock
+~ H ~	HACK: to become common
+~ I ~	ICE-BROOK: an icy-cold brook
+~ J ~	JACK: a mean fellow
+~ K ~	KAM: crooked
+~ L ~	LABRAS: lips
+~ M ~	MADE: having his fortune made
+~ N ~	NAPKIN: a handkerchief
+~ P ~	PACK: to practice unlawful confederacy; a number of people confederated
+~ Q ~	QUAIL: to faint, be languid, be afraid; to cause to quail
+~ R ~	RABATO: a ruff
+~ S ~	SACRIFICIAL: reverent, as words used in religious worship
+~ T ~	TABLE: a tablet, note-book
+~ U ~	UMBERED: stained, dark, as with umber
+~ V ~	VADE: to fade
+~ W ~	WAFT: to wave, beckon; To turn
+~ X ~	XANTHIPPE: Socrate's scolding wife
+~ Y ~	YARE: ready, being understood
+~ Z ~	ZANY: a clown, gull

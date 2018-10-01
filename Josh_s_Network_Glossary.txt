@@ -1,0 +1,705 @@
+##name	Josh's Network Glossary
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	Josh Simon
+##email	jss@clock.org
+##description	Terms and definitions for networking and systems administration,including common telco abbreviations and acronym expansions.
+##browsingEnabled	
+##bgl_creationTime	2000/06/15, 08:33
+##bgl_middleUpdated	2000/07/30, 15:06
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+A record	See <A href="bword://DNS record types">DNS record types, A record </A>.
+AAL	See <A href="bword://ATM Adaptation Layer">ATM Adaptation Layer (AAL) </A>.
+AARP	See <A href="bword://AppleTalk Address Resolution Protocol (AARP)">AppleTalk Address Resolution Protocol (AARP) </A>.
+Abstract Syntax Notation One (ASN.1)|abstract-syntax-notation-one	The <A href="bword://Open Systems Interconnection (OSI)">OSI </A>language for describing abstract syntax, which is a description of data structures independent of machine orientation.
+Access Control List (ACL)|access-control-list	Defines the roles that are required to execute a method. Defines the <A href="bword://user">user </A>or <A href="bword://group ID">group IDs </A>of people who do (or do not) have explicit access to a file or directory.
+ACL	See <A href="bword://Access Control List (ACL)">Access Control List (ACL) </A>.
+adapter	See <A href="bword://Basic Object Adapter (BOA)">Basic Object Adapter (BOA) </A>.
+Adaptive Differential Pulse Code Modulation (ADPCM)|adaptive-differential-pulse-code-modulation	A way to reduce the bandwidth needed by digitized voice channels by half (to 32 Kb from 64 Kb).
+address	See <A href="bword://mail address">mail address </A>, <A href="bword://network address">network address </A>.
+Address Resolution Protocol (ARP)|address-resolution-protocol	An ethernet protocol used to translate <A href="bword://Internet Protocol">IP </A>network addresses into ethernet hardware addresses (also known as <A href="bword://Media Access Control (MAC)">Media Access Control (MAC) </A>addresses).
+ADE	See <A href="bword://Advanced Development Environment (ADE)">Advanced Development Environment (ADE) </A>.
+adjacent hosts	Two hosts are <I>adjacent</I> if they have permanent <A href="bword://Address Resolution Protocol (ARP)">ARP </A>entries for each other.
+administrator	In the context of Tivoli, a user who is authorized to perform some <A href="bword://Tivoli Management Environment (TME)">TME </A>function. See also <A href="bword://system administrator">system administrator </A>.
+ADPCM	See <A href="bword://Adaptive Differential Pulse Code Modulation (ADPCM)">Adaptive Differential Pulse Code Modulation (ADPCM) </A>.
+ADSL	See <A href="bword://Asynchronous Digital Subscriber Line (ADSL)">Asynchronous Digital Subscriber Line (ADSL) </A>.
+Advanced Development Environment (ADE)|advanced-development-environment	A toolkit for programmers to use in developing systems management applications in the <A href="bword://Tivoli Management Environment (TME)">TME </A>. This requires knowledge of how the underlying <A href="bword://object">object </A>system works.
+Advanced Technology Adapter (ATA)|advanced-technology-adapter	Another name for <A href="bword://Integrated Disk Electronics (IDE)">Integrated Disk Electronics (IDE) </A>.
+AEF	See <A href="bword://Application Extension Facility (AEF)">Application Extension Facility (AEF) </A>.
+AFS	See <A href="bword://Andrew File System (AFS)">Andrew File System (AFS) </A>.
+alias	A pointer to one or more users or hosts, typically used for sending mail (in the case of users) or logging in remotely (in the case of hosts). See also <A href="bword://group alias">group alias </A>, <A href="bword://host alias">host alias </A>, <A href="bword://individual alias">individual alias </A>.
+American National Standards Institute (ANSI)|american-national-standards-institute	The organization responsible for setting computer-related standards in the United States of America.
+American Standard Code for Information Interchange (ASCII)|american-standard-code-for-information-interchange	The character set used by most American computers. Supersets of ASCII contain non-English characters.
+Andrew File System (AFS)|andrew-file-system	A specific instance of a <A href="bword://distributed file system">distributed file system (DFS) </A>, developed at <A href="bword://Carnegie-Mellon University (CMU)">Carnegie-Mellon University (CMU) </A>, allowing multiple <A href="bword://file system">file systems </A>to be shared between organizations and treated, at the user interface level, as one giant file system.
+ANSI	See <A href="bword://American National Standards Institute (ANSI)">American National Standards Institute (ANSI) </A>.
+anycast	A one packet to one from a list of hosts; similar to a broadcast or multicast but the goal is to have exactly one response. See also <A href="bword://broadcast">broadcast </A>, <A href="bword://multicast">multicast </A>, <A href="bword://unicast">unicast </A>.
+API	See <A href="bword://Application Programmer Interface (API)">Application Programmer Interface (API) </A>.
+AppleTalk Address Resolution Protocol (AARP)|appletalk-address-resolution-protocol	Provides for the dynamic assignment of node identifiers to nodes within an AppleTalk network.
+application	See <A href="bword://utility">utility </A>.
+Application Extension Facility (AEF)|application-extension-facility	A tool kit for systems administrators to use in customizing a <A href="bword://Tivoli Management Environment (TME)">TME </A>application to specific needs. This does not require any knowledge of how the underlying object system works.
+Application Programmer Interface (API)|application-programmer-interface	A programming specification that allows an application programmer to interface to an application or suite of applications.
+ARD	See <A href="bword://Automatic Ring Down (ARD)">Automatic Ring Down (ARD) </A>.
+ARP	See <A href="bword://Address Resolution Protocol (ARP)">Address Resolution Protocol (ARP) </A>.
+article	The base component of <A href="bword://USENET news">USENET news </A>; a group of text written and posted to a network news group.
+ASCII	See <A href="bword://American Standard Code for Information Interchange (ASCII)">American Standard Code for Information Interchange (ASCII) </A>.
+ASN.1|asn-1|asn1	See <A href="bword://Abstract Syntax Notation One (ASN.1)">Abstract Syntax Notation One (ASN.1) </A>.
+Asynchronous Digital Subscriber Line (ADSL)|asynchronous-digital-subscriber-line	An asymmetric high-speed digital network connection, usually between a home or small business and a telecommunications vendor, providing an always-up direct connection to an <A href="bword://Internet Service Provider (ISP)">Internet Service Provider (ISP) </A>. The upstream (from the user to the ISP) and downstream (from the ISP to the user) speeds are dissimilar, and usually the latter is faster than the former. See also <A href="bword://Digital Subscriber Line (DSL)">Digital Subscriber Line (DSL) </A>, <A href="bword://Symmetric Digital Subscriber Line (SDSL)">Symmetric Digital Subscriber Line (SDSL) </A>.
+Asynchronous Transfer Mode (ATM)|asynchronous-transfer-mode	A standardized format for <A href="bword://cell">cell </A>relay, with 53-byte cells including a five byte header and 48 bytes of data. Also, the layer in the protocol stack that translates the cells to the physical media.
+ATA	See <A href="bword://Advanced Technology Adapter (ATA)">Advanced Technology Adapter (ATA) </A>.
+ATM	See <A href="bword://Asynchronous Transfer Mode (ATM)">Asynchronous Transfer Mode (ATM) </A>.
+ATM Adaptation Layer	The layer in the <A href="bword://ATM Adaptation Layer">ATM </A>protocols that represents layers four through seven in the <A href="bword:// Open Systems Interconnection (OSI)">OSI </A>seven layer protocol stack. The protocol that turns <A href="bword://packet">packets </A>into <A href="bword://cell">cells </A>.
+ATM Forum	A group of organizations responsible for determining the <A href="bword://Asynchronous Transfer Mode (ATM)">ATM </A>standards and its progress within the industry.
+attachment	A file included as part of a <A href="bword:// Multipurpose Internet Mail Extensions (MIME)">MIME </A>-compliant or <A href="bword://nextmail">NeXTMail </A>message. An attachment can be sound, graphics, a document file (with text, formatting, and/or graphics), motion pictures, and so on.
+audit trail	A file or database that contains a list of changes made to a specific file. The information includes the name of the file, the date and time of the change, the person making the change, and the text of the change itself.
+authentication	Verification of the identity of a <A href="bword://principal">principal </A>.
+authoritative	A <A href="bword://Domain Name Service (DNS)">DNS </A>server with all the records for a given <A href="bword://domain">domain </A>. (Note that the authorization may not have been granted or delegated to the DNS server.)
+authority	The group responsible for administering a <A href="bword://Domain Name Service (DNS)">DNS </A><A href="bword://domain">domain </A>.
+authorization	Verification that a <A href="bword://principal">principal </A>has sufficient privilege to perform some specific operation.
+Automatic Ring Down (ARD)|automatic-ring-down	A dedicated point-to-point voice facility between two offices of a trading facility. When the sender picks up the telephone handset, automatically ring the receiver's end for direct connections, without the need to dial.
+B-channel|b-channel	The <A href="bword://Integrated Services Digital Network (ISDN)">Integrated Services Digital Network (ISDN) </A>channel that carries voice and user data.
+back door	A usually hidden or secret means for an external user to break into your host, network, application, or data. See also <A href="bword://virus">virus </A>.
+backup	A copy of disk files stored on tape or on another physical disk to prevent permanent data loss. The act of copying disk files to tape or other distinct physical media to prevent permanent data loss.
+Backup Domain Controller (BDC)|backup-domain-controller	The server that contains a backup copy of the account database from the <A href="bword://Primary Domain Controller (PDC)">Primary Domain Controller (PDC) </A>. Used for authentication purposes.
+Backward Explicit Congestion Notification (BECN)|backward-explicit-congestion-notification	A bit in the <A href="bword://Frame Relay">Frame Relay </A>header that is set when the network router detects congestion from the source direction (or &quotbackward," from the packet's point of view). See also <A href="bword://Forward Explicit Congestion Notification (FECN)">Forward Explicit Congestion Notification (FECN) </A>.
+Basic Object Adapter (BOA)|basic-object-adapter	Invokes the performance of a request and returns any results to the client. Also called simply <I>adapter</I>.
+BDC	See <A href="bword://Backup Domain Controller (BDC)">Backup Domain Controller (BDC) </A>.
+bearer channel	See <A href="bword://B-channel">B-channel </A>.
+BECN	See <A href="bword://Backward Explicit Congestion Notification">Backward Explicit Congestion Notification (BECN) </A>.
+Berkeley Internet Name Daemon (BIND)|berkeley-internet-name-daemon	An implementation of the <A href="bword://Domain Name Service (DNS)">DNS </A>protocol. Internet name service software, originally written at the University of California at Berkeley and now maintained by the Internet Software Consortium. Distribution includes /usr/sbin/named and sample configuration files.
+BGP	See <A href="bword://Border Gateway Protocol (BGP)">Border Gateway Protocol (BGP) </A>.
+big six	The top level <A href="bword://domain">domains </A>(<A href="bword://top-level domains (TLD)">TLD </A>) other than .int.
+BIND	See <A href="bword://Berkeley Internet Name Daemon (BIND)">Berkeley Internet Name Daemon (BIND) </A>.
+binding	A logical connection between a client process and a server process.
+block	A unit of disk space containing one or more frags. See <A href="bword://frag">frag </A>.
+BOA	See <A href="bword://Basic Object Adapter (BOA)">Basic Object Adapter (BOA) </A>.
+Boot Protocol (BOOTP)|boot-protocol	The protocol that defines how a diskless workstation obtains its network address from another host. NeXT workstations also use BOOTP when booted to determine their NetInfo information. Defined in <A href="http://ftp.isi.edu/in-notes/rfc951.txt">RFC 951 </A>and extended by <A href="http://ftp.isi.edu/in-notes/rfc2132.txt">RFC 2132 </A>. See also <A href="bword://Dynamic Host Configuration Protocol (DHCP)">Dynamic Host Configuration Protocol (DHCP) </A>.
+BOOTP	See <A href="bword://Boot Protocol (BOOTP)">Boot Protocol (BOOTP) </A>.
+Border Gateway Protocol (BGP)|border-gateway-protocol	A protocol, defined in <A href="http://ftp.isi.edu/in-notes/rfc1163.txt">RFC 1163 </A>and later refined in <A href="http://ftp.isi.edu/in-notes/rfc1771.txt">RFC 1771 </A>, that allows the exchange of packets between networks, such as a company intranet and the Internet.
+bridge	Networking hardware that connects two network segments into one logical segment.
+broadcast	One host broadcasts when it wants every machine (typically on a LAN) to receive the packet or information. See also <A href="bword://anycast">anycast </A>, <A href="bword://multicast">multicast </A>, <A href="bword://unicast">unicast </A>.
+call data record (CDR)|call-data-record	Information logged by the <A href="bword://private branch exchange (PBX)">private branch exchange (PBX) </A>that tracks who made or received calls from whom, the duration of the call, and other information. CDR is used to bill back telecommunications charges to the appropriate parties.
+callback	A process for invoking a <A href="bword://method">method </A>or a <A href="bword://desktop commands">desktop command </A>, or for using the <A href="bword://gadget">gadget </A>library in an application; the means by which dialogs and gadgets respond to user input. For example, when an administrator makes a selection with the mouse, some action is initiated from the user interface to an underlying object representing some system resource or component; that is, the user interface &quotcalls back" to the <A href="bword://object">object </A>to invoke some method or series of methods.
+Carnegie-Mellon University (CMU)|carnegie-mellon-university	The source of a number of widely used computer programs.
+Carrier Sense Multiple Access/Collision Detection (CSMA/CD)|carrier-sense-multiple-access-collision-detection|carrier-sense-multiple-access/collision-detection	Multiple machines sharing a network and talking at the same time cause collisions. When the collisions are detected, both machines stop sending, wait a random amount of time, and then try to transmit again.
+CAS	See <A href="bword://Channel Associated Signalling (CAS)">Channel Associated Signalling (CAS) </A>.
+cascaded operation	An operation in which the first object, originally acting as a server for a client, now becomes a client of a second object on a remote machine, and so on.
+CCITT	See <A href="bword://International Telecommunications Union (ITU)">International Telecommunications Union (ITU) </A>.
+CCMS	See <A href="bword://Change and Configuration Management Service (CCMS)">Change and Configuration Management Service (CCMS) </A>.
+CCS	See <A href="bword://Common Channel Signalling (CCS)">Common Channel Signalling (CCS) </A>.
+CDDI	See <A href="bword://Copper Distributed Data Interface (CDDI)">Copper Distributed Data Interface (CDDI) </A>.
+CDE	See <A href="bword://Common Desktop Environment (CDE)">Common Desktop Environment (CDE) </A>.
+CDR	See <A href="bword://call data record (CDR)">call data record (CDR) </A>.
+cell	A 53-byte chunk of data with embedded routing information. The first five bytes are header and the last 48 bytes are the payload or data.
+cell loss priority (CLP)|cell-loss-priority	A two-bit field in the<a href="bword://Asynchronous Transfer Mode (ATM)"> ATM header </A>that defines the priority of the cell, for congestion avoidance and data loss routines.
+cell relay	See <A href="bword://Asynchronous Transfer Mode (ATM)">Asynchronous Transfer Mode (ATM) </A>.
+central processing unit (CPU)|central-processing-unit	That part of the computer that performs the actual processing; the machine instruction executor. Also used to refer to the unit of the computer that contains the CPU chip (such as the workstation base in a NeXT slab); that part of the computer apart from the monitor and keyboard and mouse.
+CERT	See <A href="bword://Computer Emergency Response team (CERT)">Computer Emergency Response team (CERT) </A>.
+CGI	See <A href="bword://Common Gateway Interface (CGI)">Common Gateway Interface (CGI) </A>.
+Change and Configuration Management Service (CCMS)|change-and-configuration-management-service	Management by subscription. Allows applications to create abstract, architecture- and platform-independent profiles that describe configuration settings for the resources and services they manage.
+Channel Associated Signalling (CAS)|channel-associated-signalling	Signalling bits are transmitted in-band, along with the digitized voice itself.
+CICS	See <A href="bword://Customer Information Control System (CICS)">Customer Information Control System (CICS) </A>.
+CIDR	See <A href="bword://Classless Internet Domain Routing (CIDR)">Classless Internet Domain Routing (CIDR) </A>.
+CIFS	See <A href="bword://Common Internet File System (CIFS)">Common Internet File System (CIFS) </A>.
+CISM	see: Change Integration and Software Management (CISM)
+Classless Internet Domain Routing (CIDR)|classless-internet-domain-routing	A protocol (defined in <A href="http://ftp.isi.edu/in-notes/rfc1467.txt">RFC 1467 </A>) that allows for variable-length addresses that allows for more- and less-specific routing information. This replaces the old class A, class B, class C routing scheme.
+clean	The <A href="bword://file system">file system </A>is guaranteed to have a static, stable structure. Only unmounted filesystems or read-only file systems are clean by definition.
+CLI	See <A href="bword://command line interface (CLI)">command line interface (CLI) </A>.
+client	The requestor of a service as provided by a <A href="bword://server">server </A>. For example, a "<A href="bword://Tivoli Management Environment (TME)">TME </A>client" is a managed node; xterm is an X Window System client.
+client stub	An <A href="bword://Object Request Broker (ORB)">ORB </A>interface that provides for the collection, transmission, marshaling and unmarshaling of data.
+client/server model|client-server-model	The structure by which services are implemented. A client process on one host makes a request that a server process (which may or may not be on another host) fulfills.
+clone	Copy. A clone NetInfo server is an exact copy of a master NetInfo server in the same subdomain. See <A href="bword://domain">domain (2) </A>, <A href="bword://NetInfo">NetInfo </A>.
+CMU	See <A href="bword://Carnegie-Mellon University (CMU)">Carnegie-Mellon University (CMU) </A>.
+CNAME record	See <A href="bword://DNS record types">DNS record types, CNAME record </A>.
+collection	A group of objects, with or without any particular relationships other than belonging to a named group.
+collision	When two interfaces on the same physical network transmit at the same time, the packets interfere with each other. This collision causes data loss so the interfaces have to retransmit the data.
+command line interface (CLI)|command-line-interface	A line-based (as opposed to a screen-based) interface between the user and an application.
+Common Channel Signalling (CCS)|common-channel-signalling	Signalling bits are transmitted out-of-band, in a separate channel from the digitized voice. Typically a number of voice channels have their signalling combined together into a single signalling channel.
+Common Desktop Environment (CDE)|common-desktop-environment	A common windowing scheme, based on the X11 Motif system, used both in Solaris and HP-UX, to provide a similar look and feel for users.
+Common Gateway Interface (CGI)|common-gateway-interface	A method to allow the user to interact with HTML documents; CGI allows the use of forms and scripts on the World Wide Web (WWW). See also <A href="bword://HyperText Markup Language (HTML)">HyperText Markup Language (HTML) </A>, <A href="bword://World Wide Web (WWW)">World Wide Web (WWW) </A>.
+Common Internet File System (CIFS)|common-internet-file-system	The name for Microsoft's version of a networked <A href="bword://file system">file system </A>. See also <A href="bword://Network File System">Network File System (NFS) </A>, <A href="bword://Windows NT File System">Windows NT File System (NTFS) </A>.
+Common Object Request Broker Architecture (CORBA)|common-object-request-broker-architecture	An <A href="bword://Object Management Group ">OMG </A>and <A href="bword://X/Open">X/Open </A>specification introducing <A href="bword://Interface Definition Language (IDL)">IDL </A>, <A href="bword://ORB">ORB </A>and <A href="bword://BOA">BOA </A>. The current version is CORBA 1.1. <A href="bword://CORBA">CORBA </A>was adopted by OMG from a joint proposal by Digital Equipment Corporation, Hewlett-Packard Company, HyperDesk Corporation, NCR Corporation, Object Design, Inc., and SunSoft, Inc.
+Computer Emergency Response Team (CERT)|computer-emergency-response-team	The CERT Coordination Center is the organization that grew from the computer emergency response team formed by the <A href="bword://DARPA">Defense Advanced Research Projects Agency (DARPA) </A> in November 1988 in response to the needs identified during the Internet worm incident. The CERT charter is to work with the Internet community to facilitate its response to computer security events involving Internet hosts, to take proactive steps to raise the community's awareness of computer security issues, and to conduct research targeted at improving the security of existing systems.
+Computer-Telephony Integration (CTI)|computer-telephony-integration	The integration of computers and telephone equipment; a computer performing telephone services, such as placing calls or acting as an answering machine.
+concatenated stripe	Allows multiple disk partitions to be treated as a single large partition by the kernel. See also <A href="bword://Disk Suite">Disk Suite </A>.
+Copper Distributed Data Interface (CDDI)|copper-distributed-data-interface	A high-speed networking standard whose underlying medium is copper or telephone cable. The topology is dual-attached, counter-rotating Token Ring. See also <A href="bword://Fiber Distributed Data Interface (FDDI)">Fiber Distributed Data Interface (FDDI) </A>.
+CORBA	See <A href="bword://Common Object Request Broker Architecture (CORBA)">Common Object Request Broker Architecture (CORBA) </A>.
+CPE	See <A href="bword://customer premise equipment (CPE)">customer premise equipment (CPE) </A>.
+CPU	See <A href="bword://central processing unit (CPU)">central processing unit (CPU) </A>.
+cracker	One who cracks, or breaks into, machines and/or networks. One who breaks passwords. See also <A href="bword://hacker">hacker </A>.
+credentials package	A cryptographically sealed data package containing information about the principal, method, object, location, and authorization of a request.
+CSMA/CD|csma-cd	See <A href="bword://Carrier Sense Multiple Access/Collision Detection (CSMA/CD)">Carrier Sense Multiple Access/Collision Detection (CSMA/CD) </A>.
+CTI	See <A href="bword://Computer-Telephony Integration (CTI)">Computer-Telephony Integration (CTI) </A>.
+Customer Information Control System (CICS)|customer-information-control-system	The IBM architecture underlying the e-mail system, defining a region or domain for electronic mail delivery.
+customer premise equipment (CPE)|customer-premise-equipment	Telecommunications equipment located at a customer site (relative to the telephone or telecommunications company).
+cylinder	The same track from each platter of a disk. See also <A href="bword://platter">platter </A>.
+cylinder group	A group of consecutive cylinders. See <A href="bword://cylinder">cylinder </A>.
+D-channel|d-channel	A dedicated data channel for <A href="bword://Integrated Services Digital Network (ISDN)">Integrated Services Digital Network (ISDN) </A>configuration and set-up.
+DARPA	See <A href="bword://Defense Advanced Research Projects Agency (DARPA)">Defense Advanced Research Projects Agency (DARPA) </A>.
+Data Encryption Standard (DES)|data-encryption-standard	A non-trivial algorithm for encrypting data, classified as a munition by the United States Department of Commerce and Department of State.
+data marshaling|data-unmarshaling	The conversion of data back and forth between some local format and a common interchange format. Marshaled data is in the canonical <A href="bword://eXternal Data Representation (XDR)">eXternal Data Representation (XDR) </A>format <A href="bword://Abstract Syntax Notation One (ASN.1)">Abstract Syntax Notation One (ASN.1) </A>.
+database	A collection of data organized for rapid search and retrieval by a computer.
+DCE	See <A href="bword://Distributed Computing Environment (DCE)">Distributed Computing Environment (DCE) </A>.
+DCS	See <A href="bword://Digital Cross-connect System (DCS)">Digital Cross-connect System (DCS) </A>
+Defense Advanced Research Projects Agency (DARPA)|defense-advanced-research-projects-agency	The central research and development organization for the United States Department of Defense. It manages and directs selected basic and applied research and development projects for the Department, and pursues research and technology where risk and payoff are both very high and where success may provide dramatic advances for traditional military roles and missions and dual-use applications.
+DEL	See <A href="bword://Dialog Editing Library (DEL)">Dialog Editing Library (DEL) </A>.
+demilitarized zone (DMZ)|demilitarized-zone	An area of a network, typically between the internal corporate network and either the external Internet or a partner, vendor, or client, usually between firewalls, providing some service or services. Part of a security system. See also <A href="bword://firewall">firewall </A>.
+demux	See <A href="bword://multiplex">multiplex </A>.
+DES	See <A href="bword://Data Encryption Standard (DES)">Data Encryption Standard (DES) </A>.
+desktop	A display of one or more icons representing system resources.
+Desktop Commands (DTC)|desktop-commands	Commands used in the <A href="bword://Advanced Development Environment (ADE)">Advanced Development Environment (ADE) </A>to manipulate a <A href="bword://dialog">dialog </A>instance.
+DFS	See <A href="bword://distributed file system (DFS)">distributed file system (DFS) </A>.
+DHC	See <A href="bword://Dynamic Host Configuration (DHC)">Dynamic Host Configuration (DHC) </A>.
+DHCP	See <A href="bword://Dynamic Host Configuration Protocol (DHCP)">Dynamic Host Configuration Protocol (DHCP) </A>.
+dialog	A two-way communication link between an administrator and one or more TME resources.
+Dialog Editing Library (DEL)|dialog-editing-library	A library of C functions that permits dynamic, persistent creation and editing of dialog descriptors at run-time. See also <A href="bword://Advanced Development Environment (ADE)">Advanced Development Environment (ADE) </A>.
+Dialog Specification Language (DSL)|dialog-specification-language	Provides the dialog layout and interaction for handling application output and input. See <A href="bword://gadget">gadget </A>.
+Digital Cross-connect System (DCS)|digital-cross-connect-system	Pronounced "dax;" a digital version of or replacement for the analog data center patch panels.
+Digital Private Network Signalling System (DPNSS)|digital-private-network-signalling-system	A <A href="bword://Common Channel Signalling (CCS)">Common Channel Signalling (CCS) </A>protocol used in telecommunications networks.
+Digital Subscriber Line (DSL)|digital-subscriber-line	A high-speed digital network connection, usually between a home or small business and a telecommunications vendor, providing an always-up direct connection to an <A href="bword://Internet Service Provider (ISP)">Internet Service Provider (ISP) </A>. It can be either <A href="bword://Asynchronous Digital Subscriber Line (ADSL)">asymmetric </A>where the upstream and downstream speeds are dissimilar, or <A href="bword://Symmetric Digital Subscriber Line (SDSL)">symmetric </A>where the upstream and downstream speeds are the same.
+DII	See <A href="bword://Dynamic Invocation Interface (DII)">Dynamic Invocation Interface (DII) </A>.
+directive	(Security.) Specific actions to be taken and directions to be followed in implementing a <A href="bword://policy">policy </A>. Adherence to directives is <I>mandatory</I> for users.
+dirty	Not clean. A filesystem is <I>dirty</I> if it is in use or if there is no guarantee that the file system structure is static.
+Disk Operating System (DOS)|disk-operating-system	The term DOS can refer to any operating system, but it is most often used as a shorthand for Microsoft's MS-DOS. Originally developed by Microsoft for <A href="bword://IBM">IBM </A>, MS-DOS was the standard operating system for IBM-compatible personal computers.
+Disk Suite	A product from Sun Microsystems that allows the kernel to treat multiple distinct disk partitions as larger logical partitions (up to one terabyte per logical partition). It also allows for mirroring data, or storing data on multiple partitions simultaneously.
+DISOSS	See <A href="bword://Distribution Office Support Systems (DISOSS)">Distribution Office Support Systems (DISOSS) </A>.
+Distance Vector Multicast Routing Protocol (DVMRP)|distance-vector-multicast-routing-protocol	A non-hierarchical, non-scaling multicast routing protocol, defined in <A href="http://ftp.isi.edu/in-notes/rfc1075.txt">RFC 1075 </A>.
+Distributed Computing Environment (DCE)|distributed-computing-environment	An <A href="bword:// Open Software Foundation ">OSF </A>product. A windowing environment similar to Motif.
+distributed file system (DFS)|distributed-file-system	A <A href="bword://file system">file system </A>that is distribtued across multiple geographic sites yet which appears to be a single local <A href="bword://file system">file system </A>to the user. See also <A href="bword://Andrew File System (AFS)">Andrew File System (AFS) </A>, <A href="bword://Institutional File System (IFS)">Institutional File System (IFS) </A>.
+Distribution Office Support Systems (DISOSS)|distribution-office-support-systems	The <A href="bword://IBM">IBM </A><A href="bword://SNA">SNA </A> electronic mail routing architecture for their mainframes. A distributed electronic mail system.
+diversely routed	A network is <I>diversely routed</I> if there are multiple routes from point A to point B.
+DMZ	See <A href="bword://demilitarized zone (DMZ)">demilitarized zone (DMZ) </A>.
+DNS	See <A href="bword://Domain Name Service (DNS)">Domain Name Service (DNS) </A>.
+DNS record types	A- <B>Address</B>, specifying the IP address<BR>CNAME- <B>Canonical name</B>, an alias pointing to the true name of the host. Requires its right hand side to have an A record.<BR>HINFO- <B>Host information</B>, detailed information about the specific host, such as location or operating system version.<BR>LOC- <a href="http://ftp.isi.edu/in-notes/rfc1712.txt">Location </A>, specifies the geographical location of the host.<BR>MX- <a href="http://ftp.isi.edu/in-notes/rfc974.txt">Mail exchange </A>, specifies that the host on the left side will accept mail for the host on the right hand side at the priority shown (lower is preferred).<BR>NS- <B>Name server</B>, specifies a host that will act as a domain name server for the specified domain.<BR>PTR- <B>Pointer</B>, used to provide <a href="bword://reverse lookup">reverse lookups </A>.<BR>RP- Responsible person, the contact information for the specified domain.<BR>SOA- <B>Start of authority</B>, the meta information for the specified zone. Contains email<BR>information, a serial number, and the time to live values. The specific format is defined in <a href="http://ftp.isi.edy/in-notes/rfc2181.txt">RFC 2181 </A>.<BR>TXT- <B>Text</B>, a comment on the record. Otherwise ignored.<BR>WKS- <B>Well-known services</B>, lists those services for a host. Allows for mnemonics (http,smtp, telnet) instead of specifying port numbers (80, 25, 21).
+domain	1. The trailing portion of a fully qualified host address, typically in an e-mail context. See <A href="bword://fully qualified domain name (FQDN)">fully qualified domain name (FQDN) </A>. 2. A level in a NetInfo hierarchy. See <A href="bword://NetInfo">NetInfo </A>. <BR>3. An organization of machines (clients, master servers, and slave servers) and maps in NIS. See <A href="bword://Network Information Service (NIS)">Network Information Service (NIS) </A>.<BR>4. A section of the Internet name space. See <A href="bword://Domain Name Service (DNS)">Domain Name Service (DNS) </A>.
+domain level	A level in a NetInfo domain hierarchy. See <A href="bword://NetInfo">NetInfo </A>.
+Domain Name Service (DNS)|domain-name-service	A <A href="bword://User Datagram Protocol (UDP)">UDP </A>protocol (defined in <A href="http://ftp.isi.edu/in-notes/rfc2181.txt">RFC 2181 </A>) for resolving names to IP addresses and vice versa. This leads to a hierarchical host naming structure which gives each computer on a network a unique name. See also <A href="bword://fully qualified domain name (FQDN)">fully qualified domain name (FQDN) </A>, <A href="bword://resolver">resolver </A>.
+DOS	See <A href="bword://Disk Operating System (DOS)">Disk Operating System (DOS) </A>.
+DPNSS	See <A href="bword://Digital Private Network Signalling System (DPNSS)">Digital Private Network Signalling System (DPNSS) </A>.
+drag-and-drop	The action of dragging an item with the mouse from one location to another, and releasing the mouse button at the destination.
+DS0|ds0|ds1|ds3	Indicators of speed of data transfer over telecommunications lines, where: <BR><BR>DS0- A single 64 Kb/s channel. <BR>DS1- A T1 line (1.544 Mb/s), or 24 DS0s. <BR>DS3- A T3 line (45 Mb/s), or 28 DS1s. <BR><BR>The errors (if you do the math) are due to clocking information and overhead in managing the multiplexing of the channels on the fiber.
+DSL	1. See <A href="bword://Dialog Specification Language (DSL)">Dialog Specification Language (DSL) </A>.<BR>2. See <A href="bword://Digital Subscriber Line (DSL)">Digital Subscriber Line (DSL) </A>.
+DTC	See <A href="bword://Desktop Commands (DTC)">Desktop Commands (DTC) </A>.
+DVMRP	See <A href="bword://Distance Vector Multicast Routing Protocol (DVMRP)">Distance Vector Multicast Routing Protocol (DVMRP) </A>.
+Dynamic Host Configuration (DHC)|dynamic-host-configuration	A task force or group within the <A href="bword://Internet Engineering Task Force (IETF)">Internet Engineering Task Force (IETF) </A>which developed the Dynamic Host Configuration Protocol (DHCP) to supercede the aging <A href="bword://Boot Protocol (BOOTP)">Boot Protocol (BOOTP) </A>.
+Dynamic Host Configuration Protocol (DHCP)|dynamic-host-configuration-protocol	A superset of the <A href="bword://Boot Protocol (BOOTP)">Boot Protocol (BOOTP) </A>which offers greater flexibility for IP address allocation. It provides the standard BOOTP-like method as well as automatic (long-term) or dynamic (short-term) allocation of IP addresses from a pool of available addresses.
+Dynamic Invocation Interface (DII)|dynamic-invocation-interface	Used by a client to dynamically build a request to be sent to a server.
+e-mail|email	See <A href="bword://mail">mail </A>.
+EGP	See <A href="bword://External Gateway Protocol (EGP)">External Gateway Protocol (EGP) </A>.
+EIF	See <A href="bword://Event Integration Facility (EIF)">Event Integration Facility (EIF) </A>.
+electronic mail	See <A href="bword://mail">mail </A>.
+EMX	See <A href="bword://Enterprise Mail Exchange (EMX)">Enterprise Mail Exchange (EMX) </A>.
+end user	See <A href="bword://user">user </A>.
+Enterprise Mail Exchange (EMX)|enterprise-mail-exchange	A product by SoftSwitch, Inc., that acts as a protocol converter for electronic mail between the Unix/<A href="bword://Simple Mail Transfer Protocol (SMTP)">SMTP </A>, <A href="bword://International Business Machines (IBM)">IBM </A>3090/<a href="bword://Distribution Office Support Systems (DISOSS)">DISSOS </A>
+ergonomics	The study of the problems of people in adjusting their environment to themselves.
+ESMTP	See <A href="bword://Extended Simple Mail Transfer Protocol (ESMTP)">Extended Simple Mail Transfer Protocol (ESMTP) </A>.
+Event Integration Facility (EIF)|event-integration-facility	Defines and forwards management events from existing applications to the Enterprise Console, and provides facilities to process the events.
+exception	An indication that some event of particular interest has occurred, such as an error in a procedure, an authorization failure or any other unanticipated event. Generally, an indication that a request was not performed successfully.
+Extended Simple Mail Transfer Protocol (ESMTP)|extended-simple-mail-transfer-protocol	Extensions to the <A href="bword://Simple Mail Transfer Protocol">Simple Mail Transfer Protocol </A>, defined in <A href="http://ftp.isi.edu/in-notes/rfc1869.txt">RFC 1869 </A>, that allow for additional features.
+eXternal Data Representation (XDR)|external-data-representation	A <A href="http://ftp.isi.edu/in-notes/rfc1832.txt">standard format (RFC 1832) </A>for the common representation of data between diverse platforms.
+external firewall	A firewall between a company and the outside world (Internet). Certain data (for example, mail and news) can flow unimpeded, but interactive sessions or scripts cannot affect data in either inbound or outbound directions. See also <A href="bword://firewall">firewall </A>, <A HREF="bword://internet">internet</A>, <A href="bword://Unix to Unix Copy (UUCP)">Unix to Unix Copy (UUCP) </A>.
+External Gateway Protocol (EGP)|external-gateway-protocol	A protocol, defined in <A href="http://ftp.isi.edu/in-notes/rfc904.txt">RFC 904 </A>, that defines how a router should interact with external networks.
+fast file system (FFS)|fast-file-system	The first major revision to the Unix file system, providing faster read access and faster (delayed, asynchronous) write access through a disk cache and better file system layout on disk. See also <A href="bword://file system">file system </A>.
+FAT	See <A href="bword://File Allocation Table (FAT)">File Allocation Table (FAT) </A>.
+FC	See <A href="bword://Fiber Channel (FC)">Fiber Channel (FC) </A>.
+FDDI	See <A href="bword://Fiber Distributed Data Interface (FDDI)">Fiber Distributed Data Interface (FDDI) </A>.
+FECN	See <A href="bword://Forward Explicit Congestion Notification (FECN)">Forward Explicit Congestion Notification (FECN) </A>.
+FFS	See <A href="bword://fast file system (FFS)">fast file system (FFS) </A>.
+Fiber Channel (FC)|fiber-channel	A high-speed networking standard for disks whose underlying medium is fiber optics.
+Fiber Distributed Data Interface (FDDI)|fiber-distributed-data-interface	A high-speed networking standard (<A href="http://ftp.isi.edu/in-notes/rfc1285.txt">RFC 1285 </A>and <A href="http://ftp.isi.edu/in-notes/rfc1512.txt">RFC 1512 </A>) whose underlying medium is fiber optics. The topology is dual-attached, counter-rotating Token Ring.
+field-replacable unit (FRU)|field-replacable-unit	A hardware component that can be replaced in the field, as opposed to at the factory.
+File Allocation Table (FAT)|file-allocation-table	A table that the operating system on a personal computer uses to locate files on a disk. Due to fragmentation, a file may be divided into many sections that are scattered around the disk. The FAT keeps track of all these pieces. See also <A href="bword://superblock">superblock </A>.
+file system	A hierarchical structure of data on one or more disks or partitions. The actual structural details depend on the file system type. See <A href="bword://Andrew File System (AFS)">Andrew File System (AFS) </A>, <A href="bword://Common Internet File System (CIFS)">Common Internet File System (CIFS) </A>, <A href="bword://distributed file system (DFS)">distributed file system (DFS) </A>, <A href="bword://Fast File System (FFS)">Fast File System (FFS) </A>, <A href="bword://Hierarchical File System (HFS)">Hierarchical File System (HFS) </A>, <A href="bword://Institutional File System (IFS)">Institutional File System (IFS) </A>, <A href="bword://Network File System (NFS)">Network File System (NFS) </A>, and <A href="bword://Unix File System (UFS)">Unix File System (UFS) </A>.
+File Transfer Protocol (FTP)|file-transfer-protocol	A <A href="bword://Transmission Control Protocol (TCP)">TCP </A>/<A href="bword://Internet Protocol (IP)">IP </A><A href="http://ftp.isi.edu/in-notes/rfc959.txt">protocol (RFC 959) </A>specifying the transfer of text or binary files across the network.
+firewall	A logical or physical discontinuity in a network to prevent unauthorized access to data or resources. See also <A href="bword://external firewall">external firewall </A>.
+Forward Explicit Congestion Notification (FECN)|forward-explicit-congestion-notification	A bit in the <A href="bword://Frame Relay">Frame Relay </A>header that is set when the network router has detected congestion in the destination direction (or &quotforeward," from the packet's point of view). See also <A href="bword://Backward Explicit Congestion Notification (BECN)">Backward Explicit Congestion Notification (BECN) </A>.
+FQDN	See <A href="bword://fully qualified domain name (FQDN)">fully qualified domain name (FQDN) </A>.
+frag	A partial block of data on disk (fragment). Typically there are 8 frags per block. The smallest frag is equal to a <A href="bword://sector">sector </A>.
+fragmentation	Storing files noncontiguously on a disk. Fragmentation increases the time it takes to read a file since the disk has to rotate more and the disk read heads have to seek more.
+frame relay	A low-level network transport similar to <A href="bword://Asynchronous Transfer Mode (ATM)">Asynchronous Transfer Mode (ATM) </A>wherein frames or packets are relayed from one <A href="bword://switch">switch </A>to another.
+framework	(Security.) Describes the interrelationships between different parts of a program or organization.
+free list	A list of unallocated blocks and inodes kept in the superblock.
+FRU	See <A href="bword://field-replacable unit (FRU)">field-replacable unit (FRU) </A>.
+FTP	See <A href="bword://File Transfer Protocol (FTP)">File Transfer Protocol (FTP) </A>.
+fully qualified domain name (FQDN)|fully-qualified-domain-name	A host specification including the entire <A href="bword://domain">domain </A>structure complete to the <A href="bword://top-level domains (TLD) ">top-level domain </A>(.com, .edu, .mil, and so on), in <I>host.site.domain.name</I> format.
+gadget	A dialog control that presents application output in some form and provides a way for an application to receive administrator input.
+gadget library	Object-oriented abstractions for manipulating dialogs.
+gateway	See <A href="bword://router">router </A>.
+GID	See <A href="bword://group ID (GID)">group ID (GID) </A>.
+GIF	See <A href="bword://Graphics Interchange Format (GIF)">Graphics Interchange Format (GIF) </A>.
+glue record	A record in <A href="bword://Domain Name Service (DNS)">DNS </A>to provide the IP addresses for a subdomain specified as self-responsible via a previous <A href="bword://DNS record types">NS </A>record.
+graft	Add a branch to a multipoint router network when a site on that branch subscribes to or asks to join a <A href="bword://multicast">multicast </A> call.
+graphical user interface (GUI)|graphical-user-interface	A screen-based (as opposed to a line-based) interface between the user and an application.
+Graphics Interchange Format (GIF)|graphics-interchange-format	A graphics format pioneered by CompuServe that has a maximum of 256 colors, interlacing, and transparency (one color can be defined as transparent, allowing the background color to be visible); one of the most common graphics formats on the <A href="bword://World Wide Web (WWW)">World Wide Web (WWW) </A>. See also <A href="bword://Joint Photographic Experts Group (JPEG)">Joint Photographic Experts Group (JPEG) </A>.
+group alias	A mail alias for a group of people; a mailing list. Consists of the group alias or mailing list, a request alias for submission and resignation requests, and an owner alias for problems.
+group ID (GID)|group-id	A numeric value for the user account's group permissions.
+GUI	See <A href="bword://graphical user interface (GUI)">graphical user interface (GUI) </A>.
+guidelines	(Security.) Recommended actions to follow in implementing the current <A href="bword://policy">policy </A>. Guidelines should always be considered in the context of the best business practices. Guidelines change with the bank computer environment. Adherence to guidelines is advisable but
+H&H|h-and-h|h-h	See <A href="bword://Hoot & Holler (H&H)">Hoot &amp; Holler (H&ampH) </A>.
+hacker	One who uses a computer beyond its original design to accomplish a task. See also <A href="bword://cracker">cracker </A>.
+header	The first five bytes of an <A href="bword://Asynchronous Transfer Mode (ATM)">ATM </A><A href="bword://cell">cell </A>, containing information on flow control, virtual path and channel, payload type, cell urgency, and a header-only checksum.
+HFS	See <A href="bword://Hierarchical File System (HFS)">Hierarchical File System (HFS) </A>.
+Hierarchical File System (HFS)|hierarchical-file-system	(General) A structured, hierarchical <A href="bword://file system">file system </A>, such as the <A href="bword://fast file system (FFS)">fast file system (FFS) </A>or the <A href="bword://Unix File System (UFS)">Unix File System (UFS) </A>.<BR>(Specific) The hierarchical file system used on the Macintosh system in MacOS 6 through MacOS 9. Deprecated in MacOS X.
+High Performance Peripheral Interface (HiPPI)|high-performance-peripheral-interface	A high-speed (800Mb/sec or 1.6Gb/sec, depending on the width) network interface connection, typically to one or more mainframes or supercomputers.
+High Speed Serial Interface (HSSI)|high-speed-serial-interface	A serial interface that runs on high speeds.
+HINFO record	See <A href="bword://DNS record types">DNS record types, HINFO record </A>.
+HiPPI	See <A href="bword://High Performance Peripheral Interface (HiPPI)">High Performance Peripheral Interface (HiPPI) </A>.
+Hoot & Holler (H&H)|hoot-&-holler|hoot-and-holler|hoot-holler	A dedicated point-to-point voice facility between international offices of a trading facility.
+hop	A direct path from one node to another, with a hop count of 1. See <A href="bword://hop count">hop count </A>.
+hop count	A measure of distance between two nodes in an internet. A hop count of <I>n</I> means there are <I>n-1</I> gateways between the source and the destination nodes.
+host	A computer, router, or workstation which may or may not be on a network.
+host alias	A nickname for a host, such as "chimailhost" for the machine in Chicago that handles mail.
+host part	The host-specific portion of a <A href="bword://Classless Internet Domain Routing (CIDR)">CIDR </A>address. The host part identifies the specific interface on a host.
+hot spare	A disk partition reserved for use in a stripe or mirror metadevice; in case an existing partition fails use a hot spare to recover data in place with no downtime and no data loss. See also <A href="bword://Disk Suite">Disk Suite </A>.
+HSSI	See <A href="bword://High Speed Serial Interface (HSSI)">High Speed Serial Interface (HSSI) </A>.
+HTML	See <A href="bword://HyperText Markup Language (HTML)">HyperText Markup Language (HTML) </A>.
+HTTP	See <A href="bword://HyperText Transport Protocol (HTTP)">HyperText Transport Protocol (HTTP) </A>.
+hub	Network hardware than centralizes a number of network terminal or workstation connections in a single area.
+human engineering	See <A href="bword://ergonomics">ergonomics </A>.
+hypertext	A method of presenting information where selected words in online text can be "expanded" into more information.
+HyperText Markup Language (HTML)|hypertext-markup-language	A subset of the US government's <A href="bword://Standardized General Markup Language (SGML)">Standardized General Markup Language (SGML) </A>, HTML is the underlying base of the <A href="bword://World Wide Web (WWW)">World Wide Web (WWW) </A>. Even though SGML has a static definition, HTML is expandable because SGML defines a process for extending its subsets of tags. Defined in <A href="http://ftp.isi.edu/in-notes/rfc1866.txt">RFC 1866 </A>.
+HyperText Transport Protocol (HTTP)|hypertext-transport-protocol	The protocol in the <A href="bword://Internet Protocol (IP)">Internet Protocol (IP) </A>family used to transport hypertext documents across an internet. Defined in <A href="http://ftp.isi.edu/in-notes/rfc1945.txt">RFC 1945 (v1.0) </A>and <a href="http://ftp.isi.edu/in-notes/rfc2616.txt">RFC 2616 (v1.1) </A>
+IAB	See <A href="bword://Internet Advisory Board (IAB)">Internet Advisory Board (IAB) </A>.
+IANA	See <A href="bword://Internet Assigned Numbers Authority (IANA)">Internet Assigned Numbers Authority (IANA) </A>.
+IBM	See <A href="bword://International Business Machines (IBM)">International Business Machines (IBM) </A>.
+ICMP	See <A href="bword://Internet Control Message Protocol (ICMP)">Internet Control Message Protocol (ICMP) </A>.
+icon	A visual representation of an object including a set of operations for the object.
+IDE	See <A href="bword://Integrated Disk Electronics (IDE)">Integrated Disk Electronics (IDE) </A>.
+IDL	See <A href="bword://Interface Definition Language (IDL)">Interface Definition Language (IDL) </A>.
+IDP	See <A href="bword://Internetwork Datagram Protocol (IDP)">Internetwork Datagram Protocol (IDP) </A>.
+IETF	See <A href="bword://Internet Engineering Task Force (IETF)">Internet Engineering Task Force (IETF) </A>.
+IFS	See <A href="bword://Institutional File System (IFS)">Institutional File System (IFS) </A>.
+IGMP	See <A href="bword://Internet Group Management Protocol (IGMP)">Internet Group Management Protocol (IGMP) </A>.
+IGP	See <A href="bword://Internet Gateway Protocol (IGP)">Internet Gateway Protocol (IGP) </A>.
+IM	See <A href="bword://Instance Manager (IM)">Instance Manager (IM) </A>.
+IMAP	See <A href="bword://Internet Mail Access Protocol (IMAP)">Internet Mail Access Protocol (IMAP) </A>.
+Independent Software Vendor (ISV)|independent-software-vendor	A company that sells software that was originally created or manufactured by a different company.
+individual alias	A mail alias for an individual user.
+infinite loop	See <A href="bword://recursion">recursion </A>.
+inode	Pointer to a data block or another inode.
+instance	A particular object of an object type.
+Instance Manager (IM)|instance-manager	Provides the fundamental operations that support the management of multiple instances of an object type.
+Institutional File System (IFS)|institutional-file-system	A specific instance of a <A href="bword://distributed file system (DFS)">distributed file system (DFS) </A>, based on the <A href="bword://AFS">Andrew File System (AFS) </A>developed at <A href="bword://Carnegie-Mellon University (CMU)">CMU </A>, allowing multiple <A href="bword://file system">file systems </A>to be shared between organizations and treated, at the user interface level, as one giant file system. Modified by <A href="http://Interantional Business Machines (IBM)">IBM </A>and in use at <A href="http://www.umich.edu/">The University of Michigan </A>.
+Integrated Disk Electronics (IDE)|integrated-disk-electronics	Also known as <A href="bword://Advanced Technology Adapter (ATA)">Advanced Technology Adapter (ATA) </A>, an interface for mass storage devices, in which the controller is integrated into the disk or CD-ROM drive.
+Integrated Services Digital Network (ISDN)|integrated-services-digital-network	Combines voice and digital network services in a single medium. Defined in <A href="http://ftp.isi.edu/in-notes/rfc2127.txt">RFC 2127 </A>.
+Inter-Object Message (IOM)|inter-object-message	A service providing a connection-oriented bidirectional link between methods of different objects that is independent of the object services layer and the operating system.
+Inter-Process Communication (IPC)|inter-process-communication	A structured means of communication between multiple processes on a single machine. See also <A href="bword://Remote Procedure Call (RPC)">Remote Procedure Call (RPC) </A>.
+interface	A description of a set of possible operations that a client may request of an object. A listing of the operations and attributes that an object provided.
+Interface Definition Language (IDL)|interface-definition-language	<A href="bword://Object Management Group (OMG)">OMG </A><A href="bword://Common Object Request Broker Architecture (CORBA)">CORBA </A>specification providing a standard language for defining the interfaces to objects that clients call and object implementations provide.
+internal firewall	A firewall between two or more subnets within a company. See also <A href="bword://firewall">firewall </A>.
+International Business Machines (IBM)|international-business-machine	One of the major mainframe computer manufacturers, as well as a personal computer designer. Manufacturer of many mainframes.
+International Standards Organization (ISO)|international-standards-organization	An organization responsible for determining standards, including standards on computer hardware and protocols.
+International Telecommunications Union (ITU)|international-telecommunications-union	The committee that defines telecommunications standards, like <A href="bword://Asynchronous Transfer Mode (ATM)">Asynchronous Transfer Mode (ATM) </A>and <A href="bword://Integrated Services Digital Network (ISDN)">Integrated Services Digital Network (ISDN) </A>. The new name for the <A href="bword://International Telegraph and Telephone Consultative Committee (CCITT)">International Telegraph and Telephone Consultative Committee (CCITT) </A>.
+International Telegraph and Telephone Consultative Committee (CCITT)|international-telegraph-and-telephone-consultative-committee	The committee that defines telecommunications standards. Now known as the <A href="bword://International Telecommunications Union (ITU)">International Telecommunications Union (ITU) </A>.
+internet	A large meta-network of machines and other networks that exchange data such as electronic mail and news. When used with a capital I (&quotInternet") it refers to the specific worldwide network built upon the DARPA networks, the NSFnet, and other regional and national networks. When used with a small i (&quotinternet") it refers to any large network of computers. See also <A href="bword://Local Area Network (LAN)">Local Area Network (LAN) </A>, <A href="bword://network">network </A>, <A href="bword://Wide Area Network (WAN)">Wide Area Network (WAN) </A>.
+Internet Advisory Board (IAB)|internet-advisory-board	The organization tasked with maintaining and expanding the standards of the Internet. Among their responsibilities are the Internet <A href="bword://Request for Comments (RFC)">Requests for Comment (RFC) </A>, that <A href="http://ftp.isi.edu/in-notes/rfc1160.txt">propose and define new standards </A>.
+Internet Assigned Numbers Authority (IANA)|internet-assigned-numbers-authority	The organization responsible for matching unique numerical addresses (IP addresses) to computer names for the Internet. Their web site is at <A href="http://www.iana.org/">http://www.iana.org/ </A>. See also <A href="bword://Domain Name Service (DNS)">Domain Naming Service (DNS) </A>, <A href="bword://Internet">Internet </A>, <A href="bword://Internet Protocol">Internet Protocol </A>, <A href="bword://IP family">IP family </A>.
+Internet Control Message Protocol (ICMP)|internet-control-message-protocol	A message-passing <A href="http://ftp.isi.edu/in-notes/rfc792.txt">protocol </A>that defines the control of IP packets.
+Internet Engineering Task Force (IETF)|internet-engineering-task-force	One of the committees that steers new engineering developments for the Internet. Such developments include the <A href="bword://Dynamic Host Configuration Protocol (DHCP)">Dynamic Host Configuration Protocol (DHCP) </A>and the next version(s) of the Internet Protocol, <A href="bword://Internet Protocol version 6 (IPv6)">IPNG or IPv6 </A>.
+Internet Gateway Protocol (IGP)|internet-gateway-protocol	A protocol used to communicate routing information between Internet routers.
+Internet Group Management Protocol (IGMP)|internet-group-management-protocol	A protocol used to form and dissolve groups on the MBONE.
+Internet Mail Access Protocol (IMAP)|internet-mail-access-protocol	A protocol that defines how a client should fetch mail from and return mail to a mail server. IMAP is intended as a replacement for or extension to the <A href="bword://Post Office Protocol (POP)">Post Office Protocol (POP) </A>. It is defined in <A href="http://ftp.isi.edu/in-notes/rfc1203.txt">RFC 1203 (v3) </A>and <A href="http://ftp.isi.edu/in-notes/rfc2060.txt">RFC 2060 (v4) </A>.
+Internet Protocol (IP)|internet-protocol|ip	The internetwork datagram delivery protocol that is central to the Internet protocol family. Currently at <A href="http://ftp.isi.edu/in-notes/rfc791.txt">version 4 (RFC 791) </A>, a new version is forthcoming from the <A href="bword://Internet Engineering Task Force (IETF)">Internet Engineering Task Force (IETF) </A>known as either IPNG (for <A href="http://ftp.isi.edu/in-notes/rfc1752.txt">&quotNext Generation" </A>) or <A href="bword://Internet Protocol version 6 (IPv6)">IPv6 </A>(for <A href="http://ftp.isi.edu/in-notes/rfc2460.txt">version 6 </A>). See also <a href="bword://IP family">IP family </A>.
+Internet Protocol Next Generation (IPNG)|internet-protocol-next-generation	See <A href="bword://Internet Protocol version 6 (IPv6)">Internet Protocol version 6 (IPv6) </A>.
+Internet Protocol version 6 (IPv6)|internet-protocol-version-6	Also known as IP Next Generation (IPNG), the next generation of the Internet Protocol. Reserves a larger address space and several new configuration and security options to fix shortcomings that the current version of IP (v4), created in the 1960s, doesn't address. See also <A href="bword://Internet Protocol (IP)">Internet Protocol (IP) </A>.
+Internet Service Provider (ISP)|internet-service-provider	A company that provides a connection to the Internet, such as UUNET Technologies.
+Internetwork Datagram Protocol (IDP)|internetwork-datagram-protocol	Part of the <A href="bword://Xerox Network Systems (XNS)">Xerox Network System (XNS) </A>developed at Xerox PARC. Used as the basis for the <A href="bword://Internetwork Packet Exchange (IPX)">Internetwork Packet Exchange (IPX) </A>.
+Internetwork Packet Exchange (IPX)|internetwork-packet-exchange	A network protocol developed by Novell for its Netware product. It will hopefully be obsoleted by <A href="bword://Internet Protocol (IP)">IP </A>in the moderate-term future. Provides datagram (unreliable) delivery. See also <A href="bword://Internetwork Datagram Protocol (IDP)">Internetwork Datagram Protocol (IDP) </A>, <A href="bword://User Datagram Protocol (UDP)">User Datagram Protocol (UDP) </A>.
+InterNIC	The organization that administers the <A href="bword://big six">big six </A><A href="bword://top-level domains">top-level domains </A>.
+IOM	See <A href="bword://Inter-Object Message (IOM)">Inter-Object Message (IOM) </A>.
+IP	See <A href="bword://Internet Protocol (IP)">Internet Protocol (IP) </A>.
+IP family	The Internet Protocol (IP) family consists of many different protocols, including: <BR>- Address Resolution Protocol (ARP)--See <A href="bword://Address Resolution Protocol (ARP)">Address Resolution Protocol (ARP) </A>.<BR>- Internet Control Message Protocol (ICMP)--See <A href="bword://Internet Control Message Protocol (ICMP)">Internet Control Message Protocol (ICMP) </A>.<BR>- Internet Protocol (IP)--See <A href="bword://Internet Protocol (IP)">Internet Protocol (IP) </A>.<BR>- Transmission Control Protocol (TCP)--See <A href="bword://Transmission Control Protocol (TCP)">Transmission Control Protocol (TCP) </A>.<BR>- User Datagram Protocol (UDP)--See <A href="bword://User Datagram Protocol (UDP)">User Datagram Protocol (UDP) </A>.
+IPC	See <A href="bword://Inter-Process Communication (IPC)">Inter-Process Communication (IPC) </A>.
+IPNG	See <A href="bword://Internet Protocol Next Generation (IPNG)">Internet Protocol Next Generation (IPNG) </A>.
+IPv6	See <A href="bword://Internet Protocol version 6 (IPv6)">Internet Protocol version 6 (IPv6) </A>.
+IPX	See <A href="bword://Internetwork Packet Exchange (IPX)">Internetwork Packet Exchange (IPX) </A>.
+ISDN	See <A href="bword://Integrated Services Digital Network (ISDN)">Integrated Services Digital Network (ISDN) </A>.
+ISDN Signalling Link (ISL)|isdn-signalling-link	A hybrid of CAS and CCS; basic signalling (such as &quotoff-hook") is transmitted in-band (CAS style), and enhanced information (such as caller ID) is transmitted out-of-band (CCS style). See also <A href="bword://Channel Associated Signalling (CAS)">Channel Associated Signalling (CAS) </A>, <A href="bword://Common Channel Signalling (CCS)">Common Channel Signalling (CCS) </A>.
+ISL	See <A href="bword://ISDN Signalling Link (ISL)">ISDN Signalling Link (ISL) </A>.
+ISO	See <A href="bword://International Standards Organization (ISO)">International Standards Organization (ISO) </A>.
+ISP	See <A href="bword://Internet Service Provider (ISP)">Internet Service Provider (ISP) </A>.
+ISV	See <A href="bword://Independent Software Vendor (ISV)">Independent Software Vendor (ISV) </A>.
+ITU	See <a href="bword://International Telecommunications Union (ITU)">International Telecommunications Union (ITU) </A>.
+Job	An administrator-defined activity that performs a specific duty; a set of tasks with a pre-selected set of managed node subscribers.
+Joint Photographic Experts Group (JPEG)|joint-photographic-experts-group	A group of photographic experts who, finding the <a href="bword://Graphics Interchange Format (GIF)">Graphics Interchange Format (GIF) </A>format too limiting for true quality static video, developed their own. Also referred to as JPEG (or<BR>JPG for those systems with only a three-character extension), this format provides for thousands of colors but no interlacing or transparency.
+JPEG	See <a href="bword://Joint Photographic Experts Group (JPEG)">Joint Photographic Experts Group (JPEG) </A>.<BR>
+JPG	See <a href="bword://Joint Photographic Experts Group (JPEG)">Joint Photographic Experts Group (JPEG) </A>.<BR>
+Kerberos	A <a href="http://ftp.isi.edu/in-notes/rfc1510.txt">network authentication service </A>developed at <a href="bword://Massachusetts Institute of Technology">MIT </A>that uses <a href="bword://Data Encryption Standard (DES)">DES </A>for open network computing environments.<BR>
+kernel	The base component of a program that is always in memory; the <a href="bword://operating system">operating system </A>.
+label	Part of a <A href="bword://DNS record types">DNS </A><A href="bword://domain">domain </A>name, corresponding to a component within a <A href="bword://fully-qualified domain name (FQDN)">fully-qualified domain name (FQDN) </A>.
+LAN	See <A href="bword://Local Area Network (LAN)">Local Area Network (LAN) </A>.
+LBO	See <A href="bword://line buildout (LBO)">line buildout (LBO) </A>.
+LDAP	See <A href="bword://Lightweight Directory Access Protocol (LDAP)">Lightweight Directory Access Protocol (LDAP) </A>.
+LED	See <A href="bword://Light Emitting Diode (LED)">Light Emitting Diode (LED) </A>.
+legacy method	A method developed by some means other than the current version of <A href="bword://Advanced Development Environment (ADE)">ADE </A>; for example, a C program, a shell script or other non-<A href="bword://Common Object Request Broker Architecture (CORBA)">CORBA </A>-compatible routine.
+library object (LO)|library-object	A common source of information about the known types of <A href="bword://object">objects </A>. There is one library object per <A href="bword://Tivoli Management Region (TMR)">TMR </A>.
+Library Object Adapter (LOA)|library-object-adapter	Library routines which provide an interface to <A href="bword://Object Request Broker (ORB)">ORB </A>services that is convenient for the <A href="bword://library object">library object </A>implementation.
+Light Emitting Diode (LED)|light-emitting-diode	A diode, or two-state device, that emits light in one state ("on") and does not emit light in the other ("off"). LEDs are used to indicate problems or diagnostic codes.
+Lightweight Directory Access Protocol (LDAP)|lightweight-directory-access-protocol	A protocol (defined in <A href="http://ftp.isi.edu/in-notes/rfc1777.txt">RFC 1777 </A>and <A href="http://ftp.isi.edu/in-notes/rfc2251.txt">RFC 2251 </A>) for user information suitable for address books or phone books, based on the <A href="bword://OSI">OSI </A><A href="http://X.500">X.500 </A>standard.
+line buildout (LBO)|line-buildout	Engineering or designing the interface between two telecommunications devices, such as <A href="bword://Private Branch eXchange (PBX)">Private Branch eXchanges (PBX) </A>.
+LO	See <A href="bword://library object (LO)">library object (LO) </A>.
+LOA	See <A href="bword://Library Object Adapter (LOA)">Library Object Adapter (LOA) </A>.
+Local Area Network (LAN)|local-area-network	A network of machines generally limited to a local area, such as one or more floors of a building, or nearby buildings. See also <A href="bword://network">network </A>, <A href="bword://Wide Area Network (WAN)">Wide Area Network (WAN) </A>.
+Local Support Center (LSC)|local-support-center	A regional or local support center, containing one or more personnel, responsible for local hands-on support of network-related equipment.
+lookup	Looking up an <A href="bword://Internet Protocol">IP </A>address from its name in <A href="bword://Domain Name Service (DNS)">DNS </A>. See also <A href="bword://reverse lookup ">reverse lookup </A>.
+LSC	See <A href="bword://Local Support Center (LSC)">Local Support Center (LSC) </A>.
+m4	A suite of macro-processing utilities for simplifying administration of system files that are different on different hosts (such as /etc/printcap).
+MAC	See <A href="bword://Media Access Control (MAC)">Media Access Control (MAC) </A>.
+mail	A message to one or more users or groups sent over the computer. Mail can include other documents as attachments. Mail can traverse multiple machines and networks. See also <A href="bword://attachment">attachment </A>, <A href="bword://Multipurpose Internet Mail Extensions (MIME)">Multipurpose Internet Mail Extensions (MIME) </A>, <A href="bword://NeXTMail">NeXTMail </A>, <A href="bword://Simple Mail Transfer Protocol (SMTP)">Simple Mail Transfer Protocol (SMTP) </A>.
+mail address	An <A href="http://ftp.isi.edu/in-notes/rfc822.txt">RFC 822 </A>compliant address in one of the following forms: <BR>- Firstname Lastname &ltuser@site.domain.name&gt;<BR>- user@site.domain.name (Firstname Lastname) See also <A href="bword://Request For Comments (RFC)">RFC </A>.
+mail alias	An alias used for electronic mail. See <A href="bword://alias">alias </A>.
+Maker Interchange Format (MIF)|maker-interchange-format	An all-<A href="bword://ASCII">ASCII </A>representation of a document for FrameMaker. It is possible for scripts to generate MIF format files for importing into FrameMaker. In addition, the MIF format allows documents to be moved to previous versions of the program or to different platforms.
+MAN	See <A href="bword://Metropolitan Area Network (MAN)">Metropolitan Area Network (MAN) </A>.
+managed node	An object that represents a machine; a managed machine interface that is generic across all platforms.
+managed resource	A specific instance of a resource type that has a default policy defined in the <A href="bword://policy">policy </A>region.
+Management Information Base (MIB)|management-information-base	A collection of data objects that can be accessed via a network management protocol such as <A href="bword://Simple Network Management Protocol (SNMP)">Simple Network Management Protocol (SNMP) </A>. General information can be found in <A href="http://ftp.isi.edu/in-notes/rfc1156.txt">RFC 1156 </A>.
+map	A system database, such as the password or hosts maps, in the <A href="bword://Network Information Service (NIS)">Network Information Service (NIS) </A>.
+MARS	See <A href="bword://Multicast Address Resolution Server (MARS)">Multicast Address Resolution Server (MARS) </A>.
+Massachusetts Institute of Technology (MIT)|massachusetts-institute-of-technology	The source of a number of widely-used computer programs, including <A href="bword://Kerberos">Kerberos </A>and the X Window System.
+master	The primary NetInfo server in a domain or subdomain. See <A href="bword://NetInfo">NetInfo </A>. The primary NIS server in a domain. See <A href="bword://Network Information Service (NIS)">Network Information Service (NIS) </A>.
+maximum transfer unit (MTU)|maximum-transfer-unit	The largest <A href="bword://packet">packet </A>size that a network interface is configured to accept.
+MBONE	The <A href="bword://multicast">multicast </A>network overlaid atop the global <A href="bword://Internet">Internet </A>.
+MDist	See <A href="bword://Multiplexed Distribution (MDist)">Multiplexed Distribution (MDist) </A>.
+Media Access Control (MAC)|media-access-control	The six-byte address of network either the Ethernet or the <A href="bword://Asynchronous Transfer Mode (ATM)">ATM </A>hardware (interface board). Typically written as six colon-separated hexadecimal numbers.
+metadevice	A logical device that encompasses one or more physical devices. See also <A href="bword://Disk Suite">Disk Suite </A>.
+metamirror	See <A href="bword://mirror">mirror </A>.
+method	Code that is executed to perform some service; an implementation-specific procedure which carries out some function; for example, a program, operating system command or shell script. The method performs some work and returns any results or status to the originator of the request.
+Metropolitan Area Network (MAN)|metropolitan-area-network	A collection of local area networks (LANs) that would otherwise be a wide area network (WAN), but which is local to a single metropolitan area (for example, between five different buldings in London). See also <A href="bword://Local Area Network (LAN)">Local Area Network (LAN) </A>, <A href="bword://Wide Area Network (WAN)">Wide Area Network (WAN) </A>.
+MIB	See <A href="bword://Management Information Base (MIB)">Management Information Base (MIB) </A>.
+MIF	See <A href="bword://Maker Interchange Format (MIF)">Maker Interchange Format (MIF) </A>.
+MIME	See <A href="bword://Multipurpose Internet Mail Extensions (MIME)">Multipurpose Internet Mail Extensions (MIME) </A>.
+mirror	A collection of one to three <A href="bword://submirror">submirrors </A>which, when modified, causes the modification to be applied to each of its submirrors. A technique of duplicating data on multiple logical disk partitions to reduce the risk of data loss in the event of a hardware failure. See also <A href="bword://Disk Suite">Disk Suite </A>.
+MIT	See <A href="bword://Massachusetts Institute of Technology (MIT)">Massachusetts Institute of Technology (MIT) </A>.
+MOSPF	See <a href="bword://Multicast Open Shortest Path First (MOSPF)">Multicast Open Shortest Path First (MOSPF) </A>.
+Motif	A windowing environment for the X Window System.
+mrouter	A <A href="bword://multicast">multicast </A>router. See <A href="bword://router">router </A>.
+MS-DOS|ms-dos	See <A href="bword://Disk Operating System (DOS)">Disk Operating System (DOS) </A>.
+MTU	See <A href="bword://maximum transfer unit (MTU)">maximum transfer unit (MTU) </A>.
+multicast	One host multicasts when it wants multiple machines (typically on a WAN) to receive the packet or information. See also <A href="bword://anycast">anycast </A>, <A href="bword://broadcast">broadcast </A>, <A href="bword://unicast">unicast </A>.
+Multicast Address Resolution Server (MARS)|multicast-address-resolution-server	Tracks the multicast-capable hosts and any existing groups for adding and removing multicast routers from a conference.
+Multicast Open Shortest Path First (MOSPF)|multicast-open-shortest-path-first	A multicast version of the <A href="bword://Open Shortest Path First (OSPF)">Open Shortest Path First (OSPF) </A>routing protocol. This <A href="http://ftp.isi.edu/in-notes/rfc1585.txt">multicast routing protocol </A>scales much better than <A href="bword://Distance Vector Multicast Routing Protocol (DVMRP)">DVMRP </A>.
+multiplex|demultiplex	To combine multiple signals from possibly disparate sources, in order to transmit them over a single path. At the destination, the data stream is <I>demultiplexed</I> (or <I>demuxed</I>) back into its separate channels.
+Multiplexed Distribution (MDist)|multiplexed-distribution	A central service that is built on top of the TMP that distributes large amounts of data, such as the distribution of configuration data in Tivoli's profile-based applications and the distribution of Tivoli/Courier file packages.
+Multipurpose Internet Mail Extensions (MIME)|multipurpose-internet-mail-extensions	An <A href="http://ftp.isi.edu/in-notes/rfc2045.txt">open-ended standard </A>for including attachments in electronic mail messages. See also <A href="bword://attachment">attachment </A>, <A href="bword://mail">mail </A>, <A href="bword://NeXTMail">NeXTMail </A>.
+mux	See <A href="bword://multiplex">multiplex </A>.
+MX record	See <A href="bword://DNS record types">DNS record types, MX record </A>.
+NAP	See <A href="bword://Network Access Point (NAP)">Network Access Point (NAP) </A>.
+NAS	See <A href="bword://Network Attached Storage (NAS)">Network Attached Storage (NAS) </A>.
+NASD	See <A href="bword://Network Attached Storage Device">Network Attached Storage Device (NASD) </A>.
+National Center for Supercomputing Applications (NCSA)|national-center-for-supercomputing-applications	The National Center for Supercomputing Applications (NCSA), located at the University of Illinois at Urbana-Champaign, is a high-performance computing and communications facility and research center designed to serve the U.S. computational science and engineering community.
+NCSA	See <A href="bword://National Center for Supercomputing Applications (NCSA)">National Center for Supercomputing Applications (NCSA) </A>.
+NDMP	See <A href="bword://Network Data Management Protocol (NDMP)">Network Data Management Protocol (NDMP) </A>.
+negative caching	Some <A href="bword://Domain Name Service (DNS)">DNS </A>servers keep the answer &quotno such host or domain" cached to minimize response time to the <A href="bword://resolver">resolver </A>.
+NetInfo	A hierarchical collection of databases used by NEXTSTEP computers for maintaining administrative information such as user accounts, host entries, printer information, and <A href="bword://file system">file system </A>mounting data. The hierarchy consists of <A href="bword://domain">domains </A>, or levels.
+netnews	See <A href="bword://USENET news">USENET news </A>.
+network	A group of machines that share information and resources. A group of smaller networks or subnetworks. See also <A href="bword://internet">internet </A>, <A href="bword://Local Area Network (LAN)">Local Area Network (LAN) </A>, <A href="bword://subnet">subnet </A>, <A href="bword://Wide Area Network (WAN)">Wide Area Network (WAN) </A>.
+Network Access Point (NAP)|network-access-point	Telecommunications term for the location where a call (data or voice) enters the telecommunications network.
+network address	An <A href="bword://Internet Protocol (IP)">IP </A>address represented by a four-byte field written as <I>byte1.byte2.byte3.byte4</I>, where each byte is an <A href="bword://ASCII">ASCII </A>numeric representation (0 through 255). See also <A href="bword://host">host </A>, <A href="bword://Internet">Internet </A>, <A href="bword://network">network </A>, <A href="bword://subnet">subnet </A>.
+network administrator	See <A href="bword://system administrator">system administrator </A>.
+Network Attached Storage (NAS)|network-attached-storage	Storage (usually disks but possibly tapes or memory) attached to and distributed (shared) over a network. Usually the environment of a NAS is many computers sharing a lot of data; the typical bottleneck in performance is the file manager or object store. A common example is <A href="bword://Network File System (NFS)">NFS </A>over a <A href="bword://Local Area Network (LAN)">LAN </A>.
+Network Attached Storage Device (NAS)|network-attached-storage-device	Developed at <A href="bword://Carnegie-Mellon University (CMU)">CMU </A>, a more intelligent peripheral (disk or tape drive) that does its own file management. The drives enforce (but do not define) a security policy. Clients have an <A href="bword://Network File System (NFS)">NFS </A>-like interface and access model.
+Network Data Management Protocol (NDMP)|network-data-management-protocol	An open protocol for network-based backup of data.
+Network File System (NFS)|network-file-system	Allows <A href="bword://file system">file systems </A>from one machine to be shared transparently across a network by other machines. Originally defined in <A href="http://ftp.isi.edu/in-notes/rfc1094.txt">RFC 1094 (v2) </A>and <A href="http://ftp.isi.edu/in-notes/rfc1813.txt">RFC 1813 (v2) </A>.
+Network Information Center (NIC)|network-information-center	The Internet's Network Information Center is responsible for controlling <A href="bword://domain">domain </A>names across the entire Internet.
+Network Information Service (NIS)|network-information-service	Formerly known as <I>Yellow Pages (YP)</I>. A service used for the administration of network-wide databases within a specified <A href="bword://domain">domain </A>. The databases, called maps, are provided by <A href="bword://server">servers </A>(<A href="bword://master">master </A>servers which control the domain and are <A href="bword://client">client </A>-writable for changes, and/or <A href="bword://slave">slave </A>servers which are <A href="bword://client">client </A>-read-only) to participating hosts (clients) within a specified domain.
+Network Monitoring System (NMS)|network-monitoring-system	An application to notify front-line support personnel about problems with applications running on remote machines (such as the trading floor machines).
+Network News Transfer Protocol (NNTP)|network-news-transfer-protocol	A <A href="http://ftp.isi.edu/in-notes/rfc977.txt">client/server protocol </A>for exchanging and reading <A href="bword://USENET news">USENET news </A>articles.
+Network Time Protocol (NTP)|network-time-protocol	A protocol for synchronizing the clocks on all the hosts on a network or subnet to that of a single master time-keeper.
+Network-to-Network Interface (NNI)|network-to-network-interface	The connection on telecommunications equipment between two disparate telecommunications networks.
+news	See <A href="bword://USENET news">USENET news </A>.
+NeXTMail	The application for reading and sending mail on NeXT computers. Can include attachments in messages using drag-and-drop. See also <A href="bword://attachment">attachment </A>, <A href="bword://Multipurpose Internet Mail Extensions (MIME)">Multipurpose Internet Mail Extensions (MIME) </A>, <A href="bword://mail">mail </A>.
+NFS	See <A href="bword://Network File System (NFS)">Network File System (NFS) </A>.
+NIC	See <A href="bword://Network Information Center (NIC)">Network Information Center (NIC) </A>.
+NIS	See <A href="bword://Network Information Service (NIS)">Network Information Service (NIS) </A>.
+NIS+|nis-plus	An extension to the <A href="bword://Network Information Service (NIS)">Network Information Service (NIS) </A>including hierarchical domains, incremental updates to other servers, multiple indices to database tables, and built-in security. Requires the Solaris operating system.
+NLSP	See <A href="bword://Novell Link State Protocol (NLSP)">Novell Link State Protocol (NLSP) </A>.
+NMS	See <A href="bword://Network Monitoring System (NMS)">Network Monitoring System (NMS) </A>.
+NNI	See <A href="bword://Network-to-Network Interface (NNI)">Network-to-Network Interface (NNI) </A>.
+NNTP	See <A href="bword://Network News Transfer Protocol (NNTP)">Network News Transfer Protocol(NNTP) </A>.
+notice	A message concerning some operation or change in the distributed system.
+Novell Link State Protocol (NLSP)|novell-link-state-protocol	The equivalent of <A href="bword://Open Shortest Path First (OSPF)">Open Shortest Path First (OSPF) </A>for <A href="bword://Inter-Process Communication (IPC)">IPX </A><A href="bword://Routing Information Protocol (RIP)">RIP </A>and SAP services. Much more efficient in its use of bandwidth and improved stability.
+NS record	See <A href="bword://DNS record types">DNS record types, NS record </A>.
+NTFS	See <A href="bword://Windows NT File System">Windows NT File System (NTFS) </A>.
+NTP	See <A href="bword://Network Time Protocol (NTP)">Network Time Protocol (NTP) </A>.
+object	An identifiable, encapsulated entity that provides one or more services on request; entities in a distributed computer environment that are being managed; a model of the physical resources that are to be managed.
+object adapter	Routines which provide an interface to <A href="bword://Object Request Broker (ORB)">ORB </A>services that is convenient for a particular style of object implementation. There are several kinds of object adapters, for example the <A href="bword://Basic Object Adapter (BOA)">Basic Object Adapter (BOA) </A>, the <A href="bword://Library Object Adapter (LOA)">Library Object Adapter (LOA) </A>, and the Object-Oriented Database Adapter.
+object group	A named logical entity to which one or more objects belong and over which an administrator is granted one or more roles.
+object implementation	The provider of a service for a requestor (<A href="bword://client">client </A>); the Server.
+Object Management Group (OMG)|object-management-group	Object Management Group, Inc. is a non-profit international association of over 300 companies headquartered in Framingham, MA, whose goal is to define an architectural object framework through a series of detailed interface specifications.
+Object Request Broker (ORB)|object-request-broker	Delivers a request from a client to an object implementation. ORB provides the mechanisms by which objects transparently make requests and receive responses, providing interoperability between applications on different machines in heterogeneous distributed environments.
+object type	A set of objects that share a common interface; the characteristics that are common to a group of objects.
+OC1|oc12|oc192|oc24|oc3|oc48	Optical carrier standards for telecommunications carriers.
+OMG	See <A href="bword://Object Management Group (OMG)">Object Management Group (OMG) </A>.
+Open Shortest Path First (OSPF)|open-shortest-path-first	A <A href="http://ftp.isi.edu/in-notes/rfc1245.txt">routing protocol </A>where a route is chosen based on the fewest number of hops that do not pass through an over-congested <A href="bword://router">router </A>or <A href="bword://network">network </A>.
+Open Software Foundation (OSF)|open-software-foundation	An organization created to provide cross-platform software standards. Several common standards include the <A href="bword://Distributed Computing Environment (DCE)">Distributed Computing Environment (DCE) </A>and Motif.
+Open Systems Interconnection (OSI)|open-systems-interconnection	A model for implementing the protocols and interfaces to facilitate communications among computers of different manufacture and technology, being a seven-layer structure of (from lowest to highest) physical, data link, network, transport, session, presentation, and application.
+operating system (OS)|operating-system	The computer program or set of instructions that defines how a computer should operate. The underlying program running on a computer that allows the scheduling of jobs and the sharing of various system resources such as memory, disk space, and printers.
+ORB	See <A href="bword://Object Request Broker (ORB)">Object Request Broker (ORB) </A>.
+OS	See <A href="bword://operating system (OS)">operating system (OS) </A>.
+OSF	See <A href="bword://Open Software Foundation (OSF)">Open Software Foundation (OSF) </A>.
+OSI	See <A href="bword://Open Systems Interconnection (OSI)">Open Systems Interconnection (OSI) </A>.
+OSPF	See <A href="bword://Open Shortest Path First (OSPF)">Open Shortest Path First (OSPF) </A>.
+owner alias	An alias that points to the owner of a group alias triplet. See <A href="bword://group alias">group alias </A>.
+packet	A quantum unit of network data. A packet's contents are generally a header portion (with content and routing information) and a data portion (with the actual data).
+partition	A portion of a disk.
+Pathologically Eclectic Rubbish Lister (PERL)|pathologically-eclectic-rubbish-lister	A programming scripting language used heavily in systems administration and web programming with the <A href="bword://Common Gateway Interface (CGI)">Common Gateway Interface (CGI) </A>.
+payload	The 48-byte data portion of an <A href="bword://Asynchronous Transfer Mode (ATM)">ATM </A><A href="bword://cell">cell </A>.
+PBX	See <A href="bword://Private Branch eXchange (PBX)">Private Branch eXchange (PBX) </A>.
+PC	See <A href="bword://personal computer (PC)">personal computer (PC) </A>.
+PDC	See <A href="bword://Primary Domain Controller (PDC)">Primary Domain Controller (PDC) </A>.
+PERL	See <A href="bword://Pathologically Eclectic Rubbish Lister (PERL)">Pathologically Eclectic Rubbish Lister (PERL) </A>.
+Permanent Virtual Circuit (PVC)|permanent-virtual-circuit	A virtual circuit in an <A href="bword://Asynchronous Transfer Mode (ATM)">ATM </A>network that is always up when the switch is up. Used for signalling and routing information.
+personal computer (PC)|personal-computer	A machine compatible with the 8088/80x86 Intel microprocessor family. A machine capable of emulating the 8088/80x86 Intel microprocessor (such as the NEXTSTEP application SoftPC).
+PGP	See <A href="bword://Pretty Good Privacy (PGP)">Pretty Good Privacy (PGP) </A>.
+PID	See <A href="bword://process ID (PID)">process ID (PID) </A>.
+platter	A single piece of magnetic or magnetic/optical media on which data is stored. Multiple platters make up a disk. See also <A href="bword://cylinder">cylinder </A>, <A href="bword://track">track </A>.
+Point to Point Protocol (PPP)|point-to-point-protocol	The <A href="http://ftp.isi.edu/in-notes/rfc1661.txt">successor protocol (RFC 1661) </A>to <A href="bword://SLIP">SLIP </A>; PPP provides a point-to-point connection between individual entities using either a synchronous or an asynchronous data link. One of its primary features is the ability for one side to configure the <A href="bword://IP">IP </A>address of the other side.
+policy	1. A rule that an administrator places on the system, providing a way for an administrator to customize applications to organization-specific needs; policies are rules that govern the management of resources.<BR>2. (Security.) A long-term, broad strategy, with detail on interpretation and implementation.
+policy-driven object|policy-driven-object	An <A href="bword://object">object </A>for which <A href="bword://policy">policies </A>have been defined and whose behavior is determined by those policies.
+policy region	Associates specific policies with instances of policy-driven object types in order to enforce the application of these policies to managed resources; a policy region is a collection of <A href="bword://Tivoli Management Environment (TME)">TME </A>resources that are governed by a common set of <A href="bword://policy">policies </A>.
+POP	See <A href="bword://Post Office Protocol (POP)">Post Office Protocol (POP) </A>.
+Portable Operating System Interface (POSIX)|portable-operating-system-interface	A standard operating system interface that allows both Berkeley-based and AT&T-based Unix systems to share a common system call interface.
+POSIX	See <A href="bword://Portable Operating System Interface (POSIX)">Portable Operating System Interface (POSIX) </A>.
+Post Office Protocol (POP)|post-office-protocol	A protocol (a precursor to <A href="bword://Internet Mail Access Protocol (IMAP)">Internet Mail Access Protocol (IMAP) </A>) that defines how a <A href="bword://client">client </A>should fetch mail from and return mail to a mail <A href="bword://server">server </A>. Defined in <A href="http://ftp.isi.edu/in-notes/rfc937.txt">RFC 937 (v2) </A>and in <A href="http://ftp.isi.edu/in-notes/rfc1939.txt">RFC 1939 (v3) </A>.
+PPP	See <A href="http://Point to Point Protocol (PPP)">Point to Point Protocol (PPP) </A>.
+prefix	The network-specific portion of a <A href="bword://Classless Internet Domain Routing (CIDR)">CIDR </A>address. The prefix identifies the network routing information, such as the network address or subnet information.
+Pretty Good Privacy (PGP)|pretty-good-privacy	A public key/private key encryption scheme used to digitally sign messages, encrypt files, of both.
+primary	A <A href="bword://Domain Name Service (DNS)">DNS </A>server with local files; like an <A href="bword://Network Information Service (NIS)">NIS </A><A href="bword://master">master </A>server.
+Primary Domain Controller (PDC)|primary-domain-controller	A Windows NT server containing the master copy of the account database for a domain. Changes are written to the PDC before being replicated to the <A href="bword://Backup Domain Controller (BDC)">Backup Domain Controllers (BDC) </A>in the domain.
+principal	The name of a service, administrator or user registered in a security database such as <A href="bword://Kerberos">Kerberos </A>, in order to give that name various access privileges.
+principle	(Security.) High-level fundamentals.
+Private Branch eXchange (PBX)|private-branch-exchange	A telephone switch local to and belonging to an organization other than a carrier. See also <A href="bword://Public Switched Telephone Network (PSTN)">Public Switched Telephone Network (PSTN) </A>.
+privilege	The level of security required to access an <A href="bword://object">object </A>.
+procedure	(Security.) Details on how to achieve various highly-sensitive tasks.
+process ID (PID)|process-id	The unique identifier for a process in the system process table.
+profile	Configuration information that describes a certain capability or setup; a prototype for configuration information or properties that are common to a group of machines or that apply to an application.
+protection domain	Describes the bounds of an operation and the data that needs to be serialized or protected from other threads of execution.
+protocol	The control information used to establish a procedure for transmitting data between peer entities; protocols describe the form in which data will be transmitted, the method to keep sending and receiving units synchronized, and how the data will be checked for errors.
+prune	Remove unnecessary or unused branches from a <A href="bword://multicast">multicast </A>router (<A href="bword://mrouter">mrouter </A>) network when no sites on those branches are part of a multipoint call.
+PSTN	See <A href="bword://PSTN">Public Switched Telephone Network (PSTN) </A>.
+PTR record	See <A href="bword://DNS record types">DNS record types, PTR record </A>.
+Public Switched Telephone Network (PSTN)|public-switched-telephone-network	The network of telephone switches and other hardware belonging to a telephone company.
+PVC	See <A href="bword://Permanent Virtual Circuit (PVC)">Permanent Virtual Circuit (PVC) </A>.
+Q.2931|q-2931	An <a href="bword://Asynchronous Transfer Mode (ATM)">ATM </A>signalling protocol from the <a href="bword://International Telecommunications Union (ITU)">ITU </A>.
+QoS	See <a href="bword://quality of service (QoS)">quality of service (QoS) </A>.<BR>
+quality of service (QoS)|quality-of-service	The service level defined by a service agreement between a network user and a network provider, which guarantees a certain level of bandwidth and data flow rates.
+queue	A first in, first out data structure. Print jobs are queued. See also <a href="bword://stack">stack </A>.
+RAID	See <A href="bword://Redundant Array of Independent Disks (RAID)">Redundant Array of Independent Disks (RAID) </A>.
+Rapid Deployment Services (RDS)|rapid-deployment-services	A service offered by <A href="bword://Tivoli Professional Services (TPS)">TPS </A>to help bring a <A href="bword://TME">TME </A>installation quickly online.
+RARP	See <A href="bword://RARP">Reverse Address Resolution Protocol (RARP) </A>.
+RDS	See <A href="bword://RDS">Rapid Deployment Services (RDS) </A>.
+realm	A set of hosts that share the same <A href="bword://Kerberos">Kerberos </A>database.
+record types	See <A href="bword://DNS">DNS record types </A>.
+recursion	See <A href="bword://infinite loop">infinite loop </A>.
+Redundant Array of Independent Disks (RAID)|redundant-array-of-independent-disks	A set of multiple disks that exchange data in such a way as to permit the failure of at least one without losing any data. There are multiple levels of RAID, including:<BR>0- <B>Striping</B>, where data is simply striped across multiple disks to make one larger logical file system; no parity information is used; one dead disk takes out the whole array<BR>1- <B>Mirroring</B>, where one disk is duplicated onto another disk; if either disk fails, the other disk has all the data (no data is lost)<BR>2- <B>Parity (proprietary)</B>, special case. Patented by Thinking Machines, Inc. Hamming code disk array which consists of data drives and multiple parity drives.<BR>3- <B>Striping with parity</B>, where one disk in an n-way stripe is reserved for parity information (also known as byte striping)<BR>4- <B>Striping with parity</B>, where one disk in an n-way stripe is reserved for parity information, using a variable striping unit size (also known as segment striping).<BR>5- <B>Striping with parity</B>, where information (including both data and parity) is striped across all disks in an n-way stripe<BR>S- <B>Striping with parity (proprietary)</B>, where information (including both data and parity) is striped across all disks in an n-way stripe; proprietary to EMC Corp. (no longer in use)<BR>6- <B>Segment striping with multiple parity</B>, an improvement on RAID 5 by having multiple parity drives, allowing for multiple disk failures with no data loss<BR>7- <B>Striping with parity (proprietary)</B>, a method patented by Storage Computer Corp. where data is striped across multiple drives with one or more parity drives (an unofficial RAID level)
+register	The act of adding a record to the <A href="bword://DNS">Domain Name System (DNS) </A>for a given <A href="bword://domain">domain </A>.
+Remote Monitoring (RMON)|remote-monitoring	A network monitoring protocol defined in <A href="http://ftp.isi.edu/in-notes/rfc2074.txt">RFC 2074 </A>.
+Remote Procedure Call (RPC)|remote-procedure-call	The remote procedure call structure developed by Sun for communication between clients and servers. See <A href="http://ftp.isi.edu/in-notes/rfc1050.txt">RFC 1050 </A>, <A href="http://ftp.isi.edu/in-notes/rfc1057.txt">RFC 1057 </A>, and <A href="http://ftp.isi.edu/in-notes/rfc1831.txt">RFC 1831 </A> for more.
+replica	See <A href="bword://state database">state database </A>.
+request	An event; that is, something that occurs at a particular time, causing a service to be performed.
+request alias	An <A href="bword://alias">alias </A>for list requests (typically subscription and resignation requests) that points to the owner alias in a group alias triplet. See <A href="bword://group alias">group alias </A>.
+Request For Comments (RFC)|request-for-comments	A document published on the Internet involving one or more Internet-related technical topic, such as the formats of message headers in mail (<A href="bword://SMTP">SMTP </A>, <A href="bword://MIME">MIME </A>) or news. <A href="http://ftp.isi.edu/in-notes/rfcietf.htm">An index is available </A>and authors' instructions are on <A href="http://www.ietf.org/">the IETF web site </A>.
+resolver	The <A href="bword://DNS">DNS </A> client; provides a programming interface, utilities, and libraries.
+resources	Items corresponding to the systems, devices, services, and facilities in a distributed system.
+restore	The process of taking data saved to tape and putting it back onto disk. See also <A href="bword://backup">backup </A>.
+Reverse Address Resolution Protocol (RARP)|reverse-address-resolution-protocol	A <A href="http://ftp.isi.edu/in-notes/rfc903.txt">protocol (RFC 903) </A>that defines how a computer can obtain its <A href="bword://IP">IP </A>address from its MAC address.
+reverse lookup	Looking up a <A HREF="bword://DNS">DNS</A> name from its address, generally by translating the IP address <I>a.b.c.d</I> into reverse order (<I>d.c.b.a.</I>in-addr.arpa). See also <A href="bword://lookup">lookup </A>.
+revert	Discard all changes and return to the last-saved version.
+RFC	See <A href="bword://RFC">Request For Comments (RFC) </A>.
+Rich Text Format (RTF)|rich-text-format	A method of encoding <A href="bword://ASCII">ASCII </A> text to allow formatting such as italics and boldface, as well as font, style, and color information. Used as a standard means of transferring information between different vendors' word processor applications.
+RIP	See <A href="bword://RIP">Routing Information Protocol (RIP) </A>.
+RMON	See <A href="bword://RMON">Remote Monitoring (RMON) </A>.
+role	The <A href="bword://authorization">authorization </A>granted to a <A href="bword://principal">principal </A>for access to a resource, <A href="bword://object">object </A>or <A href="bword://method">method </A>; the access privileges of an administrator; the name assigned to a level of clearance.
+rotate	Move a tape into or out of service; exchange tapes.
+router	Network hardware that routes or redirects <A href="bword://packet">packets </A> to their destination host or hosts.
+Routing Information Protocol (RIP)|routing-information-protocol	A <A href="bword://UDP">UDP </A><A href="http://ftp.isi.edu/in-notes/rfc1058.txt">protocol (RFC 1058) </A>that propagates routing information throughout an internetwork, so that each router (or gateway) knows where the next <A href="bword://hop">hop </A>is for any destination. Updated in <A href="http://ftp.isi.edu/in-notes/rfc2453.txt">RFC 2453 </A>.
+RP record	See <A href="bword://DNS record types">DNS record types, RP record </A>.
+RPC	See <A href="bword://RPC">Remote Procedure Call (RPC) </A>.
+RTF	See <A href="bword://RTF">Rich Text Format (RTF) </A>.
+RTFM	Short for Kindly Consult the Documentation.
+SAN	See <A href="bword://SAN">Storage Area Network (SAN) </A>.
+SCCS	See <A href="bword://SCCS">Source Code Control System (SCCS) </A>.
+screened twisted pair (ScTP)|screened-twisted-pair	A cable where the twisted pair is screened from electromagnetic interference by a thin aluminum screen. Not as effective as shielding the cable. See also <A href="bword://STP">shielded twisted pair (STP) </A>, <A href="bword://UTP">unshielded twisted pair (UTP) </A>.
+SCSI	See <A href="bword://SCSI">Small Computer Systems Interface (SCSI) </A>.
+ScTP	See <A href="bword://ScTP">screened twisted pair (ScTP) </A>.
+SDLC	See <A href="bword://SDLC">Synchronous Data Link Control (SDLC) </A>.
+SDSL	See <A href="bword://SDSL">Symmetric Digital Subscriber Line (SDSL) </A>.
+secondary	A <A href="bword://DNS">DNS </A>server without local files (receiving information from the <A href="bword://primary">primary </A>server via the named.xfer process); like an <A href="bword://NIS">NIS </A><A href="bword://slave">slave </A> server.
+sector	The smallest unit of physical space on a disk. Typically the smallest unit of data that is read from or written to the disk.
+security group	Provide a way to organize <A href="bword://object">objects </A>so that an administrator who has an appropriate <A href="bword://role">role </A> in the group can operate on objects in the group.
+sentry	A process that monitors a variety of system activities, such as the amount of disk space available, and that can generate events or alarms based on thresholds.
+sequence	The <A href="bword://CORBA">CORBA </A> data type for implementing lists.
+Serial Line Internet Protocol (SLIP)|serial-line-internet-protocol	A <A href="http://ftp.isi.edu/in-notes/rfc1055.txt">protocol (RFC 1055) </A>for connecting a <A href="bword://host">host </A>(such as a microcomputer) to an <A href="bword://internet">internet </A> via a modem.
+server	A process that fulfills a request issued by a client process and transmits a response back to the <A href="bword://client">client </A>.
+server skeleton	Unmarshals the data associated with a request for presentation to a method, and marshals the data returned.
+service level agreement (SLA)|service-level-agreement	An agreement from one party to provide a specified level of service, typically involving a maximum-allowed response time or guarantee of service being available for a minimum time, to another party. Service level agreements are part of any vendor maintenance contract.
+SGML	See <A href="bword://SGML">Standardized General Markup Language (SGML) </A>.
+shielded twisted pair (STP)|shielded-twisted-pair	A cable where the twisted pair is shielded from electromagnetic interference. See also <A href="bword://UTP">unshielded twisted pair (UTP) </A>.
+SIMM	See <A href="bword://SIMM">Single In-line Memory Module (SIMM) </A>.
+Simple Mail Transfer Protocol (SMTP)|simple-mail-transfer-protocol	The <A href="http://ftp.isi.edu/in-notes/rfc821.txt">base protocol (RFC 821) </A>for exchanging electronic mail over a network. See also <A href="bword://ESMTP">Extended Simple Mail Transfer Protocol (ESMTP) </A>, <A href="bword://MIME">Multipurpose Internet Mail Extensions (MIME) </A>, <A href="bword://NeXTMail">NeXTMail </A>.
+Simple Network Management Protocol (SNMP)|simple-network-management-protocol	A <A href="http://ftp.isi.edu/in-notes/rfc1157.txt">base protocol (RFC 1157) </A>for monitoring and managing hosts on a network. See also <A href="bword://MIB">Management Information Base (MIB) </A>.
+Single In-line Memory Module (SIMM)|single-in-line-memory-module	A small plug-in card containing memory chips for a workstation or personal computer.
+skeleton	The <A href="bword://ORB">ORB </A> component which assists an object adapter in passing requests to particular methods. It is specific to an object and an interface.
+SLA	See <A href="bword://SLA">service level agreement (SLA) </A>.
+slave	The secondary <A href="bword://NIS">NIS </A><A href="bword://server">servers </A>in an NIS <A href="bword://domain">domain </A>.
+SLIP	See <A href="bword://SLIP">Serial Line Internet Protocol (SLIP) </A>.
+Small Computer Systems Interface (SCSI)|small-computer-systems-interface	Pronounced "scuzzy," SCSI is a parallel interface standard used by Apple Macintosh computers, PCs, and many Unix systems for attaching peripheral devices to computers. SCSI interfaces provide for faster data transmission rates (up to 80 megabytes per second) than standard serial and parallel ports. In addition, you can attach many devices to a single SCSI port, so that SCSI is really an I/O bus rather than simply an interface.
+SMTP	See <A href="bword://SMTP">Simple Mail Transfer Protocol (SMTP) </A>.
+SNA	See <A href="bword://SNA">Synchronous Network Architecture (SNA) </A>.
+SNADS	See <A href="bword://SNADS">Synchronous Network Architecture Distribution Services (SNADS) </A>.
+SNMP	See <A href="bword://SNMP">Simple Network Management Protocol (SNMP) </A>.
+SONET	See <A href="bword://SONET">Synchronous Optical Network (SONET) </A>.
+Source Code Control System (SCCS)|source-code-control-system	A suite of utilities to administrate source code such that only one person can change any given file at any given instant. Provides <A href="bword://audit trail">audit trails </A>.
+spam	The historical term for electronic junk mail, or unwanted messages in <A href="bword://mail">email </A>or <A href="bword://USENET News">USENET News </A>. See also <A href="bword://Unsolicited Commercial Email (UCE)">Unsolicited Commercial Email (UCE) </A>.
+SQL	See <A href="bword://Structured Query Language (SQL)">Structured Query Language (SQL) </A>.
+stack	A last in, first out data structure. See also <A href="bword://queue">queue </A>.
+staging	The process of configuring a host to a known state (for example, from tape or a preconfigured host), to speed up the configuration process.
+Standardized General Markup Language (SGML)|standardized-general-markup-language	A generalized format for marking up documents, originally created by the United States government. One of the more common subsets of SGML is <A href="bword://HTML">HyperText Markup Language (HTML) </A>.
+state database	A database containing the state of each metadevice, stored in a dedicated (and non-metadevice) disk partition. See also <A href="bword://Disk Suite">Disk Suite </A>.
+Storage Area Network (SAN)|storage-area-network	A network where a small number of computers share a large amount of data, usually within a single server room, where performance is critical. Examples of SAN protocols include <A href="bword://FC">Fiber Channel </A>and the <A href="bword://SCSI">Small Computer Systems Interface (SCSI) </A>.
+STP	See <A href="bword://STP">shielded twisted pair (STP) </A>.
+stripe	A method of writing data to multiple disks, interleaving blocks on different disks to increase performance. (Performance increases generally require multiple disk controllers.) A logical grouping of multiple physical disk partitions. See also <A href="bword://concatenated stripe">concatenated stripe </A>, <A href="bword://Disk Suite">Disk Suite </A>.
+stripe width	The width of, or number of partitions in, a <A href="bword://stripe">stripe </A>.
+Structured Query Language (SQL)|structured-query-language	An industry-standard language for performing queries against a database.
+stub	A local procedure corresponding to a single operation that invokes that operation when called.
+submirror	A metadevice attached to a <A href="bword://mirror">mirror </A>.
+subnet	A group of machines that share information and resources. A subsection of a <A href="bword://network">network </A>.
+subscription	Registering resources to a group, so that operations on a group are applied to all subscribers.
+Sun Remote Procedure Call (SUNRPC)|sun-remote-procedure-call	The <A href="bword://RPC">Remote Procedure Call (RPC) </A>structure developed by Sun for communication between <A href="bword://client">clients </A>and <A href="bword://server">servers </A>. For example, <A href="bword://NetInfo">NetInfo </A> uses RPC to communicate.
+SUNRPC	See <A href="bword://SUNRPC">Sun Remote Procedure Call (SUNRPC) </A>.
+superblock	A special reserved block on disk that contains the detailed structure of the <A href="bword://file system">file system </A>, including the <A href="bword://block">block </A>size, <A href="bword://frag">frag </A>size, and <A href="bword://inode">inode </A>tables.
+SVC	See <A href="bword://SVC">Switched Virtual Circuit (SVC) </A>.
+switch	Network hardware that routes <A href="bword://packet">packets </A>or <A href="bword://cell">cells </A>(either <A href="bword://ATM">ATM </A> or voice) based on the address of the virtual circuit.
+Switched Virtual Circuit (SVC)|switched-virtual-circuit	A virtual circuit in an <A href="bword://ATM">ATM </A>network established dynamically via software.
+Symmetric Digital Subscriber Line (SDSL)|symmetric-digital-subscriber-line	A symmetric high-speed digital network connection, usually between a home or small business and a telecommunications vendor, providing an always-up direct connection to an <A href="bword://ISP">Internet Service Provider (ISP) </A>. The upstream (from the user to the ISP) and downstream (from the ISP to the user) speeds are identical. See also <A href="bword://ADSL">Asymmetric Digital Subscriber Line (ADSL) </A>, <A href="bword://DSL">Digital Subscriber Line (DSL) </A>.
+Synchronous Data Link Control (SDLC)|synchronous-data-link-control	A data protocol spoken between the <A href="bword://Distribution Office Support Systems (DISOSS)">DISSOS </A>mail system on the <A href="bword://IBM">IBM </A>3090 mainframe and the <A href="bword://EMX">Enterprise Mail Exchange (EMX) </A>unit.
+Synchronous Network Architecture (SNA)|synchronous-network-architecture	<A href="bword://IBM">IBM's </A> network architecture.
+Synchronous Network Architecture Distribution Services (SNADS)|synchronous-network-architecture-distribution-services	The distribution protocol, handling delivery and verification, for <A href="bword://SNA">Synchronous Network Architecture (SNA) </A>.
+Synchronous Optical Network (SONET)|synchronous-optical-network	An <A href="bword://ANSI">ANSI </A> standard to connect telephone switches at 155 Mb/s speeds (OC3).
+sysadmin	See <A href="bword://sysadmin">system administrator </A>.
+system administrator	The godlike being who keeps your system running. Responsible for everything involving your system and the network it's on, including but not limited to managing your account (creation, modification, closure, deletion), your workstation, your subnet, your routers, the system-wide hosts table, the mail subsystem, all mail aliases and groups, keeping time synchronized across the network, the news subsystem, the printer subsystem, any applications you use--basically, the person who keeps everything working smoothly and seamlessly.
+TAS	See <A href="bword://TAS">Tivoli Application Services (TAS) </A>.
+task	An executable item (a <A href="bword://TME">TME </A>resource) that can be run on any managed node transparently; this can be a shell script, a <A href="bword://Perl">Perl </A> script, a compiled program or any other kind of valid executable.
+task library	A library or repository for one or more tasks. See <A href="bword://task">task </A>.
+TCP	See <A href="bword://Transmission Control Protocol (TCP)">Transmission Control Protocol (TCP) </A>.
+TDM	See <A href="bword://TDM">Time-Division Multiplexing (TDM) </A>.
+TDS	See <A href="bword://TDS">Tivoli Desktop Services (TDS) </A>.
+TEIDL	See <A href="bword://TEIDL">Tivoli Extended Interface Definition Language (TEIDL) </A>.
+TFTP	See <A href="bword://TFTP">Trivial File Transfer Protocol (TFTP) </A>.
+threshold	A item that places limits or acceptable ranges of values on monitored conditions.
+Time-Division Multiplexing (TDM)|time-division-multiplexing	An old and inefficient technology that allocates rigid time slices to each network client (voice, video, or data).
+time to live (TTL)|time-to-live	The field used in a protocol (such as <A href="bword://DNS">DNS </A>or <A href="bword://ICMP">ICMP </A>) to indicate how many more network <A href="bword://hop">hops </A>are allowed before the packet is dropped (discarded) (and, in terms of a <A href="bword://TCP">TCP </A>protocol as opposed to a <A href="bword://UDP">UDP </A> protocol) an error returned to the sender.
+TIS	See <A href="bword://TIS">Trusted Information Systems (TIS) </A>.
+Tivoli Application Services (TAS)|tivoli-application-services	A component of the <A href="bword://TMP">TMP </A>.
+Tivoli Desktop Services (TDS)|tivoli-desktop-services	A library providing runtime convenience functions that manipulate or generate desktop commands.
+Tivoli Extended Interface Definition Language (TEIDL)|tivoli-extended-interface-definition-language	A superset of <A HREF="bword://IDL">IDL</A> supporting the definition of security, installation, initialization and other implementation details.
+Tivoli Management Environment (TME)|tivoli-management-environment	A set of management applications that provide direct control over specific resources in the distributed computing environment, and provides a simple, consistent interface to diverse operating systems, applications, and distributed services.
+Tivoli Management Framework (TMF)|tivoli-management-framework	Provides basic system administration capabilities, as well as a set of foundation services for management applications, including a Tivoli administrator facility, an administrative privilege facility, a system policy facility, and a notification facility.
+Tivoli Management Platform (TMP)|tivoli-management-platform	The software infrastructure upon which the management applications are based. It has two main components, <A HREF="bword://TMF">TMF</A> and <A HREF="bword://TAS">TAS</A>.
+Tivoli Management Region (TMR)|tivoli-management-region	TMRs are a series of loosely connected regions, each with its own server for managing local clients.
+Tivoli Name Registry (TNR)|tivoli-name-registry	A service responsible for registering object names and looking up the associated object reference upon request.
+Tivoli Professional Services (TPS)|tivoli-professional-services	Consulting services offered to user installations by Tivoli Systems, Inc.
+Tivoli/Admin	A Tivoli application for the administration of user and group information, system configuration and network services.
+Tivoli/Courier|tivoli-courier	A Tivoli application for the distribution and installation of applications and system software.
+Tivoli/Enterprise Console|tivoli-enterprise-console	A Tivoli application for centralizing automated operations and event processing.
+Tivoli/EpochBackup|tivoli-epochbackup	A Tivoli application for backup and recovery functions.
+Tivoli/Print|tivoli-print	A Tivoli application for managing a distributed print system.
+Tivoli/Sentry|tivoli-sentry	A Tivoli application for monitoring the availability of system resources and services.
+Tivoli/Workload|tivoli-workload	A Tivoli application for scheduling and managing complex, interdependent jobs distributed over multiple systems.
+TLD	See <A href="bword://TLD">top-level domains (TLD) </A>.
+TLI	See <A href="bword://TLI">Transport Layer Interface (TLI) </A>.
+TME	See <A href="bword://Tivoli Management Environment (TME)">Tivoli Management Environment (TME) </A>.
+TMF	See <A href="bword://Tivoli Management Framework (TMF)">Tivoli Management Framework (TMF) </A>.
+TMP	See <A href="bword://Tivoli Management Platform (TMP)">Tivoli Management Platform (TMP) </A>.
+TMR	See <A href="bword://Tivoli Management Region (TMR)">Tivoli Management Region (TMR) </A>.
+TNR	See <A href="bword://Tivoli Name Registry (TNR)">Tivoli Name Registry (TNR) </A>.
+top-level domains (TLD)|top-level-domains	The original seven possible rightmost component of a <A href="bword://fully-qualified domain name (FQDN)">fully-qualified domain name (FQDN) </A>: com, edu, gov, int, mil, net, and org. All except int are administered by the <A href="bword://InterNIC">InterNIC </A>.
+TPS	See <A href="bword://Tivoli Professional Services (TPS)">Tivoli Professional Services (TPS) </A>.
+track	A ring of adjacent <A href="bword://sector">sectors </A>on a disk. The concentric circles of a disk <A href="bword://platter">platter </A>.
+Transmission Control Protocol (TCP)|transmission-control-protocol	A <A href="http://ftp.isi.edu/in-notes/rfc793.txt">connection-oriented protocol (RFC 793) </A>; data is guaranteed to arrive reliably and in sequence. See also <A href="bword://IP family">IP family </A>.
+Transport Layer Interface (TLI)|transport-layer-interface	An SVR4 (AT&T System V, Release 4 Unix) communications layer that sits at the same level as BSD (Berkeley Software Distribution) Unix sockets.
+Trivial File Transfer Protocol (TFTP)|trivial-file-transfer-protocol	A protocol, defined in <A href="http://ftp.isi.edu/in-notes/rfc1350.txt">RFC 1350 </A>, which is a subset of the <A href="bword://File Transfer Protocol">File Transfer Protocol </A>(<A href="http://ftp.isi.edu/in-notes/rfc959.txt">RFC 959 </A>), which allows files to be transferred between hosts with limited authentication and only minimal error checking. See also <A href="bword://Boot Protocol (BOOTP)">Boot Protocol (BOOTP) </A>.
+trojan horse	A program designed to emulate another program (such as /bin/login) with the express intent of using the data it receives in a way that negatively impacts your productivity.
+Trusted Information Systems (TIS)|trusted-information-systems	The vendor of a major firewall product.
+TTL	See <A href="bword://time to live (TTL)">time to live (TTL) </A>.
+two-phase commit|two-phase-commit	The protocol that transaction monitors use in guaranteeing that a set of operations are completed as a unit.
+TXT record	See <A href="bword://DNS record types">DNS record types, TXT record </A>.
+UCE	See <A href="bword://Unsolicited Commercial Email (UCE)">Unsolicited Commercial Email (UCE) </A>.
+UDP	See <A href="bword://User Datagram Protocol (UDP)">User Datagram Protocol (UDP) </A>.
+UFS	See <A href="bword://Unix File System (UFS)">Unix File System (UFS) </A>.
+UI	See <A href="bword://user interface (UI)">user interface (UI) </A>.
+UI server	The display manager and command/callback engine.
+UID	See <A href="bword://user ID (UID)">user ID (UID) </A>.
+undo	Back up one step; discard the most recent change.
+unicast	When one individual, specific host sends a message to another individual, specific host. See also <A href="bword://anycast">anycast </A>, <A href="bword://broadcast">broadcast </A>, <A href="bword://multicast">multicast </A>.
+Uniform Resource Locator (URL)|uniform-resource-locator	Also called a Universal Resource Locator. The pointer that defines the access method, host, path name, and file name to some reference or resource on an internet, accessible via a <A href="bword://World Wide Web (WWW)">WWW </A>browser. Defined in <A href="http://ftp.isi.edu/in-notes/rfc1738.txt">RFC 1738 </A>and <A href="http://ftp.isi.edu/in-notes/rfc1808.txt">RFC 1808 </A>.
+Universal Coordinated Time (UTC)|universal-coordinated-time	The modern (post 1972) global coordinated time system, <A href="http://www.clock.org/~jss/work/time.html">explained in fuller detail </A>.
+Unix File System (UFS)|unix-file-system	The generic name for the modern implementations of the Berkeley <A href="bword://fast file system">fast file system (FFS) </A>. A hierarchical <A href="bword://file system">file system </A>in common use on Unix systems.
+Unix to Unix Copy (UUCP)|unix-to-unix-copy	A file exchange protocol between two host computers. Used as part of many firewall mechanisms. See also <A href="bword://firewall">firewall </A>.
+unshielded twisted pair (UTP)|unshielded-twisted-pair	A cable where the pair of wires that carry the signal are not shielded from external electromagnetic interference.
+Unsolicited Commercial Email (UCE)|unsolicited-commercial-email	Electronic junk mail advertising a product, service, or web site, where the recipient did not request to receive the message. See also <A href="bword://spam">spam </A>.
+URL	See <A href="bword://Uniform Resource Locator (URL)">Uniform Resource Locator (URL) </A>.
+USENET news	A hierarchical organization of news articles and groups containing information. The information ranges from technical (comp.*) to entertainment and social activities (rec.*, soc.*) to debates (talk.*).
+user	The ultimate source or destination of a message, or the ultimate cause or effect of an action.
+User Datagram Protocol (UDP)|user-datagram-protocol	A connectionless and therefore inherently unreliable <A href="http://ftp.isi.edu/in-notes/rfc768.txt">data protocol (RFC 768) </A>where data is sent but not acknowledged. No guarantee of delivery is defined in the UDP protocol; no attempt to recover from data loss is performed. See also <A href="bword://IP family">IP family </A>.
+user ID (UID)|user-id	A numeric value for the user's account identification.
+user interface (UI)|user-interface	The interface between the user and the program. See also <A href="bword://command line interface (CLI)">command line interface (CLI) </A>, <A href="bword://graphical user interface (GUI)">graphical user interface (GUI) </A>, <A href="bword://user">user </A>.
+UTC	See <A href="bword://Universal Coordinated Time (UTC)">Universal Coordinated Time (UTC) </A>.
+utility	An application, program, or script used to accomplish a specific task.
+UTP	See <A href="bword://unshielded twisted pair (UTP)">unshielded twisted pair (UTP) </A>.
+UUCP	See <A href="bword://Unix to Unix Copy (UUCP)">Unix to Unix Copy (UUCP) </A>.
+VAD	See <A href="bword://Voice Activity Detection (VAD)">Voice Activity Detection (VAD) </A>.
+value	Anything that may be a legitimate (actual) parameter in a request. In particular, a value is an instance of an <A href="bword://Interface Definition Language (IDL)">IDL </A>data type.
+VCI	See <A href="bword://virtual circuit identifier (VCI)">virtual circuit identifier (VCI) </A>.
+virtual circuit	A channel or circuit established between two points on an <A href="bword://Asynchronous Transfer Mode (ATM)">ATM </A>network. Circuit numbers 0 through 31 are reserved; circuit 5 is the signalling channel. Virtual circuits can be <A href="bword://Permanent Virtual Circuit (PVC)">Permanent Virtual Circuit (PVC) </A>or <A href="bword://Switched Virtual Circuit (SVC)">Switched Virtual Circuit (SVC) </A>(dynamic).
+virtual circuit identifier (VCI)|virtual-circuit-identifier	The identifier code used with the virtual path identifier for routing <A href="bword://ATM">ATM </A><A href="bword://cell">cells </A>.
+virtual path	A group of virtual circuits bundled together.
+virtual path identifier (VPI)|virtual-path-identifier	The identifier code used with the virtual circuit identifier for routing <A href="bword://Asynchronous Transfer Mode (ATM)">ATM </A><A href="bword://cell">cells </A>.
+Virtual Private Network (VPN)|virtual-private-network	A service from telephone companies to provide PBX trunking services, typically including volume price discounts.
+Virtual Reality Modeling Language (VRML)|virtual-reality-modeling-language	Similar to <A href="bword://Standardized General Markup Language (SGML)">SGML </A>and <A href="bword://HyperText Markup Language (HTML)">HTML </A>, the Virtual Reality Modeling Language (VRML) provides a way to textually represent objects in a three-dimensional virtual world, defining color, size, shape, lighting factors, and so forth.
+virus	A program that was designed to do something usually counterproductive and occasionally destructive, whether through ignorance or malice, to your work. Other similar terms include <A href="bword://worm">worm </A>and <A href="bword://trojan horse">trojan horse </A>.
+Voice Activity Detection (VAD)|voice-activity-detection	A technology that recognizes when a person is speaking and when a person is silent to suppress sending unnecessary noise across a telecommunications line.
+VPI	See <A href="bword://virtual path identifier (VPI)">virtual path identifier (VPI) </A>.
+VPN	See <A href="bword://Virtual Private Network (VPN)">Virtual Private Network (VPN) </A>.
+VRML	See <A href="bword://Virtual Reality Modeling Language (VRML)">Virtual Reality Modeling Language (VRML) </A>.
+WAIS	See <A href="bword://Wide Area Index System (WAIS)">Wide Area Index System (WAIS) </A>.
+WAN	See <A href="bword://Wide Area Network (WAN)">Wide Area Network (WAN) </A>.
+Wave Division Multiplexing (WDM)|wave-division-multiplexing	A means of multiplexing different wavelengths of light onto the same physical fiber-optic communications line pair, allowing up to a 40x increase in bandwidth. A single wavelength of light limits a T1 line to 1.4 Mb/s (+/- allowing for clocking); using different wavelengths of light allow the same fiber pair to carry 60Mb/s of data.
+WCP	See <A href="bword://Wellfleet Compression Protocol (WCP)">Wellfleet Compression Protocol (WCP) </A>.
+WDM	See <A href="bword://Wave Division Multiplexing">Wave Division Multiplexing </A>.
+Wellfleet Compression Protocol (WCP)|wellfleet-compression-protocol	The proprietary protocol that allows Wellfleet routers to make more efficient use of network bandwidth for inter-router communications.
+Wide Area Index System (WAIS)|wide-area-index-system	A means for indexing and searching WWW documents.
+Wide Area Network (WAN)|wide-area-network	A <A href="bword://network">network </A>of machines in a wide area, such as one or more metropolitan areas. Can consist of multiple <A href="bword://Local Area Network (LAN)">Local Area Networks (LAN) </A>.
+Windows Internet Naming Service (WINS)|windows-internet-naming-service	A system that determines the IP address associated with a particular network computer. This is called name resolution. WINS supports network client and server computers running Windows and can provide name resolution for other computers with special arrangements. Determining the IP address for a computer is a complex process when <A href="bword://Dynamic Host Configuration Protocol (DHCP)">DHCP </A>servers assign IP addresses dynamically. For example, it is possible for DHCP to assign a different IP address to a client each time the machine logs on to the network. See also <A href="bword://Domain Name Service (DNS)">Domain Name Service (DNS) </A>.
+Windows NT File System (NTFS)|windows-nt-file-system	One of the <A href="bword://file system">file system </A>for the Windows NT operating system (Windows NT also supports the <A href="bword://File Allocation Table (FAT)">FAT </A>file system). NTFS has features to improve reliability, such as transaction logs to help recover from disk failures. To control access to files, you can set permissions for directories, individual files, or both. NTFS files are not accessible from other operating systems such as <A href="bword://Disk Operating System (DOS)">DOS </A>.
+WINS	See <A href="bword://Windows Internet Naming Service (WINS)">Windows Internet Naming Service (WINS) </A>.
+WKS record	See <A href="bword://DNS record types">DNS record types, WKS record </A>.
+World Wide Web (WWW)|world-wide-web	A <A href="bword://hypertext">hypertext </A>-based client/server model for finding and accessing resources on the Internet.
+worm	A virus-like program designed to damage your data and/or negatively affect your productivity. See <A href="bword://virus">virus </A>.
+WWW	See <A href="bword://World Wide Web (WWW)">World Wide Web (WWW) </A>.
+X pixmap (XPM)|x-pixmap	An encoding standard for X Windows pixel maps. All Tivoli bitmaps (for example, icons) are stored in XPM format.
+X Window System (X11)|x-window-system	Developed at <A href="bword://Massachusetts Institute of Technology (MIT)">MIT </A>, a windowing system for Unix and similar hosts. Allows for multiple users, many different levels of customization, high flexibility, and reasonable overhead. Defined in <A href="http://ftp.isi.edu/in-notes/rfc1198.txt">RFC 1198 </A>.
+X.25|x-25	An <A href="bword://Open Systems Interconnection (OSI)">Open Systems Interconnection (OSI) </A>protocol defining packet structure and exchange.
+X.400|x-400	An <A href="bword://Open Systems Interconnection (OSI)">Open Systems Interconnection (OSI) </A><A href="http://ftp.isi.edu/in-notes/rfc1465.txt">protocol (RFC 1465) </A>defining mail exchange.
+X.500|x-500	An <A href="bword://Open Systems Interconnection (OSI)">Open Systems Interconnection (OSI) </A><A href="http://ftp.isi.edu/in-notes/rfc2120.txt">protocol (RFC 2120) </A>defining directory services. See also <A href="bword://Lightweight Directory Access Protocol (LDAP)">Lightweight Directory Access Protocol (LDAP) </A>.
+X/Open|x-open	An independent, worldwide, open systems organization headquartered in the UK and supported by most of the world's largest information system suppliers, user organizations and software companies. Its mission is to bring to users greater value from computing, through the practical implementation of open systems.
+X11	See the <A href="bword://X Window System (X11)">X Window System (X11) </A>.
+XDR	See <A href="bword://eXternal Data Representation (XDR)">eXternal Data Representation (XDR) </A>.
+Xerox Network Systems (XNS)|xerox-network-systems	The network architecture developed by the Xerox Corporation in the 1970s. The XNS Internet protocol suite is similar to the TCP/IP suite. However, different packet formats and terminology are used. XNS protocols establish a means of transport for data across an interconnection of network or Internet. A sample library provides user applications for XNS, such as the courier, associate printing, filing, and clearinghouse protocols.
+XNS	See <A href="bword://Xerox Network Systems (XNS)">Xerox Network Systems (XNS) </A>.
+XPG3	X/Open Portability Guide Version 3.
+XPG4	X/Open Portability Guide Version 4.
+XPM	See <A href="bword://X pixmap (XPM)">X pixmap (XPM) </A>.
+Yellow Pages (YP)|yellow-pages	See <a href="bword://Network Information Service (NIS)">Network Information Service (NIS) </A>.
+YP	See <a href="bword://Network Information Service (NIS)">Network Information Service (NIS) </A>.
+zone	One or more <a href="bword://domain">domains </A>in a <a href="bword://Domain Name Service (DNS)">DNS </A>hierarchy or a db.name file.

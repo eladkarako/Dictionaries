@@ -1,0 +1,687 @@
+##name	Country Phone Codes
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2003/01/20, 11:57
+##author	Nivi Naor
+##description	Just about every international phone code you can think of.
+##browsingEnabled	
+##bgl_creationTime	2001/01/17, 15:12
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+1	America On Line Clients
+1201	United States - New Jersey
+1202	United States - Dist. of Columbia
+1203	United States - Connecticut
+1204	Canada - Manitoba
+1205	United States - Alabama
+1206	United States - Washington
+1207	United States - Maine
+1208	United States - Idaho
+1209	United States - California
+1212	United States - New York
+1213	United States - California
+1214	United States - Texas
+1215	United States - Pennsylvania
+1216	United States - Ohio
+1217	United States - Illinois
+1218	United States - Minnesota
+1219	United States - Indiana
+1242	Bahamas
+1264	Anguilla (BWI)
+1301	United States - Maryland
+1302	United States - Delaware
+1303	United States - Colorado
+1304	United States - West Virginia
+1305	United States - Florida
+1307	United States - Wyoming
+1308	United States - Nebraska
+1309	United States - Illinois
+1310	United States - California
+1312	United States - Illinois
+1313	United States - Michigan
+1314	United States - Missouri
+1315	United States - New York
+1316	United States - Kansas
+1317	United States - Indiana
+1318	United States - Louisiana
+1319	United States - Iowa
+1401	United States - Rhode Island
+1402	United States - Nebraska
+1403	Canada - Alberta
+1404	United States - Georgia
+1405	United States - Oklahoma
+1406	United States - Montana
+1407	United States - Florida
+1408	United States - California
+1409	United States - Texas
+1410	United States - Maryland
+1412	United States - Pennsylvania
+1413	United States - Massachusetts
+1414	United States - Wisconsin
+1415	United States - California
+1416	Canada - Ontario
+1417	United States - Missouri
+1418	Canada - Quebec
+1419	United States - Ohio
+1501	United States - Arkansas
+1502	United States - Kentucky
+1503	United States - Oregon
+1504	United States - Louisiana
+1505	United States - New Mexico
+1506	Canada - New Brunswick
+1507	United States - Minnesota
+1508	United States - Massachusetts
+1509	United States - Washington
+1510	United States - California
+1512	United States - Texas
+1513	United States - Ohio
+1514	Canada - Quebec
+1515	United States - Iowa
+1516	United States - New York
+1517	United States - Michigan
+1518	United States - New York
+1519	Canada - Ontario
+1601	United States - Mississippi
+1602	United States - Arizona
+1603	United States - New Hampshire
+1604	Canada - Br. Columbia
+1605	United States - South Dakota
+1606	United States - Kentucky
+1607	United States - New York
+1608	United States - Wisconsin
+1609	United States - New Jersey
+1612	United States - Minnesota
+1613	Canada - Ontario
+1614	United States - Ohio
+1615	United States - Tennessee
+1616	United States - Michigan
+1617	United States - Massachusetts
+1618	United States - Illinois
+1619	United States - California
+1701	United States - North Dakota
+1702	United States - Nevada
+1703	United States - Virginia
+1704	United States - North Carolina
+1705	Canada - Ontario
+1706	United States - Georgia
+1707	United States - California
+1708	United States - Illinois
+1709	Canada - Newfoundland
+1712	United States - Iowa
+1713	United States - Texas
+1714	United States - California
+1715	United States - Wisconsin
+1716	United States - New York
+1717	United States - Pennsylvania
+1718	United States - New York
+1719	United States - Colorado
+1801	United States - Utah
+1802	United States - Vermont
+1803	United States - South Carolina
+1804	United States - Virginia
+1805	United States - California
+1806	United States - Texas
+1807	Canada - Ontario
+1808	US Telex-Hawaii AT&T
+1809	Dominica (BWI)
+18092	Bermuda
+1809440	Grenada (BWI)
+180949	British Virgin Islands
+1809491	Montserrat (BWI)
+180994	Cayman Islands (BWI)
+1812	United States - Indiana
+1813	United States - Florida
+1814	United States - Pennsylvania
+1815	United States - Illinois
+1816	United States - Missouri
+1817	United States - Texas
+1818	United States - California
+1819	Canada - Quebec
+1901	United States - Tennessee
+1902	Canada - Nova Scotia/PE. Is.
+1903	United States - Texas
+1904	United States - Florida
+1906	United States - Michigan
+1907	Alaska (USA)
+1908	United States - New Jersey
+1912	United States - Georgia
+1913	United States - Kansas
+1914	United States - New York
+1915	United States - Texas
+1916	United States - California
+1917	United States - New York
+1918	United States - Oklahoma
+1919	United States - North Carolina
+2	Cape Verde Islands
+20	Egypt Arab Rep. of
+212	Morocco
+213	Algeria
+216	Tunisia
+218	Libyan Arab Jamahiriya
+220	Gambia
+221	Senegal Rep.
+222	Mauritania Islamic Rep.
+223	Mali Rep. of
+224	Guinea People Rep.
+225	Ivory Coast
+226	Burkina Faso
+227	Niger Rep.
+228	Togolese Rep.
+229	Benin (Dahomey)
+230	Mauritius Is.
+231	Liberia
+232	Sierra Leone
+233	Ghana
+234	Nigeria Fed. Rep.
+235	Chad
+236	Central African Rep.
+237	Cameroon
+239	Principe Sao Tome &
+240	Equatorial Guinea
+241	Gabon Rep.
+243	Brazzaville (Congo/Zaire)
+244	Angola
+245	Guinea-Bissau
+247	Ascension Is.
+248	Seychelles Is.
+250	Rwanda
+251	Ethiopia
+252	Somali Rep.
+253	Djibouti Rep.
+254	Kenya
+255	Tanzania (Zanzibar)
+256	Uganda
+257	Burundi
+258	Mozambique
+259	Zanzibar (Tanzania)
+26	Comoros F & I Rep.
+260	Zambia
+261	Madagascar Dem. Rep.
+262	Reunion Is.
+263	Zimbabwe (Rhodesia)
+264	Namibia (S.W. Africa)
+265	Malawi
+266	Lesotho
+267	Botswana
+268	Swaziland
+27	South Africa Rep. of
+297	Aruba (Neth. Antilles)
+298	Faroe (Faeroe) Is.
+299	Greenland
+30	Greece
+31	Holland (Netherlands)
+32	Belgium
+33	France
+3393	Monaco
+34	Spain
+350	Gibraltar
+351	Azores (Portugal)
+352	Luxembourg
+353	Ireland Rep. of (Eire)
+354	Iceland
+355	Albania
+356	Malta
+357	Cyprus
+358	Finland
+359	Bulgaria
+36	Hungary
+374	Armenia
+376	Andorra
+38	Yugoslavia
+39	Vatican City Via Italy
+39549	San Marino
+40	Romania
+41	Switzerland
+4175	Liechtenstein (old)
+42	Czechoslovakia
+423	Liechtenstein
+43	Austria
+44	United Kingdom
+45	Denmark
+46	Sweden
+47	Norway
+48	Poland
+49	Germany
+501	Belize (Br. Honduras)
+502	Guatemala
+503	El Salvador
+504	Honduras Rep. of
+505	Nicaragua
+506	Costa Rica
+507	Canal Zone (Panama)
+508	St. Pierre/Miquelon Is.
+509	Haiti
+51	Peru
+52	Mexico
+5399	Guantanamo Bay USN
+54	Argentina
+55	Brazil
+56	Chile
+57	Columbia
+58	Venezuela
+59	Cuba
+590	Guadeloupe (Fr. Ant.)
+591	Bolivia
+592	Guyana
+593	Ecuador
+594	French Guiana
+595	Paraguay
+596	French Antilles
+597	Suriname Rep. of
+598	Uruguay
+599	Bonaire (Neth. Antilles)
+6	Niue Is.
+60	Malaysia
+61	Australia
+62	Indonesia
+63	Philippines
+64	New Zealand
+65	Singapore Rep. of
+66	Thailand
+670	Saipan (N. Mariana Is.)
+671	Guam
+672	Norfolk Island
+673	Brunei Darussalam
+674	Nauru
+675	Papua New Guinea
+676	Tonga Is.
+677	Solomon Is.
+678	Vanuatu (New Hebrides)
+679	Fiji Islands (Suva)
+681	Wallis & Futuna Is.
+684	Samoa American
+685	Samoa Western
+686	Kiribati Rep.
+687	New Caledonia
+688	Tuvalu (Ellice Is.)
+689	Tahiti (Fr. Polynesia)
+691	Micronesia
+692	Marshall Is.
+7	Latvia
+81	Ryukyu Is. (Okinawa)
+82	Korea Rep. of (South)
+84	Vietnam
+85	Kampuchea (Cambodia)
+852	Hong Kong
+853	Macao (Macau)
+855	Cambodia (Kampuchea)
+856	Laos Peoples Dem. Rep. of
+86	China Peoples Rep.
+871	Inmarsat Atlantic Ocean
+872	Pacific Ocean Inmarsat
+873	Inmarsat Indian Ocean
+880	Bangladesh
+886	Taiwan (Rep. of China)
+90	Turkey
+91	India
+92	Pakistan
+93	Afganistan
+94	Ceylon (Sri Lanka)
+95	Burma
+960	Maldives
+961	Lebanon
+962	Jordan
+963	Syrian Arab Rep.
+964	Iraq
+965	Kuwait
+966	Saudi Arabia
+967	Yemen Dem. Rep. (Formerly S.)
+968	Oman
+969	Yemen Arab Rep. (Formerly N.)
+971	Sharjah (UAE)
+9716	Umm Al Quwain (UAE)
+9717	Ras Al Khaimah (UAE)
+9719	Fujaira (UAE)
+972	Israel
+973	Bahrain
+974	Qatar
+976	Mongolian Peoples Rep.
+977	Nepal
+98	Iran
+994	Azerbaijan
+Afganistan	93
+Ajman (UAE)|Ajman	971
+Alaska (USA)|Alaska	1907
+Albania	355
+Algeria	213
+America On Line Clients	1
+American Samoa	684
+Andorra	376
+Angola	244
+Anguilla (BWI)|Anguilla	1264
+Antigua & Barbuda (BWI)|Antigua & Barbuda	1268
+Argentina	54
+Armenia	374
+Aruba (Neth. Antilles)|Aruba	297
+Ascension Is.	247
+Atlantic Ocean Inmarsat	871
+Australia	61
+Austria	43
+Azerbaijan	994
+Azores (Portugal)|Azores	351
+Bahamas	1242
+Bahrain	973
+Bangladesh	880
+Barbados (BWI)|Barbados	1809
+Belgium	32
+Belize (Br. Honduras)|Belize	501
+Benin (Dahomey)|Benin	229
+Bermuda	18092
+Bolivia	591
+Bonaire (Neth. Antilles)|Bonaire	599
+Botswana	267
+Brazil	55
+Brazzaville (Congo/Zaire)|Brazzaville	243
+British Virgin Islands	180949
+Brunei Darussalam	673
+Bulgaria	359
+Burkina Faso	226
+Burma	95
+Burundi	257
+C.I.S. (Former U.S.S.R.)|C.I.S.	7
+Cambodia (Kampuchea)|Cambodia	855
+Cameroon	237
+Canada - Alberta	1403
+Canada - Br. Columbia	1604
+Canada - Manitoba	1204
+Canada - New Brunswick	1506
+Canada - Newfoundland	1709
+Canada - Nova Scotia/PE. Is.	1902
+Canada - Ontario	1807
+Canada - Quebec	1819
+Canada - Saskatchewan	1308
+Canal Zone (Panama)|Canal Zone	507
+Cape Verde Islands	2
+Carriacou Islands (BWI)|Carriacou Islands	1809
+Cayman Islands (BWI)|Cayman Islands	180994
+Central African Rep.	236
+Ceylon (Sri Lanka)|Ceylon	94
+Chad	235
+Chile	56
+China Peoples Rep.	86
+China Rep of (Taiwan)|China Rep of	886
+Columbia	57
+Comoros F & I Rep.	26
+Compuserve Clients	1
+Congo Rep. of (Zaire)|Congo Rep. of	243
+Costa Rica	506
+Cuba	59
+Cyprus	357
+Czechoslovakia	42
+Denmark	45
+Djibouti Rep.	253
+Dominica (BWI)|Dominica	1809
+Dominican Republic	1809
+Dubai (UAE)|Dubai	971
+Ecuador	593
+Egypt Arab Rep. of	20
+El Salvador	503
+Ellice Is. (Tuvalu)|Ellice Is.	688
+England (U.K.)|England	44
+Equatorial Guinea	240
+Estonia	7
+Ethiopia	251
+Faroe (Faeroe) Is.	298
+Fiji Islands (Suva)|Fiji Islands	679
+Finland	358
+Formosa (Taiwan)|Formosa	886
+France	33
+French Antilles	596
+French Guiana	594
+French Polynesia	689
+Fujaira (UAE)|Fujaira	9719
+Futuna & Wallis Is.	681
+Gabon Rep.	241
+Gambia	220
+Germany	49
+Ghana	233
+Gibraltar	350
+Gr. Britain/No. Ire.	44
+Greece	30
+Greenland	299
+Grenada (BWI)|Grenada	1809440
+Grenadines & St. Vinc.	1809
+Guadeloupe (Fr. Ant.)|Guadeloupe	590
+Guam	671
+Guantanamo Bay USN	5399
+Guatemala	502
+Guinea-Bissau	245
+Guinea Equatorial	240
+Guinea People Rep.	224
+Guyana	592
+Haiti	509
+Hawaii (USA)|Hawaii	1808
+Hawaii (USA) AT&T Telex	1808
+Holland (Netherlands)|Holland	31
+Honduras Rep. of	504
+Hong Kong	852
+Hungary	36
+Iceland	354
+India	91
+Indian Ocean Inmarsat	873
+Indonesia	62
+Inmarsat Atlantic Ocean	871
+Inmarsat Indian Ocean	873
+Inmarsat Pacific Ocean	872
+Iran	98
+Iraq	964
+Ireland Northern (UK)|Ireland Northern	44
+Ireland Rep. of (Eire)|Ireland Rep. of	353
+Israel	972
+Italy	39
+Ivory Coast	225
+Jamaica (BWI)|Jamaica	1809
+Japan	81
+Jordan	962
+Kampuchea (Cambodia)|Kampuchea	85
+Kenya	254
+Kiribati Rep.	686
+Korea Rep. of (South)|Korea Rep. of	82
+Kuwait	965
+Laos Peoples Dem. Rep. of	856
+Latvia	7
+Lebanon	961
+Lesotho	266
+Liberia	231
+Libyan Arab Jamahiriya	218
+Liechtenstein	423<BR>4175 (old)
+Lithuania	7
+Luxembourg	352
+Macao (Macau)|Macao	853
+Madagascar Dem. Rep.	261
+Malawi	265
+Malaysia	60
+Maldives	960
+Mali Rep. of	223
+Malta	356
+Marshall Is.	692
+Martinique (French Ant.)|Martinique	596
+Mauritania Islamic Rep.	222
+Mauritius Is.	230
+Mayotte (France)|Mayotte	33
+Mexico	52
+Micronesia	691
+Monaco	3393
+Mongolian Peoples Rep.	976
+Montserrat (BWI)|Montserrat	1809491
+Morocco	212
+Mozambique	258
+Namibia (S.W. Africa)|Namibia	264
+Nauru	674
+Nepal	977
+Netherland Antilles	599
+Netherlands (Holland)|Netherlands	31
+Nevis [St. Kitts] (BWI)|Nevis [St. Kitts]	1809
+New Caledonia	687
+New Guinea Papua	675
+New Hebrides (Vanuatu)|New Hebrides	678
+New Zealand	64
+Nicaragua	505
+Niger Rep.	227
+Nigeria Fed. Rep.	234
+Niue Is.	6
+Norfolk Island	672
+Northern Ireland (UK)|Northern Ireland	44
+Northern Mariana Is.	670
+Norway	47
+Okinawa (JAPAN)|Okinawa	81
+Oman	968
+Pacific Ocean Inmarsat	872
+Pakistan	92
+Panama	507
+Papua New Guinea	675
+Paraguay	595
+Peru	51
+Philippines	63
+Poland	48
+Portugal Madeira & Azores	351
+Principe Sao Tome &	239
+Puerto Rico	1809
+Qatar	974
+Ras Al Khaimah (UAE)|Ras Al Khaimah	9717
+Reunion Is.	262
+Romania	40
+Russia (Formerly USSR)|Russia	7
+Rwanda	250
+Ryukyu Is. (Okinawa)|Ryukyu Is.	81
+Saba (Neth. Ant.)|Saba	599
+Saipan (N. Mariana Is.)|Saipan	670
+Samoa American	684
+Samoa Western	685
+San Marino	39549
+Sao Tome & Principe	239
+Saudi Arabia	966
+Senegal Rep.	221
+Seychelles Is.	248
+Sharjah (UAE)|Sharjah	971
+Sierra Leone	232
+Singapore Rep. of	65
+Slovenia	42
+Solomon Is.	677
+Somali Rep.	252
+South Africa Rep. of	27
+Southwest Africa/Namibia	264
+Spain	34
+Sri Lanka (Ceylon)|Sri Lanka	94
+St. Christopher (BWI)|St. Christopher	1809
+St. Croix (US V.I.)|St. Croix	1809
+St. Kitts - Nevis (BWI)|St. Kitts - Nevis	1809
+St. Lucia (BWI)|St. Lucia	1809
+St. Martin (Fr. Ant.)|St. Martin	596
+St. Pierre/Miquelon Is.	508
+St. Thomas (US V.I.)|St. Thomas	1809
+St. Vincent/Grenadines (W.I.)|St. Vincent/Grenadines	1809
+Suriname Rep. of	597
+Swaziland	268
+Sweden	46
+Switzerland	41
+Syrian Arab Rep.	963
+Tahiti (Fr. Polynesia)|Tahiti	689
+Taiwan (Rep. of China)|Taiwan	886
+Tanzania (Zanzibar)|Tanzania	255
+Thailand	66
+Togolese Rep.	228
+Tonga Is.	676
+Tortola (Br. V.I.)|Tortola	1809
+Trinidad & Tobago (BWI)|Trinidad & Tobago	1809
+Tunisia	216
+Turkey	90
+Turks & Caicos Is.	1809
+Tuvalu (Ellice Is.)|Tuvalu	688
+U.S.S.R. [Russia] (C.I.S.)|U.S.S.R. [Russia]	7
+Uganda	256
+Ukraine	7
+Umm Al Quwain (UAE)|Umm Al Quwain	9716
+United Arab Emirates	971
+United Kingdom	44
+United States	1
+United States - Alabama	1205
+United States - Alaska	1907
+United States - Arizona	1602
+United States - Arkansas	1501
+United States - California	1408
+United States - Colorado	1303
+United States - Connecticut	1203
+United States - Delaware	1302
+United States - Dist. of Columbia	1202
+United States - Florida	1407
+United States - Georgia	1706
+United States - Idaho	1208
+United States - Illinois	1708
+United States - Indiana	1219
+United States - Iowa	1515
+United States - Kansas	1913
+United States - Kentucky	1606
+United States - Louisiana	1318
+United States - Maine	1207
+United States - Maryland	1301
+United States - Massachusetts	1413
+United States - Michigan	1313
+United States - Minnesota	1218
+United States - Mississippi	1601
+United States - Missouri	1314
+United States - Montana	1406
+United States - Nebraska	1402
+United States - Nevada	1702
+United States - New Hampshire	1603
+United States - New Jersey	1609
+United States - New Mexico	1505
+United States - New York	1914
+United States - North Carolina	1919
+United States - North Dakota	1701
+United States - Ohio	1614
+United States - Oklahoma	1405
+United States - Oregon	1503
+United States - Pennsylvania	1814
+United States - Rhode Island	1401
+United States - South Carolina	1803
+United States - South Dakota	1605
+United States - Tennessee	1901
+United States - Texas	1817
+United States - Utah	1801
+United States - Vermont	1802
+United States - Virginia	1804
+United States - Washington	1509
+United States - West Virginia	1304
+United States - Wisconsin	1414
+United States - Wyoming	1307
+Upper Volta	226
+Uruguay	598
+US Telex-Alaska	1907
+US Telex-AT&T	1
+US Telex-FTCC	1
+US Telex-Graphnet	1
+US Telex-Hawaii	1808
+US Telex-Hawaii AT&T	1808
+US Telex-RCA	1
+US Telex-TRT	1
+US Telex-WU WORLDCOM	1
+US Telex-WUC	1
+US Telex-WUI/MCI	1
+UUNet Clients	1
+Vanuatu (New Hebrides)|Vanuatu	678
+Vatican City	39
+Vatican City Via Italy	39
+Venezuela	58
+Vietnam	84
+Virgin Is. British	1809
+Virgin Is. U.S.	1809
+Wallis & Futuna Is.	681
+Western Samoa	685
+Yemen Arab Rep. (Formerly N.)|Yemen Arab Rep.	969
+Yemen Dem. Rep. (Formerly S.)|Yemen Dem. Rep.	967
+Yugoslavia	38
+Zaire Rep. of	243
+Zambia	260
+Zanzibar (Tanzania)|Zanzibar	259
+Zimbabwe (Rhodesia)|Zimbabwe	263

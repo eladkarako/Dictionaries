@@ -1,0 +1,65 @@
+##name	Vision Glossary
+##sourceLang	English
+##targetLang	English
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	National Eye Institute
+##copyright	<a href=http://www.nei.nih.gov/publications/glossary.htm>national eye institute</a>
+##description	Glossary of vision terms
+##bgl_creationTime	2000/06/05, 07:55
+##bgl_middleUpdated	2000/07/03, 06:34
+ACCOMMODATION	The ability of the eye to change its focus from distant to near objects; process achieved by the lens changing its shape.
+ANTERIOR CHAMBER	The space in front of the iris and behind the cornea.
+AQUEOUS HUMOR (A-kwe-us)|aqueous-fluid|aqueous-humor	Clear, watery fluid that flows between and nourishes the lens and the cornea; secreted by the ciliary processes.
+ASTIGMATISM (uh-STIG-muh-tizm)|astigmatism	A condition in which the surface of the cornea is not spherical; causes a blurred image to be received at the retina.
+BINOCULAR VISION	The blending of the separate images seen by each eye into a single image; allows images to be seen with depth.
+BLIND SPOT	(1) A small area of the retina where the optic nerve enters the eye; occurs normally in all eyes. <BR>(2) Any gap in the visual field corresponding to an area of the retina where no visual cells are present; associated with eye disease.
+CENTRAL RETINAL ARTERY	The blood vessel that carries blood into eye; supplies nutrition to the retina.
+CENTRAL RETINAL VEIN	The blood vessel that carries blood from the retina.
+CHOROID (KOR-oyd)|choroid	The layer filled with blood vessels that nourishes the retina; part of the uvea.
+CILIARY MUSCLES	The muscles that relax the zonules to enable the lens to change shape for focusing.
+CILIARY PROCESSES	The extensions or projections of the ciliary body that secrete aqueous humor.
+CONES|cone-cells	One type of specialized light-sensitive cells (photoreceptors) in the retina that provide sharp central vision and color vision. Also see RODS.
+CONJUNCTIVA (KAHN-junk-TY-vuh)|conjunctiva	The thin, moist tissue (membrane) that lines the inner surfaces of the eyelids and the outer surface of the sclera.
+CONTRAST SENSITIVITY	The ability to perceive differences between an object and its background.
+CORNEA (KOR-nee-uh)|cornea	The outer, transparent, dome-like structure that covers the iris, pupil, and anterior chamber; part of eye's focusing system.
+DILATION	A process by which the pupil is temporarily enlarged with special eye drops (mydriatic); allows the eye care specialist to better view the inside of the eye.
+DRUSEN	Tiny yellow or white deposits in the retina or optic nerve head.
+FLUORESCEIN ANGIOGRAPHY (FLOR-uh-seen an-jee-AHG-ruh-fee)|fluorescein-angiography	A test to examine blood vessels in the retina, choroid, and iris. A special dye is injected into a vein in the arm and pictures are taken as the dye passes through blood vessels in the eye.
+FOVEA (FOH-vee-uh)|fovea	The central part of the macula that provides the sharpest vision.
+FUNDUS	The interior lining of the eyeball, including the retina, optic disc, and macula; portion of the inner eye that can be seen during an eye examination by looking through the pupil.
+HYPEROPIA (hy-pur-OH-pee-uh)|hyperopia	Farsightedness; ability to see distant objects more clearly than close objects; may be corrected with glasses or contact lenses.
+INTRAOCULAR PRESSURE|iop	Pressure of the fluid inside the eye; normal IOP varies among individuals.
+IRIS	The colored ring of tissue suspended behind the cornea and immediately in front of the lens; regulates the amount of light entering the eye by adjusting the size of the pupil.
+LACRIMAL GLAND (LAK-rih-mul)|lacrimal-gland	The small almond-shaped structure that produces tears; located just above the outer corner of the eye.
+LEGAL BLINDNESS	In the U.S., (1) visual acuity of 20/200 or worse in the better eye with corrective lenses (20/200 means that a person must be at 20 feet from an eye chart to see what a person with normal vision can see at 200 feet) or (2) visual field restricted to 20 degrees diameter or less (tunnel vision) in the better eye. NOTE: These criteria are used to determine eligibility for government disability benefits and do not necessarily indicate a person's ability to function.
+LENS	The transparent, double convex (outward curve on both sides) structure suspended between the aqueous and vitreous; helps to focus light on the retina.
+LOW VISION	Visual loss that cannot be corrected with eyeglasses or contact lenses and interferes with daily living activities.
+MACULA (MAK-yoo-luh)|macula	The small, sensitive area of the central retina; provides vision for fine work and reading.
+MYOPIA (my-OH-pee-uh)|myopia	Nearsightedness; ability to see close objects more clearly than distant objects; may be corrected with glasses or contact lenses.
+OPTIC CUP	The white, cup-like area in the center of the optic disc.
+OPTIC DISC/OPTIC NERVE HEAD|optic-disc|optic-nerve-head	The circular area (disc) where the optic nerve connects to the retina.
+OPTIC NERVE	The bundle of over one million nerve fibers that carry visual messages from the retina to the brain.
+PERIPHERAL VISION (per-IF-ur-al)|peripheral-vision	Side vision; ability to see objects and movement outside of the direct line of vision.
+POSTERIOR CHAMBER	The space between the back of the iris and the front face of the vitreous; filled with aqueous fluid.
+PRESBYOPIA (prez-bee-OH-pee-uh)|presbyopia	The gradual loss of the eye's ability to change focus (accommodation) for seeing near objects caused by the lens becoming less elastic; associated with aging; occurs in almost all people over age 45.
+PUPIL	The adjustable opening at the center of the iris that allows varying amounts of light to enter the eye.
+REFRACTION	A test to determine the best eyeglasses or contact lenses to correct a refractive error (myopia, hyperopia, or astigmatism).
+RETINA (RET-in-nuh)|retina	The light-sensitive layer of tissue that lines the back of the eyeball; sends visual messages through the optic nerve to the brain.
+RETINAL PIGMENT EPITHELIUM (RPE)(ep-ih-THEE-lee-um)|retinal-pigment-epithelium|rpe	The pigment cell layer that nourishes the retinal cells; located just outside the retina and attached to the choroid.
+RODS|rod-cells	One type of specialized light-sensitive cells (photoreceptors) in the retina that provide side vision and the ability to see objects in dim light (night vision). Also see CONES.
+SCHLEMM'S CANAL	The passageway for the aqueous fluid to leave the eye.
+SCLERA (SKLEH-ruh)|sclera	The tough, white, outer layer (coat) of the eyeball; with the cornea, it protects the entire eyeball.
+TONOMETRY	The standard to determine the fluid pressure inside the eye (intraocular pressure).
+TRABECULAR MESHWORK (truh-BEC-yoo-lur)|trabecular-meshwork	The spongy, mesh-like tissue near the front of the eye that allows the aqueous fluid (humor) to flow to Schlemm's canal then out of the eye through ocular veins.
+UVEA(YOO-vee-uh)|uveal-tract	The middle coat of the eyeball, consisting of the choroid in the back of the eye and the ciliary body and iris in the front of the eye.
+VISUAL ACUITY|central-vision	The ability to distinguish details and shapes of objects; also called central vision.
+VISUAL FIELD	The entire area that can be seen when the eye is forward, including peripheral vision.
+VITREOUS (VIT-ree-us)|vitreous	The transparent, colorless mass of gel that lies behind lens and in front of retina.
+ZONULES (ZAHN-yoolz)|zonules	The fibers that hold the lens suspended in position and enable it to change shape during accommodation.

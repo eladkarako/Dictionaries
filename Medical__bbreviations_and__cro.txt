@@ -1,0 +1,403 @@
+##name	Medical Abbreviations and Acronyms
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2001/04/02, 21:18
+##author	Marcos E. Velez
+##description	Medical Abbreviations and Acronyms. Useful for med-students, physicians and other health related professionals.
+##browsingEnabled	
+##bgl_creationTime	2001/03/25, 19:29
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+(B)	Bilateral
+(L)LE	Left lower extremity
+(p)	pending
+(R)UE	Right upper extremity
+A/O	Alert and Oriented
+A2	Aortic component of second heart sound
+Aa	Alveolar/arterial
+AAA	Abdominal aortic aneurysm
+AAOx3	Awake, Alert, Oriented x 3 (person/place/time)
+AAROM	Active assisted range of motion
+ABC	Airway, Breathing, Circulation
+ABG	Arterial blood gases
+Abnl	Abnormal
+ABVD	Doxorubicin, Bleomycin, Vinblastine, Dacarbazine
+Abx	Antibiotics
+ac	Latin "ante cibum"; before meals
+ACA	Anterior cerebral artery
+ACE	Angiotnesin-Converting Enzyme
+ACLS	Advanced Cardiac Life Support
+Ad Lib	As desired
+ADA	Adenosine deaminase
+ADD	Atention Deficit Disorder
+ADH	Antidiuretic hormone
+ADHD	Atention Deficit Hyperactivity Disorder
+AED	Automatic External Defibrillator
+AF	Atrial fibrillation
+AFB	Acid fast bacilli
+AFP	Alpha-fetoprotein
+AI	Aortic insufficiency
+AICD	Automatic Implanted Cardiac Defibrillator
+AIVR	Accelerated idioventricular rhythm
+AK	Above the knee
+AKA	Above the knee amputation
+ALS	Amyotrophic lateral sclerosis
+ALT	Alanine aminotransferase
+AMA	Against medical advice
+AMI	Acute myocardial infarct
+ANA	Antinuclear antibody
+ANC	Absolute neutrophil count
+AOS	Arrived On Scene
+AP	Anterior-Posterior - x-ray view
+ARDS	Adult respiratory distress syndrome
+ARF	Acute renal failure
+AROM	Active range of motion
+ARROM	Active resistive range of motion
+ASA	Acetylsalicylic acid (aspirin)
+ASAP	As soon as possible
+ATN	Acute tubular necrosis
+AV	Arteriovenous
+AVM	Arteriovenous malformation
+AVPU	Alert, Verbal, Pain, Unresponsive (trauma alertness scale)
+AWMI	Anterior wall myocardial infarction
+BAL	Bronchoalveolar lavage
+BD	Base deficit
+BE	Base excess
+BF	Black female
+BHT	Blunt head trauma
+BIBA	Brought in by ambulance
+BID	Anterior wall myocardial infarction
+BiPAP	Bilevel positive airway pressure
+BK	Below the knee
+BKA	Below the knee amputation
+BLS	Basic Life Support
+BM	Bowel movement
+BMA	Bone marrow aspiration
+BMI	Body mass index
+BMT	Bone marrow transplant
+BP	Blood pressure
+BPH	Benign prostate hyperplasia
+BRB	Bright red blood
+BRBPR	Bright red blood per rectum
+BS	Breath Sounds
+BSA	Body surface area
+BSO	Bilateral salpingo-oophorectomy
+BUN	Blood Urea Nitrogen
+BX	Biopsy
+c	cum (with)
+C-P	Cerebellopontine angle
+C&DB	Cough &amp; deep breathe
+C&S	Culture &amp; Sensitivity
+c/c/e	clubbing, cyanosis, edema of extremities
+c/o	Complains of
+C/S	Caesarean section
+c/w	consistent with
+CA	Cancer, carcinoma
+CABG	Coronary artery bypass
+CaCO3	Calcium carbonate
+CAD	Coronary artery disease
+CAF	Cytoxan, Adriamycin, and 5-FU
+CAI	Carbonic anhydrase inhibitor
+CAT scan	Computed axial tomography scan
+CBC	Complete blood count
+CC	Chief complaint
+CCPD	Continuous cyclic peritoneal dialysis
+CCU	Coronary/Cardiac care unit
+CD	Crohn's disease
+CDB	Common bile duct
+CEA	Carcinoembryonic antigen
+CHD	Coronary heart disease <BR><BR>-or-<BR><BR>Congenital heart disease
+CHF	Congestive heart failure
+CHO	Carbohydrate
+CI	Cardiac index
+CIN	Cervical intraepithelial neoplasia
+CK	Creatine phosphokinase
+Cl	Chloride
+CME	Continuing Medical Education
+CMF	Cytoxan, Methotrexate, and 5-FU
+CMP	Comprehensive metabolic panel
+CMV	Cytomegalovirus
+CN2-CN12	Cranial nerves 2-12
+CNS	Central nervous system
+CO	Cardiac Output<BR><BR>-or-<BR><BR>Carbon Monoxide
+CO2	Carbon dioxide
+COPD	Chronic obstructive pulmonary disease
+CP	Chest pain<BR><BR>-or-<BR><BR> Cerebral palsy
+CPAP	Continuous Positive Airway Pressure
+CPK	Creatine phosphokinase
+CPR	Cardiopulmonary resuscitation
+CPZ	Chlorpromazine (Thorazine)
+CrCl	Creatinine clearance
+CRF	Chronic renal failure
+CRP	C-reactive protein
+CSA	Cyclosporine
+CSF	Cerebrospinal fluid
+CT	Cat scan (computed axial tomography)
+CTA	Clear to auscultation
+CTA(B)	Clear to auscultation bilaterally
+CVA	Cerebrovascular accident<BR><BR>-or-<BR><BR>Costovertebral angle (i.e., CVA tenderness)
+CVP	Central venous pressure
+CVS	Chorionic villi sampling
+Cx	Cultures<BR><BR>-or-<BR><BR>Cervix
+CXR	Chest x-ray
+D/C	Discharge<BR><BR>-or-<BR><BR>Discontinue or Disconnect<BR><BR>-or-<BR><BR>Diarrhea/Constipation
+D5/LR	5% Dextrose in Lactated Ringer's
+D50	Dextrose 50%
+D5W	Dextrose 5% in water
+DAT	Dementia of Alzheimer's type
+DBP	Diastolic blood pressure
+DC	Discharge<BR><BR>-or-<BR><BR>Discontinue or Disconnect
+DCIS	Ductal carcinoma in situ
+DDx	Differential diagnosis
+DIC	Disseminated intravascular coagulation
+DJD	Degenerative joint disease
+DKA	Diabetic ketoacidosis
+DNI	Do not intubate
+DNR	Do not resucitate
+DOA	Dead on arrival
+DOB	Date of birth
+DOE	Dyspnea on exertion
+DOH	Department of Health
+DP	Distal pulses<BR><BR>-or-<BR><BR>Dorsalis pedis pulse
+DPL	Diagnostic peritoneal lavage
+DTR	Deep tendon reflex
+DUB	Dysfunctional uterine bleeding
+DUI	Driving under the influence - intoxicated
+DVT	Deep vein thrombosis
+EAC	External auditory canal
+ECASA	Enteric-coated ASA (aspirin)
+ECG|EKG	Electrocardiogram
+ECT	Electroconvulsive therapy
+ED	Emergency department
+EEG	Electroenchephalogram
+EENT	Eyes, Ears, Nose, and Throat
+EFW	Estimated fetal weight
+ELOS	Estimated length of stay
+EMD	Electromechanical dissociation
+EMG	Electromyography
+EMS	Emergency Medical Services
+EMT	Emergency Medical Technician
+ENT	Ears, Nose, and Throat (otorhinolaryngologist)
+EOM	Extraocular movements<BR><BR>-or-<BR><BR>Extraocular muscle
+EOMI	Extraocular movements intact
+EPAP	Expiratory positive airway pressure
+EPS	Electrophysiologycal study
+ER	Emergency room
+ERCP	Endoscopic retrograde cholangiopancreatography
+ESRD	End-stage renal disease
+ETA	Estimated time of arrival
+EtOH	Ethanol or Ethyl alcohol
+ETT	Endotracheal tube
+f/u	follow-up
+FAS	Fetal alcohol syndrome
+FBS	Fasting blood sugar
+Fe	Iron
+FFA	Free fatty acids
+FH	Family history
+FSBG|FSBS	Finger stick blood glucose/sugar
+FSP	Fibrin split products
+FTA	Fluorescent treponemal antibody absorption
+FTI	Free thyroxin index
+FTT	Failure to thrive
+FUO	Fever of unknown origin
+Fx	Fracture
+GCS	Glasgow coma scale
+GFR	Glomerular filtration rate
+GH	Growth hormone
+GI	Gastrointestinal
+GnRH	Gonadotropin releasing hormone
+Grade II/VI	Grade 2 out of a possible 6 in intensity. Murmurs louder than grade 2 in intensity suggest aortic stenosis, mitral regurgitation, and ventricular septal defect.
+GSW	Gunshot wound
+GTT	"guttae", drops (gtt)<BR><BR>-or-<BR><BR>Glucose tolerance test
+GU	Genitourinary
+H	Hispanic
+H&P	History and physical
+h/o	history of
+HA	Headache
+HAL|HyperAl	Hyperalimentation
+HCO3	Bicarbonate
+Hct	Hematocrit
+HCTZ	Hydrochlorothiazide
+HEENT	Head, eyes, ears, nose and throat
+Heplock	Heparin lock
+HHNC	Hyperosmolar hyperglycemic nonketotic coma
+HO	House officer
+HOB	Head of bed
+HPI	History of present illness
+HRRR	Heart regular rate and rhythm
+HTN	Hypertension
+Hx	History
+I&Os	Ins and Outs
+ICD	Implanted cardiac defibrilator
+ICP	Intracraneal pressure
+ICU	Intensive care unit
+IDDM	Insulin dependent diabetes mellitus
+IM	Intramuscular<BR><BR>-or-<BR><BR>Internal Medicine
+INH	Isoniazid (TB prophylaxis)
+IPAP	Inspiratory positive airway pressure
+IPN	Intern progress note
+IPPV	Intermittent positive pressure ventilation
+IV	Intravenous<BR><BR>-or-<BR><BR>Intravenous line
+IVDA	IV drug abuse
+IVP	Intravenous pyelogram
+IVR	Idioventricular rhythm
+JVD	Jugular venous distention
+LBBB	Left bundle branch block
+LCTA	Lungs clear to auscultation
+LE	Lower extremity
+LGIB	Lower gastrointestinal bleeding
+LLL	Left lower lobe
+LOC	Loss of consciousness
+LR	Lactated Ringers IV solution
+LVEDP	Left ventricular end diastolic pressure
+LVH	Left ventricular hypertrophy
+MDI	Metered-dose inhaler (with or w/o spacer)
+ME	Medical Examiner
+MI	Myocardial infarction
+MOM	Milk of magnesia
+MR	Mental retardation<BR><BR>-or-<BR><BR>Mitral regurgitation
+MRG	Murmurs, rubs, gallops
+MS	Multiple Sclerosis<BR><BR>-or-<BR><BR>morphine sulfate
+MVA	Motor vehicle accident
+MVO2	Myocardial Oxignen Consumption
+MVP	Mitral valve prolapse
+N/V/D/C	Nausea/vomiting/diarrhea/constipation
+NA	Native American
+NABS	Normoactive bowel sounds
+NAD	No acute distress or No apparent distress
+NC	Nasal cannula
+NC/AT	Normocephalic/atrumatic
+ND	Nondistended
+NG|NGT	Nasogastric tube
+NKDA	No known drug allergies
+Nl	Normal
+NPH	Normal pressure hydrocephaly
+NPO	Nil per os (nothing by mouth)
+NRFM	Nonrebreather facemask
+NRM	Nonrebreather mask
+NS	Normal saline (0.9% NaCl)
+NSAID	Nonsteroidal antiinflammatory durg
+NT	Nontender
+NT/ND	Nontender/Nondistended
+NTG	Nitroglycerin
+O2	Oxygen
+OBS	Organic Brain Syndrome
+OC	Oral contraceptive
+OD	Overdose
+OPA	Oropharyngeal airway
+OR	Operation Room
+OT	Occupational therapy
+P&PD	Percussion and postural drainage
+P2	Pulmonic component of second heart sound
+PA	Physician assistant
+PAC	Premature atrial contraction
+PAT	Paroxysmal atrial tachycardia
+PCA	Patient-controlled analgesia
+PCN	Penicillin
+PCP	Pneumocystis carinii pneumonia<BR><BR>-or-<BR><BR>Primary Care Physician<BR><BR>-or-<BR><BR>Phencyclidine (angel dust)
+PCr	Plasma creatinine
+pCXR	portable chest x-ray
+PDA	Patent ductus arteriosus
+PDR	Physician's Desk Reference
+PE	Physical examination<BR><BR>-or-<BR><BR>Pulmonary edema<BR><BR>-or-<BR><BR>Pulmonary embolus
+PEA	Pulseless electrical activity
+PEEP	Positive end expiratory pressure
+PEG	Percutaneous endoscopic gastrostomy (gastric tube)
+PERRL	Pupils equally round and reactive to light
+PERRLA	Pupils equally round and reactive to light and accommodation
+PET	Positron emission tomography
+PID	Pelvic inflammatory disease
+PMH	Past medical history
+PMI	Point of maximum impulse
+PND	Paroxysmal nocturnal dyspnea
+PO	Per os (by mouth)
+POx	Pulse oximetry (guide to arterial blood oxygenation)
+PPD	Protein purified derivative (tuberculosis skin test)<BR><BR>-or-<BR><BR>cigarette packs per day
+PRN	pro re nata (as the need arises)
+PSA	Prostate specific antigen
+PSVT	Paroxysmal supraventricular tachycardia
+Pt	Patient
+PTC	Percutaneous transhepatic cholangiogram
+PTCA	Percutaneous transluminal coronary angioplasty
+PTT	Partial Thromboplastin Time
+PTX	Pneumothorax
+PTXes	Pneumothoraces
+PVC	Premature ventricular contraction
+Px	Prognosis
+q8h	taken every 8 hours
+QD|qd	Each day
+qhs	at bedtime
+QID|qid	Quarter in die (four times daily)
+r/o	Rule out
+RAAS	Renin-angiotensin-aldosterone system
+RAS	Reticular activating system
+RBBB	Right bundle branch block
+RBC	Red blood cells
+RF	Rheumatic fever
+RLL	Right lower lobe
+ROS	Review of systems
+RPN	Resident progress note
+RR	Respiratory rate
+RRR	Regular rate and rhythm
+RUL	Right upper lobe
+RUQ	Right upper quadrant
+RVH	Right ventricular hypertrophy
+Rx	Prescription
+SAD	Seasonal affective disorder
+SBP	Systolic blood pressure
+SCDs	Sequential compression devices
+SDP	Single donor platelets
+SEM	Systolic ejection murmur
+SH	Social history
+SLE	Systemic lupus erythematosis
+SOAP	Progress note: Subjective, Objective, Assessment, and Plan
+SOB	Shortness of breath (dyspnea)
+SQ	Subcutaneous
+STD|Std	Sexually Transmitted Disease<BR><BR>-or-<BR><BR>Standard
+Sux	Succinylcholine
+SVT	Supraventricular tachycardia
+Sx	Surgery
+TAH/BSO	Total abdominal hysterectomy/bilateral salpingo-oophorectomy
+TB	Tuberculosis
+TBI	Traumatic brain injury
+TC&DB	Turn, cough, and deep breathe
+TEE	Transesophageal echocardogram
+TIA	Transient ischemic attack
+TID	Three times per day
+TKO	To keep open
+TPA	Tissue plasminogen activator
+TPN	Total Parenteral Nutrition
+TURP	Transurethral resection of prostate
+TV	Tidal volume
+TVH	Transvaginal hysterectomy
+Tx	Treatment
+U	Unit
+U/A	Urine analysis
+U/P	Urine/Plasma ratio
+U/S|US	Ultrasound
+UGIB	Upper gastrointestinal bleeding
+URI	Upper respiratory infection
+ut dict	from "ut dictum", as directed
+VF	Ventricular fibrillation
+VQ	Ventilation/perfusion, V/Q scan
+VS	Vital sign
+VT	Ventricular tachycardia
+w/	with
+w/o	without
+WBC	White blood cell
+WDWN	Well-developed, well-nourished
+WF	White female
+WM	White male
+WNL|wnl	Within normal limits
+x	times
+y/o	years old

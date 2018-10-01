@@ -1,0 +1,1861 @@
+##name	Chaucer's Middle English Glossary
+##sourceLang	English
+##targetLang	English
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2004/02/12, 19:22
+##author	Eran Tzelgov
+##email	tzel@bgumail.bgu.ac.il
+##description	Based on Chaucer's "Canterbury Tales"
+##bgl_creationTime	2004/02/12, 11:39
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+Alkaron	<I>noun</I> the Koran
+Amor vincit omnia	<I>(Latin)</I> Love conquers all
+Ave Marie	<I>(Latin)</I> Hail Mary (first words of a Latin prayer)
+Bacus	<I>noun</I> Bacchus, god of wine
+Barbre nacioun	<I>noun</I> pagan world
+Britouns	<I>noun</I> Bretons
+Cantebrigge	Cambridge
+Depardieux	by God
+Deus hic	God is here
+Fairye, Fayerye	<I>noun</I> fairyland
+Femenye	<I>noun</I> Amazons
+Flaundryssh	<I>adj.</I> Flemish
+Goost	<I>noun</I> Holy Spirit
+Grete See	<I>noun</I> Mediterranean
+I nam but	I am as good as ...
+Inde	India
+Jewerye, Juerie	<I>noun</I> Jewish quarter, ghetto
+Lameth	<I>noun</I> Lamech, the first bigamist according to the Bible
+Lettow	Lithuania
+Luna	<I>noun</I> the moon
+Mahoun	Mohammed
+Makomete	Mohammed
+Moyses	Moses
+Noe	Noah
+Olifaunt	<I>noun</I> Elephant
+Oxenford	Oxford
+Parvys	<I>noun</I> the porch of St. Paul's Cathedral
+Phebus	<I>noun</I> Phoebus Apollo, the sun
+Poo	the river Po
+Poules	<I>noun</I> St. Paul's Cathedral
+Questio quid iuris	<I>(Latin)</I> The question is, what law applies
+Radix malorum est Cupiditas	<I>(Latin)</I> Greed is the root of all evil
+Ruce	Russia
+See of Grece	the eastern Mediterranean
+Seint Julian	patron saint of hospitality
+Seinte Loy	St. Eligius
+Seinte Poules	St. Paul's Cathedral (in London)
+Significavit	<I>noun</I> order for imprisonment (the first word of a writ in which the imprisonment of an excommunicated person is ordered)
+Sol	<I>noun</I> the sun
+Soler Halle	<I>noun</I> the King's Hall, a college at Cambridge
+Sowdan	<I>noun</I> sultan
+Sowdanesse	<I>noun</I> sultaness
+Te Deum	<I>(Latin)</I> To you O God
+Woodnesse	<I>noun</I> Madness
+Zephirus	<I>noun</I> the west wind that blows in Spring
+a-rewe	<I>adv.</I> in succession
+abidyng	<I>verb</I> awaiting
+able	suitable
+abluciouns	<I>noun</I> cleansings
+abood	delay or remained
+above	<I>adj.</I> superior
+abregge	<I>verb</I> abridge, shorten
+abyd|abyde	remain, wait<BR>
+abyd, abyde	<I>verb, prsnt.</I> remain, wait;
+accidie	sloth, laziness
+accord|acord	agreement
+accord, acord	<I>noun</I> agreement
+achatours	<I>noun</I> buyers
+acorded	agreed
+adoun	below
+adrad	<I>adj.</I> afraid
+afered|aferd	afraid
+afered, aferd	<I>adj.</I> afraid
+affraye	<I>verb, prsnt</I> frighten
+affrayed	<I>verb, pst.</I> frightened, afraid
+after-mete	<I>prep.</I> the time after diner
+agast	<I>verb, pst. prtcpl.</I> frightened
+agaste	<I>verb, pst. sg.</I> frightened
+agu	<I>noun</I> acute fever
+aiel	<I>noun</I> grandfather
+aketoun	<I>noun</I> wadded jacket worn under the chain-mail coat
+al	<I>conj.</I> although
+al bifore	<I>adv.</I> first, before everyone else, heading the procession
+al speke he	although he may speak
+alauntz	<I>noun</I> wolfhounds
+alday	<I>adv.</I> daily
+alderbest	best of all
+alderfirst	first of all, to begin with
+alderlevest	most beloved
+aldermost	most of all
+aleyes	<I>noun</I> garden paths
+algate, algates	<I>adv.</I> always, all the same
+alkamystre	<I>noun</I> alchemist
+alle and some	one and all, everyone
+allegge	<I>verb</I> adduce, cite
+allye	<I>noun</I> kinsman
+allyen	<I>verb</I> ally oneself, marry
+almesdede	<I>noun</I> almsgiving
+almesse	<I>noun</I> charity
+als cleere	<I>adv.</I> as clearly
+alyght	<I>verb</I> arrived
+amalgamyng	<I>noun</I> blending, amalgamation
+amblere	<I>noun</I> pacing horse
+amende	<I>verb</I> improve, correct, remedy
+amended	<I>verb, pst. prtcpl.</I> improved, corrected
+amonesteth	<I>verb, prsnt. sg.</I> admonishes
+angwissous	<I>adj.</I> anxious
+anlaas	<I>noun</I> broad two-edged dagger
+annueleer	<I>noun</I> chantry priest, a priest who sings anniversary masses for the dead
+anon, anoon	<I>adv.</I> straightway, at once, immediately
+anoy	<I>noun</I> trouble
+antiphoner	<I>noun</I> anthem-book, book of antiphonal hymns
+ape	<I>noun</I> 1. fool, dupe; 2. monkey
+apertenen	<I>verb</I> befit
+aperteneth	<I>verb, prsnt. sg.</I> befits
+apiked	<I>verb</I> adorned, trimmed
+appalled	<I>adj.</I> pale-looking, faded
+apposed	<I>verb</I> questioned
+appreved	<I>verb</I> approved, proven, tested
+approwours	<I>noun</I> agents
+areste	<I>verb</I> stop, restrain
+argumentz	<I>noun</I> logical reasoning
+aright	<I>adv.</I> certainly
+armee	<I>noun</I> military expedition
+armure	<I>noun</I> armour, protective covering
+array	<I>noun</I> 1. equipment; 2. dress, clothes
+arrayed	<I>verb, pst. prtcpl.</I> prepared, adorned
+arreest	<I>noun</I> restaint, seizure
+artelries	<I>noun</I> artillery, shooting equipment, cannons and catapults
+arwes	<I>noun, pl.</I> arrows
+aslaked	calmed
+asonder	<I>adv.</I> apart
+assaut	<I>noun</I> assault
+assay	<I>noun</I> 1. trial; 2. test
+assaye	<I>verb, prsnt. sg.</I> test
+assayed	<I>verb, pst. sg</I> tested
+asseged	besieged
+assent	<I>noun</I> consent, will, opinion
+assente	<I>verb, prsnt.</I> consent, agree;
+assented	<I>verb, pst.</I> consented, agreed
+assise	<I>noun</I> the court of assizes
+assoille	<I>verb</I> absolve
+assoillyng	<I>noun</I> absolution
+assured	<I>adj.</I>
+astert	<I>verb</I> escaped
+asterte, asterted	<I>verb</I> escaped
+astoned	<I>verb</I> amazed, astonished, surprised
+astored	<I>verb</I> provided
+aswowne	<I>adv.</I> in a swoon, aswooned
+at erst	<I>prep.</I> for the first time
+atemprely, attemprely	<I>adv.</I> moderately
+atones	<I>adv.</I> at once, at one time, at the same time, immediately
+attamed	<I>verb, pst.</I> begun
+attempree	<I>adj.</I> moderate
+atthamaunt, adamant	<I>noun</I> adamant, a very hard kind of stone
+atwo	<I>adv.</I> in two
+atwynne	<I>adv.</I> apart
+auctorite, auctoritee	<I>noun</I> 1. written authority, an authoritative statement or passage; 2. legal power or authority
+aungel	<I>noun</I> angel
+aungellyk	<I>adj.</I> angel-like
+auter	<I>noun</I> altar
+avalen	<I>verb</I> take off
+avarice	<I>noun</I> greed
+avaunce	<I>verb</I> prosper
+avauntyng	<I>verbal noun</I> boasting
+avayle	<I>verb</I> help, benefit
+avoutrye, avowtrie, avowtrye	<I>noun</I> adultery
+avow	<I>noun</I> vow, solemn pledge
+avowtier	<I>noun</I> adulterer
+avys	<I>noun</I> 1. discussion; 2. opinion
+avysement	<I>noun</I> deliberation
+awreke	<I>verb</I> avenged
+axe	<I>verb, prsnt. sg.</I> ask
+axed	<I>verb, pst.</I> asked
+axeth	<I>verb, prsnt. sg.</I> asks
+ay	<I>adv.</I> always
+ba	<I>verb</I> kiss
+baar	<I>verb</I> carried
+bacheler, bachiler	<I>noun</I> young man, unmarried man, young knight
+bachilrie	<I>noun</I> knighthood, knightly conduct
+baillif, bailly	<I>noun</I> bailiff, an agent for a lord's estate who administered justice and collected revenues
+balke	<I>noun</I> beam
+balled	<I>adj.</I> bald
+bane	<I>noun</I> killer
+bargaynes	<I>noun</I> bargains, buying and selling
+barge	<I>noun</I> sailing ship
+baronage	<I>noun</I> nobles, nobility
+bataille	<I>noun</I> battle
+bath	<I>noun</I> cauldron
+bathen	<I>verb</I> bask
+bauderye, bawderye	<I>noun</I> pandering
+bawdes	<I>noun</I> pimps
+bawdryk	<I>noun</I> baldric, shoulder strap, a belt for a sword, bugle, etc. hung from the shoulder across the body to the opposite hip
+bawme	<I>noun</I> balsam
+beautee	<I>noun</I> beauty
+beddes heed	<I>noun</I> head of the bed
+bede	<I>noun</I> bead, a small usually rounded and perforated piece of glass or stone for threading with others to make jewellery
+bedrede	<I>adj.</I> 1. bedridden, confined to bed by infirmity; 2. decrepit
+before, formerly;	<I>conj.</I>
+before;	<I>prep.</I> before
+beggestere	<I>noun</I> beggar-woman
+bekke	nod
+benefice	<I>noun</I> ecclesiastical living
+benigne, benygne, benyngne	<I>adj.</I> 1. kind, good; 2. gracious
+benignely, benygnely	<I>adv.</I> graciously
+benignytee, benygnytee, benyngnytee,	<I>noun</I> goodness
+benyson, benysoun	<I>noun</I> blessing
+bereth	<I>verb</I> acquits
+berkyng	<I>verbal noun</I> barking
+berne	<I>noun</I> barn
+best	<I>noun</I> beast
+bible	<I>noun</I> book
+bibledde	<I>adj.</I> covered with blood
+biddeth	<I>verb, prsnt.</I> pray
+bifel, bifil	<I>verb</I> (it) happened
+bigileres	<I>noun</I> liars, deceivers
+biheeste, biheete, biheste	<I>noun</I> promise
+bihight, bihighte	<I>verb</I> promised
+bihighten	<I>verb</I> promised
+biknowe	<I>verb</I> reveal, confess
+bileve	<I>verb</I> remain, stay
+bille	<I>noun</I> petition, formal charge
+biraft	<I>verb</I> taken away (from)
+birafte	<I>verb</I> took away (from)
+bireve	<I>verb</I> remove, deprive, take away
+bireveth	<I>verb</I> removes, deprives, takes away from
+biseche, biseke	<I>verb</I> beseech
+bisemare	<I>noun</I> scorn
+bitook	<I>verb</I> entrusted
+bitrayseth	<I>verb</I> betrays
+bitwix, bitwixe, bitwixen, bitwyxen	<I>prep.</I> between
+biwrey, biwreye	<I>verb, prsnt.</I> 1. reveal, expose; 2. betray
+biwreyed	<I>verb, pst.</I> revealed
+blak, blake	<I>adj.</I> black
+blent	<I>verb</I> deceived, blinded
+blew	<I>adj.</I> blue
+bleynte	<I>verb</I> turned pale
+blisful	<I>adj.</I> blessed
+blyve	<I>adv.</I> quickly
+bobance	<I>noun</I> boast
+bocher	<I>noun</I> butcher
+bodies, bodyes	<I>noun</I> metals
+boef	<I>noun</I> beef
+boghte	<I>verb</I> redeemed
+boidekyn	<I>noun sg.</I> dagger
+bokeler, bokeleer	<I>noun</I> buckler, small shield
+bond	<I>noun</I> bond, knowledge of practitioner
+boone	<I>noun</I> request, prayer
+boote	<I>noun</I> remedy
+bord	<I>noun</I> dinner table
+bord bigonne	sat in the place of honor
+bountee	<I>noun</I> goodness, virtue
+bour	<I>noun, sg.</I> inner room, bedroom, private room for lord and lady
+bourde	<I>noun</I> jest
+boures	<I>noun, pl.</I> bedrooms
+boydekyns	<I>noun, pl.</I> daggers
+brawen, brawn	<I>noun, sg.</I> 1. muscle; 2. meat
+brawnes	<I>noun, pl.</I> muscles
+breme	<I>adv.</I> fiercely
+brenne, brennen	<I>verb</I> burn
+brenneth	<I>verb, 3rd prs. sg.</I> burns
+brennynge	<I>verb</I> burning
+brent	<I>verb</I> burned
+bresten	<I>verb</I> break, burst
+bretful, bret-ful	<I>adj.</I> brimful
+bretherhed	<I>noun</I> guild, fraternity
+briberyes	<I>noun</I> ways of stealing money
+bridale	<I>noun</I> wedding-party
+briddes	<I>noun, pl.</I> birds
+brigge	<I>noun</I> bridge
+brike	<I>noun</I> trap, plight
+brode	<I>adv.</I> plainly
+brond	<I>noun</I> torch
+brood	<I>adj.</I> broad, wide
+brosten	<I>verb</I> broken
+brotel	<I>adj.</I> insecure, unstable, brittle
+brotelnesse, brotilnesse	<I>noun</I> insecurity, unstability, fickleness
+browdynge	<I>noun</I> embroidery
+brybe	<I>verb</I> steal
+brydel	<I>noun</I> bridle, the harness fitted about a horse's head
+brymstoon	<I>noun</I> sulphur
+bryngen	<I>verb</I> bring
+brynne	<I>verb</I> burn
+bulles	<I>noun</I> papal bulls, edict, indulgences
+burdoun	<I>noun</I> bass (part in a song)
+burel	<I>adj.</I> uneducated, unlearned
+burgeys	<I>noun</I> citizen of a city (tradesman)
+burghes	<I>noun, pl.</I> boroughs, a town (as distinct from a city) with a corporation and priviliges granted by a royal charter
+buryeles	<I>noun</I> burial places (the catacombs)
+but	<I>conj.</I> unless
+butiller	<I>noun</I> butler, steward
+buxom	<I>adj.</I> obedient
+buxomly	<I>adv.</I> obediently
+by aventure	by chance
+by noon assent	not at all
+by oon assent	unanimously, all together
+by rote	by heart
+by taille	on credit
+byg	<I>adj.</I> strong
+byle	<I>noun</I> beak
+byte	<I>verb</I> burn
+byynge	<I>verb</I> purchase (buying)
+caas	<I>noun</I> case, circumstances
+cake	<I>noun</I> loaf of bread
+calcenyng	<I>noun</I> calcination, reducing to powder by heat
+calculinge	<I>noun</I> astrological computation
+caples	<I>noun, pl.</I> horses
+capul	<I>noun</I> nag, a small riding-horse or pony
+careyne	<I>noun</I> corpse
+carl	<I>noun</I> fellow
+carryk	<I>noun</I> barge, large sailing ship
+cartere	<I>noun</I> charioteer
+caste	<I>verb, pst. sg.</I> thought, planned
+catel	<I>noun</I> property, possessions
+caytyf, kaityf, kaytyf	<I>noun</I> wretch
+caytyves	<I>noun</I> wretched creatures
+ceint, ceynt	<I>noun</I> belt
+celle	<I>noun</I> a subordinate monastery
+certes	<I>adv. </I> certainly, indeed
+chaar	<I>noun</I> chariot, a stately or triumphal vehicle
+chaast	<I>adj.</I> chaste
+chaffare	<I>noun</I> merchandise, goods
+chalons	<I>noun, pl.</I> blankets
+chamberere	<I>noun</I> (chamber)maid
+chambre	<I>noun, sg.</I> (bed)room
+chambres	<I>noun, pl.</I> bedrooms
+chanon, chanoun	<I>noun</I> canon, a member of the clergy serving in a cathedral or collegiate church
+chaped	<I>verb</I> mounted
+chapeleyne	<I>noun</I> a nun serving as a secretary to a prioress
+chapman	<I>noun</I> merchant
+chasteyn	<I>noun</I> chestnut tree
+chastitee	<I>noun</I> chastity, abstinence from sexual intercourse
+chaunterie	<I>noun</I> appointment as a chantry priest, an endowment for a priest to serve in a chapel for the soul of its patron
+chaunteth	<I>verb, prsnt. sg.</I> sings
+cheere, chere	<I>noun</I> 1. manners, behaviour; 2. facial expression, look
+chees	<I>verb</I> choose, chose
+ches	<I>noun</I> chess
+ches, chese	<I>verb</I> choose
+cheste	<I>noun</I> coffin
+chevyssaunce	<I>noun</I> financial arrangements
+chidyng	<I>verbal noun</I> scolding
+chiknes	<I>noun, pl.</I> chickens
+childhede	<I>noun</I> childhood
+chirche	<I>noun</I> church
+chirche dore	<I>noun</I> door of the church
+chivalrie, chivalrye	<I>noun</I> 1. nobility; 2. knights
+ciser	<I>noun</I> strong alcoholic drink
+clad	<I>verb, pst. prtcpl.</I> clothed
+cladde	<I>verb, pst. sg.</I> clothed
+clene	<I>adv.</I> neatly
+clennesse	<I>noun</I> purity, chastity
+clepe	<I>verb</I> call;
+cleped (ycleped)|cleped	<I>pst.</I> called
+clepeth	<I>3rd prs. prsnt. sg.</I> calls;
+clergeon	<I>noun</I> choir-boy, schoolboy
+clerk	<I>noun</I> 1. university student; 2. scholar
+clippeth	<I>verb</I> embraces
+closely;	<I>adj.</I> narrow, small
+cloutes	<I>noun</I> rags
+clowde	<I>noun</I> cloud
+clyket	<I>noun</I> key
+cok	<I>noun</I> rooster
+cokenay	<I>noun</I> weakling, coward
+cokewold	<I>noun</I> cuckold, husband of an adulteress
+cokkow	<I>noun</I> cuckoo, a kind of bird
+col-fox	<I>noun</I> fox with black-tipped tail, feet and ears
+collacioun	<I>noun</I> colloquy, discussion, conference
+commune	<I>verb</I> communicate, have conversation with
+commune profit	<I>noun</I> common interest
+communes	<I>noun</I> common soldiers
+complayne	<I>verb</I> lament
+complexioun	<I>noun</I> temperament, balance of the body's fluids
+concupiscence	<I>noun</I> sexual desire, lust
+confident;	<I>verb</I> entrusted
+conscience	<I>noun</I> moral sense and solicitude
+conseil	<I>noun</I> 1. opinion, decision, advice; 2. council, adviser
+conseil kepe	<I>verb</I> keep secret
+conseille	<I>verb</I> tell, instruct, teach, advise
+consistorie	<I>noun</I> court
+constellacion	<I>noun</I> configuration of the celestial bodies
+contek	<I>noun</I> strife
+continuance	<I>noun</I> perseverance
+contree	<I>noun</I> district, country
+contricioun	<I>noun</I> the state of being contrite, affected by guilt, feeling remorse or penitence
+convertible	<I>adj.</I> interchangeable
+conveyen	<I>verb</I> introduce
+coom	<I>verb</I> came
+cop	<I>noun</I> top
+coppe	<I>noun</I> cup
+corage	<I>noun, sg.</I> 1. heart, feeling; 2. (sexual) desire, ardor
+corages	<I>noun, pl.</I> spirits, feelings
+cordial	medicine of the heart
+corone	<I>noun, sg.</I> crown
+corones	<I>noun, pl.</I> crowns
+corrumpable	<I>adj.</I> corruptible
+cors	<I>noun</I> corpse
+costlewe	<I>adj.</I> very expensive
+cosynage	<I>noun</I> kinship
+cote	<I>noun</I> 1. dungeon, cell; 2. cottage, small farm
+couched	<I>verb</I> placed, arranged
+countour (contour)|countour	<I>noun</I> auditor
+countrefete	<I>verb</I> imitate
+countrefeted	<I>verb</I> imitated
+courtepy	<I>noun</I> short coat, jacket
+coveitise, coveityse	<I>noun</I> avarice, greed, covetousness
+covenable	<I>adj.</I> appropriate
+covenant	<I>noun</I> agreement, contract
+coverchiefs	<I>noun</I> head-dresses
+covyne	<I>noun</I> treachery
+cow	<I>noun</I> chough, a crow-like bird
+coy	<I>adj.</I> quiet, shy
+cracchynge	scratching
+craft	<I>noun</I> profession, occupation, trade
+creaunce	<I>verb</I> obtain credit, borrow money
+creaunceth	<I>verb</I> obtains credit
+crekes	<I>noun</I> tricks
+crispe	<I>adv.</I> curly
+cristal stones	<I>noun</I> glass cases
+croce	<I>noun</I> cross
+crommes	<I>noun</I> crumbs
+croppes	<I>noun</I> shoots, new leaves
+crosselet	<I>noun</I> crucible, a vessel made of a refractory substance used for melting materials at high temperatures
+croys	<I>noun</I> cross
+crude	<I>adj.</I> raw, unrefined
+crueltee	<I>noun</I> cruelty
+culpe	<I>noun</I> guilt
+curaat, curat	<I>noun</I> parish priest
+cure	<I>noun</I> charge, jurisdiction
+curious	<I>adj.</I> skillful, skillfully made
+curiously	<I>adv.</I> skillfully
+curse, beshrew;	<I>noun</I> curse, cursed person
+cursyng	<I>noun</I> archdeacon's curse, excommunication
+curteisie	<I>noun</I> gracious and considerate conduct, refinement of manners
+daliance|daliaunce	<I>noun</I> 1. flirtation; 2. sociability, gossip
+dame	<I>noun</I> mother
+dampned	<I>verb</I> condemned
+dangerous, daungerous	<I>adj.</I>domineering, arrogant, fastidious, hard to please, grudging
+daswen	<I>verb</I> are dazed
+day of doom	<I>noun</I> Judgement Day, the day on which the Last Judgement is believed to take place
+dayesye	<I>noun</I> daisy, a small plant bearing flowers each with a yellow disc and white rays, usually found in meadows
+debonaire	<I>adj.</I> modest, gracious
+debonairely, debonairly	<I>adv.</I> gently, modestly, graciously
+debonairetee	<I>noun</I> graciousness, meekness
+decree	<I>noun</I> text of ecclesiastical law
+dede, deed	<I>adj.</I> dead
+deedly	<I>adv.</I> deadly
+deef	<I>adj.</I> deaf
+deerne	<I>adj.</I>secret, sercretive
+deeth	<I>noun</I> death
+defaute	<I>noun</I> 1. flaw; 2. wickedness
+defended	<I>verb</I> forbad
+deffended	<I>verb</I> forbad, forbidden
+deffenden	<I>verb</I> forbid
+deffendeth	<I>verb</I> forbids
+defye	<I>verb</I> repudiate
+delices	<I>noun, pl.</I> pleasures
+deliciously	<I>adv.</I> luxuriously, voluptuously
+delit, delyt	<I>noun, sg.</I> delight, pleasure, desire
+delivernesse	<I>noun</I> dexterity
+delve	<I>verb</I> dig
+delyvere	<I>adj.</I> agile, active, nimble
+delyverly	<I>adv.</I> nimbly
+demande	<I>noun, sg.</I> question
+demandes	<I>noun, pl.</I> questions
+demeth	<I>noun</I> judge
+depe	<I>adv.</I> deeply
+depeint	<I>verb, pst. prtcpl.</I> stained
+depeynted	<I>verb, pst. prtcpl.</I> painted
+depper	<I>comp.</I> more deeply
+derk, derke	<I>adj.</I> dark
+derknesse	<I>noun</I> darkness
+descensories	<I>noun, pl.</I> retorts, flasks used for distillation
+despit, despyt	<I>noun</I> scorn, disdain, insult, contempt
+despitous	<I>adj.</I> scornful
+desport, disport	<I>noun</I> amusement, pleasure
+desray	<I>noun</I> disorder
+destreyneth	<I>verb</I> afflicts, distresses, compels
+dette	<I>noun</I> debt, obligation
+dettelees	without debts
+dettour	<I>noun</I>
+deve	<I>adj.</I> deaf
+devoir	<I>noun</I> duty
+devyne	<I>verb</I> guess, conjecture
+devyse	<I>verb</I> 1. tell, narrate; 2. look upon, inspect; 3. instruct, command
+deynous	<I>adj.</I> haughty, arrogant
+deyntee	<I>adj.</I> fine, valuable, excellent
+deyntees	<I>noun</I> fine food and drink, delicacies
+deyntevous	<I>adj.</I> delicicious
+deys	<I>noun</I> dais (stage, raised platform)
+dide execucioun	carried out the law
+diffamacioun	<I>noun</I> slander
+diffame	<I></I> bad reputation
+diffye	<I>verb</I> repudiate, despise
+dight	<I>verb, pst.</I> 1. prepared; 2. had sexual intercourse with
+digne	<I>adj.</I> worthy
+digne of reverence	<I>adj.</I> worthy of respect
+dilatacioun	<I>noun</I> elaboration, increase of words
+diligence	<I>noun</I> effort, diligence
+disclaundre	<I>noun</I> slander, defame
+discord	<I>noun</I> disagreement
+discryve	<I>verb</I> desribe
+disese	<I>noun</I> discomfort, distress
+disfigure	<I>noun</I> deformity, disfigurement
+dispence	<I>noun</I> expenditure(s)
+dispitously	<I>adv.</I> angrily
+dispoillen	<I>verb</I> undress
+disporte	<I>verb</I> amuse oneself
+disposed	<I>verb</I> determined, decided
+dissevere	<I>verb</I> separate, be separated
+dissymuleth	<I>verb</I> dissembles
+divynynge	<I>noun</I> speculation
+dokked	<I>verb</I> cut short
+doomes	<I>noun, pl.</I> judgements, decisions
+dooth	<I>verb</I> do, does
+dores	<I>noun, pl.</I> doors
+dorste	<I>verb, pst. </I> dared
+dortour	<I>noun</I> dormitory
+dotage	<I>noun</I> feeble-minded senility
+doutances	<I>noun</I> uncertainties
+dowaire	<I>noun</I> dowry, property or money brought by a bride to her husband
+drad	<I>verb</I> feared, respected
+drasty	<I>adj.</I> worthless, lousy
+drawen to memorie	<I>verb</I> be remembered
+draweth cut	draw lots (straws)
+drede	<I>noun</I>
+dredelees	<I>adj.</I> fearless
+dredeth	<I>verb, 3rd prs. sg.</I> is afraid, fears
+dreem	<I>noun, sg.</I> dream
+dremes	<I>noun, pl.</I> dreams
+drenche	<I>verb</I> drown
+drenchyng	<I>verb</I> drowning
+dresse	<I>verb</I> go, move
+dressed	<I>verb</I> treated
+dreynt, dreynte	<I>verb</I> drowned
+droghte	<I>noun</I> dryness, drought, lack of rain
+dronkelewe	<I>adj.</I> habitually drunk, addicted to drink alcohol
+droppynge	<I>verb</I> leaking
+dryve	<I>verb</I> rushed
+duc	<I>noun</I> duke
+dure	<I>verb</I> last, endure
+duren	<I>verb</I> last, continue
+duszeyne	<I>noun</I> dozen, twelve
+dwale	<I>noun</I> sleeping potion, drug
+dyamauntz	<I>noun</I> diamonds
+dyched	surrounded by a ditch
+dyke	<I>noun</I> ditch
+dyvynytee	<I>noun</I> theology
+ech	<I>pro.</I> each (one)
+eek|eke	<I>adv.</I> also
+eelde|elde	<I>noun</I> old age
+eeris|eres|erys	<I>noun, pl.</I> ears
+eet	<I>verb</I> ate
+eft	<I>adv.</I> 1. again; 2. immediately
+eftsoone|eft soone|eft soones|eft-soone|eft-soones	<I>adv.</I> 1. again, once more; 2. immediately, very soon, right now
+eggyng	<I>verb</I> incitement, urging
+egle	<I>noun</I> eagle, a large bird of prey
+egre	<I>adj.</I> fierce
+eir	<I>noun</I> air
+elf-queene	<I>noun</I> fairy queen
+elvysshe	<I>adj.</I> mysterious
+embassadrye	<I>noun</I> negotiation
+embrouded	<I>adj.</I> embroidered
+empeyre	<I>verb</I> damage, injure
+emprented	<I>verb</I> imprinted, made an impression of
+emprentyng	<I>noun</I> imprint, impression
+emprise	<I>noun</I> enterprise, chivalric exploit
+encombred	<I>verb, pst. prtcpl.</I> 1. stuck; 2. burdened, encumbered (by)
+encressen	<I>verb</I> increased
+endite|enditen|endyte	<I>verb</I> write, describe in writing
+enditynges	<I>verb</I> writings
+engendrure|engendre|engendred	<I>noun</I> procreation, offspring
+enoynt	<I>adj.</I> anointed, rubbed with oil
+ensample	<I>noun</I> 1. example, model; 2. illustrative story
+entencioun	<I>noun</I> intention
+entende	<I>verb</I> endeavour, strive
+entente	<I>noun</I> 1. intention, will; 2. plan
+ententif	<I>adj.</I> attentive, eager
+entremetteth	<I>verb, 3rd prs. sg.</I> interferes, meddles
+entuned	<I>adj.</I> intoned
+envenymynge	<I>noun</I> poison
+envyned	<I>adj.</I> stocked with wine
+er	<I>adv.</I>
+ercedeken	<I>noun</I> archdeacon
+ercedekenes curs	<I>noun</I> excommunication, the official exclusion of a person from participation in the sacraments or formal communion with the Church
+ere	<I>noun</I> plough
+erl	<I>noun</I> earl
+ernest	<I>noun</I> seriousness
+ers	<I>noun</I> arse
+erst	<I>adj. superlative</I> before, earlier, previously
+erthe	<I>noun</I> earth
+eschawfed	<I>verb, pst. prtcpl.</I> heated
+eschawfyne	<I>verbal noun</I> heating
+eschewe|eschue|eschuwe	<I>verb</I> escape, avoid
+eschueth	<I>verb, 3rd prs. sg.</I> escapes, avoids
+ese	<I>noun</I> pleasure, refreshment
+esement	<I>noun</I> redress, compensation
+esily	<I>adv.</I> comfortably, easily, gently
+espiaille	<I>noun</I> (network of) spies
+estaat|estat	<I>noun</I> 1. state, condition; 2. rank, social standing
+estatlich	<I>adj.</I> dignified
+estatly	<I>adj.</I> dignified
+estres	<I>noun & adj.</I> interior
+ete	<I>eat</I>
+eterne	<I>adj.</I> eternal
+evene	<I>adj.</I>1. equal; 2. impartial
+evene lengthe	medium height
+ever lenger the wers	increasingly worse
+everich|everych	<I>adj.</I> every (one), each (one)
+everichon|everichoon|everychon	<I>pro.</I> every one
+everideel|every deel|everydeel	<I>adv.</I> completely, in all respects, in every detail; <I>noun</I> everything
+expounde|expounden	<I>verb</I> interpret, explain
+expowne	<I>verb</I> explain, expound
+expres	<I>adv.</I> clearly, explicit
+ey	<I>noun</I> egg
+eyen narwe	swollen eyelids
+eyr	<I>noun</I> air
+fable	<I>noun</I> fiction, falsehood
+fadme	<I>noun</I> fathom
+fair	<I>adj.</I> pleasing, handsome, fine, morally good
+fairnesse	<I>noun</I> graciousness, kindness
+faldyng	<I>noun</I> coarse woolen coat
+famyne	<I>noun</I> famine, shortage of food
+fareth	<I>verb</I> behaves
+farsed	<I>adj.</I> stuffed
+faucon	<I>noun</I> falcon, a kind of bird of prey
+fay|fey	<I>noun</I> faith
+fayerye	<I>adj.</I> something bewitching, delightful
+fayn	<I>adj.</I>
+fear	<I>verb</I> be afraid
+fee symple	<I>noun</I> unrestricted possession, absolute possession
+feend	<I>noun</I> demon, devil
+feendly	<I>adj.</I> devilish
+feere	<I>noun</I> companion
+feffed	<I>verb</I> enfeoffed, endowed with
+fel	<I>noun</I> skin
+fellen	<I>verb</I> happened
+ferne halwes	<I>noun</I> distant shrines
+ferre	<I>adj.</I> farther
+ferreste	<I>adv. superlative</I> farthest, those farthest away
+ferthe	<I>adj.</I> fourth
+ferthyng	<I>noun</I> 1. speck, spot; 2. farthing (a coin worth one-fourth of a penny), something of little value
+feste	<I>noun</I> feast, festivity
+fetisly	<I>adv.</I> elegantly
+fettres	<I>noun</I> fetters, iron foot chains
+feyned	<I>verb</I> faked
+figure	<I>noun</I> methaphor (figure of speech)
+fil in office	<I>verb</I> was employed, got employment
+fir|fyr	<I>noun</I> fire
+fithele	<I>noun</I> fiddle
+flee	<I>verb</I> 1. fly; 2. run away, escape
+fleemeth	<I>verb, 3rd prs. sg.</I> drives out
+fleeth	<I>verb, 3rd prs. sg.</I> flies
+flemed wrecche	<I>noun</I> banished exile
+flesshhook	<I>noun</I> meat-hook
+fletynge	<I>verb, prs. prtcpl.</I> floating
+flo	<I>noun</I> arrow
+flokmeele	<I>adj.</I> in groups
+flour-de-lys	<I>noun</I> lily
+floytynge	<I>verb, prs. prtcpl.</I> whistling
+fnorteth	<I>verb, 3rd prs. sg.</I> snorts
+fodder	<I>noun</I> dried hay or straw for cattle or horses
+folily	<I>adj.</I> foolishly
+fonge	<I>verb</I> receive
+fonne	<I>noun</I> fool
+foore	<I>noun</I> footsteps
+for sith	<I>conj.</I> because
+fordoon	<I>verb</I> 1. destroy, ruin; 2. violate
+forneys	<I>noun</I> cauldron
+fornicacioun	<I>noun</I> fornication, sexual intercourse between persons not married to each other
+forpyned goost	<I>noun</I> tormented spririt
+forster	<I>noun</I> forester, game-keeper
+forthren	<I>verb</I> help
+fortunen the ascendent	calculate the planetary position
+forward, foreward	<I>noun</I> agreement, promise
+forwityng	<I>noun</I> forknowledge
+foryeve	<I>verb</I> forgive
+foryeveth	<I>verb, 3rd prs. sg.</I> forgives
+foryifnesse	<I>noun</I> foregiveness
+fostred	<I>verb</I> brought up, nourished, educated
+fostryng	<I>noun</I> nourishment
+foul	<I>adj.</I> 1. ugly, dirty; 2. vicious, evil
+foul affray	<I>noun</I> terrible assault
+fowel	noun, sg. <I>noun</I> bird
+foweles	<I>noun, pl.</I> birds
+foynen	<I>verb</I> thrust
+foyson	<I>adv.</I> plenty
+frankeleyn	<I>noun</I> landowner of the gentry class
+fraternitee	<I>noun</I> religious guild, fraternity
+fredom	<I>noun</I> liberality, generosity of spirit
+freend	<I>noun</I> friend
+freendes	<I>noun</I> husbands
+freeten	<I>verb</I> devoured
+freletee	<I>noun</I> weakness
+fremde	<I>adj.</I> foreign
+frenesye	<I>noun</I> frenzy, madness
+frenges	<I>noun</I> ornamental fringes
+frere	<I>noun</I> friar, a member of any certain religious orders of men
+freten	<I>verb</I> devour
+frutesteres	<I>noun</I> girls who sell fruit
+fruyt	<I>noun</I> essence, essential part
+ful	<I>adv.</I> 1. very; 2. fully, completely
+ful faste	very close
+ful fayn	very gladly
+ful fetisly	very elegantly
+ful fetys	very elegant
+ful litel	very little
+ful oft|ofte	very often
+ful perilous	very dangerous
+ful semely|ful semyly	in a very seemly manner
+ful swithe	very quickly
+ful wel	very well
+fundement	<I>noun, sg.</I> 1. foundation; 2. anus
+fynde	<I>verb</I> provide
+fyr|fir|fyre	<I>noun</I> fire
+fyr-reed	<I>adj.</I> fire-red
+fyve wittes	five senses
+gale	<I>adj.</I> complain loudly
+galle	<I>noun</I> bitterness
+galpyng	<I>verbal noun</I> yawning
+galyngale	<I>noun</I> sweet spice prepared from the root of sweet cyperus
+gan	<I>verb</I> began
+gan hye	<I>verb</I> hastened, hurried
+ganeth	<I>verb, 3rd prs. sg.</I> yawns
+gappe	<I>noun</I> gap
+gargat	<I>noun</I> throat
+garleek	<I>noun</I> garlic
+gastly	<I>adj.</I> horrible, terrifying
+gat-tothed	<I>adj.</I> gap-toothed
+gaude	<I>noun</I> trick
+gauren	<I>verb</I> stare
+gay	<I>adj.</I> bright
+gayler	<I>noun</I> jailer, warder
+geere	<I>noun</I> equipment, outfit
+geldyng	<I>noun</I> eunuch
+gentil	<I>adj.</I> 1. noble (in character); 2. refined, excellent
+gentillesse	<I>noun</I> nobility, excellence
+gerdon|gerdoun	<I>noun</I> reward, requital
+gerl	<I>noun</I> girl
+gerner	<I>noun</I> granary
+gesse	<I>verb</I> suppose, estimate
+gestes	<I>noun</I> lodgers, guests
+girdel|girdle	<I>noun</I> belt
+girles	<I>noun</I> young women, young people
+girt	<I>adj.</I> encircled
+giterne|gyterne	<I>noun</I> stringed instrument
+glad|happy|pleased	<I>adv.</I> gladly, happily
+gleedes	<I>noun</I> embers
+glose	<I>noun, sg.</I> 1. flatter; 2. gloss, interpretation
+glymsyng	<I>noun</I> glimpse
+gnat	<I>noun</I> gnat, mosquito, flying stinging insect
+gnof	<I>noun</I> churl, peasant
+gnow	<I>verb</I> gnawed
+gobet	<I>noun</I> piece
+goes	<I>imperative</I> go
+goodly	<I>adv.</I> gladly
+goot	<I>noun</I> goat
+gooth	<I>verb, 3rd prs. sg.</I>
+gossib	<I>noun</I> (close) friend
+governance|governaunce	<I>noun</I> 1. behaviour; 2. control, management
+gras	<I>noun</I> grace
+graunges	<I>noun</I> outlying farms, granges
+graunt	<I>noun</I> decree
+graunt mercy	<I>interj.</I> thank you
+grece	<I>noun</I> grease
+greet desport	excellent deportment
+greet estaat	excellent condition
+gretter	<I>comparative</I> larger
+greveth	<I>grieve</I>
+greyn	<I>noun</I> seed
+grifphon	<I>noun</I> griffin, a mythical creature with a lion's body and an eagle's head and wings
+grisly	<I>adj.</I> terrible
+grope	<I>verb</I> examine
+grounded	<I>verb</I> instructed
+grucche|grucchen	<I>verb</I> complain
+gruccheth	<I>verb, 3rd prs. sg.</I> complains
+grucchyng|gruchchyng	<I>verbal noun</I> complaining
+gyde	<I>noun</I> guide
+gye	<I>verb</I> 1. lead, guide, govern; 2. preserve, protect
+gylour	<I>noun</I> deceiver
+gyn	<I>noun</I> contrivance
+gynglen	<I>verb</I> jingle
+gypon|gypoun	<I>noun</I> tunic, surcoat worn over the armor
+gyse	<I>noun</I> manner, custom
+haberdasshere	<I>noun</I> a dealer in hats or small wares, haberdasher
+haliday|halyday	<I>noun</I> religious festival, holy day
+halkes	<I>noun</I> hiding places
+hals	<I>noun</I> neck
+halse	<I>verb</I> beseech
+halwed	<I>verb</I> hallowed, consecrated
+ham	<I>noun</I> home
+han	<I>verb</I> have
+hardily	<I>adv.</I> certainly
+hardy	<I>adj.</I> bold, strong
+hardynesse	<I>noun</I> boldness, bravery
+harlot	<I>noun</I> rascal, buffoon, jester; servant
+harlotrie|harlotrye	<I>noun</I> ribaldry, harlotry, wickedness
+harlotries	<I>noun</I> scurrility, deeds of harlotry, obscenities
+harm	<I>noun</I> pity, suffering
+harneised	<I>verb</I> ornamented
+harneys	<I>noun</I> armor, fighting equipment
+hasardour	<I>noun</I> gambler
+hasardrie|hasardrye	<I>noun</I> gambling
+hastifliche	<I>adv.</I> quickly, hastily
+hastifnesse	<I>noun</I> rashness
+haubergeoun	<I>noun</I> coat of chain-mail
+haunt	<I>noun</I> skill
+haunteden	<I>verb</I> practised
+hauteyn	<I>adj.</I> loud, impressive
+hawe	<I>noun</I> yard
+hawebake	<I>noun</I> a poor meal (literally baked hawthorn berries)
+heddes	<I>noun, pl.</I> heads
+heed|heede	<I>noun, sg.</I> head
+heele|hele	<I>noun</I> (good) health, well-being
+heer|heeres|heeris|heris|herys	<I>noun</I> hair
+heeste	<I>noun</I> command
+heete	<I>noun</I> heat
+heeth	<I>noun</I> heath, an area of open uncultivated land with coarse grasses
+hem	<I>pro. </I> them
+hen	<I>noun</I> chicken
+hende	<I>adj. </I> courteous, pleasant
+hente	<I>verb</I> caught
+herberwe	<I>noun</I>
+herde	<I>verb. pst.</I> heard
+herkne	<I>verb, prsnt.</I> hear, listen to;
+herkneth	<I>verb, 3rd prs. sg.</I> hears, listens to
+herknynge	<I>verb, verbal noun</I> listening
+hernes	<I>noun</I> hiding places
+heronsewes	<I>noun</I> young herons (heron, a wading bird with a long neck, long legs, and a long, pointed bill)
+herte	<I>noun</I> heart
+hertelees	<I>noun</I> coward
+hertely	<I>adv.</I> really, sincerely
+hethenesse	<I>noun</I> heathendom, the non-Christian world
+hethyng	<I>noun</I> contempt, mockery
+heve of harre	<I>verb</I> lift off its hinges
+hevedes	<I>noun</I> heads
+hevene	<I>noun</I> heaven
+hevynesse	<I>noun</I> drowsiness
+hewe	<I>noun</I> hue, appearance
+hierde	<I>noun</I> shepherd
+hight|highte	<I>verb</I> was called, was named
+hire	<I>noun</I> wages, payment
+his wit bisette	used his wits
+hochepot	<I>noun</I> mixture
+hoker	<I>noun</I> disdain
+holwe	<I>verb</I> emaciated
+home	<I>prep.</I> homeward
+homycide	<I>noun</I> murderer
+honeste cure	<I>noun</I> sense of decency, care for decency, self-respect
+honestee	<I>noun</I></I> good manners, chastity, purity
+hool	<I>adj.</I> healthy
+hooly	<I>verb</I> blessed
+hooly writ	<I>noun</I> the Bible
+hoom	<I>noun</I>
+hoor	<I>adj. </I> white-haired, grey
+hoote	<I>adv.</I>
+hope	<I>verb</I> expect
+hopur	<I>noun</I> hopper, through which the grain passes into the mill
+hosen|hoses	<I>noun</I> stockings
+hostelrie|hostelrye	<I>noun</I> inn, lodging
+hostileer|hostiler	<I>noun</I> innkeeper
+houndes	<I>noun pl.</I> dogs
+housbondes	<I>noun</I> husbands
+housbondrye	<I>noun</I> (domestic) economy
+hunte	<I>noun</I> hunter
+hyer hond	<I>noun</I> upper hand
+hym liste	he preferred to, he chose to
+hym was levere	he would rather
+hyndreste	<I>adj. superlative</I> last
+hyne	<I>noun</I> farm worker, servant, hind
+icched	<I>verb</I> itched
+ik	<I>pro.</I> I
+ilhayl	bad luck
+ilke	<I>adj.</I> same
+impertinent	<I>adj.</I> irrelevant
+in a clause	briefly, in a few words
+in chyvachie	on a cavalry expedition
+in comune	<I>adj.</I> generally, in general
+in maladye	<I>adj.</I> ill
+in the mire	in difficulties
+incubus	<I>noun</I> evil spirit that copulates with women in their sleep
+induracioun	<I>noun</I> hardening
+infect	<I>adj.</I> invalidated
+infecte	<I>verb</I> affect negatively, pollute
+inn|lodging	<I>figuratively</I> astrological house
+inpossible	<I>noun</I> impossibility
+instaunce	<I>noun</I> request
+ire	<I>noun</I> anger, irritability, the deadly sin of wrath
+janglere	<I>noun</I> chatterer, loud talker, teller of dirty stories
+jangleresse	<I>noun</I> chatterbox, female gossip
+janglerie	<I>verbal noun</I> chatter
+jangles	<I>noun</I> gossip
+jape	<I>noun, sg.</I> trick, joke
+japed	<I>verb, pst.</I> tricked
+japes	<I>noun, pl.</I> tricks, jokes
+je vous dy	<I>(French)</I> I tell you
+jogelour	<I>noun</I> conjurer
+joust	<I>noun</I> one to one combat
+jubilee	<I>noun</I> fiftieth anniversary
+juge	<I>noun</I> judge
+justise|justice	<I>noun</I> judge
+kan	<I>verb, 3rd prs. sg.</I> knows
+kaynard	<I>noun</I> dotard, a person who is feeble-minded
+keen	<I>noun</I> cows
+kembd|ykembd	<I>verb, pst. prtcpl.</I> combed
+kembeth	<I>verb, 3rd prs. sg.</I> combs
+kempe	<I>adj.</I> shaggy, unkempt
+kepe	<I>verb</I> keep, take care after, preserve
+kervere of ymages	<I>noun</I> sculptor
+kervyng	<I>noun</I> sculpture</I>
+keste|kist|kiste	<I>verb</I> kissed
+kiked	<I>verb</I> gazed
+kithe	<I>verb</I> reveal, show
+kithed	<I>verb, pst. prtcpl.</I> shown
+kitte	<I>verb</I> cut
+knarry	<I>adj.</I> gnarled
+knave	<I>noun, sg.</I> (male) servant
+knaves	<I>noun, pl.</I> (male) servants
+knedyng-trogh	<I>noun</I> kneading-trough, large trough for kneading dough
+knobbes	<I>noun</I> swellings
+knotte	<I>noun</I> (main) point
+knowe	<I>verb</I> recognize
+knoweleche|knoweliche	<I>noun</I> acquaintance
+knowes	<I>noun</I> knees
+knyght	<I>noun</I> knight
+konnyng|konnynge	<I>noun</I> skill, understanding
+koude	<I>verb</I> knew how to
+kowthe	<I>verb</I> known
+kultour	<I>noun</I> coulter, a vertical cutting blade fixed in front of a ploughshare
+kymelyn	<I>noun</I> tub used to brew beer
+kynrede	<I>noun</I> kindred, family
+kyte	<I>noun</I> kite, a predatory bird with a long, often forked tail
+laas	<I>noun</I> cord
+large	<I>adv.</I> 1. freely, generously; 2. free-spending, extravagant
+latoun	<I>noun</I> a brass-like alloy
+laude	<I>noun</I> praise
+launde	<I>noun</I> clearing
+laus	<I>adj.</I> loose
+lazar	<I>noun</I> leper
+leche	<I>noun</I> physician, healer
+lecherye	<I>noun</I> lechery
+lede	<I>verb</I> bring
+leden	<I>noun</I> language
+leef	<I>verb</I> leave, depart
+leek	<I>noun</I> a vegetable with flat overlapping leaves forming an elongated cylindrical bulb
+leere	<I>verb</I> learn
+leet	<I>verb</I> 1. allowed; 2. left
+leeve|leve	<I>adj. noun</I> dear, love
+leeve dame	<I>noun</I> dear lady
+leevestow	do you believe
+lekes	<I>verb</I> leeks
+lemes	<I>noun, pl.</I> 1. limbs; 2. flames
+lemman	<I>noun</I> sweetheart, lover, loved one
+leon|leoun	<I>noun</I> lion
+lere	<I>verb</I> learn
+lese	<I>verb</I> loose
+leseth	<I>verb</I> loose, loses
+lest	<I>noun</I> desire
+leste	</I>verb, pst. sg.</I> pleased
+lesynge	<I>noun</I> loss
+lesynges	<I>noun, pl.</I> lies
+letten	<I>verb</I> hinder
+letterure	<I>noun</I> book-learning
+lettest	<I>verb</I> hinder, spoil
+letteth	<I>verb, 3rd prs. sg.</I> hinders
+letuarie	<I>noun</I> medicine
+letuaries	<I>noun</I> medical mixtures, electuaries
+leve	<I>verb</I> grant, allow
+leveful	<I>adj.</I> lawful, permissible
+levere	<I>comp.</I> rather
+lewed	<I>adj.</I> uneducated
+lewed man	<I>noun</I> uneducated man, layman
+lewednesse	<I>noun</I> ignorance
+leyser	<I>noun</I> leisure
+licenciat	licensed to hear confessions
+lief	<I>adj. & noun</I> beloved
+lif|lyf	<I>noun</I> life
+ligeance	<I>noun</I> allegiance, obedience or loyalty owed to a nation, sovereign or cause
+liggen	<I>verb</I> lie
+liggynge	<I>verb</I> lying
+lightly	<I>adv.</I> easily
+lightnesse	<I>noun</I> agility
+likerous	<I>adj.</I> wanton, flirtatious, gluttonous
+likerousnesse	<I>noun</I> wantonness
+list|liste	<I>verb, prsnt. sg.</I> please, pleases
+litarge|lytarge	<I>noun</I> lead monoxide
+lixt	<I>verb, 2nd prs. sg.</I> lie
+lodemenage	<I>noun</I> skill in navigation
+lokynge	<I>verb</I> looking
+lomb	<I>noun</I> lamb
+lond	<I>noun</I> country, land
+long yherd	<I>adj.</I> long-haired
+longes	<I>noun</I> lungs
+loode-sterre	<I>noun</I> North star, polar star; <I>figuratively</I> guiding star
+loone	<I>noun</I> 1. loan; 2. grace
+looth	<I>adj.</I> reluctant
+loothly	<I>adv.</I> loathsome, hideous
+lordynges	<I>noun, pl.</I> sirs, gentlemen, my lords
+lorn	<I>verb</I> lost
+losengeour	<I>noun</I> flatterer
+lotynge	<I>adj.</I> in hiding
+lough	<I>verb</I> laughed
+lowely	<I>adj.</I> modest, humble
+luce	<I>noun</I> pike
+lusty	<I>adj.</I> lively, pleasing, lusty
+lustynesse	<I>noun</I> delight, pleasure
+luxurie	<I>noun</I> lechery
+lymaille	<I>noun</I> metal filings
+lymytacioun	<I>noun</I> territory, district
+lymytour	<I>noun</I> friar licensed (by his order) to beg in a specific district
+lyne	<I>noun</I> family, lineage
+lyst	<I>noun</I> ear
+magyk natureel	<I>noun</I> natural science
+maister strete	<I>noun</I> main street
+maistresse	<I>noun, sg.</I> governess
+maistresses	<I>noun, pl.</I> governesses
+makelees	<I>adj.</I> matchless
+maken stryf	<I>verb</I> cause trouble, quarrel
+male	<I>noun</I> pouch, bag
+malisoun	<I>noun</I> curse
+manace	<I>verb</I> menace, threaten
+mandement	<I>noun</I> summons
+mansioun	<I>noun</I> dwelling place, domicile
+manye	<I>noun</I> mania
+marchal	<I>noun</I> master of ceremonies
+marchant	<I>noun</I> merchant
+mare	<I>noun</I> 1. the female of any equine animal, especially the horse; 2. (figuratively) homosexual
+markys	<I>noun</I> marquis
+marybones	<I>noun</I> marrow bones
+maugree	<I>prep.</I> despite
+maugree hir heed|maugree his heed	against his/her will, despite his/her struggles
+maunciple	<I>noun</I> business agent, purchaser of provisions for an inn of court (temple)
+may nat avaunce	cannot be profitable
+mayde|mayden	<I>noun</I> virgin, maiden
+maydenhed|maydenhede|maydenhod	<I>noun</I> virginity
+mede|meede	<I>noun</I> meadow, a piece of grassland
+medlee	<I>adj.</I> motley, parti-colored
+medleth	<I>verb, 3rd prs.sg.</I> meddles
+meene	<I>noun</I> instrument
+mele	<I>noun</I> ground meal
+melle	<I>noun</I> mill
+membres	<I>noun, pl.</I> sexual organs, private parts
+mendynantz	<I>noun</I> mendicants
+menestow	do you mean
+merk	<I>noun</I> image
+merrshy	<I>adj.</I> marshy
+meschaunce	<I>noun</I> misfortune
+mescheef|meschief	<I>noun</I> mischief, misfortune, adversity, trouble
+mesuage	<I>noun</I> messuage, a dwelling house with outbuildings and land assigned to its use
+mesurable	<I>adj.</I> moderate, temperate
+mesurably	<I>adv. </I> moderately
+mete	<I>noun</I> food, dinner
+meynee	<I>noun</I> retinue, household
+millere	<I>noun</I> miller
+misericorde	<I>noun</I> charity, mercy
+mishap	<I>noun</I> misfortune
+mitten	<I>noun</I> mitten
+moebles	<I>noun</I> personal property
+mollificacioun	<I>noun</I> softening
+montance	<I>noun</I> amount, size
+mooder	<I>noun</I> mother
+moore part	<I>noun</I> majority, greater part
+moost	<I>adv.</I> most
+moot	<I>verb</I> must
+mordre	<I>noun</I> murder
+mordrynge	<I>verbal noun</I> murdering
+mormal	<I>noun</I> ulcer, sore
+mottelee	<I>noun</I> parti-colored cloth
+mowes	<I>noun</I> grimaces
+much and lite	<I>noun</I> great and small, everyone
+muchel	<I>adj.</I> much
+mullok	<I>noun</I> rubbish, garbage
+multiplicacioun	<I>noun</I> transmutation
+multiplie	<I>verb</I> transmute (technical term for changing base metals into gold and silver)
+murmur	<I>verbal noun</I> grumbling
+murye note	<I>noun</I> pleasant voice
+muwe	<I>noun</I> mew, bird cage, usually for hawks
+myddel	<I>verb</I> waist
+myght	<I>noun</I> power
+mynstralcie	<I>noun</I> musical instrument
+myre	<I>noun</I> 1. mire, a stretch of swampy or boggy ground; 2. mud, durt;
+mysbileeve	<I>noun</I> skepticism, suspicion
+myscarie	<I>verb</I> go wrong
+mysgovernaunce	<I>noun</I> misconduct, misbehaviour
+myshappy	<I>adj.</I> miserable
+mystriste	<I>noun</I> mistrust
+nakers	<I>noun</I> kettle-drums
+namo	<I>adj.</I> no more, no others; <I>adv.</I> no more, never again
+narwe	<I>adv.</I>
+nat worth an oystre	worth nothing; in Chaucer's time, oysters were poor-people's food
+nathelees, natheles, natheless|natheles|natheless	<I>adv.</I> nevertheless, none the less
+natyf	<I>adj.</I> natural
+nave	<I>noun</I> hub, the central part of a wheel, rotating on or with the axle, and from which the spokes radiate
+nece	<I>noun</I> kinswoman
+nede|neede	<I>noun</I> necessity, need<BR><I>adv.</I> necessary, necessarily<BR>
+neet	<I>noun</I> cattle
+nempne	<I>verb</I> name, tell
+nether ye	<I>noun</I> lower eye
+never a deel	<I>adv.</I> not a bit
+newefangel	<I>adj.</I> fond of novelty
+niste|nyste	<I>verb</I> (ne wiste) knew not, did not know
+nobledest	<I>adj.</I> ennobled
+nombre	<I>noun</I> number
+nones	<I>noun</I> occasion
+noon	<I>pro.</I> none
+noon of hem	none of them, nobody
+noot	<I>verb</I> do not know, does not know</I>
+nortelrie	<I>noun</I> education, nurture
+nosethirles|nose-thirles	<I>noun</I> nostrils
+not heed	<I>noun</I> close-cropped head</I>
+note	<I>noun</I> job, task
+ny	<I>prep.</I> close
+nyce	<I>adj.</I> foolish, scrupulous
+nycetee	<I>noun</I> simplicity, foolishness
+nyfles	<I>noun</I> silly stories
+nygard	<I>noun</I> miser
+nygardye	<I>noun</I> miserliness
+nyghtertale	<I>adj.</I> night
+obeisance|obeisaunce|obeysaunce	<I>noun</I> obedience
+obeisant	<I>adj.</I> obedient
+observance|observaunce	<I>noun</I> duty
+offended	<I>verb, pst. prtcpl.</I> injured
+offensioun	<I>noun</I> injury
+office	<I>noun</I> secular employment, function
+ofte sithes	<I>adj.</I> many times
+olyveres	<I>noun</I> olive-trees
+onis	<I>adv.</I> once
+ook	<I>noun</I> oak
+oon	<I>num.</I> one
+oost	<I>noun</I> army
+ooth	<I>noun</I> oath
+oother	<I>adv.</I>
+open-ers	<I>noun</I> fruit of the medlar,a tree of the rose family bearing small brown apple-like fruits which are eaten when decayed
+opie	<I>noun</I> opium
+ordinance|ordinaunce	<I>noun</I> decree, order, arrangement, preparations
+orgon	<I>noun</I> organ
+orpyment	<I>noun</I> arsenic trisulfide
+other	<I>conj.</I> either
+oure aller cok	rooster of us all (awakened us all)
+out	<I>verb</I> to go campaigning
+outen	<I>verb</I> make public
+outrely	<I>adv.</I> plainly, utterly
+outridere	<I>noun</I> a monk who rode out to supervise the estates of a monastry
+over al	<I>adv.</I> wherever
+overmacche	<I>verb</I> defeat, outmatch
+overryden	<I>verb</I> run over
+owher	<I>adv.</I> anywhere
+oynons	<I>noun, pl.</I> onions
+paas	<I>adv. & noun</I> footpace (the slowest gait of a horse), slowly
+pace	<I>verb</I> proceed, go
+page	<I>noun</I> 1. (male) servant; 2. boy
+painful	<I>noun</I> misery, pain
+paire plates	<I>noun</I> suit of plate armor
+palmeres	<I>noun</I> professional pilgrims who had been to the Holy Land
+pan	<I>noun</I> skull
+panade	<I>noun</I> cutlass, a short sword with a slightly curved blade
+papeer	<I>noun</I> pepper
+papejay	<I>noun</I> parrot
+par cas	<I>adv.</I> by chance
+paramour	<I>noun</I> mistress, concubine
+paramours	<I>adv.</I> passionately
+paraventure|par aventure|per aventure|peraventure	<I>adv.</I> 1. perhaps; 2. by chance
+parcel	<I>noun</I> portion
+pardee	<I>interj.</I> indeed
+pardoner	<I>noun</I> a seller of indulgences
+pardoun	<I>noun</I> 1. papal indulgences; 2. forgiveness
+parfit|parfyt|perfit	<I>adj.</I> perfect, complete
+parfitly	<I>adv.</I> perfectly
+parfourne|perfourne	<I>verb</I> perform, accomplish
+parfourned	<I>verb</I> celebrated, completed, accomplished
+parissh clerk	<I>noun</I> someone who assists the parish priest to perform services in church
+parisshens	<I>noun</I> parishioners
+parlement	<I>noun</I> decision
+parte	<I>noun</I> share
+passionately	<I>adj.</I> passionate, hot
+pasture	<I>noun</I> feeding place
+patente	<I>noun</I> letter of appointment from the king
+patrimoyne	<I>noun</I> inheritance
+peert	<I>adj.</I> impudent
+pees	<I>noun</I> peace
+penaunce	<I>noun</I> penance, suffering, distress
+penyble	<I>adj.</I> indefatigable, painstaking
+per consequens	<I>adv.</I> consequently
+percen|perced	<I>verb</I> prick, stab; pierce; penetrate
+perdurable	<I>adj.</I> eternal, everlasting
+peril	<I>noun</I> peril, serious and immediate danger
+perilous	<I>adj.</I> dangerous
+perisse	<I>verb</I> perish, destroy
+perree|perrye	<I>noun</I> precious stones, jewellery
+pers	<I>adj.</I> blue, bluish gray
+perseveraunce	<I>noun</I> perseverance, the persistance to a purpose, idea, or task in spite of obstacles
+person|persoun	<I>noun</I> parson, parish priest
+perspectives	<I>noun</I> optical lenses
+peyne	noun <I>noun</I> efforts
+peynte	<I>verb</I> disguise</I>
+peynted	<I>verb</I> disguised
+peynture	<I>noun</I> painting
+philosophie	<I>noun</I> alchemy
+philosophre	<I>noun</I> astrologer
+phisik	<I>adj. & noun</I> medicine
+pile	<I>verb</I> rob, take unlawfully from
+pilwe-beer	<I>noun</I> pillow-case
+pissemyre	<I>noun</I> ant
+pistel	<I>noun</I> message
+plat	<I>adj.</I> blunt, flat
+pleasing	<I>noun</I> pleasing thing, sexual favours
+plentevous	<I>adj.</I> plenteous
+plesaunce	<I>noun</I> pleasure, delight
+pleyn commissioun	full jurisdiction
+pleyynge	<I>noun</I> amusment
+plighte	<I>noun</I> pledge
+poke	<I>noun</I> bag, sack
+polax	<I>noun</I> battle-axe, pole-axe
+polcat	<I>noun</I> weasel
+popet	<I>noun</I> little doll
+porcioun	<I>noun</I> quantity
+port	<I>noun</I> bearing, manner
+portreiture	<I>noun, sg.</I> painting, picture
+portreitures	<I>noun, pl.</I> paintings, pictures
+portreytour	<I>noun</I> painter
+post	<I>noun</I> pillar, supporter
+potage	<I>noun</I> soup
+potente	<I>noun</I> walking stick
+potestat	<I>noun</I> potentate
+pothecarie	<I>noun</I> apothecary
+pouche	<I>noun</I> 1. purse; 2. pocket
+poure, povre	<I>adj.</I> poor, impoverished
+povereste	<I>adj. superlative</I> poorest, most impoverished</I>
+poverte	<I>noun</I> poverty
+poynaunt	<I>adj.</I> spicy, piquant, piercing</I>
+practyk	<I>noun</I> practice
+prees	<I>noun</I> crowd
+preesseth	<I>verb, 3rd prs. sg.</I> push
+preeve|preve	<I>verb</I> prove
+prelaat	<I>noun</I> ecclesiastical dignitary
+prentys	<I>noun</I> apprenctice
+prescience	<I>noun</I> foreknowledge
+preyneth	<I>verb</I> preens, make neat
+prikasour	<I>noun</I> horseman, hunter on horseback
+priketh	<I>verb, 3rd prs. sg.</I> pierces
+prikyng	<I>verbal noun</I> tracking
+privee|pryvee	<I>adj.</I> secretive, discreet
+privee and apert|pryvee and apert	in private and in public
+prively|pryvely	<I>adv.</I> secretly, discreetly, stealthily
+privetee|pryvetee	<I>noun</I> secret(s)
+procuratour	<I>noun</I> attorney
+propre good	<I>noun</I> own wealth/income
+provost	<I>noun</I> magistrate
+prow	<I>noun</I> benefit, profit
+pryme	<I>noun</I> around 09:00 A.M., the first hour
+pulled	<I>adj.</I> plucked
+purchas	<I>noun</I> acquisition
+purchasour	<I>noun</I> land-buyer
+purfiled	<I>adj.</I> lined with fur
+purged	<I>adj</I> cleansed (by baptism)
+purtreye	<I>verb</I> draw
+purveiance|purveiaunce	<I>noun</I> providence, foresight
+purveye	<I>verb</I> prepare
+pye	<I>noun</I> magpie, a kind of bird (Pica pica)
+pykepurs	<I>noun</I> thief, pick-purs
+pyketh	<I>verb</I> cleans, adorns
+pynche at	<I>verb</I> find a flaw in
+pynched	<I>adj.</I> pleated
+pynchen at	<I>verb</I> find fault with
+pyrie	<I>noun</I> pear-tree
+quake	<I>verb, prsnt</I> tremble;
+quaketh	<I>3rd prs. sg.</I> trembles
+qualm	<I>noun</I> plague
+quelle	<I>verb</I> kill
+queynt	<I>verb</I> extinguished
+queynte	<I>adj.</I>
+quike|quyk|quyke	<I>adj.</I> alive, lively, vivid
+quit	<I>adj.</I> free
+quod	<I>verb</I> said
+quook	<I>verb, pst</I>. trembled
+quyk-silver	<I>noun</I> mercury
+quyked	<I>verb</I> revived, rekindled
+quyken	<I>verb</I> revive
+quykkest strete	busiest street
+quyt	<I>verb</I> repaid
+rafte	<I>verb</I> ravished, took away</I>
+ragerye	<I>noun</I> wantonness
+rakel	<I>adj.</I> rash, hasty</I>
+rakelnesse	<I>noun</I> rashness, haste
+rampeth	<I>verb</I> shakes her fist
+raughte	<I>verb</I> reached
+reasonable	<I>adv.</I> reasonably
+reawme	<I>noun</I> realm
+rebekke	<I>noun</I> woman
+recchelees	<I>adj.</I> careless, negligent, heedless of rules
+receite	<I>noun</I> formula, recipe
+reconyssaunce	<I>noun</I> recognizance, formal pledge</I>
+rede|reed|reede	<I>adj.</I> red
+regne	<I>noun</I> kingdom, realm
+reherce|rehercen	<I>verb</I> repeat
+rehersaille	<I>noun</I> enumeration
+rekene	<I>verb</I> enumerate, calculate, consider, take account of, count
+remes	<I>noun</I> realms
+reneye	<I>verb</I> deny, renounce
+reneyed	<I>verb</I> renounced
+renoun	<I>noun</I> fame
+rente	<I>verb, pst.</I> tored
+repair	<I>noun</I> visitors, resort
+repleccioun	<I>noun</I> over-eating
+reportour	<I>noun</I> record keeper
+repplicacioun	<I>verb</I> reply
+repreeve|repreve	<I>noun</I> reproof
+reprevable	<I>adj.</I> reprehensible, blameworthy
+requere	<I>verb</I> ask
+rescus	<I>noun</I> rescue
+resons	<I>noun, pl.</I> remarks, opinions
+resoun	<I>adj.</I>
+reste	<I>verb</I> (gone) to rest
+rethor	<I>noun</I> rhetorician
+reve	<I>noun</I> reeve, manager of an estate or farm
+revelour	<I>noun</I> rake, profligate, recklessly extravagant person
+revelrye	<I>noun</I> delight, pleasure
+reverence	<I>noun</I> dignity, respect
+ribaudye	<I>noun</I> coarse jesting, ribaldry
+riotoures	<I>noun, pl.</I> profligates, debauchers
+roche	<I>noun</I> rock
+roialliche ybore	<I>adj.</I> royally carried</I>
+rokkes	<I>noun, pl.</I> rocks
+ronnen	<I>verb</I> ran
+roote	<I>noun</I> foot
+rote	<I>noun</I> stringed instrument
+roten	<I>adj.</I> rotten
+rouncy	<I>noun</I> carthorse, nag
+route	<I>noun</I> company, group of people
+routhe	<I>noun</I> compassion, pity
+routheless	<I>adj.</I> ruthless, without compassion
+rowne	<I>verb</I> whisper
+rowned	<I>verb</I> whispered
+rownynge	<I>verb, pst. prtcpl.</I> whispering
+rowtyng	<I>verb</I> snoring
+rubible	<I>noun</I> a kind of fiddle
+rudeliche	<I>noun</I> crudely, ignorantly
+rymeyed	<I>adj.</I> rhymed, versified
+ryver	<I>noun</I> river
+sad	<I>adj.</I> serious
+sadly	<I>adv.</I> firmly
+sadnesse	<I>noun</I> seriousness, constancy
+saleweth	<I>verb, 3rd prs. sg.</I> greets
+salue	<I>verb</I> greet
+saluyng	<I>verbal noun</I> greeting
+sans faille	without doubt
+sapience	<I>noun</I> wisdom
+sapiences	<I>noun</I> mental abilities
+saucefleem	<I>adj.</I> pimpled
+sauf	<I>adj.</I> safe
+saufly	<I>adv.</I> safely, confidently
+saugh	<I>verb, pst. sg.</I> saw
+sautrie|sawtrie	<I>noun</I> psaltry (a harp-like instrument)
+save	<I>prep.</I> except (that)
+savory	<I>adj.</I> pleasant
+savour	<I>noun</I> 1. smell, odor; 2. flavor
+savynge	<I>adj.</I> except
+sawnyng|sangwyn	<I>adj.</I> 1. red, ruddy; 2. florid, bright, ruddy
+scathe	<I>noun</I> a pity
+science	<I>noun</I> knowledge
+sclaundre	<I>noun</I> disgrace
+sclendre	<I>adj.</I> lean, feeble
+scole	<I>noun, sg.</I> school
+scoler	<I>noun</I> student
+scoleye	<I>verb</I> study, attend the schools of the university
+scriptures	<I>noun</I> books, writings
+seche	<I>verb</I> seek, search
+secree	<I>noun</I>
+see	<I>noun</I> sea
+seege	<I>noun</I> siege, a military operation
+seeke|sike	<I>adj.</I> sick
+seel	<I>noun</I> seal
+seelde	<I>adj.</I> seldom
+seet	<I>verb</I> sat
+seke	<I>verb</I> visit
+sely	<I>adj.</I> innocent, hapless, ignorant, foolish, insignificant
+semblable	<I>adj.</I> similar
+semycope	<I>noun</I> short cloak
+sentence	<I>noun</I> 1. meaning, saying; 2. decision, command
+sergeant of the lawe	<I>noun</I> a lawyer who belonged to the highest order in his profession (from this group of legal officers the judges of the King's courts were chosen)
+serpent	<I>noun</I> snake
+servitour	<I>noun</I> servant
+servysable	<I>adj.</I> willing to serve, attentive
+serye	<I>noun</I> argument, chain of thoughts
+seson|sesoun	<I>noun</I> season
+seten	<I>verb</I> sat
+sette his howve	make a fool of him
+seurete|seuretee	<I>noun</I> pledge, promise
+sewed	<I>verb</I> pursued
+sey sooth	tell the truth
+seye	<I>verb</I> seen
+seynd	<I>adj.</I> broiled, smoked
+shadwe	<I>noun</I> shadow</I>
+shamefast	<I>adj.</I> modest
+shamefastnesse	<I>noun</I> modesty
+shapen	<I>verb</I> destined
+sharpeth	<I>verb, 3rd prs. sg.</I> sharpens
+she-ape	<I>noun</I> female monkey
+sheene|shene	<I>adj.</I> bright, beautiful, shone
+sheere|shere	<I>noun</I> scissors, pair of shears
+shende	<I>verb</I> destroy
+sheres	<I>noun</I> scissors
+shifte	<I>verb</I> provide
+shirreve	<I>noun</I> sheriff
+shiten	<I>adj.</I> dirty, defiled
+sho	<I>noun</I> shoe
+shoon	<I>verb</I> shone
+shoop	<I>verb</I> prepared, intended
+shour	<I>noun, sg.</I> rain
+shoures	<I>noun, pl.</I> rain showers, hardships
+shoures soote	sweet showers, rain
+shrewe	<I>verb</I>
+shrewed	<I>adj.</I> cursed
+shrewednesse	<I>noun</I> wickedness
+shrift, shrifte	<I>noun</I> confession
+shryven	<I>verb</I> confessed
+sighte	<I>noun</I> foresight
+sike|seeke|sik	<I>adj.</I> sick
+siker	<I>adv.</I> certain
+sikerly|sekirly	<I>adv.</I> certainly, truly
+sikernesse	<I>noun</I> certainty, security
+similitude	<I>noun</I> complement, counterpart
+sire	<I>noun</I> father
+sith	<I>adv.</I> since
+sitthe	<I>adv.</I> afterwards
+slake	verb <I>verb</I> diminish
+slakke	<I>adj.</I> slow
+sle|slee	<I>verb</I> kill, slay
+sleen	<I>verb</I> kill, slay
+sleep	<I>verb</I> slept
+sleer	<I>noun</I> slayer
+sleeth	<I>verb, 3rd prs. sg.</I> kills, slays
+sleighte	<I>noun</I></I> trick, trickery
+slewthe	<I>noun</I> sloth, laziness
+slider	<I>adj.</I> slippery
+slogardie|slogardye	<I>noun</I> sluggishness, slothfulness, laziness
+slouthe	<I>noun</I> sloth, laziness
+slow	<I>verb</I> killed, slew
+slyde	<I>verb</I> slip away
+slyghte	<I>noun</I> trickery
+slyk	<I>adj.</I> sleek, shining
+smal	<I>noun</I> 1. little, slender; 2. high (of voice)
+smale	<I>adj.</I> small
+smale tytheres	<I>noun</I> those reluctant to pay full tithes
+smart	<I>adj.</I> brisk
+smerte	<I>verb</I> suffers
+smoklees	<I>adj.</I> naked (without a smock)
+snybbed	<I>verb</I> rebuked, reprimanded
+snybben	<I>verb</I> rebuke
+so greet repair	many visitors
+sobre	<I>adj.</I> serious, grave
+sobrely	<I>adv.</I> seriously, gravely
+sodeynly	<I>adv.</I> suddenly
+softe	<I>adv</I>. 1. gently; 2. quietly; <I>adj.</I> 1. gentle; 2. quiet
+sojourne	<I>verb</I> remain
+sojourned	<I>verb</I> remained
+sokyngly	<I>adv.</I> gradually, step by step
+solempne	<I>adj.</I> dignified, important
+solempnely	<I>adv.</I> ceremoniously, solemnly
+solempnitee|solempnytee	<I>noun</I> ceremony
+somdel|somdeel	<I>adv.</I> somewhat, partly
+somnour|somonour	<I>noun</I> a server of summonses for an ecclesiastical court
+sonde	<I>noun</I> servant, messenger
+sondry	<I>adj.</I> various, different
+sondry folk	<I>noun</I> various sorts of people
+sondry londes	<I>noun</I> various countries
+sondry tonges	<I>noun</I> various languages
+sondry wise|sondry wyse	<I>noun</I> various ways
+songe	<I>verb</I> sung
+sonken	<I>verb</I> sunk
+sonne	<I>noun</I> sun
+soong|song	<I>verb, pst. sg.</I> sang
+soor|soore	<I>adv.</I>
+soote	<I>adj.</I> sweet, sweet-smelling
+sooth|soothe|sothe	<I>noun</I> truth
+soothfastnesse	<I>noun</I> truthfulness
+soothly	<I>adv.</I> truly
+soothnesse	<I>noun</I> truth, reality
+soper	<I>noun</I> dinner
+sophyme	<I>noun</I> sophism, plausible but faulty argument
+sorwe	<I>noun</I> sorrow
+sorweth	<I>verb</I> grieves
+sothe	<I>noun</I> truth
+sother	<I>comp.</I> truer
+sotilly	<I>adv.</I> skilfully
+soukynge	<I>verb</I> sucking
+soul	<I>adv.</I> solitary
+soun	<I>noun</I> sound
+soutere	<I>noun</I> cobbler, a person that mends and repairs shoes
+soutiltee	<I>noun</I> trick
+sovereyn	<I>adj.</I> best, outstanding, most excellent
+sovereyn pestilence	<I>noun</I> ultimate wickedness
+sovereyn prys	<I>noun</I> outstanding reputation
+sowded	<I>verb</I> united
+sowe	<I>verb</I> sown
+sowne	<I>verb</I> 1. imitate; 2. play, sound, resound
+sowple	<I>adj.</I> compliant
+space	<I>noun</I> 1. time; 2. opportunity
+sparhauk|sperhauk	<I>noun</I> sparrow hawk
+sparre	<I>noun</I> (wooden) beam
+sparth	<I>noun</I> battle-axe
+spectacle	<I>noun</I> eyeglass
+spedde	<I>verb</I> hurried
+speed	<I>verb</I> hurry
+spille	<I>verb</I> destroy, put to death
+spitously	<I>adv.</I> 1. angrily, spitefully; 2. loudly
+sporned	<I>verb</I> stumbled
+spousaille	<I>noun</I> wedding
+spouse	<I>noun</I> husband
+spray	<I>noun</I> branch
+squaymous	<I></I>sqeamish, easily nauseated or disgusted
+squier	<I>noun</I> squire, a young knight in the service of another knight
+stal	<I>verb</I> stole
+stalke	<I>noun</I> piece of straw
+stant	<I>verb</I> stands
+stape	<I>adj.</I> advanced
+steede	<I>noun</I> war-horse
+stele|stelen	<I>verb</I> steal<BR><I>noun</I> handle
+stent	<I>verb</I> stopped
+stente	<I>verb, pst. sg.</I> ceased, stopped
+sterve	<I>verb</I> die
+sterven	<I>verb</I> die
+stevene	<I>noun</I> voice, speech
+stif	<I>adj.</I> strong, powerful
+stille	<I>adv.</I> silently, motionless
+stirte	<I>verb</I> rushed
+stot	<I>noun</I> horse
+strangled with	killed by
+straunge strem	foreign river
+straunge strondes	foreign shores
+stree	<I>noun</I> straw
+streit	<I>adj.</I> narrow, small
+streite yteyd	<I>adj.</I> tightly fastened
+stremes	<I>nou, pl.</I> currents
+stryvyng	<I>verbal noun</I> strife, quarrelling
+sturdinesse	<I>noun</I> cruelty, harshness
+sturdy	<I>adj.</I> cruel, harsh, strong
+stuwe	<I>noun</I> fishpond
+stynk	<I>noun</I> stench
+styth	<I>noun</I> anvil
+subget	<I>noun</I> subject
+sublymed	<I>adj.</I> purified
+sublymyng	<I>verbal noun</I> sublimating, purifying
+substance	<I>noun</I> (fixed) income
+subtiltee	<I>noun</I> craftiness, trickery, subility
+suffisaunt	<I>adj.</I> suitable
+suffrance	<I>noun</I> patience, forbearance
+suffren	<I>verb</I> allow
+superfluitee	<I>noun</I> abundance
+surcote	<I>noun</I> outer coat
+suretee	<I>noun</I> security, certainty
+suspect	<I>noun</I> suspicion
+suster	<I>noun</I> sister
+swalwe|swelwe	<I>verb</I> swallow
+swapte	<I>verb</I> fell suddenly
+swatte	<I>verb</I> sweated
+swayn	<I></I>young gentleman
+swerd	<I>noun</I> sword
+sweven	<I>verb</I> dream
+swich	<I>pro.</I> such
+swich poraille	such poor people
+swonken	<I>verb, pst.</I> worked
+swore	<I>verb</I> promised
+swymme	<I>verb</I> float
+swynes-heed	<I>noun</I> pig's head
+swynk	noun <I>verb</I> work, toil
+swynke|swynken	<I>verb, prsnt.</I> work, toil
+swynkere	<I>noun</I> labourer, worker
+swyve	<I>verb</I> copulate with
+swyved	<I>verb</I> copulated with
+symple	<I>adj.</I> simple, modest
+symple and coy	<I>adj.</I> unaffected and quiet, modest
+syn	<I>conj. & prep.</I> since
+syngynge	<I>verb</I> singing
+synne	<I>noun</I> sin, misbehaviour
+synnes sevene	seven deadly sins (Avarice, Envy, Gluttony, Lust, Pride, Sloth, Wrath)
+t'overbyde	<I>verb</I> to outlive
+taas	<I>noun</I> heap
+table dormant	<I>noun</I> table fixed in its place, as distinct from one taken down between meals
+tables	<I>noun</I> backgammon
+tabour	<I>noun</I> drum
+tappestere	<I>noun</I> barmaid
+tapycer	<I>noun</I> tapestry-maker, weaver of tapestries, rugs, etc.
+teene	<I>noun</I> trouble, vexation
+teeres|teeris	<I>noun</I> tears
+tempest	<I>noun</I> storm
+tercelet	<I>noun</I> male falcon
+testif	<I>adj.</I> head-strong, testy
+th'orisonte	<I>noun</I> the horizon
+theef	<I>noun</I> thief
+therbiforn	<I>adv.</I> previously
+therto	<I>adv.</I> moreover
+thikke knarre	<I>noun</I> stout fellow
+thilke	<I>demonstr. adj.</I> that (same)
+tholed	<I>verb</I> suffered
+thombe	<I>noun</I> thumb
+thonder-clappes	<I>noun, pl.</I> thunderstrokes
+thonder-dent|thonder-dynt	<I>noun</I> thunderstroke
+thral	<I>noun</I> slave, servant
+thraldom	<I>noun</I> slavery, servitude
+thre	<I>num.</I> three
+threpe	<I>verb</I> assert, affirm positively
+thridde	<I>num.</I> third
+thriftily	<I>adv.</I> carefully, properly
+thrifty	<I>adj.</I> suitable, servicable, proper
+throng	<I>verb</I> thrust
+throop	<I>noun</I> village
+throte-bolle	<I>noun</I> Adam's apple
+throwe	<I>noun</I> while
+thurgh	<I>prep.</I> 1. through; 2. because of
+thurgh-girt	<I>adj.</I> pierced through
+thynges	<I>noun</I> duties, rites, business
+tikel	<I>adj.</I> ticklish, unreliable, unstable
+tithe	<I>noun</I> a 10th part of one's income paid for the support of a church
+to lyte	too little
+tobreketh	<I>verb, 3rd prs. sg.</I> shatters, breaks in pieces
+tobreste	<I>verb</I> shatter, break in pieces
+tobrosten	<I>verb</I> shattered, broken in pieces
+tombesteres	<I>noun, p.</I> dancing girls
+tonge	<I>noun</I> language
+tonne	<I>noun</I> wine barrel
+took his wit	<I>verb</I> calculated
+toon	<I></I> toes
+torace	<I>verb, prsnt. sg.</I> tear to pieces
+torente	<I>verb, pst. sg.</I> tore to pieces
+tormented	<I>verb</I> tortured
+tormentrie	<I>noun</I> torture
+totere	<I>verb</I> tear to pieces
+toty	<I>adj.</I> dizzy
+toun	<I>noun</I> town
+tour	<I>noun, sg.</I> tower
+toures	<I>noun, pl.</I> towers
+toute	<I>noun</I> rump, human buttocks
+towaille	<I>noun</I> towel
+trad	<I>verb</I> copulated with
+travaillynge	<I>verbal noun</I> in labor
+tregetoures	<I>noun</I> illusionists, jugglers
+trench	<I>noun</I> path
+trenchant	<I>adj.</I> sharp
+tresoor	<I>noun</I> treasure
+tretee	<I>noun</I> negotiation
+tretis|tretys	<I>noun</I> treaty, negotiation
+trewe	<I>adj.</I> true
+trewely	<I>adv.</I> truly
+triacle	<I>noun</I> medicine, remedy
+trompe	<I>noun</I> trumpet
+trone	<I>noun</I> throne
+trouthe	<I>noun</I> 1. fidelity, loyalty; 2. pledge, promise
+trowe	<I>verb</I> think, suppose
+trowed	<I>verb</I> believed, thought
+trussed	<I>verb</I> packed
+tuwel	<I>noun</I> anus
+tweye	<I>num.</I> two
+twight	<I>adj. & verb</I> pulled
+twiste	<I>verb</I> tortured
+twynne	<I>verb</I> depart, separate
+unbrent	<I>adj.</I> unburnt
+undertake	<I>verb</I> affirm, declare
+undigne	<I>adj.</I> unsuitable, unworthy
+unheele	<I>noun</I> misery
+unkonnynge	<I>noun</I> lack of skill, ignorance; <I>adj.</I> unskillful, ignorant
+unkouth	<I>adj.</I> exotic, rare, unfamiliar
+unkyndely	<I>adv.</I> unnaturally
+unlyklinesse	<I>noun</I> unsuitability
+unnethe|unnethes	<I>adv</I> hardly, with difficulty
+unreste	<I>noun</I> distress
+unsely	<I>adj.</I> unhappy
+unshette	<I>verb</I> unlocked
+unthank	<I>noun</I> bad luck, curses
+unthriftily	<I>adv.</I> poorly
+untrewe	<I>adj</I> inaccurately
+unwar	<I>adj</I> unaware, unexpected
+unwemmed	<I>adj.</I> unblemished, undefiled
+unwist	<I>adj.</I> uninformed, unknown
+unwityngly	<I>adv.</I> unknowingly
+unyolden	<I>verbal noun</I> unyielding
+upon lond	<I>adj.</I> in the countryside
+urynales	<I>noun</I> glass flasks
+usaunt	<I>adj.</I> accustomed
+vapour	<I>noun</I> emanation, influence
+vassellage	<I>noun</I> prowess
+vavasour	<I>noun</I> feudal landholder, landowner
+veel	<I>noun</I> veal
+veluettes	<I>noun</I> velvet vlothes
+venerie	<I>verbal noun</I> hunting
+venial|venyal	<I>adj.</I> pardonable, capable of being excused or forgiven
+venym	<I>noun</I> poison
+vernage	<I>noun</I> a white Italian wine (vernaccia)
+vernycle	<I>noun</I> miniature reproduction of St. Veronica's sacred cloth, bearing the imprint of Jesus' features
+verraily	<I>adv.</I> truly
+verray	<I>adj.</I> true
+veyn	<I>adj.</I> foolish, wrong, idle
+veyn ymaginacioun	<I>noun</I> wrong conception, idle fancy
+veyne	<I>noun</I> vein (of the plant)
+viage	<I>noun</I> journey
+vigilies	<I>noun, pl.</I> vigils, feasts/services held on the eve of a religious festival
+viker	<I>noun</I> vicar
+vileynsly	<I>adv.</I> rudely, shamefully
+vileynye	<I>noun</I> 1. evil, rudeness, shame, dishonor; 2. injury
+vinolent	<I>adj.</I> drunken
+virytrate	<I>noun</I> hag, ugly old woman
+visage	<I>noun</I> face
+vitaille	<I>noun</I> victuals, provisions, stock of food
+voided|voyded|yvoyded	<I>verb</I> removed
+voirdit	<I>noun</I> verdict
+volupeer	<I>noun</I> nightcap
+vouche-sauf|vouche sauf	<I>verb</I> agree, grant
+voyden	<I>verb</I> get rid of, remove
+voys	<I>noun</I> 1. opinion; 2. report
+waast	<I>verb</I> waist
+wafereres	<I>noun, pl.</I> sellers of wafer-cakes
+walet	<I>noun</I> pouch, knapsack
+wang-tooth	<I>noun</I> molar
+wanges	<I>noun</I> teeth
+wanhope	<I>noun</I> despair
+wantowne	<I>adj.</I> pleasure-loving, jovial
+wantownesse	<I>noun</I> affectation
+war	<I>adj</I> 1. aware; 2. prudent
+warde	<I>noun</I> custody
+warde-cors	<I>noun</I> bodyguard
+wardeyn	<I>noun</I> 1. master of the college; 2. guardian
+ware	<I>noun</I> merchandise, goods
+warente	<I>verb</I> protect
+warisshe	<I>verb</I> recover
+warisshynge	<I>noun</I> cure, healing
+warye	<I>noun</I> curse
+wastel-breed	<I>noun</I> expensive fine white bread
+watres corosif	<I>noun</I> acids
+wawes	<I>noun, pl.</I> waves
+wayk|wayke	<I>adj.</I> weak
+waymentinge|waymentynge	<I>noun</I> lamentation
+webbe	<I>noun</I> weaver
+wedde	<I>verb, prsnt.</I>
+wedded	married
+weddede	<I>verb</I> married
+weddynge	<I>noun</I> wedding
+weel, wel	<I>adv.</I> well
+weep	<I>verb</I> wept
+weex	<I>verb</I> became
+weighte|wighte	<I>noun</I> weight
+wele	<I>noun</I> happiness, prosperity
+welle	<I>noun</I> source, spring
+wem	<I>noun</I> harm
+wemmelees	<I>adj.</I> spotless, without blemish
+wenche	<I>noun</I> girl, maid, female servant
+wepene	<I>noun, pl.</I> weapons
+werche	<I>noun</I> work
+were	<I>adj.</I> defend, protect
+wered	<I>verb</I> wore
+werre	<I>noun</I> war
+werreye	<I>verb, prsnt.</I> wage war on
+werreyed	<I>verb, pst.</I> waged war on
+werte	<I>noun</I> wart, a small benign growth on the skin, usually hard and rounded, caused by a virus-induced abnormal growth of skin cells and thickening of the epidermis
+wessh	<I>verb</I> washed
+wexe	<I>verb, prsnt.</I> become, grow, increase, breed
+wexeth	<I>verb, prsnt.</I> becomes, grows, increases, breeds
+weyve	<I>verb</I> turn aside, neglect
+wezele	<I>noun</I> weasel, a small brown carnivorous mammal
+whan	<I> noun</I> when, period of time.
+whelkes	<I>noun</I> pimples, pustules
+whelp	<I>noun</I> dog, pup
+whennes	<I>adv.</I> whence, why
+whileer	<I>adv.</I> just now
+whilom	<I>adv.</I> once, formerly
+whippeltree	<I>noun</I> cornel-tree
+wight|wyght	<I>noun</I> person, creature, being
+wist	<I>pst. prtcpl.</I> known
+wiste	<I>verb, pst. sg.</I> knew;
+wit	<I>noun</I> intelligence, mind, judgement
+witen	<I>verb</I> know
+with o voys	<I>adv.</I> unanimously
+withalle	<I>adv.</I> indeed, moreover
+withholde	<I>verb</I> forced to remain
+withseye	<I>verb</I> renounce, deny
+wityng	<I>noun</I> knowledge
+wlatsom	<I>adj.</I> disgusting, loathsome
+wo	<I>noun</I> woe, regret, sorrow, pain
+wodedowve	<I>noun</I> wood pigeon
+wolde	<I>verb, pst.sg.</I> intended to, desired;
+wolden	<I>verb, pst.pl.</I> intended to, desired
+wone	<I>noun</I> practice, custom
+woned	<I>verb, pst.</I> dwelt
+wonyng	<I>noun</I> dwelling
+wood	<I>adj.</I> crazy, mad, insane
+woost	<I>verb, 2nd pers. prsnt. sg.</I> know
+woostow	do you know
+woot	<I>verb, 1st & 3rd pers. prsnt. sg.</I> know, knows
+worshipe	<I>noun</I> honour, good reputation
+worthy	<I>adj.</I> respectable, eminent
+worthynesse	<I>noun</I> respectability, dignity, eminence
+woxen	<I>verb</I> grown, become
+wraw	<I>adj.</I> grumpy, ill-tempered, peevish
+wrecchednesse	<I>noun</I> misery, wretchedness
+wreche	<I>noun</I> vengeance
+wrek	<I>verb</I> avenge
+wreke|wreken	<I>verb</I> 1. avenge, avenged; 2. revenge oneself
+wrestling	<I>verbal noun</I> wrestling
+wreye	<I>verb</I> betray
+wrooth|wroth|wrothe,	<I>adj.</I> angry
+wrye	<I>verb</I> cover
+wydwe	<I>noun</I> widow
+wyf	<I>noun</I> wife
+wyke	<I>noun</I> week
+wyket	<I>noun</I> wicket gate
+wympul	<I>noun</I> wimple, a head dress that covers all but the face
+wynke	<I>verb</I> close both eyes
+wynnyng	<I>noun</I> profit
+wyte	<I>verb</I> blame
+yaf	<I>verb, pst.</I> gave
+ybete	<I>verb, pst. prtcpl.</I> embroidered
+ycorve|ycorven|ykorven	<I>verb</I> slit, cut
+ydelly	<I>adj.</I> in vain, in idleness
+ydolastre	<I>noun</I> idolater
+ye	<I>noun</I> eye
+yeer	<I>noun</I> years
+yeerd|yerd	<I>noun</I> enclosed garden or yard
+yeld	<I>verb</I> give back
+yelde	<I>verb</I> reward, repay
+yelden	<I>verb</I> 1. surrender; 2. pay
+yeman	<I>noun</I> yeoman, freeborn servant
+yen	<I>noun</I> eyes
+yeve|yif	<I>verb, prsnt.</I> give
+yeve, yeven	<I>verb</I> give, given
+yevest	<I>verb, 2nd prs. sg.</I> give
+yeveth	<I>verb, 3rd prs. sg.</I> gives
+yfeere	<I>adv.</I> together
+yfostred	<I>verb</I> brought up, raised
+yglewed	<I>verb</I> glued
+ygrave	<I>verb</I> buried
+yhid	<I>adj. & verb</I> hidden
+yifte	<I>noun, sg.</I> gift
+yiftes	<I>noun, pl.</I> gifts
+yis	<I>adv.</I> yes indeed
+yiven	<I>verb, pst. prtcpl.</I> given
+ykembd	<I>adj. verb</I> combed
+ylyk	<I>adj.</I> alike, equal, like
+ynogh|ynough	<I>adj. noun</I> enough
+ynorissed	<I>adj.</I> bred, raised, educated
+yolden	<I>verb</I> yielded
+yolleden	<I>verb</I> yelled
+yowthe	<I>noun</I> youth
+ypayed	<I>verb</I> paid
+ypocryte	<I>noun</I> hypocrite
+ypreved	<I>verb</I> proved
+ypunysshed	<I>verb</I> punished
+ysene	<I>adj.</I> visible
+yshryve	<I>verb</I> confessed, penitent, shriven
+ysprad	<I>verb</I> spread
+yswonke	<I>verb</I> toiled, worked
+yvel	<I>adj.</I> evil, wicked
+yvele apayd|yvele apayed	<I>adj.</I> displeased

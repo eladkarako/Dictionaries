@@ -1,0 +1,21 @@
+##name	Wikipedia �������� ������-������������ �������
+##sourceLang	Hebrew
+##targetLang	Hebrew
+##bgl_defaultCharset	cp1255
+##bgl_sourceCharset	cp1255
+##bgl_targetCharset	cp1255
+##bgl_defaultEncoding	cp1255
+##bgl_sourceEncoding	cp1255
+##bgl_targetEncoding	cp1255
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##author	Babylon Ltd.
+##copyright	<div dir='rtl'>� ���� �� ����� ����� �-<b>��������</b> ����� ������ ������ ����� ������� �� ��� <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License">GNU Free Documentation License</a> ����� ������� <a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"> Creative Commons �����-����� ���</a></div>
+##description	<div dir='rtl'>�������� ��� ����������� <a href="http://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%9B%D7%9F_%D7%97%D7%95%D7%A4%D7%A9%D7%99">���� �����</a> ������- <a href="http://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99"> ���� </a> ������ �� ���� ������ ������. �������� ��� ����� ������ ������� ����� ������. ��� ������ �������� ���� ���� ��� ������ ����, Wikimedia Foundation, <a href="http://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%9F_%D7%95%D7%99%D7%A7%D7%99%D7%9E%D7%93%D7%99%D7%94">��� ��������</a>.</div>
+##browsingEnabled	
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_creationTime	2005/06/06, 09:43
+##bgl_middleUpdated	2014/11/03, 11:16
+##bgl_lastUpdated	2014/11/03, 11:16

@@ -1,0 +1,1120 @@
+##name	Military Abbreviations
+##sourceLang	English
+##targetLang	English
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2005/11/08, 20:27
+##author	Werner Christmann
+##description	Glossary of English language military abbreviations and acronyms used within NATO; also included 3-digit ISO letter code for all countries and geographical entities.
+##bgl_creationTime	2004/03/30, 09:44
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+2DRMS	call sign
+A2C2	army airspace command and control
+A2C2S	Army airborne command and control system
+AA	Assembly Area
+AAA	anti-aircraft artillery
+AAP	Allied Administrative Publication
+AAR	After Action Review
+AATF	Army Aviation Task Force
+AAV	amphibious assault vehicle
+ABCA	American-British-Canadian-Australian ...
+ABCCC	airborne battlefield command and control center
+ABFAC	airborne forward air controller
+ABTAC	air-borne tactical air controller
+ABU	amphibious beach unit
+ABW	Aruba
+ACA	Airspace Control Authority; <BR> Airspace Coordination Area
+ACB	air campaign branch
+ACC	air component command(er);air combat command
+ACE	Allied Command Europe
+ACLANT	Allied Command Atlantic
+ACM	airspace control measures;<BR> airspace control means
+ACO	airspace control order;<BR>Allied Command of Operations
+ACOS	Assistant Chief of Staff
+ACP	airspace control plan;<BR>Allied Communications Publication
+ACR	armored cavalry regiment
+ACT	Allied Command Transformation
+ACV	Armored Combat Vehicle
+AD	air defense;<BR>armoured division
+ADC	air defense commander
+ADP	automatic data processing
+AEM	area effects munition
+AFATDS	advanced field artillery tactical data system
+AFG	Afghanistan
+AFM	army field manual
+AGM	attack guidance matrix
+AGO	Angola
+AGOS	Air Ground Operations School (USAF)
+AH	Attack Helicopter
+AHB	attack helicopter battalion
+AHP	allied hydrographic publication
+AI	Air Interdiction |<BR>armoured infantry
+AIA	Anguilla
+AII	area of intelligence interest
+AIR	area of intelligence responsibility
+AITAT	armoured infantry training advisory team
+AJP	Allied Joint Publication
+ALB	Albania
+ALE	air liaison element
+ALO	Air Liaison Officer
+ALP	Allied Logistic Publication
+AM	amplitude modulation
+AMA	artilleriy maneuvre area
+AMC	air maneuvre cell
+AND	Andorra
+ANGLICO	air and naval gunfire liaison section
+ANGPLT	air naval gunfire platoon
+ANT	Netherlands Antilles
+AO	area of operations
+AOA	avenues of approach|<BR>amphibious objective area
+AOC	Air Operations Centre;<BR>
+AOCC	Air Operation Coordination Center
+AOD	air operations directive
+AOI	area of interest
+AOII	area of intelligence interest
+AOIR	area of intelligence responsibility
+AOO	Area of Operations
+AOP	Allied Ordnance Publication
+AOR	area of responsibility
+AP	anti-personnel
+APC	Armored Personnel Carrier
+APOD	Aerial Port Of Debarkation
+APOE	Aerial Port Of Embarkation
+APP	allied procedural publication
+ARA	artillery reserved area
+ARE	United Arab Emirates
+ARFOR	army forces
+ARG	Argentina
+ARHG	Army home guard
+ARLO	air reconnaissance liaison officer
+ARM	Armenia
+ARMTAT	armoured training advisory team
+ARP	aviation recce patrol
+ARRC	Allied Command Europe Rapid Reaction Corps
+ARV	Armored Recovery Vehicle
+ASAS	All-Source Analysis System
+ASC	air space control
+ASCA	Artillery Systems Cooperation Activities
+ASFAO	anti-surface force air operations
+ASM	air space management |<BR>American Samoa
+ASOC	air support operations center
+ASOG	air support operations group
+ASR	available supply rate
+ATA	Antarctica
+ATACC	advanced tactical air control center
+ATACMS	army tactical missile system
+ATF	amphibious task force;<BR>French Southern Territories
+ATG	Antigua and Barbuda
+ATGM	antitank guided missile
+ATI	artillery target indication
+ATO	Air Tasking Order
+ATP	Allied Tactical Publication
+AUS	Australia
+AUT	Austria
+AVLB	armoured vehicle launched bridge
+AVN	Aviation
+AWACS	airborne warning and control system
+AWES	area weapons effects simulator
+AXP	allied exercise publication
+AZE	Azerbaijan
+BAE	battlefield area evaluation
+BAI	Battlefield Air Interdiction (ausgesetzt)
+BAR	before action review
+BATES	battlefield artillery target engagement system
+BATUS	British army training unit Suffield
+BCOC	Base Cluster Operation Center
+BCR	battle casualty replacements
+BCT	brigade combat team
+BDA	battle damage assessment
+BDD	British Defence Doctrine
+BDE	Brigade
+BDI	Burundi
+BDOC	Base Defense Operations Center
+BDR	battle damage repair
+BEL	Belgium
+BEN	Benin
+BFA	Burkina Faso;<BR>battlefield functional area
+BFSB	battlefield surveillance brigade (former: RSTA BDE)
+BFT	blue force tracking (system)
+BG	battle group
+BGD	Bangladesh
+BGE	battle group engineer
+BGR	Bulgaria
+BHR	Bahrain
+BHS	Bahamas
+BICES	battlefield information collection and exploitation system
+BIH	Bosnia and Herzegovina
+BKS	Barracks
+BLOS	beyond line of sight
+BLR	Belarus
+BLZ	Belize
+BMD	British Military Doctrine
+BMU	Bermuda
+BOL	Bolivia
+BOS	battlefield operating system
+BP	battle position
+BRA	Brazil
+BRB	Barbados
+BRN	Brunei
+BRT	brigade reconnaissance team
+BSB	brigade support battalion
+BSCPC	Build and Sustain Combat Power Cell
+BSG	brigade support group
+BTA	Baumholder training area (DEU)
+BTB	brigade troops battalion
+BTN	Bhutan
+BVT	Bouvet Island
+BWA	Botswana
+C/B	counterbattery
+C2W	Command and Control Warfare (=Info Ops)
+C3I	Command, Control, Communications and Intelligence
+C3IS	Command, Control, Communication and Information System
+C4	command, control, communications and computers
+CA	Civil Affairs
+CAD	close air defense
+CAF	Central African Republic
+CAFTG	combined arms field training group
+CALWG	critical asset list working group
+CAN	Canada
+CAO	chief administrative officer;<BR>counter air operations
+CAOC	Combined Air Operation Center
+CAP	combat air patrol
+CARE	Cooperative for American Relief Everywhere, Inc.
+CAS	Close Air Support
+CASEVAC	Casualty Evacuation
+CAST	command &amp; staff trainer
+CATF	commander amphibious task force
+CATT	combined arms tactical trainer (UK)
+CAX	Computer Assisted Exercise
+CBR	counterbattery radar
+CBRN	chemical, biological, radiological, nuclear ...
+CC	coordination center;<BR>component command(er)
+CCD	camouflage, concealment and deception
+CCIR	commander's critical information requirements
+CCIS	command, control information system
+CCK	Cocos Island
+CE	combat estimate
+CEP	circular error probability
+CF	Cease-Fire
+CFA	Cease-Fire Agreement
+CFAT	French Army Command
+CFL	coordinated fire line
+CG	Commanding General|<BR>centre of gravity
+CGEC	Commanding General EuroCorps
+CHE	Switzerland (Confederatio Helvetica)
+CHL	Chile
+CHN	China
+CIC	command integration cell
+CIF	close-in fire
+CIMIC	Civil-Military Cooperation
+CIR	critical information requirements
+CIS	Communication Information System
+CIV	Ivory Coast (Cote d'Ivoire)
+CJO	chief of joint force operations
+CJPOTF	Combined Joint Psychological Operations Task Force
+CJSOR	combined joint statement of requirement
+CJSOTF	Combined Joint Special Operations Task Force
+CLF	commander landing force
+CM	consequence management
+CML	civil-military liaison
+CMO	Civil-Military Operations
+CMOC	Civil-Military Operation Center
+CMR	Cameroon
+CMSC	combat manoeuvre simulation centre
+CNO	computer network operations
+CNR	combat net radio
+COA	Course(s) of Action
+COC	Closing Operating Capability<BR> current operations cell
+COD	Democratic Republic of Congo
+COE	center of excellence
+COF	conduct of fire
+COG	center of gravity;<BR>Congo
+COG...	Chief Observer Group ...
+COIC	critical operational issues and criteria
+COK	Cook Islands
+COL	Colombia
+COLT	combat observation lasing team
+COM	Comoros
+COMSEC	Communications Security
+CONOPS	Concept Of Operations
+COP	common operational picture
+COR	common operational requirements
+COS	Chief of Staff
+COSCOM	Corps Support Command
+CPV	Cape Verde
+CPX	Command Post Exercise
+CRA	Corps Rear Area
+CRC	crowd and riot control
+CREVAL	combat readiness evaluation programme
+CRI	Costa Rica
+CRO	Crisis Response Operations
+CRONOS	crisis response operations in NATO open systems
+CROP	common relevant operational picture
+CS	Combat Support
+CSAR	combat search and rescue
+CSCM	counter surveillance counter measures
+CSG	Combat Support Group; Corps Support Group
+CSS	Combat Service Support
+CSSC	Combat Service Support Cell
+CSSCS	combat service support control system
+CSTF	counterstrike task force
+CT	counter terrorism
+CTC	combat training center
+CTF	commander task force
+CTG	corps targeting group
+CTO	counter terrorism operations
+CUB	Cuba
+CXR	Christmas Island
+CYM	Cayman Islands
+CYP	Cyprus
+CZE	Czech Republic
+CofG	center of gravity
+D3A	decide, detect, deliver and assess (targeting process)
+DAG	divisional artilleriy group
+DC	Dislocated Civilians, Displaced Civilians
+DCI	Defense Capabilities Initiative
+DCOM	Deputy Commander
+DCOS	Deputy Chief of Staff
+DEPEX	deployment exercise
+DEU	Germany
+DFP	demonstrative force package
+DFWES	direct fire weapons effect simulator
+DGTS	director general training support
+DISTAFF	Directing Staff
+DJI	Djibouti
+DMA	Dominica
+DMPI	dedsired mean point of impact
+DMZ	Demilitarized Zone
+DNBI	desease and non-battle injury
+DNK	Denmark
+DOA	desired order of arrival
+DOD	Department of Defense
+DOG	deep operations group
+DOM	Dominican Republic
+DOS	Days Of Supply; Department Of State (US)
+DP	decision point
+DPI	desired point of impact
+DPICM	dual-purpose improved conventional munitions
+DPRE	Displaced Persons and Refugees
+DRA	Division Rear Area
+DRR	defence requirements review
+DS	direct support
+DSO	decision support overlay
+DT	dynamic target
+DTED	digital terrain elevation data
+DTG	date time group
+DZ	drop zone
+DZA	Algeria
+EA	engagement area
+EAC	echelon above corps
+EBO	effect based operations
+EBP	effects based planning
+EBT	effect based targeting
+EC	EuroCorps; European Community
+ECC	effects coordination cell
+ECHO	European Commission's Humanitarian Aid Office
+ECM	electronic counter measures
+ECOA	enemy courses of action
+ECR	electronic combat reconnaissance
+ECU	Ecuador
+EEFI	Essential Elements of Friendly Information
+EFAT	essential field artillery task
+EFST	essential fire support task
+EGM	effects guidance matrix
+EGY	Egypt
+EIH	environmental/industrial hazards
+ELINT	electronic intelligence
+ELM	Element
+EMCON	emission control
+EO	embargo operations |<BR>event overlay
+EOC	Echelon Above Corps
+EOD	explosive ordnance disposal
+EOM	end of mission
+EPLRS	enhanced position location reporting system
+ERGM	extended range guided munitions
+ERI	Eritrea
+ERRC	European Rapid Reaction Corps
+ESH	Western Sahara
+ESP	Spain
+EST	Estonia
+ET	emerging target
+ETA	Estimated Time of Arrival
+ETAC	enlisted terminal air controller
+ETC	Estimated Time of Completion
+ETD	Estimated Time of Departure
+ETH	Ethiopia
+EUCOM	(US) European Command (Stuttgart)
+EW	Electronic Warfare
+EXCON	Exercise Control
+EXEVAL	Exercise Evaluation
+EXPI	Exercise Planning Instructions
+FAAD	forward area air defense
+FAASV	field artillery ammunition supply vehicle
+FAB	Field Artillerie Brigade
+FAC	forward air controller
+FAOCV	field artillery operations center vehicle
+FARP	Forward Arming and Refuelling Point
+FAS	Future Army Structure (Brit.)
+FASP	field artillery support plan
+FATM	field army training manual (UK)
+FBCB2	Force XXI, battle command, brigade and below
+FCE	fire control element
+FCS	future combat system
+FDC	Fire Direction Centre
+FDIC	Futures Development Integration Center
+FEBA	forward edge of battle area
+FEC	Fites and Effects Cell
+FECC	fire effects coordination centre
+FER	Final Exercise Report
+FFA	Free Fire Area
+FFCC	force fires coordination center
+FFE	fire for effect
+FG	force goals
+FGP	Force Generation Process
+FIN	Finland
+FIR	First Impression Report
+FIS	foreign intelligence service
+FIST	fire support team
+FIWAF	fighting in woods and forests
+FJI	Fiji
+FLIR	forward looking infrared
+FLK	Falkland Islands (Malvinas)
+FLOT	forward line of own troops
+FM	field manual |<BR>frequency modulation
+FMA	Spanish Army Command
+FMB	forward mounting base
+FOA	Freedom of Action
+FOB	Forward Operating Base
+FOC	full operational capability
+FOM	Freedom of Movement
+FOO	forward observation officer
+FOS	forward operating site;<BR>future operations section
+FP	force protection
+FPC	final planning conference |<BR>fire planning cell
+FPF	final protective fire
+FRA	France
+FRAGO	Fragmentary Order
+FRO	Faroe Islands
+FRY	Former Republic of Yugoslavia
+FS3	fire support sensor system
+FSA	forward support area
+FSC	fire support coordinator
+FSCC	fire support coordination center
+FSCL	Fire Support Coordination Line
+FSCM	fire support coordination measures
+FSCO	fire support coordination officer
+FSE	Fire Support Element
+FSEM	fire support execution matrix
+FSG	fire support group
+FSM	Federated States of Micronesia
+FSO	fire support officer
+FSSL	Fire Support Safety Line
+FTA	Future Transport Aircraft
+FTX	Field Training Exercise
+FUP	forming-up place
+FW	fixed wing
+FYR	Former Yugoslavian Republic of Macedonia (FYROM)
+FYROM	Former Yugoslavian Republic Of Macedonia
+GAB	Gaboon
+GARFCOM	German Army Forces Command, Heeresführungskommando
+GATT	General Agreement on Tariffs and Trade
+GBAD	ground based air defense
+GBR	United Kingdom
+GC	Geneva Convention (I - IV)
+GCCS	global command and control system
+GEA	German Army
+GEO	Georgia
+GFAC	ground forward air controller
+GFAPS	General Framework Agreement For Peace In The South
+GHA	Ghana
+GIB	Gibraltar
+GIN	Guinea
+GIS	geographic information system
+GLE	ground liaison element
+GLP	Guadeloupe
+GLPS	gun laying and positioning system
+GLTD	ground laser target designator
+GMB	Gambia
+GMT	Greenwich Mean Time
+GNQ	Equatorial Guinea
+GO	Governmental Organisation
+GPS	Global Positioning System
+GRC	Greece
+GRD	Grenada
+GRF	graduate readiness force
+GS	General Support (Artillery)
+GSR	General Support Reinforcing (Artillery)
+GTA	Grafenwoehr training area (DEU)
+GTL	gun-target line
+GTM	Guatemala
+GUF	French Guiana
+GUM	Guam
+GURF	guns up ready to fire
+GUY	Guyana
+GWOT	Global War On Terrorism
+HALE	high altitude long endurance (UAV)
+HARM	high-speed anti-radiation missile
+HBCT	heavy brigade combat team
+HC	hexachloroethane
+HE	High Explosive (Ammunition)
+HEAT	High Explosive Anti-Tank
+HELIQUEST	helicopter request
+HET	Heavy Equipment Transporter
+HHC	headquarters &amp; headquarters company
+HIC	high intensity conflict
+HICON	Higher Control
+HIDACZ	high-density airspace control zone
+HIMARS	high-mobility artillery rocket system
+HKG	Hong Kong
+HLZ	helicopter landing zone
+HND	Honduras
+HNS	host nation support
+HOM	Head Of Mission
+HPT	high-payoff targets
+HPTL	high-payoff target list
+HQ	Headquarters
+HR	high readiness;<BR>High Representative
+HRF	high readiness force
+HRV	Croatia (Hrvatska)
+HTI	Haiti
+HUD	Head Up Display
+HUMINT	human intelligence
+HUMMWV	high-mobility multi purpose wheeled vehicle
+HUN	Hungary
+HVM	high velocity missile
+HVT	high-value target
+HVTL	high value target list
+IATA	International Air Travel Association
+IAW	In Accordance With
+IBCT	Infantry Brigade Combat Team
+ICCL	inter-component coordination and liaison
+ICM	improved conventional munitions
+ICP	intelligence collection plan
+ICRC	International Committee of the Red Cross
+ICV	infantry carrier vehicle
+ID	Infantry Division
+IDN	Indonesia
+IDR	International Defense Review --&gt; idr.janes.com
+IEBL	Inter-Entity Boundary Line
+IEDD	improvised explosive device disposal
+IEF	initial entry force
+IER	information exchange requirements
+IEW	intelligence and electronic warfare
+IFAK	Indirect Fire Appreciation Kernel
+IFF	Identification Friend/Foe
+IFOR	Implementation Forces
+IFPA	indirect fire precision attack
+IFV	Infantry Fighting Vehicle
+IHL	international humanitarian law
+ILO	in lieu of
+IMINT	imagery intelligence
+INCREP	Incident Report
+IND	India
+INFLTREP	inflight report
+INFO OPS	Information Operation
+INMARSAT	international maritime satellite
+INS	inertial navigation system
+INTREP	intelligence report
+INTSUM	intelligence summary
+IO	International Organisation
+IOC	initial operating capability;<BR> intelligence operations cell
+IOM	International Organisation for Migration
+IOT	British Indian Ocean Territory
+IPB	intelligence preparation of the battlefield
+IPC	Initial Planning Conference
+IPE	individual protection equipment
+IR	intelligence requirements;<BR>infrared
+IRL	Ireland
+IRN	Iran, Islamic Republic of
+IRQ	Iraq
+ISB	intermediate staging base
+ISC	Information Security Cell
+ISD	in-service date
+ISL	Iceland
+ISR	Israel
+ISTAR	intelligence, surveillance, target acquisitions and reconnaisance
+IT	information technology
+ITA	Italy
+ITGA	Islamic Transitional Government of Afghanistan
+JAAT	joint air attack team
+JACE	joint air component element
+JAM	Jamaica
+JAOC	joint air operations center
+JCB	joint command board
+JDAM	joint direct attack munition
+JDW	Jane's Defence Weekly --&gt; www.jdw.janes.com
+JEC	joint effects cell
+JECB	joint effects coordination board
+JEG	joint effects group
+JEM	joint effects meeting
+JET	joint essential task
+JETL	joint essential task list
+JEWG	joint effects working group ("targeting team")
+JF	joint fires;<BR>joint force
+JFACC	Joint Force Air Component Command(er)
+JFC	joint force commander
+JFCC	joint fires coordination cell
+JFCG	joint fires coordination group
+JFCOE	joint fires center of excellence
+JFETS	Joint Fires and Effects Trainer System
+JFFC	joint force fires commander
+JFIIT	joint fires integration and interoperability team
+JFLCC	joint force land component command(er)
+JFMCC	joint force maritime component command(er)
+JFO	joint fires observer
+JFPG	joint force planning group
+JFSOCC	joint force special operations component command(er)
+JFST	joint fires support team
+JHQ	Joint Headquarters
+JIA	Joint Implementation Arrangements
+JIPB	joint intelligence preparation of the battlefield
+JIPTL	joint integrated prioritized target list
+JITL	joint integrated target list
+JMCC	joint movement control center
+JMETL	Joint Main Effort Target List ??
+JOA	joint operations area
+JOC	Joint Operation Centre
+JOR	Jordan
+JPN	Japan
+JPTL	Joint Prioritized Target List
+JSTARS	joint surveillance and target attack radar system
+JTAC	joint terminal attack controller --&gt; FAC<BR>also: joint tactical air controller
+JTCB	Joint Targeting Coordination Board
+JTL	Joint Target List
+JTWG	joint targeting working group --&gt; JEM
+JVB	Joint Visitors Bureau
+JWO	joint warfare officer
+KA	killing area
+KAZ	Kazakhstan
+KEN	Kenya
+KFOR	Kosovo Forces
+KGZ	Kyrgyzstan
+KHM	Cambodia
+KIA	Killed in Action
+KOR	Republic of Korea
+KP	key point
+KWT	Kuwait
+LAAD	low altitude air defense
+LAAM	light anti-aircraft missile
+LAP	local air picture
+LBN	Lebanon
+LBR	Liberia
+LBY	Libyen Arab Jamahiriya
+LC	line of contact|<BR>landing craft
+LCC	Land Component Command(er)
+LCH	land component handbook
+LCMR	lightweight countermortar radar
+LD	line of departure
+LDR	laser designator rangefinder
+LFX	live fire exercise
+LGB	laser guided bomb
+LGM	laser guided missile
+LGW	laser guided weapons
+LIE	Liechtenstein
+LIMAWS	light mobile artillery weapon system<BR>(R) - rocket<BR>(G) - gun
+LIMEX	limited exercise
+LKA	Sri Lanka
+LLTR	low level transit route
+LLTV	low light-level television
+LOA	line of attack
+LOAC	law of armed conflict
+LOC	lines of communications
+LOCE	linked operations cetres, Europe
+LOCON	Lower Control
+LOE	line of exploitation
+LOS	line of sight
+LRAS	long-range advanced scout surveillance system
+LRF	laser range finder
+LRS	long range surveillance
+LSD	logistic support detachment
+LSL	laser spot locator
+LSM	last safe moment
+LSO	Lesotho
+LST	laser spot tracker
+LTD	laser target designator
+LTL	laser to target line
+LTM	laser target marker
+LTU	Lithuania
+LUX	Luxembourg
+LVA	Latvia
+LWD	land warfare doctrine
+LWS	Land Warfare School (UK)
+LWTC	Land Warfare Training Centre (UK)
+LZ	landing zone
+MA	Military Assistant
+MAC	Macao
+MALE	medium altitude long endurance (UAV)
+MANPADS	man-portable air defense system
+MAP	master attack plan
+MAPEX	Map Exercise
+MAR	Morocco
+MARFOREUR	US Marines Forces Europe
+MAV	Micro UAV
+MAW	marine air wing
+MBT	Main Battle Tank
+MC	Military Committee
+MCC	Maritime Component Command(er); Movement Control Center
+MCE	Mobile Command Elements
+MCO	Monaco
+MCS	Maneuver Control System
+MDA	Republic of Moldova
+MDF	main defense force
+MDMP	military decision-making process
+MDV	Maldives
+ME	main effort
+MEA	munitions effectiveness analysis
+MEADS	Medium Extended Air Defense System<BR>(USA, DEU, ITA)
+MEDEVAC	Medical Evacuation
+MEF	Marine Expedition Force
+MEL	Main Event List
+MET	Meteorological |<BR>mission essential task
+METCM	meteorological computer message
+METGM	metereological gridded message
+METL	mission essential task list
+METTA	meterological message for target acquisition
+MEX	Mexico
+MFC	manoeuvre force commander;<BR>mortar fire controller
+MG	Ministerial Guidance
+MGRS	military grid reference system
+MGS	mobile gun system
+MI	military intelligence
+MIA	Missing In Action
+MIL	Main Incidents List
+MJO	major jont operations
+MLC	Military Loading Class
+MLE	maritime liaison element
+MLI	Mali
+MLRS	multiple launch rocket system
+MLT	Malta
+MMR	multi-mission RADAR
+MMS	meteorological measuring set
+MNCS	Mulrinational Command and Support
+MND(C)|MND	Multinational Division (Central)
+MNG	Mongolia
+MOB	main operating base
+MOD	Ministry Of Defense; Master Of Desaster
+MOOTW	military operations other than war
+MOS	Military Occupational Specialty
+MOTS	military off-the-shelf
+MOU	memorandum of understanding
+MOZ	Mozambique
+MPC	Main Planning Conference
+MPI	mean point of impact
+MRD	motorized rifle division
+MRE	meal ready-to-eat
+MRL	multiple rocket launcher
+MRR	motorized rifle regiment;<BR>minimum risk route
+MRSI	multiple round simultanous impact
+MRT	Mauretania
+MSC	Maneuver and Support Cell
+MSL	mean sea level
+MSN	Mission
+MSR	Main Supply Route
+MSTAR	manportable surveillance target acquisition radar
+MT	mechanical time (fuze)
+MTC	movement to contact
+MTI	moving target indicator
+MTL	master target list
+MTQ	Martinique
+MTSQ	mechanical time superquick (fuze)
+MUAV	Mini UAV
+MUS	Mauritius
+MYS	Malaysia
+NA	not applicable
+NA5CRO	non-article 5 crisis response operation
+NAAG	NATO army armaments group
+NABK	NATO armaments ballistic kernel
+NAC	North Atlantic Council
+NAI	named area of interest
+NAM	Namibia
+NAMK	NATO armaments meteorological kernel
+NAO	naval aviation observer
+NASSS	NATO armaments sharable software suite
+NAVEUR	US Naval Forces Europe
+NAVFOR	navy forces
+NBC	nuclear, chemical, biological
+NBD	network based defense
+NC	no change
+NCA	national command authority
+NCF	NATO Composite Force
+NCL	New Caledonia
+NCW	network centric warfare
+NEC	network enabled capability
+NEO	non-combatant evacuation operations
+NER	Niger
+NFA	No Fire Area
+NFL	no fire line
+NGF	naval gunfire
+NGLO	naval gunfire liaison officer
+NGO	Non-Governmental Organisation
+NGS	naval gunfire support
+NIC	national intelligence cell |<BR>Nicaragua
+NIFAK	NATO Indirect Fire Appreciation Kernel
+NIL	Nothing In Line
+NLD	Netherlands
+NLOS	non-line of sight
+NLT	Not Later Than
+NOD	night observation device
+NOR	Norway
+NPL	Nepal
+NSA	National Security Agency
+NSE	National Support Element
+NSFS	naval surface fire support
+NSL	no-strike list
+NSTR	Nothing Significant To Report
+NTF	Note To File
+NTM	notice to move
+NTR	Nothing To Report
+NVD	Night Vision Device
+NVG	night vision goggles
+NWF	Networked Fires
+NZL	New Zealand
+O&O	operational and organizational plan
+OAS	Offensive Air Support
+OB	order of battle
+OBUA	operations in built-up areas
+OCA	offensive counter air operations
+OCE	Officer Conducting the Exercise
+ODS	Operation Desert Storm
+OEF	Operation Enduring Freedom (AFG)
+OFT	observations from training;<BR>Office for Force Transformation
+OIC	Officer In Charge
+OIF	Operation Iraqui Freedom
+OIWF	operations in woods and forests
+OLRT	Operational Liaison and Reconnaisance Team
+OMN	Oman
+ONA	operational net assessment
+OO	Ordnance Officer
+OOA	Out Of Area
+OOB	offensive operations branch
+OOTW	operations other than war
+OP	observation post
+OPCOM	Operational Command
+OPCON	Operational Control
+OPG	operations planning group
+OPLAN	Operation Plan
+OPORD	Operation Order
+OPP	operational planning process
+OPSEC	Operation Security
+OPTAG	operations training advisory group (Kent, UK)
+OPV	observation post vehicle
+ORBAT	Order of Battle
+OS	offensive support
+OSCE	Organisation on Security and Cooperation in Europe
+OSD	out of service date
+OSE	Officer Scheduling the Exercise
+OSG	offensive support group
+OSINT	open source intelligence
+OT	observer-target
+OTC	officer in tactical command
+OTIS	observers thermal imaging system
+PA	Personal Assistant; Public Affairs
+PACE	Pocket-Sized Crypto Equipment
+PADS	position and azimuth determining system
+PAK	Pakistan
+PAN	Panama
+PAO	Public Affairs Officer
+PAX	Passengers
+PCC	Prague Capabilities Commitment
+PCN	Pitcairn
+PD	point detonating
+PE	Peace Enforcement
+PER	Peru
+PGK	Projectile Guidance Kitfuze with fins that is applied to 105/155mm rounds to improve accuracy
+PGM	precision-guided missile
+PGMM	precision guided mortar munition
+PHL	Philippines
+PIC	Public Information Center; Press Information Center
+PIO	Press and Information Officer
+PIR	Priority Information Requirements
+PITA	pain in the ass
+PJHQ	Permanent Joint Headquarters (UK)
+PK	peace keeping
+PKO	peacekeeping operations
+PL	Phase Line
+PM	preventive maintenance
+PNG	Papua New Guinea
+POC	Point Of Contact
+POE	Point Of Entry
+POF	priority of fires
+POL	Poland |<BR>petroleum, oils, and lubricants
+POLAD	Political Advisor
+POR	post-operation report
+POW	Prisoner of War
+PPW	Power Point Warfare
+PRC	Portable Radio Communication
+PRI	Puerto Rico
+PRK	Democratic People's Republic of Korea
+PRT	Portugal;<BR>Provincial Reconstruction Team
+PRY	Paraguay
+PSO	Peace Support Operation
+PSY OPS	Psychological Operations
+PTS	projectile tracking system
+PTSD	Post-Traumatic Stress Disorder
+PW	prisoner of war
+PX	Post Exchange
+PXR	post-exercise report
+PYF	French Polynesia
+PZ	pickup zone
+QAT	Quatar
+QM	Quartermaster
+QRF	Quick Reaction Force
+R	reinforcing
+R&D	research and development
+R2	reports and returns
+RA	Rear Area; Reconstitution Area
+RAAMS	remote anti-armor mine system
+RADC	Regional Air Defense Commander
+RAG	regimental artilleriy group
+RAM	reliability, availability, maintainability
+RAOC	Rear Area Operation Center
+RAP	rocket assisted projectile;<BR>regimental aid post;<BR>recognized air picture
+RC	Response Cell; Remote Controlled;<BR>Regional Command
+RCC	rescue coordination center
+RDF	Rapid Deployment Force
+RECCE	Reconnaissance
+REMBASS	remotely monitored battlefield sensor system
+REU	Reunion
+RFA	Restricted Fire Area
+RFI	request for information;<BR>rapid force initiative (program)
+RFL	Restricted Fire Line
+RFT	Reinforcement
+RGP	recognized ground picture
+RISTA	reconnaissance, intelligence, surveillance, and target acquisition
+RIT	ready in theatre
+RLS	Real Life Support
+RMP	recognized maritime picture
+RMS	root mean square
+RNLMC	Royal Netherlands Marine Corps
+RO/RO	roll-on/roll-off
+ROC	Rear Operation Center
+ROE	Rules of Engagement
+ROTA	release other than by attack
+ROU	Romania
+ROZ	restricted operations zone
+RP	Release Point
+RPG	rocket propelled grenades
+RPV	remotely piloted vehicle
+RRF	Rapid Reaction Force
+RSC	Rear Support Command
+RSR	required supply rate
+RSTA	reconnaisance, surveillance and target acquisition
+RTA	road traffic accident
+RTD	ready to deploy
+RTL	restricted target list
+RUS	Russian Federation
+RW	rotary wing
+RWA	Rwanda
+RWR	radar warning receiver
+SA	strategic attack;<BR> situational awareness
+SAC	supporting arms commander|<BR>supporting arms coordinator
+SACC	supporting arms coordination center
+SALT	supporting arms liaison team
+SAM	surface-to-air missile
+SAR	search and rescue
+SAR-Lupe	Synthetic Aperture Radar - Lupe
+SASO	stability and support operations
+SATCOM	satellite communication
+SAU	Saudi Arabia
+SBCT	stryker brigade combat team
+SC	special corridor (ACM);<BR> Strategic Command
+SCATMIN	scatterable mines
+SCG	Serbia and Montenegro
+SCR	Security Council Resolution
+SDN	Sudan
+SEAD	suppression of enemy air defense
+SEAL	sea-air-land team
+SEN	Senegal
+SEWC	space and electronic warfare center
+SF	special forces
+SFCP	shore fire control party
+SFOR	Stabilization Forces
+SFW	sensor-fuzed weapon
+SG	Secretary General
+SGP	Singapore
+SHAPE	Supreme Headquarters Allied Powers Europe
+SHF	Support Helicopter Force
+SHORAD	short-range air defense
+SIGINT	signals intelligence
+SIMNET	simulation network
+SIP	Still In Progress
+SIPRNET	secret internet protocol router network
+SIR	specific information requirements
+SITMAP	situation map
+SJA	staff judge advocate
+SLAM	supersonic low-altitude missile
+SLB	Solomon Islands
+SLE	Sierra Leone
+SLV	El Salvador
+SMK	Smoke... (Company/Platoon)
+SMR	San Marino
+SOC	special operations command
+SOCEUR	US Special Operations Command Europe
+SOCOM	Special Operations Command
+SOF	special operations force
+SOFA	Status of Forces Agreement
+SOI	standard operating instructions
+SOM	Somalia
+SON	switch-on line
+SOP	standard operating procedures
+SOR	Statement of Requirement
+SOSO	stability operations and support operations
+SOTAC	special operations tactical air controller
+SOTF	Special Operations Task Force
+SP	Starting Point,<BR> self-propelled
+SPINS	special instructions
+SPOC	Single Point Of Contact
+SPOD	Sea Port Of Debarkation
+SPOE	Sea Port Of Embarkation
+SPT GRP	Support Group
+SPTA	Salisbury plain training area (UK)
+SRBM	short-range ballistic missile
+SSM	surface-to-surface missile
+STA	surveillance and target acquisition
+STACCS	Standard Theater Army Command and Control System
+STAP	surveillance and target acquisition plan
+SUR	Suriname
+SVK	Slovakia
+SVN	Slovenia
+SWE	Sweden
+SWZ	Swaziland
+SYC	Seychelles
+SYR	Syrian Arab Republic
+SZ	Security Zone
+T/O	table of organization
+TA	Technical Agreement;<BR> target acquisition;<BR> target area
+TAA	Tactical Assembly Area
+TAC	tactical air controller
+TACFIRE	tactical fire direction system
+TACON	Tactical Control
+TACP	tactical air control party
+TAI	target area of interest
+TAOC	tactical air operations center
+TAR	tactical air reconnaissance
+TARN	tactical air request net
+TASMO	tactical air support of maritime operations
+TATC	tactical air traffic control
+TBC	to be confirmed
+TBD	to be determined
+TBMCS	Theater Battle Management Core System
+TCD	Chad
+TCF	Tactical Combat Force
+TCN	troop contributing nation
+TCP	temporary checkpoint
+TCT	time critical target
+TD	tactical doctrine
+TDED	tactical data entry device
+TDL	tactical data link
+TES	tactical engagement simulator
+TGO	Togo
+THA	Thailand
+THF	tactical helicopter force
+TIC	target information center
+TID	Thermal Imaging Device
+TIH	toxic industrial hazard
+TJK	Tajikistan
+TKM	Turkmenistan
+TLAMS	tactical land attack system
+TLDHS	target location designation and hand-off system
+TLE	target location error
+TM	Terrain Management
+TMRR	temporary minimum risk routes
+TNL	target nomination list
+TO	theater of operations
+TOA	Transfer Of Authority; Time Of Arrival
+TOC	tactical operations center
+TOE	table of organization and equipment
+TON	Tonga
+TOR	Terms Of Reference; Time Of Receipt
+TOT	time on/over target
+TP	Traffic Point
+TPL	time phase line
+TRADOC	US Army Training and Doctrine Command
+TRAP	tactical recovery of aircrew and pilot
+TSM	targeting synchronisation matrix
+TSS	target selection standards
+TST	time sensitive target
+TTO	Trinidad and Tobago
+TTP	tactics, training and procedures; <BR>tactics, techniques and procedures
+TUAV	Tactical UAV
+TUN	Tunisia
+TUR	Turkey
+TUT	troops under training
+TVA	target value analysis
+TWN	Taiwan, Province of China
+TZA	United Republic of Tanzania
+UA	unit of action
+UAV	Unmanned Aerial Vehicle
+UBL	unit basic load
+UE	unit of employment (div- or corps-size)
+UGA	Uganda
+UH	Utility Helicopter
+UKR	Ukraine
+UNHCR	United Nations High Commissioner of Refugees
+UNMO	UN military observer
+UNPF	United Nations Peace Forces
+UNSAS	United Nations standby arrangements system
+UNSCR	United Nations Security Council Resolution
+UOW	urban operations wing
+URY	Uruguay
+USA	United States of America
+USAFAS	United States Army Field Artillery School, Fort Sill, OK
+USAFE	US Air Force Europe
+USAID	United States Agency for International Development
+USAREUR	US Army Europe
+USMC	United Stats Marines Corps
+UTM	Universal Transverse Mercator (projection)
+UXO	Unexploded Ordnance
+UZB	Uzbekistan
+VAT	Holy See (Vatican City State)
+VEN	Venezuela
+VGB	Virgin Islands (British)
+VIC	(in the) Vicinity
+VIR	Virgin Islands (USA)
+VM	verification monitor
+VNM	Vietnam
+VOB	Visitors and Observers Bureau
+VT	Variable Time (fuze)
+VTOL	vertical takeoff and landing
+WAC	weather analysis centre
+WARNORD	warning order
+WEF	weapon control status; <BR>with effect from
+WEZ	weapon engagement zone
+WFP	World Food Programme
+WGS	World Geodetic System
+WGS84	World Geodetic System 1984
+WHO	World Health Organisation
+WIA	Wounded In Action
+WLR	weapons locating radar
+WMD	weapons of mass destruction
+WNGO	Warning Order
+WOC	wing operations center
+WP	white phosphorus
+WSB	weather support branch
+WSM	Samoa
+WSRO	Weapon System Replacement Operation; replacement of weapon systems including respective personnel
+WSS	Weapons Storage Site
+WTA	Wildflecken training area (DEU)
+XO	executive officer
+XP	exchange point
+YEM	Yemen
+YUG	Federal Republic of Yugoslavia
+ZAF	South Africa
+ZMB	Zambia
+ZWE	Zimbabwe
+c/o	care of
+o/o	on order
+s/h	seen and heard
+w/d	weak and distorted
+w/o	without
+w/r	weak but readable

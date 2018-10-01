@@ -1,0 +1,149 @@
+##name	Glossary of Dance Terminology
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	Don Deyne
+##email	drdeyne@apci.net
+##description	"This is MY glossary, meaning, it's the terms I use in my classes and in my step descriptions".
+##browsingEnabled	
+##bgl_creationTime	2000/06/19, 07:39
+##bgl_middleUpdated	2000/08/02, 13:06
+1C4EB105.png	File: 1C4EB105.png
+367BE1EC.png	File: 367BE1EC.png
+601EB54E.png	File: 601EB54E.png
+62D3AFBB.png	File: 62D3AFBB.png
+655D490D.png	File: 655D490D.png
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+E8A4818D.png	File: E8A4818D.png
+ACROSS	Movement across the Line of Dance <B>or</B> <BR>Movement of one leg in front of the other
+ALIGNMENT	The position of the body with relation to the Line of Dance<BR><BR><B>FLOOR ALIGNMENT:</B><BR><IMG src="367BE1EC.png" width="421" height="261"><BR>
+AMALGAMATIONS aka CLUSTERS aka COMBINATIONS|AMALGAMATIONS|CLUSTERS|COMBINATIONS	A group or sequence of dance figures or patterns
+AND	1 Half of a Quick count ( &amp; 1 or 1 &amp; ) 2 A Call such as &quotready and" 3 Indicates simultaneous action <BR>Note: In my step descriptions, the word &quotand" notes simultaneous actions &nbspwhile the figure "&amp;" indcates movement on a half beat of music
+APART	1 Movement away from partner or one foot away from the other 2 Placement of feet apart frome each other (2nd position)
+BALANCE	A step, together, hold
+BALANCE STEP	A step in any direction, followed by a Close (no weight) and a Hold
+BALL CHANGE	A change of weight from the ball of one foot to the other foot
+BEHIND	A step with the free foot crossing behind the weighted foot
+BODY MOVEMENTS GESTURE	Any movement not connected with supporting the body weight <I>
+BODY RISE	The body rises by bracing the leg muscles and stretching the spine then relaxes to a natural stance
+BOOGIE	The free hip lifts and moves in a circular motion in the direction of the weighted foot
+BOOGIE ROLL	1. Similar to Cuban Motion, using a forward and backward movement of the pelvis 2. A circular movement starting in the pelvis region, moving through the diaphragm, chest and shoulders
+BOOGIE WALK	To move the free leg by lifting the hip and stepping forward
+BREAK	1 A change or reverse of direction 2 See <A href="bword://Rhythm Break">Rhythm Break </A>
+BUMP	Dancers bump hips to the side or the buttocks of their partners
+CENTER	<B>Individual</B><BR>: Balance point of the body mass - located near the diaphragm <BR><B>Couples</B><BR>: Center point between partners <BR>
+CHAINE'|CHAINE	A 360 degree turn, feet together in first position, changing weight
+CHASE	A figure where one partner pursues the other
+CLOSE	To bring the feet together without a change of weight
+CONGA aka 3 STEP TURN|3 STEP TURN|CONGA	A 360° turn in 2nd dance position, taking three weight changes and ending with a touch or point. Often called a turning or rolling vine, because of it's common usage as a variation within a dance
+CONTRA BODY MOVEMENT (CBM)|CBM|CONTRA BODY MOVEMENT	A movement of the body into or from 3rd or 5th foot position which turns the opposite hip and shoulder toward the direction of the moving leg
+COUNT	A call used to count the rhythm of foot movements and weight changes, or to count the beats of music
+CROSS	To move one foot over the other, either in front or behind
+CUBAN MOTION	Hip motion initiated by using the inside edge and ball of the foot during weight transfer
+CUP AND PIN	The man holds his left hand with the palm facing inward, thumb over the lady's fingertips. The lady curls her right fingertips over the man's left fingers The hands are held approximately at the lady's waist level. There is resistance needed for many changes of positions and turns.
+DANCE	Recurrent flow of foot and body movements
+DIAGONAL	45 degrees out from the center of the Line of Dance (direction)
+DIG	To touch the ball or heel of the free foot to the floor with a strong emphasis
+DRAG aka SLIDE aka DRAW|DRAG|DRAW|SLIDE	To bring the free foot slowly together to the weighted foot<BR>
+EXTENDED	Feet apart, heel pointing to instep
+EXTENSION	To stretch or extend parts of the body
+FAN	Circular motion of the free foot
+FAN KICK	High, straight leg kick where the extended leg makes a circular sweep
+FAST HEEL SPLIT	takes one beat of music and is counted as " 1" <BR>
+FIFTH POSITION	Often used in a rock-step<BR><IMG src="601EB54E.png" width="21" height="56">
+FIRST POSITION	Feet together, toes forward and slightly turned out CALLS Home, Center, Together <BR><IMG src="655D490D.png" width="27" height="30">
+FLEX	To bend slightly or relax a portion of the body <I>Example</I> the flex of the knee
+FLICK	Sharp, quick kick backwards with a pointed toe and a flexed knee
+FOLLOW THROUGH	The non-support foot passes by the weighted foot before changing directions
+FOOT PARTS	Toe Inside edge of toe Outside edge of toe Ball Inside edge of the ball Outside edge of the ball Heel Inside edge of heel Outside edge of heel Flat Inside edge of the flat foot Outside edge of the fiat foot
+FOOTWORK	The use of the five positions of the feet in dancing
+FOURTH POSITION	Walking step, forward or back, and rock steps<BR><IMG src="E8A4818D.png" width="27" height="56">
+FRAME	Dance posture for the purpose of maintaining balance and appearance
+FREE TURN	To turn independently without any body contact
+FREEZE	A stop no movement
+HEEL FAN	Heel swings outward, pivoting on ball of foot, and back
+HEEL SPLIT aka WING SCISSORS PIGEON-TOE BUTTERFLIES ETC ETC ETC|HEEL SPLIT|WING SCISSORS PIGEON-TOE BUTTERFLIES ETC ETC ETC	Feet together with weight on balls of both feet. Move heels apart on count 1, and together on count 2<BR>
+HOLD	A count to describe a designated time before taking another step<BR>
+HOME	Original starting place
+HOOK aka CROOSS|CROOSS|HOOK	The free foot moves as a pendulum in front of or in back of the weighted foot and is kept off the floor The toes pointing downward<BR>
+HOOK COMBINATION	A 4 count move using (1) heel (2) hook (3) heel and (4) together
+HOP	A spring into the air from one foot and landing on the same foot
+IN PLACE,RECOVER|IN PLACE|RECOVER	Return the weight to the original supporting weighted foot
+INSIDE	A turn to the left far the lady and right for the man
+ISOLATION	Movement of one part of the body independently of the rest
+JAZZ SQUARE aka JAZZ BOX|JAZZ BOX|JAZZ SQUARE	Well there's plenty of fight over this one, but I call a jazz box several ways (then explain which one I'm using either in class or in my step description) it may not be right, but it works for me. a couple of examples<BR><B><BR>Step forward left Step right across left Step back left Side step right<BR></B>or<B>: <BR>Step right over left Step back left Side step right Step forward left<BR></B>JUMP Spring into the air off both feet and land on both feet <BR>
+JUMPING	Movement without a point of support
+KICK,BALL,CHANGE|BALL|CHANGE|KICK	May also be done as a Heel, Ball, Change. ex: 1 -<BR><BR><B>Kick</B><BR>forward right &amp; - Step down on <BR><B>ball</B><BR>of right 2 - <BR><B>Change</B><BR>weight to left <BR>
+KNEE POPS aka HEEL STOMPS|HEEL STOMPS|KNEE POPS	Lift both heels off the floor by bending the knees Return the heels to the floor Takes one beat of music and counted as " 1"
+LEAD	A non-verbal communication that initiates and continues movement
+LEAP	A transfer of weight from one foot to the other. Push off with a spring and land on the ball of the other foot, letting the heel come down Bend knee to absorb the shock
+LEFT	Refers to the left foot, hand, hip or a direction
+LINDY	Line dance move (tho you'll see some differences of oppinion this is widely accepted)<BR>8-count series pf side shuffles and rock steps<BR>EXAMPLE:<BR>1&amp; 2 Side step right step left beside right, side step right<BR>3-4 Rock step left slightly behind right, recover weight to right <BR>5 &amp; 6 Side step left step right beside left, side step left<BR>7-8 Rock step right slightly behind left, recover weight to left
+LINDY CHARLESTON	Couples swing move: <BR>COUNT MAN LADY<BR><B>1</B>.MAN : Rock back with LF <BR>LADY : Rock back with RF<BR><B>2</B>.MAN : Change weight forward on RF <BR>LADY : Change weight forward on LF<BR><B>3</B>. MAN : Kick forward with LF <BR>LADY : Kick forward with RF<BR><B>4</B>. MAN : Land LF forward <BR>LADY : Land RF forward<BR><B>5</B>. MAN : Kick forward with RF <BR>LADY : Kick forward with LF<BR><B>6</B>. MAN : Swing RF back without landing <BR>LADY : Swing LF back without landing<BR><B>7</B>. MAN : Kick back with RF <BR>LADY : Kick back with LF<BR><B>8</B>. MAN : Bring RF to LF, landing <BR>LADY : Bring LF to RF, landing
+LOCK	A tight cross of the feet in 1st or 2nd position
+LOCOMOTION	Movement of the body from one place to another
+LOD - LINE OF DANCE|LINE OF DANCE|LOD	Counterclockwise around the dance floor
+LOOP TURN	An underarm turn to the left for the lady and to the right for the man
+LUNGE	A weight transfer to a bent leg with the other leg extended
+Monatna Kick aka Black Bottom aka CHARLESTON|Black Bottom|CHARLESTON|Monatna Kick	A 4 count pattern of steps and kicks (Kelly Gillette (and thus, NTA) advocates that a Charleston
+MUSIC	Flow of recurrent heavy and light accents
+MUST	start with a left step)<BR><B>Step forward left Kick forward right Step back right Point the left toe back</B><BR>She may be right, but what would we call it when it starts on the right foot. I <BR><B>personally</B><BR>call it a charleston emphasizing which feet are doing what. <BR>
+PADDLE TURN	A turn either left or right, using a series of ball changes with 3/4 of the weight staying over the turning foot
+PARTNER ALIGNMENT	The symmetric alignment of a couple
+PIGEON TOED	A pattern traveling sideways bringing the toes together leaving the heels apart, then bringing the heels together leaving the toes apart
+PIVOT	A traveling turn executed with thighs locked and feet apart in extended fifth position
+PIVOT TURN aka MILITARY TURN aka BREAK TURN|BREAK TURN|MILITARY TURN|PIVOT TURN	Transfer weight to the forward foot then turn 180° in the opposite direction of the forward foot Return weight to original foot
+PREP	A lead-in move or step a set up used as a preparation for a turn or a change of dance position
+QUICK	A step or weight change that takes one beat of music
+RESISTANCE	A balanced force and counter force between two bodies
+RHYTHM BREAK	To leave the natural rhythm of the pattern
+RIGHT	Refers to the right foot, hand, hip or a direction
+RISE AND FALL	Coming up on the toes by bracing the ankles and stretching the spine then lowering to the heels
+ROCK	Two weight changes with the feet apart, taken in any direction
+ROLL	The indicated body part circles right or left
+ROUND DANCE	All types of social dances were once called round dances. Today round dance refers to couples or groups of three or more, doing routine patterns dancing counterclockwise or clockwise around the dance floor
+RUNNING	QUICK(Half of a Slow) takes one beat of music
+RUNNING MAN	A series of steps and scoots (usually back) that resemble a running action <I>EXAMPLE</I>: 1 Step slightly forward LEFT Hitch right and scoot back on LEFT 2 Step slightly forward RIGHT Hitch left and scoot back on RIGHT Repeat as many times as the count indicates<BR><BR><B>Note</B><BR>: I teach this move by starting very slow just stepping in place Then we add hitches and increase the tempo and begin counting 1&amp2&amp3&amp4&amp; <BR>
+SAILOR STEP	A triple step dance pattern accomplished by leaning in the opposite direction of the crossing foot (weight stays centered over lead foots original position) <I>EXAMPLE</I>: Leaning toward left (1) Step left behind right () Side step right (2) Side step left (to original position)
+SCOOT aka SKIP|SCOOT|SKIP	(NTA) Slide of the weighted foot (or feet) forward, backward or sideways. (ME) A hitch with movement of the weighted foot<BR>
+SCUFF aka BRUSH|BRUSH|SCUFF	To brush, sweep or scuff the foot against the floor
+SECOND POSITION	Feet parallel, shoulder width apart<BR><IMG src="1C4EB105.png" width="43" height="30">
+SHIMMY	Alternating shoulder movements forward and backward
+SHUFFLE	A triple step similar to a Polka step with no lilt (says NTA) EXAMPLE: SHUFFLE FORWARD LEFT 1 Step forward left & Bring the right foot up to the heel of the left foot 2 Step forward left Note: From a technical stand point, a shuffle would be smooth, a polka would have lilt (bounce), and a cha-cha would have Cuban Motion. This may be of little or no concern to the social dancer especially the beginner.
+SLIDE	1.(left or right) May be taken to a Slow or Quick coun<BR>2.A movement in any direction Step on one foot then draw or slide the other foot up to the weighted foot
+SLOW	A step or weight change that takes two beats of music
+SPIN	A 360 degree turn on one foot
+SPLIT	The feet move apart with the weight evenly distributed over both feet
+SPOT	A step in place that does not progress in any direction
+SPOTTING	Focusing on a fixed point through a turn
+STEP	The transfer of weight from one foot to another
+STROLL	A forward diagonal step followed by a cross behind (lock) and another step forward
+STRUT	Moving forward, place the heel then the ball of the foot on the floor for counts 1, 2
+SUGAR FOOT	Alternating swiveling feet in the direction of the un-weighted foot Taken in place or traveling
+SWAY	A tilt of the chest to the side, without lowering the torso Stretching from the side upwards
+SWING	The free foot is raised and moved forward, backward, sideways or crosswise
+SWITCH	Shifting weight from one foot to the other in a rapid sliding movement
+SYNCOPATED PATTERN	Any variation of a defined dance pattern
+SYNCOPATED RHYTHM	To step between the down beats Any rhythm pattern which uses accents other than the down beat
+SYNCOPATED SPLITS	Feet move apart separately and are brought back together Counted as "& 1, & 2"
+THIRD POSITION	Heel to instep, or ball to heel Used in rock steps, shuffles, polkas, triple steps, and basic swing<BR><IMG src="62D3AFBB.png" width="35" height="33">
+TOE FAN	Toe swings outward, pivoting on heel, and back
+TOGETHER	To bring the feet together with a change of weight
+TRAVELING PIVOTS	Pivots danced down LOD in extended 5th position
+TURNING	Changing position in a circular fashion
+TWIRL	A square dance term for turning the lady
+TYPES OF TURNS: OUTSIDE|OUTSIDE|TYPES OF TURNS	A turn to the right for the lady and left for the man
+VARIATIONS	Any movement of footwork that is different from the original footwork. Personal note: If you change the count or flow of the dance IMHO it's not a variation. I won't say it's wrong, Oh what the heck, YES I WILL
+VINE aka GRAPEVINE|GRAPEVINE|VINE	A continuous traveling step pattern to the side with crosses behind and/or in front
+WALKING	- SLOW Usually takes two beats of music
+WEIGHTED LEG/FOOT aka SUPPORT LEG/FOOT|SUPPORT FOOT|SUPPORT LEG|WEIGHTED FOOT|WEIGHTED LEG	The foot/leg bearing the weight of the body. The foot you're standing on.

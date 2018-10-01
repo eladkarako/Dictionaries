@@ -1,0 +1,117 @@
+##name	Pokemon_english
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2001/03/15, 18:24
+##author	Jonatan Hultberg
+##email	nemesis4k@hotmail.com
+##description	A descriptio over most of the pokemons.
+##browsingEnabled	
+##bgl_creationTime	2001/03/15, 14:53
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+Abra|63	An esper type pokemon. Can only be controlled by psychic trainers. Can teleport and distrort matter.<HR># 63
+Alakazam|65	The evolution of kadabra. Uses the ultimate psychic attacks. May be the hardest pokemon to train.<HR># 65
+Arbok|24	The evolved form of ekans. Takes the shape of a cobra.<HR># 24
+Arcanine|59	The evolved form of Growlithe. Uses stronger fire attacks to subdue its enemies.<HR># 59
+beedrill|15	The evolved form of weedle and kakuna. Unlike buterfree, beedrill takes the shape of a bee. On his first set of legs, 2 drills are attached to them. Beedrill will us these drills to stab his enemy while flying.<HR># 15
+Bell sprout|69	A total plant pokemon. It uses its vines to attack it enemies. Also it can send poison through its vines to make its enemies sick.<HR># 69
+blastoise|9	The evolved form of squirtel and wartortle. Instead of using its mouth, blastoise is equipped with to cannnons filled with water. Using these "cannons" blastoise is able to subdue his enemies quicker.<HR># 9
+bulbasaur|1	Grass pokemon. A strange seed is planted on its back from birth.<HR># 1
+butterfree|12	The evolved forms of caterpie and metapod. Seen as a butterly, butterfree slies around. His best attack is sleep dust. His sleep dust will quickly make another pokemon fall asleep so that its trainer can call another pokemon to finish the battle.<HR># 12
+charizard|6	The evolved form of charmander and charmeleon. He is 300% larger than charmander. His flame attacks are more hazardous and can cause serious damage to its opponent.<HR># 6
+Clefable	The evolution of clefairy. No further informaion availible.<HR># 36
+clefairy|35	A cute pokemon. No further information availible.<HR># 35
+Cloyster|91	The evolved form of shellder. Cloyster is encased in another shell giving it 2 shells for protection.<HR># 91
+cubone	coming soon.....
+dewgong|87	The evolved form of seel. Its body is slimmer and longer and its attacks twice as strong.<HR># 87
+Diglett|50	A mole pokemon. Digs under the ground to attack its enemies. Can move at high speed of light when bobbing their heads up and down from the ground. Diglett are claimed to be creators of the forest before Fuschia city.<HR># 50
+dodrio|85	The evolved form of doduo. It is incredibly tall and has three heads.<HR># 85
+doduo|84	An ostrich pokemon that can run at high speeds. It has two heads.<HR># 84
+drowzee|96	A tapir pokemon. He uses his mind to make his enemies or others to fall asleep and dream.<HR># 96
+Dugtrio|51	The evolution of diglett. Instead of 1 body dugtrio has three. It is three times the size of diglett.<HR># 51
+Ekans|23	A snake pokemon. When thrown into the air, ekans will rotate at high speeds, and almost like a wheel, wil run over its opponent. Also uses poison attacks.<HR># 23
+Farfetchd	coming soon...
+Fearow|22	The evolved form of spearow. Has larger wings and a bigger body. Like pidgeotto, it also uses wind attacks to finish its enemies.<HR># 22
+gastly|93	A ghost pokemon who can make itself invisible. Usually found in haunted houses where it scares its guests away.# 93
+gengar	The evoluion of Haunter. It grows two legs and gets the form of normal pokemon, but can still float.
+Geodude	A rock pokemon. Used mainly as a fighting pokemon or in battle. Uses famous attacks such as seismic toss. Mysteriously floats in the air.<HR># 74
+Gloom|44	The evolution of oddish. Its leaves turn red and its head grows a mushroom like structure.<HR># 44
+golbat|42	the evolution of Zubat. Uses hevier attacks.<HR># 42
+Golduck|55	The evolved form of psduck. This one is dark blue and stands taller and slimmer than psyduck, Uses similiar attacks and its headache is less severe.<HR># 55
+Golem|76	The evolution of graveler. Can roll itself into a ball and can whitstand all elemental attacks to a certain degree. Once it rolls into its ball form, it can bash and crush its enemies<HR># 76
+Graveler|75	The evolved form of geodude. Its mass is twice geodude´s and its attacks are just as powerful. Graveler floats also.<HR># 75
+grimmer|88	A sludge pokemon. Its body is composed of sludge. Its body smells horrible maken others unwanting to fight it. <HR># 88
+Growlithe|58	A tiger pokemon. Uses fire attacks similiar to Vulpix.<HR># 58
+haunter|93	The evolved form of gastly. Grows 2 hands. No further information availible.<HR># 93
+Hypno|97	The evolved form of drowzee. Has a timepiece on a gold band and swings it back and forth to hypnotize his enemies. Its attacks are more effective than Drowzee`s.<HR># 97
+jigglypuff	A fluffy pokemon. No further information availible.<HR># 39
+kadabra|64	The evolved form of abra. Uses stronger psychic attacks.<HR># 64
+kakuna|14	Also similar to Metapod. Kakuna´s color is a goldish color. Kakuna is Weedle´s evulotion.<HR># 14
+Kingler|99	The evolved form of krabby. Its shell and claws are large and shouldn´t be played with.<HR># 99
+Krabby|98	A crab pokemon that lives on beaches. Beware: Krabby is dangerous when using its claws.<HR># 98
+machamp|68	The evolution of machoke. Machamp grows an extra 2 arms, wich add to its current strength.<HR># 68
+Machoke|67	The evolved form of machop. Its height is much taller than machop´s. Its muscle power is 5 tikes that of machop´s.<HR># 67
+Machop|66	A purely fighting pokemon. Its entire body is consisted of muscles. Its small size make it seem easy, but when it battles, it showws its real power.<HR># 66
+Magnemite|81	A magnet pokemon of the electric type. Uses thundershock often. Its mysterious floating notions are unexplaineble. <HR># 81
+Magneton|82	The evolved form of magnemite. Two more magnets are attached to its body and its electricity levels are almost off the scale.<HR># 82
+Mankey|56	A fighting pokemon. All mankey´s have boxing gloves and are very aggressice. They will not allow anyone to look at them, unless they want to be beaten up.<HR> # 56
+marowak	Coming soon....
+meowth|52	A cat pokemon. Meowth is the only pokemon able to speak the language of the world pokemon. Often uses slashing attacks.<HR># 52
+metapod|11	The evolved form of caterpie. Stays in trees most of the time. Like caterpie, metapod uses other insects to battle. He also uses his armored wing attack, although metapod cannot fly.<HR># 11
+muk	coming soon......
+nidoking|34	The male form of the nidor species, evolution #3<HR># 34
+Nidoqueen|31	The evolution of Nidorina. Uses similiar sharp claws used in battle. These claws are somewhat similiar to those of Sandshrew.<HR># 31
+Nidoran (f)|29	A female. Uses poison and biting attacks to subdue its enemies. Mysteriously mates with the male version of nidoran to create others. Self-production.<HR># 29
+Nidoran (m)|31	The male form of nidor species, evolution#1.<HR># 31
+Nidorina|30	The evolution of female nidoran. Uses stronger attacks.<HR># 30
+Nidorino|33	The male from the nidro species, evolution #2<HR># 33
+ninetails|38	The evolution of vulpix. Has nine tails and has severe fire attacks.<HR># 38
+Oddish|43	A plant pokemon. Uses some attacks such as bash. Also uses posion vein to attack its enemies.<HR># 43
+Onix|95	A rock snake. Its size is rather large and can dig undeground to attack enemies.<HR># 95
+paras|46	A crab poemon. Has two plants on the sides of its head wich it uses to attack its enemies.<HR># 46
+parasect|47	The plants on its head form into a mushroom and it is now an insect. It uses biting and plant attacks.<HR># 47
+persian|53	The evolution of meowht. It is longer and bigger than meowth and uses similiar attacks.<HR># 53
+Pidgeot|18	The evolved form of pidgey and pidgeotto. Uses even powerful wind attacks and is twice as large as pidgey.<HR># 18
+pidgeotto|17	The evolved form of pidgey. Uses stronger wind attacks such as powerful gust.<HR># 17
+pidgey|16	Uses its wings to collect air and direct it towards its enemy.<HR># 16
+Pikachu|25	An electric mouse. Uses the familiar attack known as thundershock. Also uses speed to evad its enemies.<HR># 25
+poliwag|60	A water and fighting pokemon. No further information.<HR># 60
+poliwhirl|61	The evolution of poliwag. Poliwhirl is not a water pokemon. No further information availible.<HR># 61
+poliwrath|62	The evolved form of poliwhirl. 90% of its body is made of muscle.<HR># 62
+ponyta|77	A horse pokemon. Its tail and mane are composed of fire. Its incredible speed and agility will make it a very hard target. If a trauner feels the need to ride ponyta, it must trust its trainer; if not, its trainer will get burned.<HR>#77
+Primeape|57	The evolved form of mankey. Uses faster attacks and is very defensive. It will only obey its maste when it is shown real care.<HR># 57
+psyduck|54	A water pokemon that has mysterious powers. Psyduck has a constant headache. His attacks include tail wag, scratch, confuse and disable.<HR>#54
+raichu|2	The evolved form of pikachu. It´s larger size makes it unable to use its previous speed attacks. Raichu´s electric levels are far higher than pikachus.<HR># 26<BR>
+rapidash	The evolved form of ponyta. Its form is slightly bigger than ponyta´s but its agility is still as fast, even better. Its appearence can fool its enemies as rapidash is quite strong.
+Sandshrew|27	An armadillo pokemon. Uses claws to dig underground, then jumps from inder its opponent, knocking it down.<HR># 27
+sandslash|28	The evolution of sandshrew. Equipped with spikes on its back. Uses the same attacks as sandshrew.<HR># 28
+seel|86	A seal pokemon that gets its power from staying in water. Its attacks are water based. Seels are usually found close to warm water.<HR># 86
+Shellder|91	An oyster pokemon wich only opens its shell when attacking its enemies. It can quickly shut its shell when enemies come by and it also has a few spikes sticking out of its shell to protect it.<HR># 91
+Slowbro|80	The evolved form of slowpoke. Slowbro stands uppright. Its tail is covered by a hermit shell. Its attacks are stronger and deadlier than slowpoke´s.<HR># 80
+slowpoke|79	A hippopotamus pokemon. Its slow speed makes it a vulnerable targer, but its vicious water attacks and mysterious attacks can lead its enemies straight to defeat.<HR># 79
+Spearow	A flying pokemon. Uses pecking attacks to hurt its enemies.<HR># 21
+squirtle|7	The first water pokemon. Uses such attacks as squirt. Squirt is a poweful blast of water that makes a opponent stumble back. Squirtle also uses head bash where he runs at fast speed and rams its opponents with its head.<HR># 7
+tentacool|72	A jellyfish pokemon. Uses poisonous attacks whit its deadly tentacles.<HR># 72
+tentacruel|73	The evolved form of tentacool. It grows more tentacles and its height is almost 10 stories high!<HR># 73
+venomoth|49	The evolution of venonat. Venomoth is a huge moth wich uses stronger attacks during battle.<HR># 49
+venonat|48	A gnat pokemon. Uses poison attacks and sprays them while flying in the air.<HR># 48
+Venosaur	coming soon......
+Victreebell|71	The evolution of weepinbell. Its attacks are heavily damaging and can sen a pokemon to the pokemon center in seconds of contact.<HR># 71
+vileplume|45	The evolution of<BR>loom. Its leaves shed and the mushroom on its head grows larger.<HR># 45
+Voltorb|100	An orblike pokemon of the elctric type. Uses electric smoke attacks to disappear and confuse its enemies.<HR>#100
+vulpix|37	A fox pokemon. Uses fire attacks such as flamethrower and fire spin. Its six tails make it seem immensily beutiful.<HR># 37
+wartortle|8	The evolved form of squirtle. His ears and tail are longer than squirtel´s and his mouth is larger. Squirtle and wartortle´s attacks come from their mouths.<HR># 8
+weedle|13	Like Caterpie, he is also in the shape of a caterpillar. Most insect pokemon use the same attacks. Weedle uses his spiked body to leap onot enemies and give them a sharp pain.<HR># 13
+Weepinbell|70	The evolved form of bellsrprout. Weepinbell is a banana with leaves and uses the same attacks as bellsprout.<HR># 70
+wigglytuff	The evolution of jiggly puff. No further information availible.<HR># 40
+Zubat|41	A bat pokemon. Uses poison attacks and flying attacks such as: sonic scream and surround.<HR># 41

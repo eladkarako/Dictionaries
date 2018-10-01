@@ -1,0 +1,35 @@
+##name	Menopause Glossary
+##sourceLang	English
+##targetLang	English
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	National Institutes of Health
+##copyright	<a href='http://www.nih.gov/health/chip/nia/menop/men5.htm#glos'>National Institutes of Health</a>
+##description	Glossary of trems related to menopause.
+##bgl_creationTime	2000/06/19, 11:30
+##bgl_middleUpdated	2000/06/27, 06:35
+angina	a disease marked by brief attacks of chest pain
+biopsy	removal and examination of living cells from the body <BR>
+cardiovascular disease (CVD)|cardiovascular-disease|cvd	disorders of the heart and circulatory system<BR>
+endometrium	the tissues lining the uterus
+ERT	estrogen replacement therapy; the use of estrogen alone for the treatment of menopausal symptoms and the prevention of some long-term effects of menopause.
+estrogen	one of the female sex hormones produced primarily bythe ovaries before menopause and by fat and other tissues after menopause.
+HDL	high density lipoprotein cholesterol, the &quotgood" cholesterol thought to have a cleansing effect in the bloodstream
+HRT	hormone replacement therapy; the use of estrogen combined with progestin for the treatment of menopausal symptoms and the prevention of some long-term effects of menopause.
+hysterectomy	surgical removal of the uterus
+IUD	intrauterine birth control device, which prevents implantation of an embryo into the uterus should fertilization occur
+LDL	low density lipoprotein cholesterol, the &quotbad&quotcholesterol believed to be linked to fat accumulation in the arteries
+Menopause	the point when menstruation stops permanently <BR>
+oral contraceptives	pills which usually consist of synthetic estrogen and progesterone that are taken for three weeks after the last day of a menstrual period. They inhibit ovulation, thereby preventing pregnancy.
+osteoporosis	--a disease in which bones become thin, weak and are easily fractured
+perimenopause	the time around menopause, usually beginning 3 to 5 years before the final period.
+progesterone	one of the female sex hormones produced by the ovaries
+progestin	the synthetic form of progesterone
+tubal ligation	a surgical procedure in which the uterine tubes are cut and tied to prevent pregnancy
+urinary incontinence	loss of bladder control

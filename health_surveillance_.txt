@@ -1,0 +1,130 @@
+##name	health surveillance for women infants and children
+##sourceLang	English
+##targetLang	English
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	Center for Disease Control and Prevention
+##copyright	<a href='http://www.cdc.gov/nccdphp/drh/datoact/pdf/apdindx.pdf'>Center for Disease Control and Prevention</a>
+##description	Glossary of terms related to health surveillance for women infants and children
+##bgl_creationTime	2000/06/15, 15:20
+##bgl_middleUpdated	2000/06/28, 13:27
+082F1865.txt	File: 082F1865.txt
+ACOG	American College of Obstetricians and Gynecologists.
+AGI	Alan Guttmacher Institute.
+AIDS	Acquired immunodeficiency syndrome.
+antepartum fetal death	Fetal death occurring before the initiation of labor.<BR>
+Audio-CASI	Audio computer-assisted self-interviewing.
+birth cohort prevalence rate	In developmental disabilities surveillance, the prevalence of a specific disorder in a geographic area, among children of a specific age who were born in that geographic area, within a specified time interval.
+birth defect	A structural abnormality present at birth.
+birth weight-specific mortality	The number of infant deaths that occurred among live births in a specific birth weight category in a calendar year, divided by the total number of live births that occurred in that category in that year, multiplied by 1,000.
+BMDP	Birth Defects Monitoring Program.
+BMI	Body mass index, expressed as kilograms of body mass per height in meters squared (kg/m 2 ).
+CAPI	Computer-assisted personal interviewing.
+case ascertainment	Identification of cases of an exposure or health outcome in public health surveillance, usually according to a specific case definition.<BR>
+CATI	Computer-assisted telephone interviewing.
+cause-of-death	As defined by the World Health Organization, the underlying cause of death, indicated on the death certificate, and defined as a) the disease or injury which initiated the train of morbid events leading directly to death, or b) the circumstances of the accident or violence which produced the fatal injury.
+CI|confidence-interval	Confidence interval; a range of values for a vari-able of interest, constructed so that this range has a specified probability of including the true value of the variable <a href="082F1865.txt">(1) </A>.
+CNS	Central nervous system.
+cohort infant mortality rate	The number of infant deaths that occurred among live births in a calendar year, divided by the total number of live births that year, multiplied by 1,000.
+contraceptive failure rate	The average probability of having an unintended pregnancy in a year of using a specific contraceptive method.
+coverage survey	In population vaccination assessment, a survey using population-based sampling techniques to identify vaccination coverage in a specific target population.
+CSTE	Council of State and Territorial Epidemiologists.
+current mortality sample	A 10% systematic sample of death certificates filed in state vital records offices and coded by the National Center for Health Statistics.<BR>
+developmental disability	One of a group of heterogeneous conditions that 1) are attributable to mental and/or physical impairments, 2) are manifested before the person reaches 22 years of age, 3) are likely to continue indefinitely, 4) result in substantial functional limitations in three or more areas of self-care, and 5) reflect the need for specialized services.
+DTP	Diphtheria-tetanus-pertussis vaccine.
+E-codes	The current standard of coding external causes of injury for nonfatal cases, from the ICD-9-CM Supplemental Classification of External Causes of Injury and Poisoning.
+EPSDT	Early and Periodic Screening, Diagnosis, and Treatment.
+FAE	Fetal alcohol effects.
+FAS	Fetal alcohol syndrome.
+fetal death	As defined by the World Health Organization; “death prior to the complete expulsion or extraction from its mother of a product of conception, irrespective of the duration of pregnancy. The death is indicated by the fact that after such separation, the fetus does not breathe or show any other evidence of life such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles.” This definition includes stillbirths, spontaneous abortions, and miscarriages as fetal deaths.
+fetal mortality rate	The number of fetal deaths divided by the sum of the number of live births plus the number of fetal deaths in a specified time period, multiplied by 1,000.
+fetal mortality ratio	The ratio of the number of fetal deaths to live births in a specified period, multi-plied by 1,000.
+final data	Complete data from vital records (such as birth and death certificates and fetal death reports) that have been reviewed by the National Cen-ter for Health Statistics for validity and consistency; available about 2 years after the close of a data year.
+gestational weight gain	Maternal weight gain during pregnancy.<BR>
+GISP	Gonococcal Isolate Surveillance Project.
+Healthy People 2000	An extensive description of health goals for the U.S. population in the year 2000, identified by the U.S. Public Health Service.<BR>
+height-for-age	Pediatric measurement of a child’s height at a specified age, allows for the comparison of a child’s height to the reference population of the same age and sex.
+HIV	Human immunodeficiency virus.
+ICD-9	International Statistical Classification of Diseases, Injuries, and Causes of Death, 9th revision (published by the World Health Organization). This classification system is used primarily for mortality coding.
+ICD-9-CM	International Classification of Diseases, 9th revision, Clinical Modification (published by the Health Care Financing Administration, U.S. Public Health Service). This classification system is used primarily for morbidity coding.
+impaired fecundity	In the National Survey of Family Growth, the status of a woman who is either part of an infertile couple or who reports that it is physically difficult or impossible to conceive or deliver a baby or who has been told by a physician that pregnancy would pose a danger to her or the baby.
+incidence	The number of new events occurring during a specified period <a href="082F1865.txt">(1) </A>.
+infant mortality	The death of a live-born infant before its first birthday.
+infertile	The status of a married couple who is not surgically sterilized, has not used contraception, and has not become pregnant for at least 12 months.
+intentional injury	An injury arising from purposeful action, such as interpersonal or self-directed violence.
+intrapartum fetal death	Fetal death occurring after the initiation of labor and before delivery.<BR>
+IUD	Intrauterine device.
+IUGR	Intrauterine growth retardation: in epidemiologic surveillance, IUGR is most commonly defined as intrauterine fetal growth below the 10th percentile for gestational age, or gestational age of &gt37 weeks and birth weight of &lt2,500 grams.
+Kessner index	A classification of prenatal care developed by the Institute of Medicine in 1973 that adjusts the timing and quantity of prenatal care for the length of gestation to determine levels of adequate, inadequate, and intermediate prenatal care. David Kessner was the first author of the Institute of Medicine report.
+LBW|low-birth-weight	Low birth weight; birth weight &lt2,500 g.
+lead poisoning case	In CDC surveillance, a lead poisoning case is defined in children by a venous sample containing 10 micrograms or more per deciliter of serum lead or two capillary samples taken within 12 weeks of each other, both containing this level.
+legal induced abortion	An abortion conducted by a licensed health provider under conditions consistent with the legal requirements of the state.
+LMP	Last menstrual period.
+MACDP	Metropolitan Atlanta Congenital Defects Monitoring Program.
+MADDSP	Metropolitan Atlanta Developmental Disabilities Surveillance Program.
+mistimed pregnancy	According to questions included in the National Survey of Family Growth, a pregnancy that was intended but occurred sooner than the mother would have liked.
+MLBW|moderately-low-birth-weight	Moderately low birth weight; birth weight &gt1,500 grams and &lt2,500 g.<BR>
+MMWR	Morbidity and Mortality Weekly Report.
+NAS	National Academy of Sciences.
+NBMRS	National Bacterial Meningitis Reporting System.
+NEISS	National Electronic Injury Surveillance System.
+neonatal death	Death of a live-born infant from birth to <28 days of life.
+net pregnancy weight gain	Total weight gain of the mother during pregnancy after the birth weight of the infant is subtracted.
+NETSS	National Electronic Telecommunications System for Surveillance.
+NHANES (I¸II¸III)|nhanes|nhanes-i|nhanes-ii|nhanes-iii	National Health and Nutrition Examination Surveys.
+NHDS	National Hospital Discharge Survey.
+NHIS	National Health Interview Survey.
+NLSY	National Longitudinal Survey of Youth.
+NMIHS	National Maternal and Infant Health Survey.
+NNDSS	National Notifiable Diseases Surveillance System.
+NNS	National Natality Survey.
+NSFG	National Survey of Family Growth.
+NTD	Neural tube defect.
+nulligravida	A woman who has never been pregnant.
+OCs	Oral contraceptives.
+PedNSS	Pediatric Nutrition Surveillance System.
+periconceptional	Occurring around the time of conception.
+period infant mortality rates	The number of infant deaths occurring in a calendar year per the number of live births occurring during the same period, multiplied by 1,000.
+PID	Pelvic inflammatory disease.
+PNSS	Pregnancy Nutrition Surveillance System.
+point prevalence rate	In developmental disabilities surveillance, the prevalence of a specific disorder among all children of a specific age in a geographic area, regardless of where the children were born.
+postneonatal death	Death of a live-born infant after 28 days of life and before its first birthday.
+PRAMS	Pregnancy Risk Assessment Monitoring System.<BR>
+pregnancy-associated mortality	The death of a woman from any cause while pregnant or within one calendar year of termination of pregnancy, regardless of the duration and site of pregnancy. <BR>
+pregnancy mortality rate	The number of pregnancy-related deaths per 100,000 pregnancies.
+pregnancy mortality ratio	The number of pregnancy-related deaths per 100,000 live births.<BR>
+pregnancy-related mortality	A pregnancy-associated death resulting from 1) complications of the pregnancy itself; 2) the chain of events initiated by the pregnancy that led to death; or 3) aggravation of an unrelated condition by the physiologic or pharmacologic effects of the pregnancy that subsequently caused death.
+preterm delivery	Termination of pregnancy before the 37th completed week of gestation.
+prevalence	The number of cases of a condition in a specified population at a designated time <a href="082F1865.txt">(1) </A>.
+primary infertility	The status of a infertile couple who has not previously conceived.
+provisional data	Limited, early data from filed death certificates; provisional data on infant mortality are provided by the National Center for Health Statistics 3-4 months after the death certificates are filed in the states and include estimates of the number of infant deaths and selected causes of death.
+rate ratio	The ratio of two rates, expressed in epidemiology as the ratio of the rate of a health outcome in an exposed population to the rate in the unexposed population <a href="082F1865.txt">(1) </A>.
+RDS	Respiratory distress syndrome.
+registry	A system of ongoing registration of cases of a specific disease or health-relevant condition in a defined population <a href="082F1865.txt">(1) </A>.
+relative risk	The ratio of the risk of disease in the exposed population to the risk in an unexposed population (see rate ratio).
+RR	Relative risk or relative ratio.
+secondary infertility	The status of an infertile couple who has had one or more previous conceptions.
+seroprevalence	The prevalence of HIV in anonymous surveys of blood serum from selected populations such as child-bearing women, patients of sentinel hospitals, and clients of clinics treating sexually transmitted diseases, tuberculosis, and substance abuse.
+SES	Socioeconomic status.
+SIDS	Sudden infant death syndrome.
+spontaneous abortion	Spontaneous death prior to the complete expulsion or extraction from its mother of a product of conception. In some surveillance systems, this term indicates such deaths at gestational age less than 20 weeks.
+STD	Sexually transmitted diseases.
+STELLAR	System for Tracking Elevated Lead Levels and Remediation (a software program).
+stillbirth	Death prior to the complete expulsion or extraction from its mother of a product of conception. In some surveillance systems, this term indicates such deaths at gestational age of 20 weeks or more.
+teratogen	An exposure that causes birth defects.
+TSS	Toxic shock syndrome.
+unintended pregnancy	According to questions included in the National Survey of Family Growth, a pregnancy identified as either unwanted or mistimed.
+unintentional injury	Injury arising from unintentional events.
+unwanted pregnancy	According to questions included in the National Survey of Family Growth, a pregnancy occurring when the mother reported that she did not want a child at the time of conception or any time in the future.
+VBAC	Vaginal birth after cesarean section.
+VLBW|very-low-birth-weight	Very low birth weight; birth weight &lt1,500 g.<BR>
+weight-for-height	Pediatric measurement of weight for height, adjusts a child’s weight relative to his or her height and thus is a measurement of body mass.
+WHO	World Health Organization.
+WIC	Special Supplemental Food Program for Women, Infants, and Children.
+YRBSS	Youth Risk Behavior Surveillance System.

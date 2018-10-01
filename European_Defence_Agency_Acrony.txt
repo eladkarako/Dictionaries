@@ -1,0 +1,747 @@
+##name	European Defence Agency Acronyms
+##sourceLang	English
+##targetLang	English
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##author	European Defence Agency 
+##copyright	� 2005-2008  <a href="http://www.eda.europa.eu/Default.aspx">European Defence Agency</a>. ( <a href="bword://About the European Defence Agency Acronyms">About</a> )
+##description	The List of EDA acronyms (as of 21st September 2007) contains the most relevant acronyms from the field of Europe's defence policy. <p>The European Defence Agency (EPA)was established under a <i>Joint Action of the Council of Ministers on 12 July, 2004</i>, "to support the Member States and the Council in their effort to improve European defence capabilities in the field of crisis management and to sustain the <i>European Security and Defence Policy</i> as it stands now and develops in the future�.</p>
+##browsingEnabled	
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_creationTime	2008/03/24, 05:38
+##bgl_middleUpdated	2008/03/24, 05:51
+##bgl_lastUpdated	2008/03/24, 05:51
+21st CSS	21st Century Soldier System<br>
+3MAV	Materials & Mechanisms for Micro Aerial Vehicle Platform<br>
+3yFF	3-year Financial Framework <br>
+A/C	Aircraft<br>
+AA	Administrative Arrangement<br>
+AAR	Air-to-Air-Refuelling<br>
+AAW	Anti-Air Warfare<br>
+ACC	Air Component Command (or Commander)<br>
+ACN	Airborne Communication Nodes <br>
+ACOS	Assistant Chief of Staff<br>
+ACT	Allied Command Transformation <br>
+AD	Air Defence<br>
+ADAMS	Allied Deployment and Movement System<br>
+ADR	Accord Européen relatif au Transport International des Marchandises Dangereuses par Route<br>
+ADT	Air Data Terminal <br>
+AEJPT	Advanced European Jet Pilot Training<br>
+AESA	Agence Européenne de la Sécurité Aérienne (also see the english acronym EASF)<br>
+AET	Agency Establishment Team <br>
+AEW	Airborne Early Warning <br>
+AFV	Armoured Fighting Vehicle <br>
+AGARD	Advisory Group for Aerospace Research & Development <br>
+AGS	Air to Ground Surveillance or Alliance Ground Surveillance<br>
+AHP	Ad Hoc Project <br>
+AHPG	Ad Hoc Project Group<br>
+AI	Air Interdiction<br>
+AIFV	Armoured Infantry Fighting Vehicle<br>
+ALASM	Air Launched Anti-Ship Missile<br>
+ALOA	Advanced Low Observable Materials<br>
+AMB	Agency Management Board <br>
+AMC	Airborne Mission Co-ordinator <br>
+AMD	Air Missile Defence <br>
+AMSCC	Athens Multinational Sealift Co-ordination Centre and Reconnaissance <br>
+AOB	Any Other Business <br>
+AOO	Area of Operation <br>
+AOR	Area of Responsibility <br>
+APC	Armoured Personnel Carrier <br>
+APOD	Airport of Disembarkation <br>
+APOE	Airport of Embarkation <br>
+ARAMIS	Architecture for Advanced Modulation<br>
+ARM	Armaments (Directorate in EDA)<br>
+ARMS	Autonomous Remote Multisensor System<br>
+AS	Armoured Systems<br>
+ASAP	As soon as possible<br>
+ASD	Aerospace and Defence Industries Association of Europe <br>
+ASRM	Advanced Solid Rocket Propulsion<br>
+ASW	Anti-submarine Warfare<br>
+AT	Austria (Participating Member State)<br>
+ATC	Air Traffic Control <br>
+ATOLS	Automatic Take-off and Landing System<br>
+AV	Air Vehicle<br>
+AWACS	Airborne Warning and Control System<br>
+About the European Defence Agency Acronyms	The List of EDA acronyms (as of 21st September 2007) contains the most relevant acronyms from the field of Europe's defence policy. <p>The European Defence Agency (EPA)was established under a <i>Joint Action of the Council of Ministers on 12 July, 2004</i>, "to support the Member States and the Council in their effort to improve European defence capabilities in the field of crisis management and to sustain the <i>European Security and Defence Policy</i> as it stands now and develops in the future”.</p><br>
+Amph	Amphibious<br>
+BAM	Bundesanstalt für Materialprüfung<br>
+BAMS	Broad Area Maritime Surveillance<br>
+BE	Belgium (Participating Member State)<br>
+BG	Battlegroup<br>
+BG	Bulgaria (Participating Member State)<br>
+BGCC	Battlegroup Co-ordination Conference <br>
+BICES	Battlefield Intelligence Collection and Exploitation System<br>
+BLOS	Beyond Line of Sight<br>
+BMP	Business Management Plan <br>
+BRM	Burning Rate Modifier <br>
+BWA	Biological Weapon Agents <br>
+BoD	Board of Directors <br>
+C2	Command & Control <br>
+C3	Command, Control and Communication<br>
+C3	Consultation, Command and Control (in NATO context) <br>
+C3I	Command, Control, Communication and Intelligence<br>
+C3ISR	Command, Control, Communication, Intelligence, Surveillance and Reconnaissance <br>
+C4I2	Command, Control, Communications, Computers, Intelligence and Information<br>
+C4ISR	Command, Control, Communications, Computing, Intelligence, Surveillance and Reconnaissance<br>
+CAG	Conseil Affaires Générales<br>
+CAGRE	Conseil Affaires Générales et Relations Extérieures (also see the English acronym GAERC)<br>
+CAN	Contract Award Notices <br>
+CANx	Contracts Awarded without competition<br>
+CAOC	Combined Air Operations Centre<br>
+CAP	Capabilities (Directorate in EDA)<br>
+CAS	Close Air Support <br>
+CASEVAC	Casualty Evacuation<br>
+CATF	Commander Amphibious Task Force<br>
+CBRE	Chemical, Biological, Radiation and Explosives Protection & Detection<br>
+CBRN	Chemical, Biological, Radiological and Nuclear<br>
+CC	Component Command<br>
+CCD	Coherent Change Detection <br>
+CCDP	Comprehensive Capability Development Process<br>
+CCM	Celule Civilo-Militaire (also see the English acronym Civ/Mil Cell)<br>
+CCN	Contracts Change Notice <br>
+CCS	Command and Control Station<br>
+CDE	Concept, Development & Experimentation<br>
+CDM	Capability Development Mechanism <br>
+CDP	Capability Development Plan <br>
+CDP-T	Capability Development Plan Team<br>
+CE	Chief Executive<br>
+CED	Conseil Économique de Défense (FR)<br>
+CEDS	Combat Equipment for Dismounted Soldier<br>
+CELAR	Centre de l’Electronique de l’Armement (in Rennes, France)<br>
+CEM	CapTech Expert Meeting <br>
+CEN	Comité Europeéen de Normalisation (European Committee for Standardization, Europäisches Komitee für Normung)<br>
+CENELEC	Comité Européen de Normalisation Electrotechnique (European Committee for Electrotechnical Standardisation, Europäisches Komitee<br>
+CEPA	Common European Priority Area<br>
+CER	Centre for European Reform<br>
+CEUMC	Chairman of the EU Military Committee<br>
+CEUR	Deputy Strategic Allied Commander Europe<br>
+CFA	Capability Functional Area <br>
+CFE	Conventional Forces in Europe treaty<br>
+CFSP	Common Foreign and Security Policy<br>
+CG	Capability Group<br>
+CGE	CapTech Government Expert <br>
+CGS	Council General Secretariat <br>
+CH	Switzerland<br>
+CHODs	Chiefs of Defence (Staff)<br>
+CI	Counter Intelligence<br>
+CIC	Capabilities Improvement Chart <br>
+CIMIC	Civil-Military Co-operation<br>
+CION	Commission<br>
+CIS	Communication & Information Systems<br>
+CIVCOM	Committee for Civilian Aspects of Crisis Management (EU)<br>
+CJCSARTF	Combined Joint Combat Search and Rescue Task Force<br>
+CJRCC	Combined Joint Rescue Co-ordination Centre<br>
+CJTF	Combined Joint Task Force<br>
+CLL	Collaborative Lessons Learned (on defence procurement)<br>
+CLS	Council Legal Service <br>
+CM	Crisis Management<br>
+CMC	Crisis Management Concept <br>
+CMCO	Civil-Military Co-ordination<br>
+CMD	Command<br>
+CME	Crisis Management Exercise (EU)<br>
+CMO	Crisis Management Operation <br>
+CMS	Combat Management System <br>
+CMX	Crisis Management Exercise (NATO)<br>
+CN	Contract Notice (Electronic Bulletin Board)<br>
+CNC	CapTech National Co-ordinator <br>
+COB	Close of Business <br>
+CODFISH	Critical Optical Devices for Future Integrated Sampling Architectures<br>
+COM	Communication<br>
+COMARMS	EW Common Modular Architecture for Mission Simulation <br>
+COMINT	Communications Intelligence<br>
+CONOPS	Concept of Operations <br>
+COP	Common Operational Picture <br>
+COPS	Comité Politique et de Sécurité (also see the English acronym PSC)<br>
+COREPER	Comité des Représentants Permanents (in english, Committee of the Permanent Representatives)<br>
+COREU	CORrespondance Européenne<br>
+COS	Chief of Staff <br>
+COSSE	Combined Open Source Search Engine Project<br>
+COTS	Commercial Off-the-Shelf products <br>
+CP	Conflict Prevention<br>
+CPCC	Civilian Planning & Conduct Capability<br>
+CPI	Chemical Processes Industries <br>
+CPV	Common Procurement Vocabulary <br>
+CR	Combat Recovery<br>
+CRCT	Crisis Response Co-ordination Team<br>
+CRM	Crew Resources Management <br>
+CRO	Crisis Response Operation <br>
+CROP	Common Relevant Operational Picture<br>
+CRT	Cooperative Requirements Team (LoI)<br>
+CS	Corporate Services (Directorate in EDA)<br>
+CS	Combat Support<br>
+CSAR	Combat Search and Rescue<br>
+CSP	Cryogenic Solid Propellants <br>
+CSS	Combat Service Support <br>
+CST	Common Staff Target <br>
+CSUI	Common Standardised User Interface<br>
+CT	Consignment Tracking<br>
+CTO	Chief Technology Officer <br>
+CTSS	Co-ordinated Training and Standardisation System<br>
+CV	Carrier Vessel<br>
+CY	Cyprus (Participating Member State)<br>
+CZ	Czech Republic (Participating Member State)<br>
+CapTech	Capability Technology (area) <br>
+Civ/Mil	Cell Civilian-Military Cell (EU)<br>
+CivOpCom	Civilian Operations Commander <br>
+CnGE	CapTech Non-Governmental Expert <br>
+CoBPSC	Code of Best Practice in the Supply Chain<br>
+CoC	Code of Conduct on Defence Procurement<br>
+CoC	Committee of Contributors (to an EU-led operation) <br>
+D&D	Design and Development <br>
+DARPA	(US) Defence Advanced Research Projects Agency<br>
+DB	Database<br>
+DCE	Deputy Chief Executive <br>
+DDR	Disarmament, Demobilization, Reintegration <br>
+DE	Germany (Participating Member State)<br>
+DESIRE	Demonstration & Evaluation of System in Package (SIP) Realisation<br>
+DFP	Direct Firing Platform <br>
+DG	Directorate General or Director General<br>
+DGAP	Deutsche Gesellschaft für Auswärtige Politik<br>
+DGE	Directorate General for External and Politico-Military Affairs (in EU Council General Secretariat)<br>
+DGEUMS	Director General of the EU Military Staff <br>
+DIM	Detection, Identification, Monitoring <br>
+DIME	Diplomatic, Informational, Military, and Economic (activities)<br>
+DIO	Director of Intelligence Operations<br>
+DIO	Defence Intelligence Organisations <br>
+DK	Denmark<br>
+DLRC	Detailed List of Required Capabilities<br>
+DOE	Design of Experiments <br>
+DPQ	Defence Planning Questionnaire (NATO)<br>
+DRG	Defence Research Group <br>
+DSA	Designated Security Authority <br>
+DSAR	Deployed Search and Rescue<br>
+DTEB	Defence Test and Evaluation Base<br>
+DTIB	Defence Technological and Industrial Base<br>
+DUMAS	Technology Demonstration of a Dual Mode Seeker System<br>
+DiEn	Directed Energy<br>
+DoS	Day of Supply <br>
+EADS	European Aeronautic, Defence and Space company<br>
+EAG	European Air Group <br>
+EASF	European Aviation Safety Agency (also see the french acronym AESA)<br>
+EBB	Electronic Bulletin Board <br>
+EBM	End Burning Motor <br>
+EBO	Effects-Based Operations<br>
+EC	European Communities<br>
+ECAP	European Capability Action Plan<br>
+ECAP PGs	European Capability Action Plan Project Groups<br>
+ECCC	EAG (European Air Group) CSAR Co-ordination Cell<br>
+ECM	Electronic Countermeasures<br>
+EDA	European Defence Agency <br>
+EDEM	European Defence Equipment Market<br>
+EDGE	Enhanced Data rate for GSM Environment (or Evolution)<br>
+EDRT	European Defence Research and Tecnhology<br>
+EDSIS	European Defence Standards Information System<br>
+EDTIB	European Defence Technological and Industrial Base<br>
+EE	Estonia (Participating Member State)<br>
+EEELV	Expendable (1st, 2nd & 3rd Stage) Launch Vehicle<br>
+EHDP	European Handbook for Defence Procurement<br>
+EIDS	Extremely Insensitive Detonating Substance<br>
+EL	Greece (Hellenic Republic)  (Participating Member State)<br>
+ELINT	Electronic signals of non-communicational nature<br>
+ELINT	Electronic Intelligence or Electromagnetic Intelligence<br>
+ELV	Expendable Launch Vehicle <br>
+EMP	Electronic Market Place <br>
+EMSA	European Maritime Surveillance Agency<br>
+EMU	Environmental Measuring Unit <br>
+ENP	European Neighbourhood Policy <br>
+ENPI	European Neighbourhood and Partnership Instrument<br>
+EO	Earth Observation<br>
+EO	Electro-Optical<br>
+EO	Evacuation Operation (in a Nonpermissive Environment)<br>
+EOB	Electronic Order of Battle<br>
+EOD	Explosive Ordnance Disposal <br>
+EP	European Parliament<br>
+EPA	Evasion Plan of Action<br>
+ERA	Explosive Reactive Armours <br>
+ERS	Equipment Replacement Schedule <br>
+ES	Spain (Participating Member State)<br>
+ESA	European Space Agency <br>
+ESD	Electro Static Discharge <br>
+ESDC	European Security and Defence College<br>
+ESDI	European Security and Defence Identity<br>
+ESDP	European Security and Defence Policy<br>
+ESM	Electronic Support Measures <br>
+ESM	Environment, Systems & Modelling<br>
+ESRAB	European Security Research Advisory Board<br>
+ESRIF	European Security Research and Innovation Forum<br>
+ESRP	European Security Research Programme<br>
+ESS	European Security Strategy <br>
+ESSOR	European Secure Software Radio<br>
+ESTEC	European Space Research & Technology Centre<br>
+ETAP	European Technology Acquisition Programme<br>
+ETARE	Enabling Technology for Advanced Radio in Europe <br>
+ETSI	European Telecommunications Standards Institute<br>
+EU	European Union<br>
+EUCI	European Union Classified Information<br>
+EUFOR	European Union Force <br>
+EUISS	EU Institute for Security Studies<br>
+EUMC	European Union Military Committee<br>
+EUMS	European Union Military Staff<br>
+EUPCY	Presidency of the Council of the EU <br>
+EW	Electronic Warfare<br>
+EW	Early Warning<br>
+EWRM	Enterprise Wide Risk Management<br>
+EoI	Expression of Interest <br>
+FA	Framework Agreement<br>
+FC	Force Catalogue<br>
+FCA	Future Combat Air System<br>
+FCdr	Force Commander<br>
+FEG	Financial Experts Group (EDA)<br>
+FESS	Future European Soldier System<br>
+FFM	Fact Finding Mission <br>
+FFT	‘Food for Thought’ Paper<br>
+FHQ	Force Headquarters<br>
+FI	Finland (Participating Member State)<br>
+FIEMS	Functional Integration of electro-magnetic sensors<br>
+FIT	Force Integration Training <br>
+FMC	Future Maritime Combat <br>
+FMV	Swedish Defence Materiel Administration (Försvarets Materielverk) [Procurement Agency for the Swedish Armed Forces]<br>
+FN	Framework Nation<br>
+FP	Framework Programme<br>
+FPU	Floating Point Unit <br>
+FR	Financial Rules (EDA) <br>
+FR	France (Participating Member State)<br>
+FRONTEX	European Agency for the Management of Operational Cooperation at the External Borders of the Member States<br>
+FSC	Facility Security Clearance <br>
+FTIR	Fourier Transform Infrared Spectroscopy<br>
+G2G	Government to Government <br>
+GAD	Global Approach to Deployability<br>
+GAERC	General Affairs & External Relations Council (also see the french acronym CAGRE)<br>
+GBAD	Ground Based Air Defence<br>
+GC	General Conditions (Applicable to Ad Hoc R&T Projects and Programmes of the EDA)<br>
+GC	Government Contracts (Electronic Bulletin Board)<br>
+GC-MS	Gas Chromatography - Mass Spectrometry<br>
+GDP	Gross Domestic Product <br>
+GDT	Ground Data Terminal <br>
+GEM	Graphite Epoxy Motor <br>
+GEM	Guidance, Energy & Materials<br>
+GMES	Global Monitoring for Environment and Security<br>
+GMTI	Ground Moving Target Indicator<br>
+GN&C	Guidance, Navigation and Control<br>
+GNP	Gross National Product <br>
+GPRS	General Packet Radio Service<br>
+GPS	Global Positioning System <br>
+GRD	Group of Research Directors<br>
+GSC	General Secretariat of the Council (of the EU)<br>
+GSM	Global System for Mobile Communications<br>
+GSTP	General Support & Technology Programme<br>
+HA	Humanitarian Assistance<br>
+HALE UAV	High Altitude Long Endurance Unmanned Aerial Vehicle<br>
+HC	Solid Hydrocarbon Fuel <br>
+HEDM	High Energy Density Matter (or Material)<br>
+HG 2010	Headline Goal 2010<br>
+HGQ	Headline Goal Questionnaire <br>
+HLG	High-Level Group<br>
+HLG 2003	Headline Goal 2003<br>
+HMR	Harmonisation of Military Requirements<br>
+HNS	Host Nation Support <br>
+HPL	High Power Laser <br>
+HPM	High Power Microwave <br>
+HQ	Headquarters<br>
+HR	High Representative<br>
+HR	Croatia<br>
+HTF	Headline Goal Task Force<br>
+HU	Hungary (Participating Member State)<br>
+HUMINT	Human Intelligence<br>
+HW	Hardware<br>
+Helo	Helicopter<br>
+HoA	Head of the Agency (Head of EDA) <br>
+HoM	Head of Mission <br>
+I&M	Industry and Market (Directorate in EDA)<br>
+IAEA	International Atomic Energy Agency<br>
+IAI	Istituto Affari Internazionali <br>
+IAP	Information, Acquisition & Processing<br>
+IC	Industry Contracts (Electronic Bulletin Board)<br>
+ICAO	International Civil Aviation Organisation Conventions<br>
+ICET	Innovative Concepts and Emerging Technologies<br>
+ICT	Information and Communication Technology<br>
+IDEALS	Integrated Detection & Estimation Algorithms Solutions (for data processing & fusion)<br>
+IDT	Integrated Development Team <br>
+IE	Ireland (Participating Member State)<br>
+IED	Improvised Explosive Devices <br>
+IEDD	Improvised Explosive Device Disposal<br>
+IERs	Information Exchange Requirements <br>
+IFVs	Infantry Fighting Vehicles <br>
+IM	Insensitive Munitions<br>
+IMD	Initiating Military Directive <br>
+IMINT	Imagery Intelligence<br>
+IMINT	Strategic Image Intelligence and Surveillance<br>
+INFOSEC	Information Security<br>
+INT	Fraunhofer Institut für Naturwissenschaftlich-Technische Trendanalysen<br>
+INT	Intelligence<br>
+INTEL	Intelligence<br>
+IOC	Initial Operating Capability <br>
+IP	Information Processing<br>
+IPR	Intellectual Property Rights <br>
+IPS	Integrated Power System <br>
+IPT	Integrated Project Team <br>
+IPv6	Internet Protocol version 6<br>
+IR	Infra-Red<br>
+IRBM	Intermediate-range Ballistic Missile <br>
+IRIS	Institut de Relations Internationales et Stratégiques<br>
+ISAF	International Security Assistance Force (NATO-led force in Afghanistan)<br>
+ISMS	Information Security Management System<br>
+ISOPREP	Isolated Personnel Reports <br>
+ISR	Intelligence, Surveillance and Reconnaissance<br>
+ISS	(EU) Institute for Security Studies<br>
+ISS	In-service Support<br>
+IST	Indicators and Strategic Targets<br>
+ISTAR	Intelligence, Surveillance, Target Acquisition and Reconnaissance<br>
+IT	Information Technology<br>
+IT	Italy (Participating Member State)<br>
+ITAR	(US) International Traffic in Arms Regulations<br>
+IUME	Intelligence Understanding of Mission Environment<br>
+Info	Ops Information Operations <br>
+JA	Joint Action<br>
+JIP-FP	Joint Investment Programme on Force Protection<br>
+JOA	Joint Operation Area <br>
+JRC	Joint Research Centre (in Ispra, Italy)<br>
+JSF	Joint Strike Fighter <br>
+JTRS	Joint Tactical Radio System<br>
+Joint SITCEN	(EU) Joint Situation Centre<br>
+KBD	Knowledge Base Development <br>
+KUR	Key User Requirements <br>
+LAC	Lab On a Chip<br>
+LARA	Layered Architecture for Real-Time Applications<br>
+LCC	Land Component Command <br>
+LCC	Life Cycle Cost <br>
+LD	Laser Designated<br>
+LE UAV	Long Endurance Unmanned Aerial Vehicle<br>
+LI	Lessons Identified<br>
+LIE	Lead Industrial Entity <br>
+LL	Lessons Learned<br>
+LLW	Less Lethal Weapons <br>
+LN	Lead Nation<br>
+LO	Low Observable (materials) <br>
+LOG	Logistics<br>
+LOS	Line of Sight <br>
+LPD	Landing Platform Dock <br>
+LT	Lithuania (Participating Member State)<br>
+LTAV	Light Tactical Armoured Vehicle<br>
+LTV	Long-Term Vision<br>
+LU	Luxemburg (Participating Member State)<br>
+LV	Latvia (Participating Member State)<br>
+LoI/FA	Letter of Intent/Framework Agreement<br>
+LoJ	Loss of Job <br>
+M&C	Media and Communication (Unit in EDA)<br>
+MAC	Maximal Allowed Concentration <br>
+MAGE	Moteur pour les Applications Geostationnaires Europe?nnes<br>
+MALE	Medium Altitude Long Endurance<br>
+MANPADS	Man-portable Air Defence Systems<br>
+MAOC	Maritime Air Operations Centre<br>
+MARSUR	Maritime Surveillance<br>
+MASCAL	Mass Casualty<br>
+MASINT	Measurement and Signatures Intelligence<br>
+MATED	Model and Test Effectiveness Database<br>
+MAV	Miniature Aerial Vehicle <br>
+MC	Management Committee (Joint Investment Programme on Force Protection)<br>
+MCB	Mini Closed Bomb <br>
+MCC	Maritime Component Command or Mission Control Centre <br>
+MCCE	Movement Co-ordination Centre Europe<br>
+MCM (V)	Mine Countermeasures (Vessel)<br>
+MEDCC	Medical Co-ordination Cell <br>
+MEDEVAC	Medical Evacuation<br>
+MEMS	Micro Electro-Mechanical Systems <br>
+MEMS for MEMS	Micro Electro-Mechanical Systems for MicrowavE Military Systems<br>
+MEP	Member of the European Parliament<br>
+MG	Management Group<br>
+MIDCAS	MIDair Collision Avoidance System<br>
+MILEX	Military Exercise (EU) <br>
+MILREPs	Military Representatives<br>
+MIPS	Mathematical Instructions Per Second<br>
+MIRACLE	Micro-satellite cluster technology <br>
+MISREP	Mission Report<br>
+MJLC	Multinational Joint Logistics Centre<br>
+MLU	Mid-life Upgrade (update) <br>
+MMI	Man-Machine Interface<br>
+MOD	Minister (or Ministry) of Defence<br>
+MORSE	Multifunctional Optical Reconfigurable Scalable Equipment<br>
+MOTS	Military Off-the-Shelf products <br>
+MRT	Multi-Radar Tracking<br>
+MS	Member States<br>
+MSHT	Material Standardization Harmonization Team<br>
+MSMRAV	Medium Sized Multi Role Armoured Vehicle<br>
+MSO	Military Strategic Option <br>
+MSOD	Military Strategic Option Directive<br>
+MST	Micro Systems Technologies or Multi-Sensor Tracking System <br>
+MT	Malta (Participating Member State)<br>
+MTI	Moving Target Indicator <br>
+MTUAS	Maritime Tactical Unmanned Aerial System<br>
+MW	Microwaves<br>
+MoU	Memorandum of Understanding <br>
+NAC	North Atlantic Council <br>
+NAD	National Armament Director <br>
+NAEW	NATO Airborne Early Warning<br>
+NAF	NATO Architecture Framework <br>
+NAMSA	NATO Maintenance and Supply Agency<br>
+NAR	North American Rockwell (Rocketdyne Division)<br>
+NATAB	Network for Authoritative Advice in Biometrics<br>
+NATO	North Atlantic Treaty Organisation<br>
+NATO ASG	NATO Assistant Secretary General<br>
+NATO SG	NATO Secretary General<br>
+NBC	Nuclear, Biological, Chemical <br>
+NC3A	NATO Consultation, Command and Control Agency<br>
+NC3B	NATO C3 Board <br>
+NCO	Non Commissioned Officer <br>
+NCOIC	Network Centric Operations Industry Consortium<br>
+NCW	Network Centric Warfare <br>
+NDI	Non-Destructive Inspection<br>
+NE-AFV	Network-Enabled Armoured Fighting Vehicle<br>
+NEC	Network Enabled Capability <br>
+NEMP	Nuclear Electromagnetic Pulse <br>
+NHQC3S	NATO Headquarters C3 Staff<br>
+NIC	National Intelligence Cell <br>
+NII	Networking and Information Infrastructure<br>
+NIVR	Netherlands Agency for Aerospace Programmes (Nederlands Instituut voor Vliegtuigontwikkeling en Ruimtevaart)<br>
+NL	Netherlands (Participating Member State)<br>
+NM-RS	Networked Multi-Robot Systems <br>
+NMR	National Military Representative <br>
+NMR	Nuclear Magnetic Resonance <br>
+NNEC	NATO NEC (Network Enabled Capability)<br>
+NO	Norway<br>
+NPC	Note for PrepCom <br>
+NRF	NATO Response Force <br>
+NSA	National Security Authority <br>
+NSA	NATO Standardisation Agency <br>
+NSAR	National Search and Rescue<br>
+NSB	Note for Steering Board<br>
+NoLe	Non Lethal<br>
+OA	Operational Altitude<br>
+OA	Operational Analysis<br>
+OB	Operational Budget<br>
+OC	Operational Concept<br>
+OCCAR	Organisme Conjoint de Coopération en matière d’Armement<br>
+OD	Outline Description<br>
+OECD	Organisation for Economic Co-operation and Development<br>
+OHQ	Operation Headquarters<br>
+OJ	Official Journal<br>
+OPLAN	Operation Plan<br>
+OPS	Operations<br>
+OPS	WAN Operational Wide Area Network<br>
+OPSEC	Operational Security<br>
+OSA	Open System Architecture <br>
+OSC	On Scene Commander <br>
+OSEMINTI	Operational Semantic Intelligence Infrastructure<br>
+OSINT	Open Source Intelligence <br>
+OpCdr	Operation Commander<br>
+OpCen	Operation Centre<br>
+OpIntel	Operational Intelligence<br>
+P&I	Projects and Initiatives <br>
+PA	Personal Assistant<br>
+PA	Project Arrangement<br>
+PAM	Payload Assist Module <br>
+PAMG	Project Arrangement Management Group<br>
+PARP	Planning and Review Process<br>
+PARS	Preparatory Action for Security Research [Preparatory Action on the enhancement of the European industrial potential in the field of Security Research]<br>
+PC	Progress Catalogue<br>
+PCC	Prague Capability Commitments (NATO)<br>
+PCIP	PrepCom Information Paper <br>
+PCR	Polymerase Chain Reaction <br>
+PECC	Patient Evacuation and Co-ordination Cell<br>
+PG	Project Group<br>
+PGM	Precision Guided Munitions <br>
+PIETRA	Power Conversion of Piezoelectric Transformer for Space and Military embedded Equipment<br>
+PIN	Prior Information Notice (Electronic Bulletin Board)<br>
+PL	Poland (Participating Member State)<br>
+PMG	Project Management Group (EDA) or Political-Military Group (EU Council)<br>
+POC	Point of Contact <br>
+POD	Port of Disembarkation <br>
+POE	Port of Embarkation <br>
+PPU	Planning and Policy Unit (in EDA)<br>
+PR	Personnel Recovery<br>
+PR	Procurement Rules (EDA) <br>
+PSC	Political and Security Committee (also see the french acronym COPS)<br>
+PSC	Personnel Security Clearance <br>
+PSI	Project Security Instruction <br>
+PSYOPS	Psychological Operations<br>
+PT	Project Team<br>
+PT	Portugal (Participating Member State)<br>
+PermRep	Permanent Representation or Permanent Representative<br>
+PrO	Project Officer<br>
+PrepCom	Preparatory Committee<br>
+Procurement	Agency for the Swedish Armed Forces)<br>
+Q&A	Questions and Answers <br>
+QA	Quality Assurance<br>
+QMV	Qualified Majority Voting <br>
+R&D	Research and Development <br>
+R&T	Research and Technology <br>
+RAO	Request for Assessment and Offer<br>
+RAP	Recognised Air Picture <br>
+RAPTORS	Radar Absorbing Paints to Reduce Radar Signature of Aircraft<br>
+RBC	Radio, Biological & Chemical<br>
+RC	Requirements Catalogue<br>
+RCC	Rescue Co-ordination Centre <br>
+RCS	Radar Cross Section <br>
+RECOPS	Re-configuring Programmable Devices for Military Hardware Electronics <br>
+RELEX	Commission Directorate-General External Relations<br>
+RELEX	Relations Extérieures (Council Working Party: Conseillers Relations Extérieures)<br>
+RENATA	Research on Nano-Tube Technology Application<br>
+RESCAP	Rescue Combat Air Patrol<br>
+RESCORT	Rescue Escort<br>
+RF	Radio Frequency<br>
+RFI	Request fof Information <br>
+RFID	Radio Frequency Identification <br>
+RIMU	Redundant Inertial Measurement Unit<br>
+RLP	Recognised Land Picture <br>
+RMC	Rescue Mission Commander <br>
+RMP	Recognised Maritime Picture <br>
+RO	Romania (Participating Member State)<br>
+ROE	Rules of Engagement <br>
+RRF	Rapid Reaction Force <br>
+RSRM	Redesigned Solid Rocket Motor<br>
+RSTA	Reconnaissance, Surveillance & Target Acquisition<br>
+RT	Room Temperature<br>
+RTA	Research & Technology Agency (NATO)<br>
+RTB	Research & Technology Board<br>
+RTC	Research & Technology Committee (WEAO)<br>
+RTMC	Research & Technology Management Committee<br>
+Recce	Reconnaissance<br>
+RfP	Request for Proposal <br>
+Ro-Ro	Roll-on Roll-off<br>
+S&T	Science and Technology <br>
+S/C	Spacecraft<br>
+SAC	Strategic Airlift Capability <br>
+SACEUR	Supreme Allied Commander Europe (NATO)<br>
+SAL	Security Aspects Letter <br>
+SALIS	Strategic Airlift Interim Solution<br>
+SALW	Small Arms and Light Weapons<br>
+SAM-UGV	Semi-Autonomous Small Ground Vehicle System Demonstrator<br>
+SAR	Search and Rescue or Synthetic Aperture Radar <br>
+SAS	Security Aspect Letter <br>
+SATCEN	EU Satellite Centre <br>
+SATCOM	Satellite Communications<br>
+SB	Steering Board<br>
+SB-CAP	Steering Board in Capabilities Formation<br>
+SB-MOD	Steering Board in Ministers of Defence Formation <br>
+SB-NAD	Steering Board in National Armaments Directors Formation <br>
+SB-R&T	Steering Board in Research & Technology Directors Formation<br>
+SBAT	Simulated Bulk Autoignition Test<br>
+SBD	Steering Board Decision <br>
+SBDD	Steering Board Draft Decision<br>
+SBIP	Steering Board Information Paper<br>
+SCA	Software Communications Architecture <br>
+SCA	Survival and Contact Area<br>
+SCC	Sealift Co-ordination Centre (in Athens)<br>
+SCE	Support to the Civil Environment<br>
+SCG	Security Classification Guide <br>
+SCIS	Soldier Centric Identification System<br>
+SCN	Sub-Contract Notices<br>
+SDR	Software-Defined Radio<br>
+SDRF	Software-Defined Radio Forum <br>
+SE	Sweden (Participating Member State)<br>
+SE	Synthetic Environments<br>
+SEAD	Suppression of Enemy Air Defence<br>
+SERE	Survival, Evasion, Recovery and Extraction<br>
+SG	Secretary-General<br>
+SG	Sub-Group<br>
+SG/HR	Secretary General/High Representative <br>
+SGMoU	Sub Group Memorandum of Understanding<br>
+SGT	Satellite Ground Terminals <br>
+SGTF	Sub Group Test Facilities<br>
+SHAPE	Supreme Headquarters Allied Powers Europe<br>
+SHEP	Super High Energy Propellants<br>
+SI	Slovenia (Participating Member State)<br>
+SIGINT	Signal Intelligence<br>
+SIMPLE	Scalable Multi-Function Radar Programme Implementation<br>
+SIO	Security Information Officer <br>
+SIP	System in Package <br>
+SIPRI	Stockholm International Peace Research Institute<br>
+SITCEN	(EU) Joint Situation Centre<br>
+SK	Slovakia (Participating Member State)<br>
+SMEs	Small and Medium-sized Enterprises<br>
+SMRF	Scalable Multi-Function Radar Programme<br>
+SNE	Seconded National Expert <br>
+SOA	Service-Oriented Architecture<br>
+SOF	Special Operations Forces <br>
+SOFA	Status of Forces Agreement<br>
+SOP	Standard Operational Procedures <br>
+SOPF	Separation of Parties by Force<br>
+SOX	Solid Oxygen<br>
+SPC	Soldier Prime Contractor (Team)<br>
+SPME	Solid Phase Micro Extraction<br>
+SPOD	Seaport of Disembarkation <br>
+SPOE	Seaport of Embarkation <br>
+SPREWS	Signal Processing for Radar and EW Systems <br>
+SRB	Solid Rocket Booster; or Senior Resource Board (NATO)<br>
+SRD	System Requirement Document <br>
+SRM	Solid Rocket Motor <br>
+SRMU	Solid Rocket Motor Upgrade<br>
+SSA	Shared Situation Awareness <br>
+SSC	Strategic Studies Committee <br>
+SSR	Security Sector Reform <br>
+STANAG	Standardisation Agreement (NATO) <br>
+STD	Shared Test Data <br>
+STF	Space Task Force <br>
+STF	Support to the Military Force<br>
+SW	Software<br>
+SYNTAS	Synthesis Tooling for Antenna Structures<br>
+SoI	Security of Information <br>
+SoS	Security of Supply <br>
+T&E	Test & Evaluation <br>
+TA	Technical Arrangement or Target Acquisition<br>
+TBA	To be assessed <br>
+TBC	To be confirmed <br>
+TBD	To be determined <br>
+TBMD	Theatre (Tactical) Ballistic Missile Defence<br>
+TDP	Technology Demonstrator Project (or Programme)<br>
+TEAM	Test and Evaluation Ad Hoc Management (set up by LoI countries) <br>
+TEC	Treaty Establishing the European Communities<br>
+TECHINT	Technical Intelligence<br>
+TEMPO	Technologies for the Miniaturisation and the Packaging Of true time delay modules<br>
+TEU	Treaty of the European Union<br>
+TF	Task Force<br>
+TIES	Tactical Imagery Exploitation Station<br>
+TIM	Toxic Industrial Material <br>
+TLCM	Through Life Capability Management<br>
+TOS	Transfer of Orbit <br>
+TOTS	Technology OTS (Off the Shelf)<br>
+TRL	Technology Readiness Level <br>
+TS-MS	Thermo Spray - Mass Spectrometry<br>
+TSGT	Transportable Satellite Ground Terminal<br>
+TT	Technology Taxonomy<br>
+TTP	Tactics, Techniques, Procedures <br>
+TU	Turkey<br>
+TVC	Thrust Vector Control <br>
+ToRs	Terms of Reference <br>
+UAS	Unmanned Aerial System <br>
+UAV	Unmanned Aerial Vehicle <br>
+UCAV	Unmanned Combat Air Vehicle<br>
+UGV	Unmanned Ground Vehicle <br>
+UIAT	Universal Intelligence Analysis Toolkit<br>
+UIAT	Universal Intelligence Analyst’s Tool<br>
+UK	United Kingdom (Participating Member State)<br>
+UMTS	Universal Mobile Telecommunication System<br>
+UN	United Nations<br>
+UOR	Urgent Operational Requirements <br>
+URD	User Requirement Document <br>
+US	United States<br>
+US	Upper Stage<br>
+USV	Unmanned Surface Vehicle <br>
+UUV	Unmanned Underwater Vehicle <br>
+UoME	Understanding of Mission Environment<br>
+VTC	Video-Tele-Conferencing<br>
+VTOL	Vertical take off and landing (from and to the ship deck) <br>
+WAN	Wide Area Network <br>
+WE	Work Element<br>
+WEAG	Western European Armaments Group<br>
+WEAG APG	WEAG Ad Hoc Project Group<br>
+WEAG CEPA	WEAG Common European Priority Area<br>
+WEAO	Western European Armaments Organisation<br>
+WEAO RC	WEAO Research Cell<br>
+WF	Waveforms<br>
+WINTSEC	Wireless Interoperability for Security (an EC study project)<br>
+WMD	Weapons of Mass Destruction<br>
+WP	Work Package<br>
+WP	Work Programme<br>
+WPAN	Wireless Personal Area Network<br>
+cMS	contributing Member State <br>
+pMS	Participating Member States (in EDA)<br>
+sMS	Subscribing Member States (to EDA Code of Conduct)<br>

@@ -1,0 +1,711 @@
+##name	The Harry Potter Glossary
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2001/07/04, 16:34
+##author	Omer Kabir & Nadav Slotky
+##email	zerk2000@hotmail.com
+##description	A complete glossary for the Harry Potter series.
+##bgl_creationTime	2000/09/13, 10:50
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+7th Floor|Gryffindor	Entrance to the Gryffindor common room.
+Abbott, Hannah|Abbott|Hannah|Hannah Abbott|Hufflepuff	"Pink-faced girl with blonde pigtails", a Hufflepuff.
+Abyssinian Shrivelfigs|Abyssinian|Shrivelfigs	Plants in the Herbology class.<BR>
+Accidental Magic Reversal Squad|Accidental|Magic|Ministry of Magic|Reversal|Squad	A team of rescuers from the Ministry of Magic, also known as Obliviators [4].<BR>
+Accio|Summoning	A summoning spell. It used used in this way: Accio + the name of the summoned item.<BR><U>Origin:</U><BR>Accipio - Latin for take, receive or accept
+Acid Pops|Acid|pops	Candy bought at Honeydukes in Hogsmeade that burns holes in your tongue.<BR>
+Ackerley, Stewart|Ackerley|Ravenclaw|Stewart|Stewart Ackerley	A Ravenclaw student [4].
+Aconite|monkshood|plant|potion|wolfsbane	A plant used in potions which is also known as 'monkshood' or 'wolfsbane'.<BR>
+Advanced Transfiguration|Transfiguration	A Transfiguration book for the 7th grade at Hogwarts [4].
+Adventures of Martin Miggs, the Mad Muggle, The|Adventure|Adventures|Martin|Martin Miggs|Miggs|Muggle|The adventures of Martin Miggs	Comic books Ron owns.<BR>
+Age Line|Age|Line	Magical line Dumbledore uses which prevents anyone under 17 from crossing [4].
+Aging Potion|Aging|Potion	Potion taken to become older [4].
+Agrippa	A wizard depicited on the Chocolate Frogs trading card series [1]; historically, a noted founder in the study of Alchemy.
+Albania|Bertha|Bertha Jorkins|Jorkins|Lord|Lord Voldemort|Voldemort	The hiding place of Lord Voldemort; where Bertha Jorkins went on holiday.<BR>
+Alchemy	A medieval science that is based on turning any metal into pure gold.
+alohomora|spell	A spell to unlock a door.<BR>
+Animagus [an-im-AJ-us]|Animagi|Animagus	A wizard who is able to transform into an animal form; (plural: Animagi)<BR><U>Origin:</U><BR>Animagus - "Soul of a wizard" in Latin (animus being soul, magus is wizard).
+Anthology of 18th. Century Charms, An|18th. Century Charms|An Anthology of 18th. Century Charms|Anthology of|Anthology of 18th. Century Charms|Century Charms	Book in the Hogwarts library [4].
+Aparecium|spell	A spell to make invisible ink appear.<BR>
+Apparate|disappear|reapper	The magical ability to disappear and reapper at your destination.<BR>
+Appraisal of Magical Education in Europe, An|An Appraisal of Magical Education in Europe|Appraisal of Magical Education in Europe|Education|Magical Education|Magical Education in Europe	Book Hermione read about Beauxbatons Academy of Magic [4].
+Aragog|spider	A huge spider in the forbidden forest.
+Archie	A very old wizard who tries to pass as a Muggle wearing a long flowery nightgown [4].
+Arithmancy|divination|numerology	A class taken by Hermione, dealing with the study of numbers; an early form of numerology where divination is made through numbers (especially those numbers associated with the letters of a person's name).
+Armadillo Bile|armadillo|bile	A potions ingredient [4].
+Astronomy	A class at Hogwarts for the study of the galaxy, planets, stars, etc; Taught by Prof. Sinistra.
+Aunt Marge|Aunt|Marge	Uncle Vernon's sister; she hates Harry and openly insults him.
+Auror	A witch or wizard that tracks down Death Eaters and other bad/dark wizards and takes them to Azkaban.
+Avada Kedavra|Avada|Kedavra|Unforgivable	Worst of the Unforgivable Curses, the killing curse. Flash of blinding green light and rushing sound. Kills without leaving a mark.<BR><U>Origin:</U><BR>Avada Kedavra - Aramaic for "let the thing be destroyed", it's said to be the original saying of Abra Kadabra.
+Avery|Death Eater	A named Death Eater [4].
+Avis	Spell which fires birds out of the wand.
+Azkaban|prison	The wizard prison.
+Baddock, Malcolm|Baddock|Malcolm|Malcolm Baddock|Slytherin	Slytherin student [4].
+Badger|Hufflepuff	The mascot for Hufflepuff.
+Bagman, Ludovic (Ludo)|Bagman|Bagman, Ludo|Bagman, Ludovic|Ludo|Ludo Bagman|Ludovic|Ludovic Bagman	Head of the Department of Magical Games and Sports [4].<BR><U>Origin:</U><BR>Bagman - Someone who collects money from illegal activities.<BR>Ludo - Latin for "to play".
+Bagman, Otto|Bagman|Otto|Otto Bagman	Brother of Ludo Bagman.<BR><U>Origin:</U><BR>Bagman - Someone who collects money from illegal activities.
+Bagshot, Bathilda|A History of Mag|Bagshot|Bathilda|Bathilda Bagshot|History of Magic	Wrote <I>A History of Magic</I> [1].
+Balderdash|Gryffindor	Password to get into the Gryffindor Tower [4].
+Ballycastle Bats|Ballycastle|Bat|Bats	Professional Quidditch team [4].
+Banana Fritters|Banana|Fritters	A Gryffindor password [4].
+Bandon Banshee|Bandon|Banshee|Lockhart	Banshee banished by a harelipped witch, for which Lockhart took credit.
+Bane	A centaur in the Forbidden Frest; black haired and bodied.<BR><U>Origin:</U><BR>Bane - Poison, ruin or bad luck
+Bashir, Ali|Ali|Ali Bashir|Bashir	A wizard who is angry about the embargo on flying carpets [4].
+Basic Hexes for the Busy and Vexed|Basic Hexes	A book Harry looks through [4].
+Basil	A wizard wearing a muggle &quotkilt" at the World Cup [4].
+Basilisk|Serpent|snake	The king of serpents; anyone who is fixed with the beam of the giant snake's eyes dies instantly.<BR>Read about the real Basalisk at <A href='http://encarta.msn.com/index/conciseindex/30/030b6000.htm'>Microsoft Encarta</A>.<BR><U>Origin:</U><BR>Balisk - a mythical serpent with the head of a chicken, it can kill with one glance.<BR>
+Beater|Quidditch|bludger	Position on Quidditch team; two beaters per team try to protect their teammates from bludgers. They try to redirect the balls toward their opponents.<BR>
+Beauxbatons|france|school	A school of witchcraft and wizardry in France [4].<BR><U>Origin:</U><BR>Beauxbatons - French for "beautiful sticks", refering to wands.<BR>
+Beauxbatons' carriage|Beauxbatons	Means by which Beauxbatons students arrive at Hogwarts; pulled by a dozen winged palaminos.
+Beginner's Guide to Transfiguration|Guide to Transfiguration|Transfiguration	One of Ginny Weasley's books; Written by Emeric switch [2].
+Bell, Katie|Bell|Gryffindor|Katie	Chaser on the Gryffindor Quidditch team.
+Bertie Bott's Every Flavor Beans|Bertie|Bertie Bott's|Bott's|Every Flavor|Every Flavor Beans|Flavor Beans	Wizard candy coming in every flavor, such as chocolate, peppermint, spinach, liver, tripe and vomit!
+Bezoar	A stone taken from the stomach of a goat which will save one from most poisons.
+Billius (also Uncle Billius)|Billius|Uncle Billius	Ron's uncle who saw a grim and died 24 hours later.
+Binky	Lavendar Brown's pet rabbit.
+Binns, Prof.|Binns|History of Magic	A ghost who teaches History of Magic at Hogwarts.
+Black Forest|Quirrell	Where Quirrell was rumored to have run into vampires and become &quotjumpy".
+Black, Sirius|Black|Sirius|Sirius Black	Best friend of James Potter in their Hogwarts days, was in Azkaban on murder charges.<BR><U>Origin:</U><BR>Sirius - &quotDog" in Latin, also a star of the constellation Canis Major that is the brightest star in the sky (also called the &quotDog Star").
+Blast Ended Skrewts|Skrewt|Skrewts	A magical creature which look like deformed, shell-less lobsters: horribly pale and slimy-looking, with legs sticking out in odd places and no visible heads. Smell of rotting fish, females have a sucker on their bellies, males have a stinger [4].
+Blood-flavoured lollipops|blood flavoured	Treats for vampires.
+Bloody Baron, The|Baron|Bloody|Bloody Baron|Peeves|Slytherin|the Bloody Baron	The ghost of the Slytherin Tower. Not much is known about him other than he is very wicked and scary looking; his eyes are blank, black sokets and his robes are covered in silver blood. He is the only "person" who can control Peeves the Poltergeist.
+Bludger|Quidditch	A jet black Quidditch ball, slightly smaller than a soccer ball; 2 bludgers per game which fly around trying to knock players from their brooms. Can cause serious injury.
+Boa Constictor|Boa|Constictor	Snake at the zoo Harry &quottalks" to [1].
+Boarhound	The type of dog that Hagrid has (Fang).
+Bode	A member of the Department of Mysteries.
+Boggart	A shape shifiter which takes on the likeness of one's worst fear.
+Bones', The|Bones	A family killed by Voldermort.
+Bones, Susan|Bones|Hufflepuff|Susan|Susan Bones	Student sorted into Hufflepuff.
+Boomslang Skin|Boomslang	A potions ingredient [4].
+Boot|Portkey	A Portkey on Stoatshead Hill [4].
+Boot, Terry|Boot|Ravenclaw|Terry|Terry Boot	Student sorted into Ravenclaw.
+Borgin and Burke's|Borgin|Burke	Dark Arts store in Knockturn Alley where Harry finds himself after attempting to travel by floo powder.
+Boris the Bewildered|Bewildered|Boris	Statue on the fifth floor near the Prefect's bathroom.
+Bowler	A round black hat; <I>ex. Cornelius Fudge, Minister of Magic, had a bowler... oddly, his was lime green</I> [2].
+Branstone, Eleanor|Branstone|Eleanor|Eleanor Branstone	A Hufflepuff student [4].
+Brazil	Country where the first snake Harry talks to says he wants to go.
+Break With A Banshee|Gilderoy|Gilderoy Lockhart|Lockhart	A book by Gilderoy Lockhart that is required for all 2nd years [2].
+Brocklehurst, Mandy|Brocklehurst|Mandy|Mandy Brocklehurst|Ravenclaw	Student sorted into Ravenclaw.
+Broom	1. a long handled implement for sweeping with a brush of straw or similar material (Webster's Dictionary definition).<BR>2. a long handled implement made of twigs which witches and wizards use for flying (also used in Quidditch)<BR>
+Broomstick Servicing Kit	A kit containing helpful things to keep a broom in mint condition.
+Brown, Lavender|Brown|Gryffindor|Lavender|Lavender Brown	Student sorted into Gryffindor.
+Bryce, Frank|Bryce|Frank|Frank Bryce|Riddle	Gardener for the Riddle family.
+Bubblehead Charm|Bubblehead	Charm used to breathe underwater [4].
+Bubotuber	A plant that looks like &quotthick black giant slugs, protruding vertically out of the soil". [4].
+Bubotuber Puss|bubotuber|puss	From the &quotpimples" of a bubotuber; smells like petrol, burns if undiluted, but diluted it's a very good medecine to cure acne [4].
+Buckbeak|beak|buck	A Hippogriff (a big beast which is half horse and half eagle).
+Bulgarian Quidditch Team|Bulgaria|Bulgarian	Players include Dimitrov, Ivanova, Zograf, Levski, Vulchanov, Volkov and Viktor Krum; played in the 422nd World Cup. Mascots are veelas [4].
+Bulstrode, Millicent|Bulstrode|Millicent|Millicent Bulstrode|Slytherin	A Slytherin who duels Hermione during the Dueling Club demos.
+Burrow, The|Burrow|Weasley	Name of the Weasley home.
+Butterbeer	Frothy, buttery hot drink served in Hogsmeade (a favorite of Ron and Hermione).
+Cadogan, Sir|Cadogan	Slightly demented knight that inhabits a painting on the landing of the seventh floor in Hogwarts. Temporary guardian of Gryffindor Tower in Book Three.
+Canary Creams|Canary|Creams	Pastry treats invented by Fred and George Weasley that, when bitten into, turns the person into a canary [4].
+Caput Draconis|Caput|Draconis	A password for Gryfindor in the first book.
+Care of Magical Creatures|Magical Creatures	A class Harry takes in his third and fourth year that is taught by Hagrid.
+Catchpole|Weasley	Village near the Weasley family home.
+cauldron	A pot which ingrediants are put into to make potions.
+Cauldron Cakes|Cauldron	A treat on the Hogwarts Express cart [1].
+Cauldwell, Owen|Cauldwell|Hufflepuff|Owen|Owen Cauldwell	A Hufflepuff student [4].
+Centaur	A mythical creature that is half-horse and half-man. It has the body and legs of a horse, but the arms and face of a man.
+Chamber of Secrets|Salazar|Slytherin	A secret lair at Hogwarts that Salazar Slytherin built after he lost his battle with Gryffindor.
+Chameleon Ghouls|Chameleon|Ghouls	Creature that can disguise itself as something else [2].
+Chang, Cho|Chang|Cho|Cho Chang|Ravenclaw	A Ravenclaw who is the Seeker on the Ravenclaw Quidditch team [3].<BR><U>Origin:</U><BR>Cho - Japanese name meaning "butterfly". Chinese name meaning "autumn".<BR><BR>
+Charm	A magical spell which adds properties to something causing it to change.
+Charm to Cure Reluctant Reversers, A|A Charm to Cure Reluctant Reversers|Charm to Cure Reluctant Reversers|Cure Reluctant Reversers|Reluctant|Reluctant Reversers|Reversers	From Harry's Quidditch Handbook [3].
+Charm Your Own Cheese|charm	Book at the Weasley's home [2].
+Charms|charm	A class at Hogwarts taught by Prof. Flitwick.
+Chaser|Quaffle|Quidditch	Position on Quidditch team; three chasers per team throw a Quaffle back and forth trying to get it through a goal hoop for 10 points.
+Chinese Fireball|dragon	A type of a dragon.
+Chipolata	Served during the Christmas feast in the first book; it is a type of long, skinny banger (sausage), similar in thickness to American breakfast links.
+Chocoballs	A chocolate sweet sold in Honeydukes.
+Chocolate Frogs|Chocolate|Frogs	A treat on the Hogwarts Express cart which come with Famous Wizards Cards [1].
+Chudley Cannons (England)|Cannons|Chudley|Chudley Cannons|England	The Chudley Cannons' glory days may be considered by many to be over, but their devoted fans live in hope of a renaissance.<BR>The Cannons have won the League twenty-one times, but the last time they did so was in 1892 and their performance over the last century has been lacklustre.<BR>The club motto was changed in 1972 from "We shall conquer" to "Let's all just keep our fingers crossed and hope for the best."
+Chudley Cannons, The|Cannons|Chudley|Chudley Cannons|Quidditch|The Chudley Cannons	Professional Quidditch team Ron admires, they wear bright orange and black robes and are 9th in the league.
+Circe [SIR-see]|Circe	A wizard depicited on the Chocolate Frogs trading card series.<BR><U>Origin:</U><BR>Traditionally a figure from greek mythology, best known for her tendency to turn men into the animals they are most like (mostly pigs and dogs). She appears in two sets of stories, that of Jason and the Argonauts (she helps her neice Medea escape with Jason), and that of the Odyssey. She temporarily turns most of Odysseus's men into swine before she gives them directions home.
+Clause 3 of the Code of Wand Use|Code of Wand Use|Wand|Wand Use	States no non-human creature is permitted to carry or use a wand.
+Cleansweep Seven|Cleansweep	A respected type of broomstick for flying.
+Clearwater, Penelope|Clearwater|Penelope|Ravenclaw	A Ravenclaw prefect and is Percy Weasley's girlfriend.
+Cliodna	A druidess depicited on the Chocolate Frogs trading card series; Celtic goddess of beauty and the otherworld.
+Club	A symbol which warns of "an attack" in tea leaf reading.
+Cockroach Clusters|Clusters|Cockroach	1) A rather nasty sweet made of cockroaches sold in Honeydukes.<BR>2) Used as a password to Dumbledore's office [4].
+Code of Wand Use|Wand|Wand Use	The rules of wand usage [4].
+Codswallop	Nonsense, baloney, malarkey, etc.
+Cokworth|Railview	Where Railview hotel is.
+Comet Two-Sixty|Comet 260|comet	The top-of-the-line broom Draco Malfoy has in the first book.
+Committee for the Disposal of Dangerous Creatures|Dangerous Creatures|Disposal of Dangerous Creatures	An office at the Ministry of Magic protecting against fierce animals.
+Committee on Experimental Charms|Experimental|Experimental Charms	Office at the Ministry of Magic.
+Common Magical Ailments and Afflictions|Afflictions|Magical Ailments|Magical Ailments and Afflictions	A standard health book for magic people.<BR>
+Common Room	A general meeting room of each Hogwarts house.
+Common Welsh Green|Welsh Green|dragon	A breed of wild dragon found in Britain.
+Confundus	A spell that changes the mind.
+Connolly	A member of the Irish Quidditch team [4].
+Conoly	An Irish Quidditch Team member.
+Cornish Pixies|Cornish|Pixies	Devilish little fairies that reak havoc.
+Council of Magical Law|Magical Law	Passes judgment on lawbreakers [4].
+Crabbe, Vincent|Crabbe|Vincent|Vincent Crabbe	Draco Malfoy's friend and cohort.
+Creevey, Colin|Colin|Colin Creevey|Creevey|Gryffindor	Is a year younger than Harry. Colin is also in Gryffindor and he may be Harry's biggest admirer (after Ginny Weasley). Colin is always following Harry around, trying to take his picture and get his autograph.
+Creevey, Dennis|Creevey|Dennis|Dennis Creevey|Gryffindor	Colin's younger brother; a Gryffindor [4].
+Cribbage's Wizarding Crackers|Crackers|Wizarding Crackers	A wizard treat [4].
+Croaker	A member of the Department of Mysteries.
+Crockford, Doris|Crockford|Doris|Doris Crockford	Woman Harry meets at his first trip to The Leaky Cauldron [1].
+Crookshanks	Hermione's cat who scares Scabbers [3].<BR><U>Origin:</U><BR>Crookshanks - an old-fashioned way of saying &quotbent legs".
+Cross	A symbol which warns of “trials and suffering" in tea leaf reading.
+Crouch Jr., Barty|Barty|Barty Crouch|Crouch	Sent to Azkaban by his own father [4].
+Crouch, Barty|Barty|Barty Crouch|Crouch	Worked for the ministry of magic and he put his son, Barty Jr., in Azkaban [4].
+Cruciatus Curse|Cruciatus|Unforgivable	One of the Unforgivable Curses spell tortures victim with extreme pain [4].<BR><U>Origin:</U><BR>Cruciatus - comes from the Latin word for "torture".
+Crucio|Cruciatus|Unforgivable	Spell to activate the Cruciatus Curse [4].<BR><U>Origin:</U><BR>Crucio - comes from the Latin word for "torture".
+Curse of the Bogies|Bogies|Curse	A spell Quirrell told his students about.
+Daily Mail	The Muggle newspaper.
+Daily Prophet	Wizards' newspaper.
+Daisy Root	An ingredient used in a shrinking solution.
+Dark Arts	The practice of evil wizards and dark mythical creatures.
+Dark Lord, The|Dark Lord|The Dark Lord	See <I>Voldemort</I>.
+Dark Mark|Dark|Mark|Voldemort	Voldemort's sign. A skull, with a serpent protruding from its mouth like a tongue[4].
+De-gnoming|De gnoming|garden gnomes|gnomes|gnoming	Removing pesky garden gnomes as described in <U>Gilderoy Lockhart's Guide to Household Pests</U>.
+De Mimsy-Porpington, Sir Nicholas (see also Nearly-Headless Nick)|De Mimsy-Porpington, Sir Nicholas|Sir Nicholas	Resident ghost of Gryffindor.
+Death Eaters|Voldemort	Supporters of Voldemort [4].
+Death Omens: What to Do When You Know the Worst is Coming|Death Omens|grim	Book on death omens in Flourish and Blotts with a picture of a Grim on the cover.
+Deathday Party|Deathday	May be celebrated by a ghost on the anniversary of his/her death.
+Decree for the Restriction of Underage Wizadry|Underage	A law prohibiting young wizards and witches from using magic out of school.
+Delacour, Fleur|Delacour|Fleur|Fleur Delacour	A student of Beauxbatons and a contestant in the Triwizard Tournament held at Hogwarts [4].<BR><U>Origin:</U><BR>Fleur Delacour - translates to 'flower of the heart' from French.
+Delacour, Gabrielle|Delacour|Fleur|Gabrielle|Gabrielle Delacour	Little sister of Fleur.
+Delaney-Podmore, Patrick|Delaney|Delaney Podmore|Headless|Patrick|Podmore	Leader of the Headless Hunt.
+Deletrius	Spell used by Amos Diggory to vanish the image of the Dark Mark [4].
+Dementor|Dementors	Creature who feeds on the happy emotions of humans, leaving one cold and sad. The kiss of the dementor is when the dementor sucks the very soul out of a human, leaving you emotionless.<BR><U>Origin:</U><BR>Dementor - a play on the word "demented", or crazy. Thus a Dementor is one who makes you demented. <BR>
+Dennis	A friend of Dudley [1].
+Densaugeo	A spell which causes teeth to grow at an alarming rate [4].
+Department for the Regulation and Control of Magical Creatures|Control of Magical Creatures|Magical Creatures|Regulation and Control of Magical Creatures	Department of the Ministry of Magic.
+Department of International Magical Cooperation|International Magical|International Magical Cooperation	Department of the Ministry of Magic.
+Department of Magical Games and Sport|Games and Sport|Magical Games and Sport	Department of the Ministry of Magic.
+Department of Magical Transportation|Magical Transportation|Transportation	Fines wizards for apparating without a license.
+Department of Mysteries|Mysteries	A top secret department at the Ministry of Magic, members are also known as Unspeakables.
+Dervish and Banges|Banges|Dervish	The wizarding equipment store in Hogsmeade.
+Devil's Snare|Snare	A plant which entraps anyone who it can reach.
+Diagon Alley|Alley|Diagon	Cobbled street where wizards can do their shopping.<BR><U>Origin:</U><BR>Diagonal - From angle to angle (thus, Diagon Ally means Crooked Alley).
+Diary of Tom Riddle	Diary which holds spirit of Tom Riddle.
+Diddy	A pet name for Dudley from his mother.
+Diffindo	A spell Harry uses to split open Cedric's book bag.
+Diggle, Dedalus|Dedalus|Dedalus Diggle|Diggle	A wizard who made shooting stars fly over Kent, meets Harry in Diagon Alley [1].<BR><U>Origin:</U><BR>Dedalus - The father of Icarus who is careless with the laws of nature. Diggle organizes showers of shooting stars the day that Voldemort disappears, which is also careless.
+Diggory, Amos|Amos|Amos Diggory|Diggory	Father of Cedric Diggory, works for the Department for the Regulation and Control of Magical Creatures.
+Diggory, Cedric|Cedric|Cedric Diggory|Diggory|Hufflepuff	Seeker on the Hufflepuff Quidditch team and challenger in the Triwizard Tournament held at Hogwarts [4].<BR><U>Origin</U><BR>Cedric - A boy's name of Celtic origin. Means: Battle; war chief.
+Dimitrov	Bulgarian Quidditch team member [4].
+Dippet, Prof.|Dippet	The headmaster when Tom Riddle was at Hogwarts.
+Disapparation	A method of travel for experienced wizards, which involves disappearing from one place and reappearing in another.
+Disarming Spell|Disarming	Removes the wand from an opponent.
+Dissendium	A spell which opened a secret passage inside a statue.
+Dobbs, Emma|Dobbs|Emma|Emma Dobbs	A Hogwarts student [4].
+Dobby|elf|house|house elf	A house elf who tries to prevent Harry from returning to Hogwarts for his second year.<BR><U>Origin:</U><BR>Dobby - A very old English name for a benevolent elf who would anonymously perform household tasks in the night, like the elves and the shoemaker.
+Dolohov, Antonin|Antonin|Antonin Dolohov|Dolohov	A captured Death Eater [4].
+Dot	A customer at The Hanged Man pub [4].
+Dr. Filibuster's Fabulous Wet-Start, No-Heat Fireworks|Dr. Filibuster's Fabulous|Fabulous|Filibuster|Filibuster's Fabulous|Fireworks	A favorite prank of the Weasley twins, they fill the room with red &amp; blue stars that bounce around for at least a half an hour.
+Draco Dormiens Nunquam Titillandus|Dormiens|Draco|Hogwarts|Nunquam|Titillandus	The Hogwarts motto, translates to: "Never Tickle a Sleeping Dragon".
+Dragons Blood|Dragon|Dragons	One of the most magical substances known to wizards.
+Draught of Living Death|Living Death	Powerful sleeping potion made of asphodel and wormwood.
+Dreadful Denizens of the Deep|Denizens of the Deep|Dreadful|Dreadful Denizens	Book in the Hogwarts library [4].
+Dress Robes|Robes	Robes for formal occasions.
+Drooble's Best Blowing Gum|Drooble	A treat on the Hogwarts Express cart [1].
+Dueling Club|Dueling	A club started in Hogwarts to teach about wizard duels.
+Dumbledore, Aberforth|Aberforth|Dumbledore	The brother of Albus Dumbledore, once prosecuted for practicing inappropriate charms on a goat.<BR><U>Origin:</U><BR>Dumbledore - An old English name for a bumblebee; the French word 'dore' means 'golden'.<BR>
+Dumbledore, Albus|Albus|Dumbledore	The current headmaster of Hogwarts; he has a long silvery beard, a very crooked nose and he always wears half moon specticles.<BR><U>Origin:</U><BR>Albus - &quotWhite" in Latin.<BR>Dumbledore - An old English name for a bumblebee; the French word 'dore' means 'golden'.
+Dungbombs	A trick item you can buy at Zonko's.
+Durmstrang	One of the three schools competing in the 422nd Triwizard Tournament.<BR><U>Origin:</U><BR>Durmstrang - Probably a play on the German phrase "Sturm und Drang", literally translated as "Storm and Stress". It was the name of a play and an 18th century German literary movement that consisted of literature about people's personal revolts against society. "Sturm und Drang" is used to mean "turmoil," especially inner turmoil or torment, today.
+Dursley, Dudley|Dudley|Dudley Dursley|Dursley	The spoiled and pampered son of Petunia and Vernon Dursley. Is extremely overweight due to greed. Enjoys hanging out with his gang and beating up his cousin Harry. Now attends Smeltings, his father Vernon's alma mater. Had to have a pig's tail surgically removed from his backside [1].<BR><U>Origin:</U><BR>Dudley - A play on 'dud', or broing person.<BR>Dursley - A small town in Britain.
+Dursley, Petunia|Dursley|Petunia|Petunia Dursley	Harry's muggle aunt, sister of Lily Potter.<BR><U>Origin:</U><BR>Dursley - A small town in Britain.
+Dursley, Vernon|Dursley|Vernon|Vernon Dursley	Harry's muggle uncle, Petunia's husband.<BR><U>Origin:</U><BR>Dursley - A small town in Britain.
+Eagle|Ravenclaw	The mascot for Ravenclaw.
+Eeylops Owl Emporium|Eeylops|Eeylops Owl|Emporium|Owl Emporium	Shop on Diagon Alley.
+Egypt	Country where Bill Weasley works for Gringotts.
+Elfric the Eager|Eager|Elfric	Subject in History of Magic.
+Elixer of Life|Elixer	A liquid that has the power to make a wizard or witch live forever.
+Elves|elf	Small creatures which live deep in the Forbidden Forest where they hold midnight feasts and play pranks on the lost passerby. They are actually very nice despite their tricky nature.
+Emeric the Evil|Emeric	Mentioned in Binns' History of Magic class.
+Enchantment in Baking|Baking|Enchantment	Book at the Weasley home [2].
+Encyclopedia of Toadstools|Toadstools	Book that Lucious Malfoy gets hit with [2].
+Enervate	A spell to revive someone who is stunned.
+Engorgement Charm|Engorgement	A spell which causes something to grow large.
+Engorgio	A spell that enlarges objects.
+Errol	The Weasley family owl.
+Eton	A muggle school.
+Expecto Patronum|Expecto|Patronum	A spell to guard you from the dementors by conjuring a patronus.<BR><U>Origin:</U><BR>Expecto Patronum - Similar words in Latin for &quotrelease protector".
+Expelliarmus	Disarming charm.<BR><U>Origin:</U><BR>Expelliarmus - The word 'expel', means to "force or drive out". This curse drives out the wand from the opponents hand.
+Exploding Bonbons|Bonbons|Exploding	A treat found in the Hogsmede store, Honeydukes.
+Exploding Snap|Exploding|Snap	A game played by wizards.
+Famous Wizard Cards|Wizard Cards	Trading cards of famous wizards throughthe ages; packaged with Chocolate Frogs.
+Fang	Hagrid's pet boarhound.
+Fat Friar, The|Fat|Fat Friar|Friar|Hufflepuff|The Fat Friar	Resident ghost of Hufflepuff.
+Fat Lady, The|Fat|Fat Lady|Gryffindor|Lady|The Fat Lady	Woman in a pink silk dress who sits in a portrait and protects the entrance to Gryffindor.
+Fawcett, Miss|Fawcett|Miss Fawcett	A student at Hogwarts who was injured during Dueling Club demos.
+Fawcetts, the|Fawcett|The Fawcetts	A wizard family that couldn't get tickets for the World Cup, they live in the same area as the Weasleys [4].
+Fawkes|Phoenix	Dumbledore's Phoenix (a bird which dies and is reborn again).<BR><U>Origin:</U><BR>Fawkes - named after Guy Fawkes, a Catholic terrorist who, about 400 years ago, attempted to blow up the English Houses of Parliament with 36 barrels of gunpowder. Although he did this in retaliation for the vicious anti-Catholic policies of James I, his name has lived in infamy ever since. Every year on the anniversary of the Gunpowder Plot, children burn an effigy of him on a bonfire, chanting charming ditties like, &quotGuy, Guy, Guy, Stick him in the eye, put him in a bonfire, there let him die," and letting off fireworks. Fawkes is a phoenix and therefore roses from flame.
+Ferula	A spell to create a sling.
+Fidelius Charm|Fidelius	An extremely complex charm in which a secret is conceled within a single living soul.
+Figg, Mrs.|Figg|Mrs. Figg	Dursley neighbor with whom Harry stayed every year on Dudley's birthday.
+Filch, Argus|Argus|Argus Filch|Filch	Caretaker at Hogwarts.<BR><U>Origin:</U><BR>Argus - A Greek God who had a hundred eyes, and was therefore always on the lookout, since he never closed more than half his eyes while he slept.<BR>Filch - To &quotfilch" means to &quotsteal".
+Finch-Fletchley, Justin|Finch|Finch-Fletchley|Fletchley|Hufflepuff|Justin	Sorted into Hufflepuff [1].
+Finite Incantatem|Finite|Incantatem	A charm used by Snape to end commotion by students.
+Finnigan, Seamus|Finnigan|Gryffindor|Seamus|Seamus Finnigan	Sorted into Gryffindor, his dad's a muggle, his mother a witch [1].
+Firebolt	A top-of-the-line broom given to Harry as a gift from an unknown friend.
+Firenze [FEER-en-zay]|Firenze	A centaur in the Forbidden Forest, young with white-blonde hair and a palomino body.<BR><U>Origin:</U><BR>Firenze - The Italian word for the city of Florence. Florence is the final resting place of Galileo Galilei, arguably the greatest astronomer who ever lived (a link to the centaur's passion for the stars).
+Fitchburg Finches (USA)|Finches|Fitchburg|Fitchburg Finches|USA|america|united states|united states of america	The United States has not produced as many world-class Quidditch teams as other nations because the game has had to compete with the American broom game Quodpot.<BR>Nonetheless, Quidditch has been gaining popularity and the Finches have emerged as a top team, winning the US League seven times.<BR>The Finches' seeker, Maximus Brankovitch III, has also captained America at the last two World Cups.
+Fizzing Whizbees|Fizzing|Whizbees	Levitating sherbert balls.
+Flame-Freezing Charm|Flame|Flame Freezing|Freezing	Used by ancient wizarding people (such as Wendelin the Weird) to freeze the flames meant to burn them.
+Flamel, Nicolas|Flamel|Nicolas|Nicolas Flamel	An alchemist and friend of Dumbledore; historically &quotFlamel was a famous character of his time, an official of the university reputed to be an alchemist. People thought he had got the gold to buy this mansion from finding the philosopher's stone-but really he married a rich widow." [from guidebook Cadogan Paris] .
+Flamel, Perenelle|Flamel|Perenelle|Perenelle Flamel	Wife of Nicolas Flamel.
+Flesh-Eating Slugs|Flesh Eating|Slugs	Pest which infested the Hogwarts cabbages.
+Fletcher, Mundungus|Fletcher|Mundungus|Mundungus Fletcher	Tried to put a hex on Arthur Weasly during a raid, is also on the list of people Dumbledore wants Sirius is to alert.
+flibbertigibbet|Gryffindor	One of the passwords for Gryffindor house.
+Flint, Marcus|Flint|Marcus|Marcus Flint|Slytherin	Captain of Slytherin Quidditch team.
+Flitwick, Prof.|Flitwick|Ravenclaw	Charms teacher at Hogwarts. The head of Ravenclaw house.<BR><U>Origin:</U><BR>Flitwick - A town in Britain outside of London.
+Flobberworm	A harmless, worm-like magical creature which students must keep alive in order to pass Care of Magical Creatures class.
+Florean Fortescue's Ice-Cream Parlour|Florean|Florean Fortescue|Fortescue	A shop on Diagon Alley.
+Flourish & Blotts|Blotts|Flourish	A bookshop in Diagon Alley.
+Flue Powder|Flue|Powder	A fine powder which allows wizards to travel from one place to another by going into the fireplace, and saying the name of the place you want to go to.
+Fluffy	A huge three headed dog protecting a sectret chamber at Hogwarts.
+Flying carpets	Technically defined as Muggle artifacts although argued to be a family vehicle.
+Flying with the Cannons|Cannons|Flying|cannon	A book about The Chudley Cannons which Harry reads the summer before his 4th year.
+Forbidden Forest, The|Forbidden|Forbidden Forest|Forest|The Forbidden Forest	A patch of woods on the Hogwarts grounds, off-limits to students.
+Ford Anglia|Anglia|Ford	The Weasley family car, bewitched by Mr. Weasley.
+Fudge, Cornelius|Cornelius|Fudge|Fudge Cornelius	Minister at Ministry of Magic.
+Furunculus Curse|Furunculus	Curse which causes boils to sprout on onee's face.
+Gadding With Ghouls|Gadding|Ghouls	Name of a book by Gilderoy Lockhart.
+Galleon|galleones|money	Gold wizard coin that equals 17 Sickles.
+Gambol & Japes Wizarding Joke Shop|Gambol|Gambol & Japes|Japes|Joke Shop	Shop on Diagon Alley.
+Ghoul	A creature that lives in attics and bangs on pipes while groanin.
+Gilderoy Lockhart's Guide to Household Pests	A book owned by Mrs. Weasley.
+Gillywater	A drink available at the Three Broomstick.
+Gillyweed	A plant that looks like rat tails, also in the book <U>Magical Water Plants of the Mediterranean</U>.
+Gnome|degnome	A small creature which wreaks havoc in Wizard gardens and must be removed.
+Gobbledegook	The international language of the goblins.
+Goblet of Fire|Fire|Goblet	A large goblet used to tell whoever uses it who will be in the Triwizard Tournament.
+Goblin Liason Office|Goblin	An office at the Ministry of Magic.
+Goblins	Run Gringotts, the wizards' bank.
+Gobstones	A marbles-like Wizard game where the pieces squirt a stinky substance when a player loses a point.
+Godric's Hollow|Godric	Where Lily and James Potter lived before they were killed.
+Golden Snitch|Quidditch|Snitch	golden Quidditch ball about the size of a large walnut with tiny silver wings.<BR>Quidditch match ends only after the elusive Snitch is caught, earning the catching team 150 points.
+Gordon	A friend of Dudley [1].
+Goshawk, Miranda|Goshawk|Miranda|Miranda Goshawk	Wrote <U>The Standard Book of Spells</U> (Grade 1-4).
+Goyle, Gregory|Goyle|Gregory|Gregory Goyle	A friend of Draco Malfoy and a Slytherin.
+Gran	Neville's grandmother whom he lived with.
+Granger, Hermione [her-MY-oh-nee]|Granger|Granger, Hermione|Gryffindor|Hermione|Hermione Granger	Bushy-haired, buck-toothed, bossy and the smartest pupil at Hogwarts; a Gryffindor.<BR><U>Origin:</U><BR>Hermione - Means 'eloquence'. Hermione is the feminine form of Hermes, the winged messenger of the Gods. Hermes was also an intermediary between the Gods and Man, and was therefore the God of divine inspiration: of inventiveness, cleverness and imagination; also Hermione was the daughter of Helen of Troy.
+Great Auntie Enid|Auntie Enid|Enid	Neville's ancestor.
+Great Hall	Main gathering point at Hogwarts.
+Great Hangleton|Hangleton	Neighboring town of Little Hangleton [4].
+Great Humberto, The|Humberto|The Great Humberto	A television show airing Monday nights which Dudley enjoys [1].
+Great Uncle Algie|Algie|Uncle Algie	Neville's ancestor who tried to force magic out of him.
+Gregory the Smarmy|Smarmy	A statue at Hogwarts.
+Grey Lady, The|Grey Lady|Ravenclaw|The Grey Lady	The ghost of Ravenclaw, unnamed in books 1-3.
+Grim	A giant black dog one sees as a death omen; when someone sees a Grim, it is believed that he/she will soon die.
+Grindelwald	A dark wizard defeated by Dumbledore in 1945.
+Grindylow	A water demon.
+Gringotts	Wizards' bank hundreds of miles under London, run by Goblins.
+Griphook|Gringotts|goblin	A goblin at Gringotts [1].
+Grunnings	A drill company run by Harry's Uncle Vernon.
+Grunnion, Alberic|Alberic|Alberic Grunnion|Grunnion	A wizard depicited on the Chocolate Frogs trading card series.<BR><U>Origin:</U><BR>Alberic - In the German Saga "Das Nibelungenlied", Alberich is the name of a dwarf who protects the treasure of Fafner, a dragon.
+Gryffindor	House at Hogwarts, includes Harry, the Weasleys and Hermione Granger.
+Gryffindor, Godric|Godric|Godric Gryffindor|Gryffindor	The founder of Hogwart's Gryffindor House.
+Gudgeon, Davey|Davey|Davey Gudgeon|Gudgeon	Former Hogwarts student nearly lost an eye trying to touch the Whomping Willow.
+Gudgeon, Gladys|Gladys|Gladys Gudgeon|Gudgeon	One of Lockhart's biggest fans.
+Hagrid, Rubeus [HAG-rid, roo-BAY-us]|Hagrid|Hagrid, Rubeus|Rubeus|Rubeus Hagrid	The near-giant-sized <I>Keeper of Keys and Grounds</I> at Hogwarts. Hagrid is a former student of Hogwarts who was expelled in his third year. He is in his 60's.<BR><U>Origin:</U><BR>Rubeus - "Red" in Latin.<BR>Hagrid - In Greek mythology, he was a god thrown out of Olympus, but Zeus allowed him to stay and be the keeper of the animals.
+half-blood|half blood	A witch or wizard who has one wizard parent and one muggle parent.
+Hand of Glory|Glory|Hand	A withered hand on a cushion which, when a candle is inserted, gives light only to the person holding it.
+Handbook of Do-It Yourself Broomcare|Broomcare|Do It Yourself Broomcare	A book Hermione gives to Harry.
+Hanged Man, The|Hanged Man|The Hanged Man	The village pub of Little Hangleton.
+Harry Hunting|Harry	A favorite game of Dudley and his friends.
+Head Boy/Head Girl|Head Boy|Head Girl	An honored 7th-year student at Hogwarts who looks after the affairs of fellow students; a school-wide honor with only one head boy and one head girl selected from the entire school.
+Headless Hunt|Headless	An exclusive membership of headless huntsmen ghosts who participate in hunt activities such as Horseback Head-Juggling and Head Polo. They will only accept into their membership those ghosts whose heads have been completely severed.
+Hebridean Black|Hebridean	A breed of wild dragon found in Britain.
+Hedwig|owl|snowy owl	Harry's snowy owl, a gift from Hagrid.<BR><U>Origin:</U><BR>Hedwig - Old Swedish name from the Viking times, "hed" is moore and "wig" means agile. "Hedwig," in Swedish, means someone that you can trust in and a protecter.
+Heir of Slytherin|Slytherin|heir	The true heir of one of the founders of Hogwarts (Salazer Slytherin) who could unseal the Chamber of Secrets, unleash the horror within, and use it to purge the school of all who were unworthy to study magic, especially Muggle-born witches and wizards.
+Hengist of Woodcroft|Hengist|Woodcroft	A wizard depicited on the Chocolate Frogs trading card series.
+Herbology	A class at Hogwarts taught by Prof. Sprout; The study of plants and mythical plants.
+Hermes	Percy Weasley's owl that was bought for him when he became a prefect.
+Higgs, Terance|Higgs|Slytherin|Terance|Terance Higgs	The Seeker on the Slytherin Quidditch team during Harry's first year.
+High Table	Table in the great hall where Hogwarts faculty sits.
+Hinkypunk	A creature with a lantern; on dark nights it leads lost people into bogs and swamps.
+Hippogriff	A magical creature which has the head and talons of an eagle and the back, hind legs and tail of a horse.<BR><U>Origin:</U><BR>Hippogriff - "hippo" is Greek for "horse", "griff" comes from the Latin word "griffin" (part human, lion, and eagle).
+His Eyes Are as Green As a fresh Pickled Toad|Eyes Are as Green|His Eyes Are as Green|Pickled Toad|Toad|fresh Pickled Toad	A poem written by Ginny Weasly to Harry on Valentine's Day:<BR>His Eyes are as green as a fresh Pickled toad, His hair as dark as a chalkboard. I wish he was mine, he's really divine, Our hero who conquered the dark lord.<BR>
+Hog's Head, The|Hog|Hog's Head|The Hog's Head	The pub in the village where Hagrid won a dragon's egg [1].<BR>
+Hogsmeade	A town for wizards and witches. Visits to Hogsmeade begin in a student's third year at Hogwarts.
+Hogsmeade Station|Hogsmeade	Where the Hogwarts Express stops to drop off the students each year.
+Hogwarts Express|Express|Hogsmeade|Hogwarts	A train which takes students from King's Cross to Hogwarts.
+Hogwarts School of Witchcraft and Wizardry|Hogwarts|School of Witchcraft and Wizardry|Witchcraft|Witchcraft and Wizardry|Wizardry|scotland	School for wizard students ages 11-17; probably located in Scotland.
+Hogwarts School Song|Hogwarts|School Song	A song led by Dumbledore which all the students sing, it has no rythym or tune and can be sung however one wishes:<BR>Hogwarts, Hogwarts, hoggy warty Hogwarts, Teach us something please, Whether we be old and bald, Or young with scabby knees, Our heads could do with filling, With some interesting stuff, For now they're bare and full of air, Dead flies and bits of fluff, So teach us things worth knowing, Bring back what we've forgot, Just do your best, we'll do the rest, And learn until our brains all rot.
+Hogwarts, a History|Hogwarts	A book about Hogwarts.
+Holidays With Hags|Hags	A book by Gilderoy Lockhart.
+Homorphus Charm|Homorphus	Charm which turns a werewolf back into his human form.
+Honeydukes	The candy shop in Hogsmeade.
+Hooch, Madam|Hooch|Madam|Madam Hooch	Head of Quidditch at Hogwarts, teaches first-years how to fly on broomsticks.
+Hopkirk, Mafalda|Hopkirk|Mafalda|Mafalda Hopkirk	Employee of the &quotImproper Use of Magic" office at the Ministry of Magic.
+House	One of four dormatories the students are assigned to upon arriving at Hogwarts; houses are Gryffindor, Hufflepuff, Ravenclaw and Slytherin.
+House Championship|House	A yearly contest between the four houses of Hogwarts.
+House Cup|House|cup	Trophy awarded to the House with the most points at the end of the year.
+House Elf|Elve|Elves|House|elf	Small creatures which work as servants in some wizard homes; they can only be set free when the master offers the elf a piece of clothing.
+House points|House	Points awarded to or taken from a house depending on the actions of its members.
+Howler	A letter which yells messages at extremely loud volumes when opened.
+Hufflepuff	A Hogwarts house named for one of the founders, Helga Hufflepuff.
+Hufflepuff, Helga|Helga|Helga Hufflepuff|Hufflepuff	The founder of the Hogwarts' Hufflepuff house.
+Hungarian Horntail|dragon	A type of a dragon.
+Hut-on-the-Rock|Hut on the Rock	A place Uncle Vernon takes the family to hide, where Hagrid locates Harry.
+Ice Mice|Ice|Mice	Gum bought at Honeydukes in Hogsmeade that &quotmake your teeth squeak and chatter".
+Ickle Duddeykins|Duddeykins|Ickle	A &quotbaby-talk" name Mrs. Dursley uses to dote on Dudley.
+Ickle Firsties|Firsties|Ickle	A name Peeves uses to mock first year students, meaning &quotlittle first years".
+Ickle Ronniekins|Ickle|Ronniekins	What Fred and George Weasley call Ron wheenever they feel like making fun of him.
+Impedimenta	Spell to freeze someone.
+Imperio|Imperius|Imperius curse	A spell to activate the Imperius curse [4].
+Imperius Curse|Imperio|Imperius	One of the unfrgivable curses spell makes someone do your bidding [4].
+Impervious	A magic spell Hermione put on Harry's glasses so they would repell water during a Quidditch match.
+Incendio	A spell used to start a fire.
+Intermediate Transfiguration|Intermediate|Transfiguration	Textbook for third year Transfiguration course at Hogwarts.
+Invisibility Booster|Booster|Invisibility	Device installed in Mr. Weasley's car to make it invisible [2].
+Invisibility Cloak|Cloak|Invisibility	Shiny, silvery grey cloth which makes everything it covers invisible.
+Invisible Book of Invisibility, The|Invisible Book of Invisibility|The Invisible Book of Invisibility	Available at the bookshop on Diagon Alley... if you can find it.
+Irish Quidditch Team|Ireland|Irish	Players include: Conoly, Ryan, Troy, Mallet, Moran, Quigly and Lynch. Mascots are Leprechauns.
+Ivanova	A Bulgarian Quidditch Team member.
+Jelly-legs jinx|Jelly|Jelly legs|Jelly legs jinx|Jelly-legs|jinx|leg|legs|legs jinx	A curse which makes the enemy's legs wobble.
+Jelly Slugs|Jelly|Slugs	A sweet sold in Honeydukes.
+Jigger, Arsenius|Arsenius|Arsenius Jigger|Jigger	Wrote <U>Magical Drafts and Potions</U> [1].
+Johnson, Angelina|Angelina|Angelina Johnson|Gryffindor|Johnson	Chaser on the Gryffindor Quidditch team.
+Jordan, Lee|Gryffindor|Jordan|Lee|Lee Jordan	Friend and conspirator of the Weasley twins; he has dreadlocks; a Gryffindor.
+Jorkins, Bertha|Bertha|Bertha Jorkins|Jorkins	A Ministry of Magic employee killed by Voldemort.
+July 31, 1980|Harry|Harry Potter|July|Potter	The day of Harry Potter's birth.<BR><U>Source</U>:<BR><I>The date </I>- The letter from Hogwarts in Book 1.<BR><I>The year - </I>In book 2 Nearly-Headless Nick celebrated his 500th Deathday; we know he died on October 31st, 1492, making the date of the party October 31st, 1992. Harry was 12 in Book 2, so 1992 - 12 = 1980).
+Kappa	Water-dwellers which look like scaly monkeys with webbed hands; they strangle those who wade into their ponds.<BR><U>Origin:</U><BR>Kappa - A Chinese water demon.
+Karkaroff, Igor|Igor|Igor Karkaroff|Karkaroff	The Headmaster of Durmstrang.
+Keeper|Quidditch	Position on Quidditch team, protector of goal.
+Kenmare Kestrels (Ireland)|Ireland|Kenmare|Kenmare Kestrels|Kestrels	This Irish side was founded in 1291 and is popular worldwide for the spirited displays of their leprechaun mascots and the accomplished harp playing of their supporters.<BR>Darren O'Hare, Kestrel Keeper 1947-60, captained the Irish national team three times and is credited with the invention of the Chaser Hawkshead Attacking Formation.
+Kettleburn, Prof.|Kettleburn	Taught Care of Magical Creatures prior to Hagrid.
+Kevin	Toddler who uses his dad's wand to burst slugs [4].
+King's Cross|Cross|Hogwarts|King|King's	Train station for catching the Hogwarts Express (at platform nine and three-quarters); an actual train station in London.
+Kip	Slang for &quotnap" or &quotsleep".
+Kiss of a Dementor|Dementor|Dementor's Kiss|Dementors|Kiss	When the Dementors kiss you on the lips and suck out your soul.
+knickerbocker glory|glory|knickerbocker	An English ice cream dessert.
+Knight bus	Bus which can be called upon by wizards in distress; summoned by raising the wand arm.
+Knockturn Alley|Knockturn	A street next to Diagon Alley that is full of dark magic shops.<BR><U>Origin:</U><BR>Knocturn Ally - Play on words, sounds like nocturnally.
+Knuts|money	Little bronze coins, wizard currency; 29 Knutes to a Sickle.
+Krum, Viktor|Krum|Viktor|Viktor Krum	Player for Bulgarian Quidditch Team during the World Cup [4].<BR><U>Origin:</U><BR>Viktor - A boy's name of Latin origin, means: Victorious; a conqueror.
+Kwikspell	Correspondence course in beginner's magic.
+Leaky Cauldron, The|Cauldron|Leaky|Leaky Cauldron|The Leaky Cauldron	Shabby old pub and inn next to which is the entrance to Diagon Alley.
+Lemon Drops (or Sherbet Lemons)|Drops|Lemon|Lemon Drops	A muggle treat Dumbledore admits to being fond of.
+Leprechauns|Leprechaun	The mascots for The Irish Quidditch Team.
+Levski	A Bulgarian Quidditch Team member.
+Licorice Wands|Licorice	A treat on the Hogwarts Express cart [1].
+Lion|Gryffindor	The mascot for Gryffindor.
+Little Hangleton|Hangleton	The village where the Riddle family lived.
+Lockhart, Gilderoy|Gilderoy|Gilderoy Lockhart|Lockhart	Defense Against the Dark Arts in Harry's second year; author of self-glorifying autobiographies and five-time winner of Witch Weekly's "Most-Charming Smile Award".<BR><U>Origin:</U><BR>Gilderoy - Golden King.<BR>
+locomoto mortis|locomoto|mortis	Spell for the leg-locker curse.
+Longbottom, Neville|Gryffindor|Longbottom|Neville|Neville Longbottom	Forgetful and clumsy classmate of Harry's; a Gryffindor; his gran brought him up and she was a witch.
+Lovegoods, the|Lovegoods|The Lovegoods	Family that lives near the Weasleys, they arrived at the World Cup a week early [4].
+Lumos	A charm to light the end of a wand (acts as a flashlight).<BR><U>Origin:</U><BR>Lumos - Similar to the Latin word for &quotlamp" or &quotlight" (as in luminate or illuminate).
+Lupin, Remus J.|Lupin|Remus|Remus J. Lupin|Remus Lupin	Defense Against the Dark Arts teacher in Harry's third year.<BR><U>Origin:</U><BR>Lupin - Derived from the latin word &quotlupus" which means <U>wolf</U>; a lupin is also a type of flower, common in England, which is named after the Latin word for &quotwolfish".<BR>Remus - Remus and Romulus were twins abandoned as babies and suckled by a she-wolf. They would later become the two founders of Rome.
+Lynch	The Irish Quidditch Team seeker.
+MacDougal, Morag|MacDougal|Morag|Morag MacDougal	Sorted into an unknown house [1].
+Macmillan, Ernie|Ernie|Ernie Macmillan|Hufflepuff|Macmillan	Hufflepuff student and friend of Justin's.
+Madam Malkin's Robes for all Occasions|Madam Malkin|Malkin|Robes for all Occasions	Shop on Diagon Alley.
+Madley, Laura|Laura|Laura Madley|Madley	A Hufflepuff student [4].
+Magical Me|Magical|Me	Autobiography of Gilderoy Lockhart.
+Majorca	Where Mr. Dursley wants to buy a vacation home [2].
+Malcolm	A friend of Dudley [1].
+Malfoy, Draco|Draco|Draco Malfoy|Malfoy|Slytherin	A Slytherin, Harry's arch-enemy at Hogwarts.<BR><U>Origin:</U><BR>Draco - Latin for "dragon"; also a constellation. There was a Greek tyrant named Draco who was known for his cruelty. He wrote a strict law code with harsh punishment i.e. being hanged for stealing a loaf of bread. The word "draconian" means harsh and cruel and severe. <BR>Malfoy - "Mal foi" means "bad faith" or "bad trust" in French.
+Malfoy, Lucius|Draco|Lucius|Lucius Malfoy|Malfoy	Draco Malfoy's father.<BR><U>Origin:</U><BR>Malfoy - "Mal foi" means "bad faith" or "bad trust" in French.
+Malfoy, Narcissa|Malfoy|Narcissa|Narcissa Malfoy	Draco Malfoy's mother.<BR><U>Origin:</U><BR>Malfoy - "Mal foi" means "bad faith" or "bad trust" in French.<BR>Narcissa - Created from the Greek myth of Narcissus, who fell in love with himself.
+Mallet	An Irish Quidditch Team member.
+Mandrake	A plant which has a screaming baby on the end, the cry is fatal to all who hear it.<BR>A mandrake plant, when full-grown, is a powerful restorative used to return those who have been transfigured back to their original state.<BR><U>Origin:</U><BR>Mandrake - a Mediterranean herb with a large, forked root resembling a human form. It is used to bring about consciousness or to purify.
+Marauders Map|Map|Marauders	A secret map that shows all the passege-ways at Hogwarts and all its occupants.
+Marsh, Madam|Madam Marsh|Marsh	A passenger on the Knight Bus who gets offf at Abergavenny.
+Mason	Mr. Dursley's biggest client.
+Maxime, Madam|Beauxbatons|Madam|Madam Maxime|Maxime	The headmaster of Beauxbatons.
+McDonald, Natalie|McDonald|Natalie|Natalie McDonald	A Gryffindor student [4].
+McGonagall, Minerva|Gryffindor|McGonagall|Minerva|Minerva McGonagall|Transfiguration	Deputy Headmistress of Hogwarts, head of Gryffindor and professor of Transfiguration at Hogwarts.<BR><U>Origin:</U><BR>Minerva - The goddess of academics in Roman mythology.
+McGuffin, Jim|Jim|Jim McGuffin|McGuffin	Weatherman on Muggle television [1].
+McKinnons, The|McKinnons|The McKinnons	One of four families killed by Voldermort.
+Medal for Magical Merit|Magical Merit	An award given to Tom Riddle when he was Head Boy.
+Mega-Mutilation Part Three|Mega Mutilation|Mutilation	Dudley's PlayStation game.
+Merlin	A wizard depicited on the Chocolate Frogs trading card series, traditionally thought to have trained King Arthur.
+Merpeople|Mermaids	Mermaids and mermen who live at the bottom of the lake in the forbidden forest.
+Midgen, Eloise|Eloise|Eloise Midgen|Midgen	A student with an off-center nose.
+Ministry of Magic	In charge of keeping witches and wizards secret from the Muggles.
+Mirror of Erised|Erised	A mirror Harry finds with writing that reads: Erised stra ehru oyt ube cafru oyt on wohsi.<BR>Backwards (or in a reflextion) it reads: I show not your face, but your heart's desire.
+Misuse of Muggle Artefacts Office, The|Misuse of Muggle|Muggle Artefacts|The Misuse of Muggle Artefacts Office	The department at the Ministry of Magic of which Arthur Weasley is the head.
+Moaning Myrtle|Moaning|Myrtle	A ghost who haunts the toilet in the girl's bathroom. She moans loudly and complains that no one likes her (which is probably true).
+Mobiliarbus	The magical way of moving objects.
+Mobilicorpus	When someone can't walk on their own this magic makes it seem as if invisible strings are holding the person up.
+Mockridge, Cuthbert|Cuthbert|Cuthbert Mockridge|Mockridge	The head of the Goblin Liason Office.
+Modern Magical History|Magical History	A book about the history of the magical world.
+Monkshood	A plant used in potions which is the same as wolfsbane and also goes by the name of aconite.
+Monster Book of Monsters, The|Book of Monsters|Monster Book of Monsters|The Monster Book of Monsters	Textbook chosen by Hagrid for the Care of Magical Creatures course for third-years. It will bite and run away from one unless it is stroked down the spine.
+Moody, Alastor (Mad Eye)|Alastor|Alastor Moody|Eye|Mad|Mad Eye|Mad Eye Moody|Moody|Moody, Alastor	Harry's Defence Against the Dark Arts teacher in his fourth year at Hogwarts.
+Moon	Student sorted into an unknown house at Hogwarts [1].
+Moony|Lupin|Remus|Remus Lupin	The nickname of Remus Lupin as a student at Hogwarts.
+Moose Jaw Metorites (Canada)|Canada|Jaw|Jaw Metorites|Metorites|Moose|Moose Jaw|Moose Jaw Metorites	The Meteorites are one of three highly accomplished Quidditch teams to come out of Canada.<BR>In the 1970s, they were threatened with disbandment owing to their persistent practice of performing post-match victory flights over neighboring towns and villages while trailing sparks from their broom tails.<BR>The team now confines this tradition to the pitch at the end of each match and Meteorite games consequently remain a great wizarding tourist attraction.
+Moran	An Irish Quidditch Team member.
+Morgana	A witch depicited on the Chocolate Frogs trading card series, traditionally believed to be the half-sister of King Arthur.
+Morsmordre|dark|dark mrak|mark	A spell which makes the dark mark.
+Mortlake	Was taken away for questioning about &quotextremely odd ferrets" by the Committee on Experimental Charms.
+Mosag|Aragog	Aragog's wife.
+Mostafa, Hassan|Hassan|Hassan Mostafa|Mostafa	The chairwizard of the International Association of Quidditch; The referee of the game between Bulgaria and Ireland.
+Moste Potente Potions|Moste|Potente|Potente Potions	A book in the restricted section of the Hogwarts library.
+Mr. Paws|Figgs|Ms. Figgs|Paws	One of Ms. Figgs' cats that she bores Harry with.
+Mrs. Norris|Filch|Norris	Filch's scrawny cat who helps keep the students in line.<BR><U>Origin:</U><BR>Mrs. Norris - Taken from Jane Austin's "Mansfield Park." She is a nosy preacher's wife.
+Mudblood	An insulting term for a half-blooded wizard or a muggle-born wizard.
+Muggle	Wizard term for non-magic folk.<BR><U>Origin:</U><BR>Muggle - According to JK Rowling, she created the word muggle from the English word mug, or fool.
+Muggle Protection Act|Muggle	A law written by Arthur Weasley that prevents people of the magical community from using magic in a way that muggles can see or come in contact with. This includes the enchanting of regular muggle objects, such as keys and cars (Mr. Weasley claims to his wife, however, that unless you are intending to use the object, the fact that the object could do something magical wouldn't matter).
+Muggle Repelling Charms|Muggle|Repelling|Repelling Charms	Charms which prevent Muggles from stumbling into an unwanted area.
+Muggle Studies|Muggle	Class taken by Hermione that deals with studding muggles. Hermione says, &quotIt will be interesting to study them from a wizard's point of view".
+Mulled Meed	A drink ordered by Hagrid at The Three Broomsticks.
+N.E.W.T.	The abbreviation of Nastily Exhausting Wizarding Tests.
+Nagini|snake	A giant snake at least 12 feet long whose venom helped sustain Voldemort [4].
+Nearly Headless Nick (see also De Mimsy-Porpington, Sir Nicholas)|Gryffindor|Headless Nick|Nearly Headless|Nearly Headless Nick|Nick	Resident ghost of Gryffindor.
+Never Tickle a Sleeping Dragon|Dragon|Hogwarts|Sleeping Dragon|Tickle a Sleeping Dragon	The translation of the Hogwarts motto, translated from: "Draco Dormiens Nunquam Titillandus".
+Nimbus 2000|Nimbus	A well-respected type of broomstick for flying.
+Nimbus 2001|Nimbus	An upgrade on the Nimbus 2000.
+Noctorn Alley|Alley|Noctorn	The alley Harry landed in, the first time he used Flue Powder [2].
+Norbert|Dragon	A Norwegian Ridgeback dragon which Hagrid hatches after he wins an egg at a pub.
+Norwegian Ridgeback|Dragon	A rare type of dragon, like Norbert.
+Nott	Student sorted into an unknown house at Hogwarts [1].
+Nox	A charm used to turn out the light on your wand after you say &quotLumos".<BR><U>Origin:</U><BR>Nox - Latin for &quotnight".
+O.W.L.s (Ordinary Wizarding Levels)|O.W.L.|OWL|Ordinary|Ordinary Wizarding|Ordinary Wizarding Level|Ordinary Wizarding Levels|Wizarding|Wizarding Level|Wizarding Levels	Test taken at the end of the 5th year by students at Hogwarts.
+Obliviate	A memory modifying charm.
+Obliviators	Members of the Accidental Magic Reversal Squad.
+Ollivanders|wand	Shop for wands on Diagon Alley.<BR>"Makers of fine wands since 382 B.C."
+Omnioculars	Magical binoculars which allow instant replay, slow-motion and more.
+One-Eyed Witch|One Eyed	Statue which contains a secret passage to Honeyduke's.
+One Minute Feasts- It's Magic|Minute Feasts|One Minute|One Minute Feasts	A book at the Weasley home [2].
+Orchideous	A spell which causes flowers to come out of the wand.
+Owl Post	Means of communication in the wizarding world. Owls travel back and forth, relaying messages betwwen wizards and witches.
+Owls|owl	Birds used by the magical community to carry their mail.
+Padfoot|Black|Sirius|Sirius Black	The nickname of Sirius Black as a student at Hogwarts.
+Paracelsus	A wizard depicited on the Chocolate Frogs trading card series.<BR>A 15th century Swiss alchemist also known as Theophrastus Bombastus. Paracelsus became more interested in "practical" applications of alchemy (in medicine) than in looking for the Philosopher's Stone. <BR>
+Parkinson, Pansy|Pansy|Pansy Parkinson|Parkinson|Slytherin	A Slytherin at Hogwarts.
+Parselmouth	A wizard who has the ability to speak to snakes; thought to be the mark of a Dark Wizard.
+Parseltongue|parselmouth	Language spoken by a parselmouth.
+Patil, Padma|Padma|Padma Patil|Patil|Ravenclaw	A Ravenclaw and twin of Parvati.<BR><U>Origin:</U><BR>Padma - A Hindu name, means "lotus" in the Indian language. The lotus is a Hindu symbol, and it symbolizes wealth, or Lakshmi, the Goddess of wealth, and Lord Vishnu's consort. Lord Vishnu is also a dominant God in the Hindu religion.
+Patil, Parvati|Gryffindor|Parvati|Parvati Patil|Patil	A Gryffindor and twin of Padma.<BR><U>Origin:</U><BR>Parvati - A Hindu name, means "gentle". Parvati was also the name of Lord Shiva's wife, one of the dominant Gods in the Hindu religion.
+Patonga Proudsticks (Uganda)|Patonga|Patonga Proudsticks|Proudsticks|Uganda	Although Quidditch is not played as widely in Africa as in Europe, it is gaining in popularity.<BR>Uganda in particular is emerging as a keen Quidditch-playing nation led by the Proudsticks, who astonished most of the Quidditch world by holding the Montrose Magpies to a draw in 1986.<BR>Six Proudstick players recently represented Uganda in the World Cup, the highest number of fliers from a single team ever united on a national side.
+Patronus	An anti-dementor created by using the spell <I>&quotExpecto Patronum"</I> while thinking happy thoughts.<BR><U>Origin:</U><BR>Patronus - Latin for &quotprotector", or &quotdefender", but it is ultimately derived from the Latin word ''pater'', which means &quotfather".
+Payne, Mr.|Mr. Payne|Payne	Site manager of the Diggory's campsite at the World Cup [4].
+Peasegood, Arnold|Arnold|Arnold Peasegood|Peasegood	A member of the Accidental Magic Reversal Squad.
+Peeves	A Hogwarts poltergeist.<BR><U>Origin:</U><BR>Peeves - &quotpeeved" is a slang word for &quotirritated".
+Pensieve	A shallow stone basin with odd carving around the edge. One simply siphons the excess thoughts from one's mind, pours them into the basin, and examines at one's leisure.
+Pepper Imps|Imps|Pepper	Candy that makes you breath fire.
+Peppermint Toad|Peppermint|Toad	A peppermint flavored candy, sister candy of the Chocolate Frog.
+Perkins	Co-worker of Mr. Weasley's who suffers from lumbago [4].
+Perks, Sally-Anne|Anne|Perks|Sally|Sally Anne|Sally Anne Perks	Sorted into an unknown house at Hogwarts [1].
+Peskipiksi Pesternomi|Cornish|Cornish pixies|Peskipiksi|Pesternomi|pixies	Spell used by Lockhart to get rid of destructive Cornish pixies (it doesn't work).
+Petrificus Totalus|Petrificus|Totalus	Spell for the Full Body-Bind, causing the subject to lie motionless (petrified).
+Pettigrew, Peter|Peter|Peter Pettigrew|Pettigrew	A wizard who was a friend of James Potter in his school days.
+Philosopher's Stone (see also Sorcerer's Stone)|Philosopher|Philosopher's Stone	A substance which turns any metal into gold; produces the Elixir of Life which will make the drinker immortal; learn about the actual historical significance <A href='http://tqd.advanced.org/2690/hist/alchemy.html'>here</A>.
+Phoenix	A bird that bursts into flames and rises from its ashes for a re-birth. A phoenix is a very good pet and it's tears can heal wounds.
+Pigwidgeon (or Pig)|Pig|Pigwidgeon	A small owl given to Ron by Sirius Black.
+Pince, Madam|Madam Pince|Pince	The Hogwarts School Librarian.
+Pinch, Madam|Madam Pinch|Pinch	The Hogwarts school librarian.
+PlayStation	Item Dudley throws out the window when he's angry [4].
+Plus Fours|fours|plus	The large, blousy type knickerbockers that were used for playing sports (such as golf) that were popular in the 20's and 30's. They are called "plus fours" because they are cut four inches longer that regular knickers.
+Pocket Sneakoscope|Sneakoscope	A very small spining glass top which lights up and makes a high-pitched whistle when there is somebody or something suspicious around.
+Point Me|Me|Point	A spell which causes your wand to act as a compass and point north.
+Polkiss, Mrs.|Mrs. Polkiss|Polkiss	Piers' mother [1].
+Polkiss, Piers|Piers|Piers Polkiss|Polkiss	Dudley's best friend [1].
+Polyjuice Potion|Polyjuice	A potion that makes a person change into a different person.
+Pomfrey, Poppy|Pomfrey|Poppy|Poppy Pomfrey	The stern school nurse at Hogwarts.<BR><U>Origin:</U><BR>Poppy - One of the oldest medicinal plants. The opium it contains has been used as a soporific and painkiller for thousands, perhaps tens of thousands of years.
+Pontner, Roddy|Pontner|Roddy|Roddy Pontner	A wizard who bets on the Quidditch World Cup game [4].
+Portkey	An oject which is &quotused to transport wizards from one spot to another at a prearranged time".
+Potions|Potion	A class at Hogwarts taught by Severus Snape. Potions class teaches students how to make potions such as enlarging potions, bubbling potions, etc.
+Potter, Harry|Harry|Harry Potter|Potter	A young boy who unexpectedly finds himself at Hogwarts studying wizardry.
+Potter, James|James|James Potter|Potter	Harry's father, a pure-blooded wizard.
+Potter, Lily|Lily|Lily Potter|Potter	Harry's mother who died protecting him from Voldemort; a muggle-born.
+Prang, Ernie|Ernie|Ernie Prang|Prang	Driver of the Knight Bus. "Prang" means to crash into.
+Prefect	An honored senior student who helps with younger pupils.
+Prefects Who Gained Power|Prefect|Prefects Who Gained	A book which interests Percy in a junk shop in Diagon Alley.
+Prewetts, The|Prewetts|The Prewetts	One of four families killed by Voldermort.
+Priori Incantatem|Incantatem|Priori	An effect which occurs when two wands of the same core material are brought into combat with one another, causing one to force the other to release shades of former spells. This effect is characterized by the appearance of bright, gold-colored threads which unite the two wands and encase their owners.
+Priori Incantato|Incantato|Priori	A spell which, when placed on a wand, causes the wand to identify the most recent spell that it performed.
+Pritchard, Graham|Graham|Graham Pritchard|Pritchard	A Slytherin student [4].
+Privet Drive|Privet	The street where the Dursley's live, complete address is: 4 Privet Dr., Little Whinging, Surrey.
+Professorhead	A name peeves calls Dumbledore.
+Prongs|James|James Potter|Potter	The nickname of James Potter as a student at Hogwarts.
+Ptolemy	A wizard depicited on the Chocolate Frogs trading card series.
+Pucey, Adrian|Adrian|Adrian Pucey|Pucey|Slytherin	Chaser for the Slytherin Quidditch team.
+Puddlemere United|Puddlemere	A professional Quidditch team.
+Puffapod	A plant that produces large, shiny pink beans, Harry, Ron and Hermione were working on shelling it together in Herbology [3].
+Pumpkin Juice|Pumpkin	Beverage enjoyed by wizards and witches at Hogwarts and on the Hogwarts Express.
+Pumpkin Pasties [PASS-teez]|Pasties|Pumpkin|Pumpkin Pasties	A treat on the Hogwarts Express cart [1].
+Pure Blood|Slytherin|blood|pure	1) Slang term for a wizard born of two wizarding families.<BR>2) Password to the Slytherin common room [2].
+Put Outer|Outer|Put	A device used to turn streetlamps on and off, looks like a silver cigarette lighter [1].
+Quaffle|Quidditch	Bright red Quidditch ball about the size of a soccer ball; 10 points every time a chaser gets a Quaffle through the gaol hoop.
+Quality Quidditch Supplies|Quidditch	A shop in Diagon Alley which sells broomsticks and other Quidditch supplies.
+Quick-Quotes Quill|Quick|Quick Quotes|Quick Quotes Quill|Quick-Quotes|Quill|Quotes	A green quill that writes spoken words (When used by Rita Skeeter, it exaggerates).
+Quidditch	Wizard sport played on brooms with four balls.
+Quidditch Cup|Quidditch|cup	Trophy given to the winningest Quidditch team at the end of a season.
+Quidditch season|Quidditch	Begins in November.
+Quidditch World Cup|Quidditch|cup	International Quidditch tournament.
+Quietus	The spell Bagman uses at the Quidditch World Cup to lower his voice.
+Quigley	An Irish Quidditch Team member.
+Quirke, Orla|Orla|Orla Quirke|Quirke	A Ravenclaw student [4].
+Quirrell, Prof.|Quirrell	Nervous, stuttering young professor of Defense Against the Dark Arts during Harry's first year at Hogwarts [1].
+Railview Hotel|Railview	&quotA gloomy-looking hotel on the outskirts of a big city" where Uncle Vernon takes the family to hide (they stay in room 17) [1].
+Ravenclaw|Rowena|Rowena Ravenclaw	A Hogwarts house named for one of the founders, Rowena Ravenclaw.
+Ravenclaw, Rowena|Ravenclaw|Rowena|Rowena Ravenclaw	The founder of the Hogwarts' Ravenclaw house.
+Red Cap|Cap|Red	A creature that lives wherever there is bloodshed.
+Reducio	A spell that reduces objects.
+Registry of Proscribed Charmable Objects|Charmable Objects|Proscribed Charmable Objects	Determines which items are allowed to be charmed and which one, such as carpets, are not.
+Relashio|Grindylow	Grindylow defence spell.
+Remembrall	Glass marble-sized ball which, when held, turns red to tell the holder if they've forgotten something.
+Rictusempra	A tickling charm.
+Riddikulus|boggart	A charm to make a boggart take on characteristics of a person or object the sayer is thinking of.
+Riddle House, the|Riddle|Riddle House|The Riddle House	Home of the Riddle family in the village of Little Hangleton, it was &quotonce a fine-looking manor, and easily the largest and grandest building for miles around".
+Riddle, Tom|Riddle|Tom|Tom Riddle	The father of Tom Marvolo Riddle.
+Riddle, Tom Marvolo|Lord Voldemort|Riddle|Tom|Tom Marvolo Riddle|Tom Riddle|Voldemort	A young Lord Voldemort; born of a muggle father and a witch mother who died in childbirth.
+Ripper	Aunt Marge's precious bullhound.
+Roberts, Mr.|Mr. Roberts|Roberts	A muggle and site manager of the Weasley's campsite at the World Cup [4].
+Romania	Country where Charlie Weasley studies dragons.
+Ronan	A centaur in the Forbidden Forest.
+Rosmerta, Madam|Madam Rosmerta|Rosmerta	The barmaid at The Three Broomsticks.
+Ryan	An Irish Quidditch Team member.
+S.P.E.W.|elf|elves|spew	The Society for Promotion of Elfish Welfare; Organization founded by Hermione to stop House Elf abuse [4].
+Salem Witches' Institute|Salem	A group of American witches attending the Quidditch World Cup [4].
+Scabbers	Ron's hand-me-down rat; fat, old and useless.<BR><U>Origin:</U><BR>Scabbers - A scab is a slang term for someone who does no work and who scrounges off others.
+Scamander, Newt|Newt|Newt Scamander|Scamander	Wrote: &quotFantastic Beasts and Where to Find Them" [1].
+Scops owl|Scops|owl	A breed of owl, very small and used for &quotLocal Deliveries Only".
+Secret Keeper|Keeper|Secret	A person who hides another’s secret so that no one will know about it unless the Secret-Keeper choses to divulge it.
+Section 13 of the International Confederation of Warlock's Statute of Secrecy|International Confederation of Warlock|International Confederation of Warlock's Statute of Secrecy|Section 13	Any magical activity that risks notice by members of the non-magical community.
+Seeker|Quidditch	Quidditch position for catching the Golden Snitch.
+self shuffling playing cards|playing cards|self shuffling	A deck of cards that mix themselves.
+Serpensortia	A charm used to summon snakes.
+Sherbert balls|balls|sherbert	Candy bought at Honeydukes in Hogsmeade that let you levitate a couple inches from the ground while sucking on them.
+Sherbert lemons (see also lemon drops)|Sherbert lemons|lemons|sherbert	A muggle treat Dumbledore admits to being fond of.
+Shooting Star|Shooting|Star	An outdated flying broomstick model.
+Shrieking Shack|Shrieking|Shrieking Shacks	A shcak located behind the Whomping Willow. One must push a button on the Whompin WIllow to turn it off in order to safely pass to the Shrieking Shack.
+Shrivelfig	An ingredient in magic potions, used in Shrinking Solution.
+Sickle|Sickles|money	Silver coins, wizard currency; 17 Sickles to a Galleon.
+Silver Arrow|Arrow|Silver	A kind of broomstick that is no longer being made.
+Sinistra, Prof.|Sinistra	Teacher of Astronomy at Hogwarts. Her lessons are given every Wednesday at midnight on top of the highest tower.<BR><U>Origin:</U><BR>Sinistra - A play on the word &quotsinister", meaning 'suggestive of evil or harm.' Also Latin for &quotleft".
+Sites of Historical Sorcery|Historical Sorcery	Book, quoted as saying that the inn at Hogsmeade was the headquarters for the 1612 goblin rebellion, and that the Shrieking Shack is the most severely haunted building in Britain.
+Skeeter, Rita|Rita|Rita Skeeter|Skeeter	A sensationalistic reporter who always seems to know the scoop at Hogwarts [4].<BR><U>Origin:</U><BR>Skeeter - A skeeter is American slang for a mosquito (apt for a female bloodsucker like her). Also, &quotlittle insects" (like mosquitos) in Italian is &quotpaparazzi".
+Skele Gro|Gro|Skele	A type of medicine you take when someone has de-boned you. When you take skele-Gro your bones grow back, but it's painful.
+Slytherin [SLITHER-in]|Salazer|Salazer Slytherin|Slytherin	A Hogwarts house named for one of the founders, Salazer Slytherin.
+Slytherin, Salazer|Salazer|Salazer Slytherin|Slytherin	The founder of the Slytherins house, a parseltoungue.<BR><U>Origin:</U><BR>Salazer - Antonio Salazar was the fascist dictator of Portugal for 36 years until his death in 1968. Though never officially an ethnic cleanser, he was a colonialist, who ruthlessly put down ethnic uprisings his his country's colonies in Africa. His name is perhaps used as a reference to the dictators past, such as Hitler, who believed in ethnic purity, just as Slytherin did.
+Smeltings	Private school Dudley attends, Uncle Vernon's alma mater.
+Smeltings Stick|Smeltings	Stick used at Smeltings to hit people with while the teachers are not looking. This is supposed to be good training for later in life.
+Smethley, Veronica|Smethley|Veronica|Veronica Smethley	Lockhart fan to whom Harry was addressing a letter when he first heard the Basilisk's voice.
+Snake|Slytherin	The mascot for Slytherin.
+Snape, Severus|Severus|Severus Snape|Slytherin|Snape	Hogwarts Potions teacher, wants to teach Defense Against the Dark Arts, head of Slytherin House.<BR><U>Origin:</U><BR>Severus - Derived from "severe", meaning strict or stern.<BR>Snape - A small town in Britain.
+Snitch (or Golden Snitch)|Golden|Golden Snitch|Quidditch|Snitch	The smallest Quidditch ball, gold with silver wings; earns 150 points for the team who catches it.
+Snowy	One of Ms. Figgs' cats that she bores Harry with.
+Snuffles|Black|Sirius|Sirius Black	The nickname Harry, Ron and Hemione were supposed to call Sirius Black among themselves.
+Sonnets of a Sorcerer	A cursed book, everyone who read from it spoke in limericks for the rest of their lives.
+Sonorus	A spell that amplifies a voice.
+Sorcerer's Stone (see also Philosopher's Stone)|Sorcerer|Sorcerer's Stone	A substance which turns any metal into gold; produces the Elixir of Life which will make the drinker immortal.
+Sorting ceremony|Sorting	Ceremony where First Year students are placed into one of Hogwarts houses.
+Sorting Hat|Sorting	An old wizard's hat which assigns new students to their houses at Hogwarts.
+Special Award for Services to the School|Award for Services to the School|Services to the School	A plaque given to Tom Riddle [2].
+Spell-O-Tape	Unpredictable wizards tape used to mend broken items.
+Spinnet, Alicia|Alicia|Alicia Spinnet|Gryffindor|Spinnet	Chaser for Gryffindor Quidditch team.
+Splinched	When a wizard Apparates improperly and leaves half of himself behind.
+Spore, Phyllida|Phyllida|Phyllida Spore|Spore	Wrote <U>One Thousand Magical Herbs and Fungi</U> [1]; the prefix &quotPhyll" means leaf, and a spore is a single-celled reproductive organism that is resistant to drying out and heat. It's capable of growing into a new organism. The reason it's funny its that mushrooms reproduce via spores, and Phyllida Spore is the author of <U>One Thousand Magical Herbs and Fungi</U> (fungi are mushrooms).
+Sprout, Prof.|Hufflepuff|Sprout	Professor of Herbology (plants) at Hogwarts and the head of the Hufflepuff house.<BR><U>Origin:</U><BR>Sprout - A small or baby plant.
+Squib	The child of two wizards who shows no wizarding ability.
+St. Brutis's Secure Center for Incurably Criminal Boys|Brutis|Criminal Boys|Incurably Criminal|Incurably Criminal Boys|Secure Center for Incurably Criminal Boys|St. Brutis	How the Dursley's explained Harry's absences during the school year.
+Stan	Conductor of the Knight Bus.
+Standard Book of Spells|Book of Spells	Required text at Hogwarts (&quotGrade" indicates year - &quotThe Standard Book of Spells, Grade One" was required for first year students, &quotGrade Two" for second year, and so on).
+Stink Pellets|Pellets|Stink	Small items you throw which explode, releasing fumes that smell very unpleasant; they are sold at Zonko's joke shop in Hogsmeade.
+Stoatshead Hill|Stoatshead	Location of the Portkey for the World Cup closest to the Weasley home.
+Stonewall High|Stonewall	The public secondary school Harry would have attended at the Dursley's [1].
+Study of Ancient Runes|Ancient Runes|Runes	A class taken by Hermione [3].
+Sugar quills|quills	Delicate sugar spun quills that you can suck on in class &quotand just look like you're thinking what to write next." (Ron, Book 3) Sold in Honeydukes.
+Summoning Charm|Summoning	Created with the spell, <I>&quotAccio"</I>.
+Supreme Mugwump|Mugwump|Supreme	Any independent, especially in politics. If you remember, Dumbledore ignores what the Ministry says and teaches what he wants at Hogwarts.
+Swedish Short-Snout|dragon	A type of a dragon.
+Swelling Solution|Swelling	Causes swelling when touches a person.
+Switch, Emeric|Emeric|Emeric Switch|Switch	Wrote <U>A Beginners' Guide to Transfiguarion</U>.
+Tarantallegra	A dancing spell.
+Tarapoto Tree-Skimmers (Peru)|Peru|Skimmers|Tarapoto|Tarapoto Tree|Tree|Tree Skimmers|Tree-Skimmers	Peruvians are believed to have gotten their first look at Quidditch from a group of European wizards sent by the International Confederation to monitor the Vipertooth population (Peru's native dragon).<BR>Since then, Peru has become the most skilled Quidditch nation in South America and the Tree-Skimmers, their most famous team recently toured Europe to great acclaim.
+Ted	Newscaster on Muggle televsision [1].
+The Dark Forces: A Guide to Self-Protection|A Guide to Self Protection|A Guide to Self-Protection|Dark Forces|Guide to Self Protection|Guide to Self-Protection|Self Protection|Self-Protection|The Dark Forces|The Dark Forces A Guide to Self Protection|The Dark Forces A Guide to Self-Protection|The Dark Forces: A Guide to Self Protection	A book for defending from dark forces.
+Thomas, Dean|Dean|Dean Thomas|Gryffindor|Thomas	A Gryffindor; a tall black boy and a fan of soccer who shares a room with Ron and Harry; he is a good artist.
+Three Broomsticks, The|The Three Broomsticks|Three Broomsticks	A pub in Hogsmeade.
+Tibbles	One of Ms. Figgs' cats that she bores Harry with.
+Time Turner	A necklace with a hourglass on it.
+Timms, Agatha|Agatha|Agatha Timms|Timms	A witch with an eel farm who bets on the Quidditch World Cup game.
+Tom	Bartender at The Leaky Cauldron.
+Ton Tongue Toffee|Ton Tongue	Candy which causes the tongue to grow huge and heavy.
+Toyohashi Tengu (Japan)|Japan|Tengu|Toyohashi	Quidditch has never achieved great popularity in the East (where the flying carpet is generally preferred to the broomstick).<BR>Japan, however, has been the exception to this general rule, with the sport steadily gaining popularity over the last century.<BR>The Tengu are Japan's most successful team, narrowly missing a win over Lithuania's Gorodok Gargoyles in 1994.
+Transfiguration|transfiguration	1) A spell which changes the nature of a person or object completely, the molecular structure of the object is altered.<BR>2) A class at Hogwarts taught by Professor McGongall.
+Travels With Trolls	A book by Gilderoy Lockhart.
+Treacle Tarts|Tarts|Treacle	Basically crusts, bread crumbs, lemon rind, eggs, flour and golden syrup baked like a pie.
+Trelawney, Sybil|Sybil|Sybil Trelawney|Trelawney	Divinations professor at Hogwarts; obsessed with dark predictions and death predictions. Hermione gets fed up with her and leaves her class. Ron and Harry think she is crazy.<BR><U>Origin:</U><BR>Sybil - Sybils were ancient prophetesses who foretold the future at the Oracle at Delphi.<BR>Trelawney - Trelawney is the hero of a Cornish poem called &quotAnd Shall Trelawney Die?", perhaps a reference to her custom of telling one student a year he will die before its end.
+Trevor	Neville's pet toad who is always escaping from his owner.
+Trimble, Quentin|Quentin|Quentin Trimble|Trimble	Wrote <U>The Dark Forces: A Guide to Self-Protection</U>.
+Triwizard Tournament|Tournament|Triwizard	A competition between three wizarding students, comprised of a series of three challenging tasks.
+Troy	An Irish Quidditch Team member.
+Tuffy	One of Ms. Figgs' cats that she bores Harry with.
+Turpin, Lisa|Lisa|Lisa Turpin|Ravenclaw|Turpin	Student sorted into Ravenclaw at Hogwarts [1].
+Twig Trimmer|Trimmer|Twig	A device used to cut unruly twigs off your broom.
+Unfogging the Future	Book by Cassandra Vablatsky.
+Unicorn	A horse-like creature with a horn coming out of its head. If you drink its silvery blood, it will keep you alive for a limited time if you are near death... at a price. You will have a cursed, half-life. It is faster than a werewolf and very graceful. It's fur is used in Potions and the making of magic wands.
+Unspeakables|Unspeakable	Members of the Department of Mysteries.
+Uric the Oddball|Oddball|Uric	Mentioned in Binns' History of Magic class, a leader in the goblin rebellion.
+Vablatsky, Cassandra|Cassandra|Cassandra Vablatsky|Vablatsky	Wrote <U>Unfogging the Future</U>.
+Vauxhall Road, London|Vauxhall|Vauxhall Road	Where a Muggle variety store is located [2].
+Vector, Prof.|Vector	The Arithmancy teacher at Hogwarts.<BR><U>Origin:</U><BR>Vector - A mathematical term.
+Veelas|Veela	The mascots for The Bulgraian Quidditch Team. These creatures are not as pretty as they look at first.
+Veritaserum Potion|Veritaserum	A truth potion.
+Viridian, Vindictus|Vindictus|Vindictus Viridian|Viridian	Wrote <U>Curses and Countercurse (Bewitch your Friends and Befuddle Your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying and Much, Much More)</U> [1].
+Voldemort, Lord|Lord|Lord Voldemort|Voldemort	Powerful Dark Wizard whom most refer to as "You-know-who". He killed Harry's parents and left a thunder-bolt scar on Harry's forehead in a failed attempt to kill him as a baby.<BR><U>Origin:</U><BR>Voldemort - A combination of French terms: "vol" meaning "flight", "de" meaning "of" and "mort" meaning "death, killing" in French and Latin. "Vol de mort" can also mean "Theft by death," implying Voldemort "stole" Harry's family from him by killing his parents.
+Volkov	A Bulgarian Quidditch Team member.
+Voyages With Vampires	A book by Gilderoy Lockhart.
+Vratsa Voltures (Bulgaria)|Bulgaria|Voltures|Vratsa|Vratsa Voltures	The Vultures are perhaps the most renowned of the many superb European teams.<BR>Seven times European Cup winners, the Vultures are undoubtedly one of the most thrilling teams in the world to watch, pioneers of the long goal (shooting from well outside the scoring area), and always willing to give new players a chance to make a name for themselves.
+Vulchanov	A Bulgarian Quidditch Team member.
+Waddiwasi	A spell used by Prof. Lupin to send gum up Peeve's nose [3].
+Waddle Bird	Used as a password to get into Gryffindor common room [2].
+Waffling, Adalbert|Adalbert|Adalbert Waffling|Waffling	Wrote <U>Magical Theory</U> and <U>A History Of Magic</U>.
+Wand	For magic (willow is good for charm work, mahogany for transfiguration).
+Wanderings With Werewolves	A book by Gilderoy Lockhart.
+Warbeck, Celestina|Celestina|Celestina Warbeck|Warbeck	Singing sorceress popular on the Whitching Hour radio program.
+Wattlebird	Gryffindor password at the beginning of Book 2.
+Weasley's Wizard Wheezes|Weasley|Wheezes|Wizard Wheezes	Product line of joke items invented by Fred and George Weasley.
+Weasley, Arthur|Arthur|Arthur Weasley|Weasley	Ron's father, works in the Misuse of Muggle Artifacts department of the Ministry of Magic and enjoys tinkering with Muggle items.
+Weasley, Bill|Bill|Bill Weasley|Weasley	Was head boy at Hogwarts, works for Gringotts in Africa.
+Weasley, Charlie|Charlie|Charlie Weasley|Weasley	Was Quidditch captain at Hogwarts, in Romania studying dragons.
+Weasley, Fred|Fred|Fred Weasley|Gryffindor|Weasley	Twin of George, Gryffindor, Beater on Quidditch team.
+Weasley, George|George|George Weasley|Gryffindor|Weasley	Twin of Fred, Gryffindor, Beater on Quidditch team.
+Weasley, Ginny|Ginny|Ginny Weasley|Weasley	Youngest Weasley and only girl, has a crush on Harry.
+Weasley, Molly|Molly|Molly Weasley|Weasley	Mother of Ron, wife of Arthur, very matronly and worrisome.
+Weasley, Percy|Percy|Percy Weasley|Weasley	The Gryffindor Prefect, currently the oldest Weasley student at Hogwarts.
+Weasley, Ron|Ron|Ron Weasley|Weasley	Youngest Weasley boy, Harry's best friend.
+Weatherby	Name Barty Crouch calls Percy.
+Weird Sisters, The|Sisters|The Weird Sisters|Weird|Weird Sister|Weird Sisters|shakespeare	A very famous musical group.<BR><U>Origin:</U><BR>The creatures who prophesy the destinies of the main characters in Shakespeare`s Macbeth.<BR>
+Welsh|dragon	A type of a dragon.
+Wendelin the Weird|Weird|Wendelin	A witch from the medieval times who loved getting burned and performing a Flame Freezing Charm; was burned forty-seven times in different disguises.
+Werewolf	A half man and half wolf creature.
+Which Broomstick|Broomstick|Which	Book or catalogue (with order form in the back) which describes the different makes of flying broomsticks.
+Whitby, Kevin|Kevin|Kevin Whitby|Whitby	A Hufflepuff student [4].
+Whomping Willow|Whomping|Willow	A tree outside Hogwarts that becomes violent against anything it comes in contact with.
+Wimbourne Wasps|Wasps|Wimbourne	A Quidditch team, Ludo Bagman was a star Beater in his day [4].
+Wimple, Gilbert|Gilbert|Gilbert Wimple|Wimple	Works at the Commitee on Experimental Charms.
+Wingardium Leviosa|Leviosa|Wingardium	A spell to make things fly.<BR><U>Origin:</U><BR>Wingardium Leviosa - "Wing" (ligament of propulsion) is the root of 'wingardium'. The root for 'Leviosa' is "levitate", which means to float.
+Winky	House elf who comes to work at Hogwarts, Worked for Barty Crouch[4].
+Witches Weekly|Weekly|Witches	Magazine for witches which has contest for most charming smile.
+Witching Hour|Witching	A wizard radio program.
+Wizard Chess|Chess	A game of chess with ginat, living pieces.
+Wizards Duel|Duel	A one-on-one fight between wizard's, a challenge.
+Wolfsbane	A plant used in potions which is the same as monkshood and also goes by the name of aconite.
+Wolfsbane Potion|Wolfsbane	A potion which makes a werewolf safe during the full moon.
+Wood, Oliver|Gryffindor|Oliver|Oliver Wood|Wood	Captain and Keeper of the Gryffindor Quidditch team in books 1-3.
+Wormtail|Peter|Peter Pettigrew|Pettigrew	The nickname of Peter Pettigrew as a student at Hogwarts.
+Wormwood	An herb that with it and ashphodel it makes a sleeping potion so powerful it's known as the &quotdrought of living death".
+WWN|Network|Wireless|Wireless Network	Wizarding Wireless Network.
+Year With The Yeti	A book by Gilderoy Lockhart.
+Yellow|Hufflepuff	The color of the Hufflepuff Quidditch robes.
+You-know-who|You know who	The term given to Lord Voldemort when people are too afraid to say his name.
+Yvonne	Mrs. Dursley's friend, vacationing in Majorca [1].
+Zabini, Blaise|Blaise|Blaise Zabini|Slytherin|Zabini	Student sorted into Slytherin at Hogwarts [1].
+Zograf	A Bulgarian Quidditch Team member.
+Zonko's|Zonko	The joke shop in Hogsmeade.

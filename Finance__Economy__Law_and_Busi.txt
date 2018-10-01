@@ -1,0 +1,551 @@
+##name	Finance, Economy, Law and Business
+##sourceLang	English
+##targetLang	Hebrew
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1255
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1255
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2005/08/13, 09:30
+##author	Yael Sela-Shapiro
+##description	This glossary holds financial, economic and legal terms. All terms are verified. \nPlease note that some terms may have more than one translation.
+##browsingEnabled	
+##bgl_creationTime	2004/02/25, 07:52
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+BPR	הבנייה מחדש (תהליך ב-TQM)
+CEEMEA|Central Eastern Europe Middle East & Africa	Central Eastern Europe Middle East &amp; Africa <BR>מרכז ומזרח אירופה, המזרח התיכון ואפריקה
+Exchange Traded Funds|ETF|Exchange Traded Fund	תעודות סל
+IAS|international auditing standard	תקן בינלאומי לביקורת פנים (חשבונאות)
+IASB|International Accounting Standards Board	מועצת התקינה החשבונאית הבינלאומית
+IFRS	תקנים בילאומיים של דיווח כספי<BR>
+NFPS	מוסדות ציבוריים שאינם פיננסיים
+account balance	יתרת חשבון
+accounting cycle	מחזור חשבונאי
+accounting estimate|accounting estimates	אומדן חשבונאי
+accounting profit|accounting profits	רווח חשבונאי
+accounts payable	חשבונות זכאים
+accounts receivable|receivable	חשבונות חייבים
+accrue	לצבור
+accrued	נצבר/ת
+accumulated depreciation	פחת צבור
+activity	פעילות
+actual	בפועל
+adjusment	התאמה (סוג של רישום חשבונאי)
+adjusting entry	רישום התאמה
+affiliated	מסונף
+allowance for uncollectible|allowance	הפרשה לחובות מסופקים
+american depository Receipt|ADR	תעודת פדיון אמריקאית
+amortization	ירידת ערך
+analytical review	סקירה אנליטית
+annuity	אנונה
+annuity due	גמלה חלה
+application control	בקרת יישומים
+appraisal	הערכה (בניהול איכות)
+assets turnover	יחס מחזור נכסים<BR>
+associate	גוף מסונף, למשל חברה מסונפת
+atrribute	תכונה
+attribute sampling	דגימת תכונות
+attribution method	שיטת הייחוס
+auditor	מבקר
+backlog	צֶבר
+balance sheet	מאזָן
+bank statement	הודעת בנק
+batch processing	עיבוד אצוות
+beta	בטא (מדד סטטיסטי המבטא את אחוז השינוי בשערו של כל נייר כתוצאה משינוי של אחוז אחד במדד מולו מתבצעת הבדיקה (ברירת המחדל היא מול מדד כללי).)
+bid	(להגיש) הצעת מחיר
+bill of material	מפרט חומרים
+billed price|billed	מחיר בחשבון
+blanket order	הזמנה כוללת
+bond discount	ניכיון על אג"ח
+bond payable|bonds payable	אג"ח לפרעון
+book value|book values	ערך מאזני (פנקסי)
+breakeven	איזון, נקודת איזון
+business combination	שילוב עסקי (חיבור של יחידות עסקיות לישות חשבונאית יחידה)
+business interuption	הפרעה לפעילות עסקים
+call back|callback	החזרת קריאה
+call provision	כפיית המרה
+capital budget	תקציב פיתוח / תקציב הון
+capital consumption	צריכת הון
+capital cost|cost of capital	עלות הון
+capital outlay|outlay of capital	הוצאה הונית
+carrying amount	סכום פנקסי / סכום בספרים
+carrying cost	עלות החזקה
+cash balance	יתרת מזומנים
+cash disbursement	תשלומי מזומן
+cash distribution	חלוקת מזומנים
+cash receipt|cash received	תקבולים במזומן
+cash sale	מכירה במזומנים
+cause	גורם
+centralized	ריכוזי
+charge account	חשבון חיובים
+charter	כתב אמנה
+checking digit	ספרת ביקורת
+chief operating officer|COO	סמנכ"ל תפעול
+chief people officer|cpo	מנהל משאבי אנוש
+collection percentage|collections percentage	אחוזי גבייה
+collection period	תקופת גבייה
+commercial loan	הלוואה מסחרית
+common law marriage	ידועים בציבור
+common share	מניה רגילה
+commonality	אחידות (בניהול איכות)
+comparability	ברות השוואה
+comparable	בר השוואה
+comparative balance	מאזן משווה
+compartmentalize	למדר
+compartmentalized	ממודר
+compensating balance	יתרה מקזזת / מפצה (יתרה שלווה נדרש להחזיק בחשבון עובר ושב כתנאי לקבלת הלוואה)
+compliance audit	ביקורת ציות
+composition of External Debt|external Debt composition	הרכב החוב החיצוני
+compounding a felony|compound|compund a felony	העלמת עבירה
+comptroller	חשב כללי
+confidence level	רמת מהימנות / בטחון
+configuration Management	ניהול תצורה
+consideration	תמורה
+console log	יומן מסוף
+construction spending	עלויות בנייה
+consumer expectations index	מדד הציפייה הצרכני
+consumer installment credit	אשראי לצרכנים
+consumer price index|CPI	מדד המחירים לצרכן
+consumer sentiment index	מדד הרגישות הצרכני
+contigency	תלויה
+contingency plan	תוכנית מגירה
+continuous improvement|CI	שיפור מתמיד (שיטות וטכניקות לאיתור ומניעת בזבוז ולשיפורים כלליים בתהליכים, איכויות ועלויות העסק)
+contra	נגד
+contribution margin	הכנסה תורמת /
+control chart	לוח /תרשים בקרה
+control span|span of control	מוטת שליטה
+control total|control totals	סיכומים מבקרים<BR>*סיכום בקרה*
+corner-point Solution|corne point Solution	פיתרון פינתי
+corporate bond	אג"ח קונצרנית
+corrective action	פעולה מתקנת
+correlation analysis	ניתוח מִתאָם
+corroborative evidence	ראיות מסייעות
+cost of goods sold|goods sold	עלות סחורה שנמכרה / עלות מֶכר
+cost variance	סטיית עלות
+coupon rate	שיעור תלוש (של אג"ח)
+covariance	שונות משותפת
+covered option|covered	אופציה מכוסה
+crash	להאיץ, מואץ (בתיאורית "הנתיב הקריטי", לזרז פעילות מסוימת כדי לסיים אותה, תוך ספיגת עלות גבוהה יותר)
+credit history	קורות אשראי
+credit worthiness|credit worthy|creditworthy	כושר אשראי
+critical incident technique|C.I.T|CIT|critical incident	טכניקת האירוע הקריטי
+cumulative	צובר (נייר ערך צובר)
+currency translation adjustment|CTA	הפרשי שער הנוצרים בתהליך התרגום (תרגום של דוחות כספיים של חברות מוחזקות, בנות או כלולות, העורכות את דוחותיהם הכספיים לפי מטבע פעילות השונה מזה של המחזיקה)
+current asset	נכס שוטף
+current cost	עלות נוכחית
+current deposit	פקדון עו"ש / שוטף
+cycle count	מחזורי ספירת מלאי (ספירת המלאי במשך כל השנה)
+debit	חיוב
+debt service to exports|debt service to export|debt service to exports ratio|ratio of debt service to exports	יחס שירות החוב לייצוא {יחס של שירות החוב החיצוני (קרן וריבית) ליצוא הסחורות והשירותים במשך שנה).
+debt to GDP|debt to GDP ratio|ratio of debt to GDP	יחס החוב לתמ"ג
+debt to equity|debt-to-equity	(יחס) התחייבויות להון עצמי
+debt to exports|debt to exports ratio|ration of debt to exports	יחס החוב לייצוא
+default risk	סיכון אי-קיום (למשל סיכון שמנפיקיה של אגרת חוב לא יוכלו לשלם את הריבית או הקרן שלה במועד פרעונה)
+deferred credit	זיכוי נדחה
+deferred tax	מס נדחה
+deficiency	ליקוי
+defined benefit	פנסיה מוגדרת על פי גימלה<BR>קצבה מוגדרת מראש (בפנסיה צוברת)
+defined contribution	הפרשה מוגדרת מראש (בפנסיה צוברת)
+definite terms	מסוימוּת (בחוזה)
+demand deposit|Demand deposits	פקדון לפי דרישה (שהמפקיד יכול לתבוע בכל זמן)
+demurrage	היטל עיכוב / צפיפות
+denominated	(ערכו של דבר) נקוב (ב-)
+depreciated cost	עלות מופחתת
+depreciation expense|depreciation expenses	הוצאה לפחת
+design	תיכוּן
+design review	סקר תכן (בניהול איכות)
+diminishing balance	(שיטת) היתרה הפוחתת
+direct labor|direct labour	עבודה ישירה
+discount rate	שיעור ניכיון
+discovery sampling	דגימת גילוי
+discriminatory benefit	הטבה מפלה
+disposed	נגרע
+dissent	דעת מיעוט (של שופטים)
+diversified company	חברה מגוּונת
+dividend in arrears|in arrears	דיבידנד בפיגור
+dividend payout ratio|dividend-payout	יחס דיבידנד משולם
+division	חטיבה
+domestic capital formation	השקעה מקומית
+downtime	בטלה של אמצעי יצור
+dumping	מחיר היצף
+durable goods order|durable goods orders	הזמנות מוצרים בני קיימא
+duties	תחומי פעילות
+earmarked donation	תרומה ממוקדת / מיועדת
+echo check	בידוק הד
+economic Order Quantity|EOQ	מודל ההזמנה הכלכלית
+effect	תוצאה
+effective interest amortization|effective interest	הפחתה לפי ריבית אפקטיבית
+electronic data interchange|EDI	<B>העברת נְתוּנִים אֵלֶקְטְרוֹנִית</B><BR>
+elements	איתני הטבע
+engagement	הִתקשרוּת (הסכם לביצוע ביקורת)
+entry	רישום
+equity method	שיטת *מיזוג בשורה אחת*<BR>שיטת שווי מאזני
+error rate	שיעור טעויות
+estoppel	הֶשתֵק (במשפטים)
+eurobond|eurobonds	יוּרוֹבּוֹנד
+exception	חריג
+excess of imports over exports	עודף היבוא על היצוא
+exercise	מימוש / לממש (נייר ערך, אופציה)
+exercise price	מחיר מימוש (של נייר ערך)
+expected return	תשואה צפויה
+exponential smoothing	החלקה מעריכה (שיטה סטטיסטית חשבונאית)
+export of goods|goods export	יצוא סחורות
+export volume	נפח היצוא
+external auditor|auditor	מבקר חיצוני
+external failure	כשל חיצוני
+extinguish	לסלק חוב
+extinguishment	סילוק חוב
+extraordinary item|extraordinary items	פריט מיוחד
+face amount	סכום נקוב
+factory overhead	תקורת חרושת
+failure	כֶּשל
+fair market value	ערך שוק הוגן
+fair value	ערך הוגן
+feedforward	היזון קדימה (בניגוד להיזון חוזר - feedback)
+fidelity bond	ערובת אומן (ביטוח לכיסוי נזקיו של אדם שניתן בו אמון והוא הכזיב)
+final good|final goods	מוצר סופי (שניתן להשתמש בו כמות שהוא ואינו דורש עיבוד נוסף).
+financial derivative	נגזרת פיננסית
+financial instrument|financial instruments	מסמך כספי
+financial lease|finance lease	חכירה מימונית / הונית
+financial leverage degree|DFL|degree of financial leverage	דרגת המנוף הפיננסי
+firm commitment	התקשרות מחייבת
+fiscal period	תקופת כספים
+fixed overhead	הוצאות תקורה קבועות
+flextime	זמן עבודה גמיש
+flow variable|flow variables	משתנה זורם (יחסים שגם המונה וגם המכנה שלהם הינם משתנים זורמים, כגון יחס החוב לייצור)
+footing test|footing|footings	בדיקת סיכומים
+foreign assets	נכסים במטבע חוץ
+forein fund	קרן חוץ (קרן נאמנות שהוקמה בחו"ל).
+forward exchange	שטר חליפין למועד
+free rider|free ride|free riding	טפיל, טפילות
+freight absorption	ספיגת דמי הובלה
+general ledger	ספר כללי
+generalized audit software	תוכנת ביקורת מוכללת
+global depository Receipt|GDR	תעודת פדיון גלובאלית
+going concern assumption	הנחת עסק חי
+good faith|good-faith	תום לב
+goods and services account	חשבון סחורות ושירותים
+goods sold	סחורה שנמכרה
+goodwill amortization	ירידת ערך המוניטין
+gross domestic product|GDP	תוצר לאומי גולמי
+gross margin	רווח גולמי
+hash total	סכום גיבוב<BR>*סיכום סרק*
+hedge	להתגונן, לגדר
+hedging relationship	יחסי גידור
+housing start|building permit|building permits|housing starts	התחלות בנייה / היתרי בנייה
+identifiable	בר-זיהוי
+implementation	מימוש (מערכת מחשב)
+implicit interest	ריבית משתמעת
+import of goods|goods import	יבוא סחורות
+import volume	נפח היבוא
+imputed charge	חיוב רעיוני
+imputed interest	ריבית זקופה
+in ample time|in time	מבעוד מועד
+in process|in-process	בתהליך
+income approach	גישת ההכנסה / גישת היוון ההכנסות
+income bond	אג"ח הכנסה
+income statement	דוח רווח והפסד
+income summary	סיכום הכנסה
+incremental	תוספתי
+incremental cash flow	תזרים מזומנים תוספתי
+incurred cost	עלות שנגרמה
+index fund	קרן אינדקס (קרן המשקיעה בהתאמה למדד מסוים קיים, קבוע מראש ואינו משתנה)
+index of export volume|export volume index	מדד נפח היצוא
+index of import volume|import volume index	מדד נפח היבוא
+indexed bond|index bond|indexed bonds	אגרת חוב צמודה (למדד)
+industrial output	תפוקת התעשיה
+industry	ענף
+inflow	(מזומנים) מפעילות
+information on the Creditor|information on Creditor	מידע על נושים
+inheritance Order	צו ירושה
+instrument	מכשיר (פיננסי)
+integral equipment	ציוד המהווה חלק אינטגרלי מנכס
+integrated Test Facility|ITF	מתקן בדיקה משולב
+interest expense	הוצאות ריבית
+interest income	הכנסה מריבית
+interest payable	ריבית לשלם
+interim	ביניים
+intermediate good|intermediate goods	מוצר ביניים (שאני מיועד לצריכה ישירה אלא מהווה תשומה ליצור מוצרים סופיים final goods)
+internal auditor|auditor	מבקר פנימי
+internal failure	כשל פנימי (ניהול איכות)
+international Reserves	יתרות מטבע חוץ
+internationl accounting standard|IAS	תקני חשבונאות בינלאומיים<BR>תקן בינלאומי לחשבונאות
+internatl audit	ביקורת פנימית
+inventory control	בקרת מלאי
+inventory turnover	מחזור מלאי
+inventory turnover rate|turnover rate	יחס מחזור המלאי
+inventory valuation	הערכת מלאי
+investment asset	נכס השקעה
+investment good|investment goods	נכסי השקעה
+investment income	הכנסה מהשקעות
+job enlargement	הרחבת העיסוק (טכניקת ניהול)
+joint venture	מיזם משותף
+journal entry	רישום יומן
+just in time|J.I.T|JIT|just-in-time	ניהול זמן אמת
+justification	הצדקה (חשבונאות)
+labor productivity|labour productivity	פריון כוח העבודה
+lead time	זמן תגובה
+legal obligation	חובה מן הדין
+liability insurance	ביטוח חבות
+liabilty	חבות<BR>התחייבות=obligation<BR>מחויבות=commitment
+libel	הוצאת לשון הרע
+linear programming	תכנון ליניארי
+liquidation	חיסול
+listing	רישום
+lockbox	תיבת הפקדה
+logical security	אבטחה לוגית [על פי מכון התקנים]
+lower control limit|LCL	גבול בקרה תחתון (בבקרת תהליכים)
+lower specification limit|LSL	גבול מפרָט תחתון (בבקרת תהליכים)
+magistrate's Juvenile Court|Juvenile Court|Magistrate's Young offenders Court	בית משפט השלום לנוער
+maintainability	תחזוקתיות (בניהול איכות) - יכולת הארגון לתחזק את מערכותיו.
+malicious prosecution	עוולת נגישׂה
+management by objectives|MBO	ניהול על פי יעדים
+managerial control	בקרה ניהולית
+manufacturing cycle	מחזור ייצור
+marketable securities|marketable security	ניירות ערך סחירים
+master budget	תקציב אב
+matching	הקבלה
+maximization	השׂאה
+maximize	להשיא
+mean Time To Repair|MTTR	זמן ממוצע לתיקון תקלה (בניהול איכות)
+midrange computer	מחשב ביניים
+misstatement	הודעה כוזבת
+mobility allowance	גמלת ניידות (חלק ממזונות המשולמים בין זוג גרוש)
+money market mutual fund	קרן כספים
+mortgage bond|mortgage bonds	אגרת חוב במשכנתא
+multistage sampling	דגימה רבת שלבים
+mystery shopper	לקוח סמוי
+naked option|naked	*אופציה עירומה*<BR>אופציה ללא כיסוי<BR>
+national association of purchasing managers|NAPM	האגודה הלאומית של הקניינים / מנהלי הרכש
+net value	שווי נקי
+non-indexed|nonindexed	לא צמוד
+noncurrent|non-current	לא שוטף
+note payable|notes payable	שטר לפרעון
+note receivable|notes receivable	שטרות לקבל
+notional Interest	ריבית רעיונית
+observable	נצפה
+observation	הבחנה
+observed	נצפה
+obsolete	מיושן, להתיישן
+occurence	אירוע
+occurence rate	שיעור ההיארעות
+offsetting contract	עסקה הפוכה
+oligopolistic Coordination	תיאום אוליגופוליסטי
+on hand	(מלאי) בעין
+online real-time processing|OLRT|online real time processing|online realtime processing	עיבוד מקוון בזמן אמת
+operating asset|operating assets	נכס תפעולי
+operating cost	עלות תפעולית / עלות הפעלה
+operating income	הכנסה תפעולית
+operating lease	חכירה תפעולית
+operational Utility	תועלת מבצעית (בניהול איכות) - יכולתה של המערכת לבצע את התפקיד אשר נועד לה
+operational audit	ביקורת ניהול
+option plan	תוכנית הקצאה
+order entry	(מערכת) הזנת הזמנות
+original Maturity	פירעון מקורי
+origination fee	עמלה ראשונית
+out of the money|out-of-the-money	"מחוץ לכסף" [מקובל בקרב רואי חשבון לומר כך]<BR>מחוץ לתחום הכדאיות
+outflow	(מזומנים) לפעילות
+outstanding balance	יתרת חוב
+outstanding bond	אג"ח ביד הציבור
+outstanding check|outstanding checks	המחאה שטרם נפרעה
+outstanding debt	חוב שוטף / חוב שטרם נפרע
+outstanding stock|outstanding stocks	מניה המצויה בידי הציבור
+overcapitalization	היוון יתר
+overstatement|overstate|overstated	הערכה מופרזת ; דיווח-יתר
+pad|padding	לרפד, ריפוד
+parallel Testing	בדיקה מקבילה
+parity check	בידוק זוגיוּת (סטטיסטיקה)
+participative management	ניהול שתפני
+past consideration	תמורה שבעבר
+past service cost|past-service cost|pastservice cost	עלות ותק
+pay as you go	מימון שוטף / פנסיה שוטפת
+payable account|payable	חשבון זכאים
+payable bond|payable bonds	אג"ח לפרעון
+payback	החזר / פרעון
+payback period	תקופת החזר / פרעון
+payroll department|payroll	מחלקת שכר
+payroll distribution	התפלגות שכר
+payroll register	פנקס שכר
+per capita	לנפש
+perceived value	ערך נתפס
+percentage of completion	אחוז השלמה (שיטה חשבונאית)
+performance commitment	מחויבות ביצועית
+permanent file	תיק קֶבע
+perpetual inventory	מלאי מתמיד
+personal consumption expenditure|PCE	הוצאות לצריכה עצמית
+personal gain	רווח אישי
+pooling of interests|pool interests	איחוד עניין (שיטה חשבונאית למיזוג עסקים)
+predatory pricing|predatory	תמחור טורף
+preemptive right|preemptive	זכות קדימה
+preferred share|preferred shares	מניות מועדפות / מניות בכורה
+preleminary survey	סקר מִקדמי
+preprocess|pre-process	עיבוד מקדים
+present value of debt to GDP|present value of debt to GDP ratio|ratio of present value of debt to GDP	יחס הערך הנוכחי של החוב לתמ"ג
+present value of debt to export|present value|present value of debt to export ratio|ratio of present value of debt to export	יחס הערך הנוכחי של החוב לייצוא
+price-to-earnings ratio|price to earnings|price-to-earning|price-to-earnings	מכפיל-רווח
+primary asset	נכס ראשי
+private consumption expenditure	הוצאה לצריכה פרטית
+probate Order	צו קיום צוואה
+procurement	רֶכש
+product design verification	אימות תכן המוצר (בניהול איכות)
+production input|production inputs	תשומה ליצור
+production price index	מדד מחירי היצור
+profit margin|margin of profit	שולי רווח
+program evaluation review technique|PERT	טכניקה להערכת תוכנית ובדיקתה
+progress billing	(חיוב) על בסיס התקדמות (העבודה)
+projected sales	תחזית מכירות
+pronouncement	הודעה פומבית
+property improvement|property improvements	שיפור הכלול בנכס
+proportional analysis	ניתוח יחסי
+proprietorship	בעלות
+provision	עתודה
+proxy fignt	מאבקי שליטה (נסיון להשתלט על חברה באמצעות שכנוע בעלי מניות לייפות את כוחם של אחרים להצביע בשמם, כלומר להעביר את זכויות ההצבעה שלהם לאדם אחר)
+public switched network|PSN|public switch	רשת מיתוג ציבורית
+purchasing record|purchase record|purchasing records	רשומת קניה
+quantity variance	סטיית כמות
+range check	בידוק טווח (סטטיסטיקה)
+realizable	בר-מימוש
+realizable value	ערך בר-מימוש
+reasonableness test	מבחן סבירוּת (סטטיסטיקה)
+receipt journal	יומן תקבולים
+receivables	חשבונות חייבים
+receiving report	דוח תקבולים
+reconciliation	התאמות הבנק
+recoupment	כיסוי הפסדים (על ידי העלאת המחיר)
+recoverable	בר השבה
+recovery	התאוששות
+redemption	פדיונות
+registered bond	אג"ח על שם / רשומה
+registrar of Societies	רשם העמותות
+regulatory notice	הודעת הסדרה / הודעה מסדירה
+remaining Maturity	פירעון נותר
+remote	(סיכוי) קלוש (בכלכלה ופיננסים)
+render service	לתת שרות
+rendering service|rendering services	מתן שירותים
+rental	הכנסה מהשכרה
+reorder|reordering	חידוש מלאי
+repair	תיקון
+repurchase Agreement|Repurchase Agreements|repo|repos	הסכם רכש חוזר
+residential building	בניה למגורים
+residual income	הכנסה שיורית
+retained earnings	רווח בלתי מחולק
+retest	בחינה מחדש
+retire	לפדות / לסלק (נייר ערך או התחייבות)
+retributive justice	צדק גמולי
+return on assets|ROA	תשואה לנכסים
+return on equity|ROE	תשואה להון עצמי
+revelation surplus	עודף משיערוך
+revenue recognition	הכרה בהכנסה
+reverse entry	ביטול רישום
+reverse split	פיצול הפוך
+reversing entry	רישום מחזיר
+review	סקירה, לסקור
+revised estimate|revised	אומדן מתוקן
+revision	תיקון
+rework	עיבוד מחדש
+ring network	רשת טבעת
+risk exposure	חשיפה לסיכון
+robustness	חסינות
+role of Income|Income role	תפקיד ההכנסה
+role of assets|asset role|assets role	תפקיד הנכסים
+roll of Contractors	פנקס הקבלנים
+safety stock	מלאי ביטחון
+sales discount|purchase discount	הנחת מכירות.<BR>נקראת גם "הנחת קניות" (purchase discount) בספרי החשבונות של הקונה.
+sales journal	יומן מכירות
+sales return|sale return	החזר מכירות
+sampling interval	מרווח דגימה
+scatter diagram	דיאגרמת פיזור
+schedule	גיול (חשבונאות)
+scienter	מוּדעוּת
+screening|screen	סינון (בניהול איכות)
+sector report	דיווח על פי תחומי פעילות
+segment report	דיווח מגזרי
+self checking digit	ספרת ביקורת עם בדיקה עצמית
+sequence check	בדיקת רציפוּת
+service a loan|loan service|servicing a loan	מתן שירותי הלוואה
+service level agreement|SLA	הסכם רמת שירות
+settings	הגדרות (מחשבים)
+settlement	ביצוע תשלום
+share premium	פרמיה על מניות
+shareware	תוכנה שיתופית / שוֹתְפה
+short term debt|short-term debt	חוב לטווח קצר
+significant deficiency	ליקוי מהותי
+significant weakness	חולשה מהותית
+slander	הוצאת דיבה
+slip	שובר
+sole proprietor	בעלים יחיד
+sole proprietorship	בעלות יחיד
+specification Limit	גבול מפרט (בבקרת תהליכים)
+standard cost variance	סטיית עלות תקנית
+standard error	שגיאת/טעות תקן
+stated interest rate	שער ריבית נקוב
+statement	דו"ח
+statement of facts|facts statement	תסקיר עובדות
+stock variable|stock variables	משתנה בסיסי (המונה והמכנה הם משתנים בסיסיים בכלכלה)
+stockout	חוסר מלאי
+straight bond	אג"ח ישירה<BR>אג"ח רגילה (אקדמיה)
+straight line depreciation|straight line|straight-line depreciation	שיטת פחת שווה
+stratified sampling	דגימת שכבות
+subordinated bond|subordinated	איגרת חוב כפופה
+subsidiary ledger	ספר עזר
+substantive testing	בדיקה מבססת
+sufficiency	דַיוּת
+sum of years method|sum of years|sum-of-years	פחת לפי סכום ספרות
+supervisory review	סקירת פיקוח
+supplier credit|suppliers credit	אשראי ספקים
+supporting document	מסמך תומך
+supporting documentation	תיעוד תומך
+system control audit review file|SCARF	קובץ
+systematic risk	סיכון שיטתי
+tangible asset	נכס מוחשי
+target value	ערך-יעד
+tax loss	הפסד לצורכי מס
+tax return	החזר מס / דוח מס
+taxable profit	רווח חייב במס
+theory of constraints|T.O.C|TOC	ניהול אילוצים / תורת האילוצים
+times interest earned	יחס כיסוי ריבית
+total quality management|T.Q.M|TQM	ניהול איכות כוללת
+trade accounts payable	חשבון ספּק
+trade barrier	מחסום סחר
+trade negotiator	נציג-סחר
+treasurer	גזבר
+treasury bond	אג"ח ממשלתית
+turnaround	מִפנֶה
+turnaround goal	יעד מִפנֶה
+unadjusted	לא מתואם (מאזן-בוחן לא מתואם, לדוגמה)
+unamortized	בלתי מופחת
+uncollectible|uncollectible account|uncollectible debt	חוב מסופק
+unconscionable influence	השפעה בלתי הוגנת
+undepreciated cost|depreciated	עלות בלתי מופחתת
+under influence|influence under	השפעה לא הוגנת (במשפטים)
+underlying share	מניה מסתתרת
+unearned	(הכנסה) לא מיגיעה
+unexpired	שטרם פג/ה
+unexpired expense	הוצאה שטרם פגה
+unity of command	יחידוּת הפיקוד (כפיפותו של כל עובד במישרין לממונה אחד בלבד)
+unsecured option|unsecured	אופציה לא מובטחת
+upper Control Limit|UCL	גבול בקרה עליון (בבקרת תהליכים)
+upper Specification Limit|USL	גבול מפרָט עליון (בבקרת תהליכים)
+useful life	משך שימוש
+valid contract	חוזה תקף
+validity check	בידוק תוקף (סטטיסטיקה)<BR>*בדיקת תקפות*
+variables sampling	דגימת משתנים
+vendor	ספק
+vested benefit|vested benefits	תגמולים מוקנים
+void ab initio	בטל מעיקרו
+voidable contract	חוזה ניתן לביטול
+volume of sales|sale volume|sales volume	היקף המכירות
+voting stock	מנית הצבעה
+warrant option	תעודת אופציה
+warranty policy	פוליסת אחריות
+weakness	חולשה
+work in process	עבודה בתהליך
+write-off|write off	מחיקה
+yield losses	אובדן תפוקה בייצור

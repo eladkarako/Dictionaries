@@ -1,0 +1,347 @@
+##name	Terms and Definitions
+##sourceLang	English
+##targetLang	English
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	Office of Rare Diseases
+##description	Terms and definitions related to rare diseases.
+##bgl_creationTime	2000/06/07, 06:51
+Acquired mutations	Gene changes that arise within individual cells and accumulate throughout a person's lifetime; also called somatic mutations. (See hereditary mutation.)
+Adenine (A)|a|adenine	A nitrogenous base, one member of the base pair A-T (adenine-thymine).
+Advanced maternal age	Women over age 34 (age 35 at delivery) at increased risk for genetic changes in fetus.
+AEC	Atomic Energy Commission
+Alleles	Variant forms of the same gene. Different alleles produce variations in inherited characteristics such as eye color or blood type.
+Alpha-fetoprotein (AFP)|afp|alpha-fetoprotein	A protein excreted by the fetus into the amniotic fluid and from there into the mother's bloodstream through the placenta.
+Amino acid	Any of a class of 20 molecules that are combined to form proteins in living things. The sequence of amino acids in a protein and hence protein function are determined by the genetic code.
+Amino acid sequence	The linear order of the amino acids in a protein or peptide.
+Amniocentesis	Prenatal diagnosis method using cells in the amniotic fluid to determine the number and kind of chromosomes of the fetus and, when indicated, perform biochemical studies.
+Amniocyte	Cells obtained by amniocentesis.
+Amplification	An increase in the number of copies of a specific DNA fragment; can be in vivo or in vitro. See cloning, polymerase chain reaction.
+Aneuploidy	State of having different chromosome numbers (too many or too few). (i.e. Down syndrome, Turner syndrome).
+ANL	Argonne National Laboratory, Argonne, IL
+Artificial insemination	The placement of sperm into a female reproductive tract or the mixing of male and female gametes by other than natural means.
+ATCC	American Type Culture Collection, Rockville, MD
+Autoradiography	A technique that uses X- ray film to locate radioactively labeled molecules or fragments of molecules; used in analyzing length and number of DNA fragments after they are separated by gel electrophoresis.
+Autosome	Any of the non-sex-determining chromosomes. Human cells have 22 pairs of autosomes.
+Bacteriophage	A virus whose host is a bacterium; commonly called phage.
+Barr body	The condensed single X-chromosome seen in the nuclei of somatic cells of female mammals.
+Base pair (bp)|base-pair|bp	The two complementary, nitrogen-rich molecules held together by weak chemical bonds. Two strands of DNA are held together in the shape of a double helix by the bonds between their base pairs. (See chemical base.)
+Base sequence|sequence	The order of nucleotide bases in a DNA molecule.
+Base sequence analysis	A method, sometimes automated, for determining the base sequence.
+Benign (be-NINE)|benign	Not cancerous; does not invade nearby tissue or spread to other parts of the body.
+Biological therapy (by-o-LOJ-i-kul)|biological-therapy|immunotherapy	Treatment to stimulate or restore the ability of the immune system to fight infection and disease. Also called <I>immunotherapy</I>.
+Biopsy (BY-op-see)|biopsy	The removal of a sample of tissue, which is then examined under a microscope to check for cancer cells. When only a sample of tissue is removed, the procedure is called incisional biopsy; when the whole tumor is removed, it is excisional biopsy. Removing tissue or fluid with a needle is called needle biopsy or needle aspiration.
+Biotechnology	A set of biological techniques developed through basic research and now applied to research and product development.
+BNL	Brookhaven National Laboratory, Upton, NY
+Bone marrow transplantation	A procedure in which doctors replace marrow destroyed by treatment with high doses of anticancer drugs or radiation. The replacement marrow may be taken from the patient before treatment or may be donated by another person. When the patient's own marrow is used, the procedure is called <I>autologous</I> (aw-TOL-o-gus) bone marrow transplantation.
+BRCA1	A gene that normally helps to restrain cell growth.
+BRCA1 breast cancer susceptibility gene	A mutated version of BRCA1, which predisposes a person toward developing breast cancer. <BR>
+Cancer	A term for diseases in which abnormal cells divide without control. Cancer cells can invade nearby tissue and can spread through the bloodstream and lymphatic system to other parts of the body.
+Carcinogen (kar-SIN-o-jin)|carcinogen	A substance or agent that is known to cause cancer.
+Carrier	An individual heterozygous for a single recessive gene.
+Catheter (KATH-e-ter)|catheter	A thin plastic tube. When a catheter is place in a vein, it provides a pathway for drugs, nutrients, or blood products. Blood samples also can be removed through the catheter.
+cDNA	Complementary DNA produced from a RNA template by the action of RNA-dependent DNA polymerase.
+Cell	Small, watery, membrane-bound compartment filled with chemicals; the basic subunit of any living thing.
+Centimorgan (cM)|centimorgan|cm	A unit of measure of recombination frequency. One centimorgan is equal to a 1% chance that a marker at one genetic locus will be separated from a marker at a second locus due to crossing over in a single generation. In human beings, 1 centimorgan is equivalent, on average, to 1 million base pairs.
+Centromere	A specialized chromosome region to which spindle fibers attach during cell division.
+CEPH	Centre d'Etude du Polymorphisme Humain
+Chemical base	An essential building block. DNA contains four complementary bases: adenine, which pairs with thymine, and cytosine, which pairs with guanine. In RNA, thymine is replaced by uracil.
+Chemotherapy (kee-mo-THER-a-pee)|chemotherapy	Treatment with anticancer drugs.
+Chorionic villus sampling	An invasive prenatal diagnostic procedure involving removal of villi from the human chorion to obtain chromosomes and cell products for diagnosis of disorders in the human embryo.
+Chromosome banding	A technique for staining chromosomes so that bands appear in a unique pattern particular to the chromosome.
+Chromosomes	Structures found in the nucleus of a cell, which contain the genes. Chromosomes come in pairs, and a normal human cell contains 46 chromosomes, 22 pairs of autosomes and two sex chromosomes, x and y.
+Clinical trials	Research studies that involve patients.
+Clone	A group of identical genes, cells, or organisms derived from a single ancestor.
+Cloned DNA	Any DNA fragment that passively replicates in the host organism after it has been joined to a cloning vector.
+Cloning	The process of making genetically identical copies.
+Codon	A sequence of three nucleotides in messenger mRNA that specifies an amino acid.
+Colonoscopy	Examination of the colon through a flexible, lighted instrument called a colonoscope.
+Colony-stimulating factors	Substances that stimulate the production of blood cells. Treatment with colony-stimulating factors (CSF) can help the blood- forming tissue recover from the effects of chemotherapy and radiation therapy. These include granulocyte colony-stimulating factors (G-CSF) and granulocyte-macrophage colony-stimulating factors (GM-CSF).
+Consanguinity	Genetic relationship. Consanguineous individuals have at least one common ancestor in the preceding few generations.
+Conservative change	An amino acid change that does not affect significantly the function of the protein.
+Conserved sequence|evolutionarily-conserved	A base sequence in a DNA molecule (or an amino acid sequence in a protein) that has remained essentially unchanged throughout evolution.
+Contiguous genes	Genes physically close on a chromosome that when acting together express certain traits.
+CRADA	Cooperative Research and Development Agreement
+CT or CAT scan|cat-scan|ct-scan	Detailed pictures of areas of the body created by a computer linked to an x-ray machine. Also called computed tomography scan or computed axial tomography scan.
+Cytogenetics	The study of chromosomes.
+Cytoplasm	The cellular substance outside the nucleus in which the cell's organelles are suspended.
+Deletion	The loss of a segment of the genetic material from a chromosome.
+Deletion mapping	The use of overlapping deletions to localize the position of an unknown gene on a chromosome or linkage map.
+Diploid	A full set of genetic material, consisting of paired chromosomes one chromosome from each parental set. Most animal cells except the gametes have a diploid set of chromosomes. The diploid human genome has 46 chromosomes. Compare haploid.
+DKFZ	German Cancer Research Center
+DNA	The substance of heredity; a large molecule that carries the genetic information that cells need to replicate and to produce proteins. DNA is a double-stranded molecule held together by weak bonds between base pairs of nucleotides. The four nucleotides in DNA contain the bases: adenine (A), guanine (G), cytosine (C), and thymine (T). In nature, base pairs form only between A and T and between G and C; thus the base sequence of each single strand can be deduced from that of its partner.
+DNA fingerprint technique	A method employed to determine differences in amino acid sequences between related proteins; relies upon the presence of a simple tandem-repetitive sequences that are scattered throughout the human genome.
+DNA hybridization	A technique for selectively binding specific segments of single-stranded (ss) DNA or RNA by base pairing to complementary sequences on ssDNA molecules that are trapped on a nitrocellulose filter.
+DNA probe	Any biochemical used to identify or isolate a gene, a gene product, or a protein.
+DNA repair genes|proofreader-genes	Certain genes that are part of a DNA repair pathway; when altered, they permit mutations to pile up throughout the DNA.
+DNA replication	The use of existing DNA as a template for the synthesis of new DNA strands. In humans and other eukaryotes, replication occurs in the cell nucleus.
+DNA sequence	The relative order of base pairs, whether in a fragment of DNA, a gene, a chromosome, or an entire genome. See base sequence analysis.
+DOE	Department of Energy
+Domain	A discrete portion of a protein with its own function. The combination of domains in a single protein determines its overall function.
+Dominant	Alleles that determine the phenotype displayed in a heterozygote with another (recessive) allele.
+Double helix	The shape that two linear strands of DNA assume when bonded together.
+E. coli	Common bacterium that has been studied intensively by geneticists because of its small genome size, normal lack of pathogenicity, and ease of growth in the laboratory.
+Electrophoresis	A method of separating large molecules (such as DNA fragments or proteins) from a mixture of similar molecules. An electric current is passed through a medium containing the mixture, and each kind of molecule travels through the medium at a different rate, depending on its electrical charge and size. Separation is based on these differences. Agarose and acrylamide gels are the media commonly used for electrophoresis of proteins and nucleic acids.
+ELSI	<U>E</U>thical, <U>l</U>egal and <U>s</U>ocial <U>i</U>mplications (of Human Genome Project).
+Endonuclease	An enzyme that breaks the internal phosphodiester bonds in a DNA molecule.
+Endoscopy (en-DOS-ko-pee)|endoscopy	A procedure in which the doctor looks inside the body through a lighted tube called an endoscope.
+Enzyme	A protein that facilitates a specific chemical reaction.
+ERDA	Energy Research and Development Administration
+Erythrocytes	The hemoglobin-containing cell found in the blood of vertebrates, red blood cells.
+Estrogen (ES-tro-jin)|estrogen	A female hormone.
+Ethics	The study of fundamental principles that defines values and determines moral duties and obligation.
+Euchromatin	The chromatin that shows the staining behavior characteristic of the majority of the chromosomal complement.
+Eugenics	The improvement of humanity by altering its genetic composition by encouraging breeding of those presumed to have desirable genes.
+Eukaryote	Cell or organism with membrane- bound, structurally discrete nucleus and other well- developed subcellular compartments. Eukaryotes include all organisms except viruses, bacteria, and blue- green algae. Compare prokaryote. See chromosomes.
+Exogenous DNA	DNA originating outside an organism.
+Exons	The protein- coding DNA sequences of a gene. Compare introns.
+FCCSET	Federal Coordinating Council on Science, Engineering, and Technology
+Fecal occult blood test (FEE-kul-o-KULT)|fecal-occult-blood-test	A test to check for hidden blood in stool. (Fecal refers to stool. Occult means hidden.)
+FISH|florescent-in-situ-hybridization	a technique for uniquely identifying whole chromosomes or parts of chromosomes using florescent tagged DNA.
+Flow cytometry	Analysis of biological material by detection of the light-absorbing or fluorescing properties of cells or subcellular fractions (i.e., chromosomes) passing in a narrow stream through a laser beam. An absorbance or fluorescence profile of the sample is produced.
+Flow karyotyping	Use of flow cytometry to analyze and/or separate chromosomes on the basis of their DNA content.
+Fragile sites	A non-staining gap of variable width that usually involves both chromatids and is always at exactly the same point on a specific chromosome derived from an individual or kindred.
+Functional gene tests	Biochemical assays for a specific protein, indicating a specific gene is not merely present but active.
+Gamete	Mature male or female reproductive cell (sperm or ovum) with a haploid set of chromosomes (23 for humans).
+GDB	Genome Data Base
+Gene	A unit of inheritance; a working subunit of DNA. Each of the body's 50,000 to 100,000 genes contains the code for a specific product, typically, a protein such as an enzyme.
+Gene amplification	Any process by which specific DNA sequences are replicated disproportionately greater than their representation in the parent molecules; during development, some genes become amplified in specific tissues.
+Gene deletion	The total loss or absence of a gene.
+Gene expression|expressed-gene	The process by which a gene's coded information is translated into the structures present and operating in the cell (either proteins or RNAs).
+Gene families	Groups of closely related genes that make similar products.
+Gene mapping	Determining the relative positions of genes on a chromosome and the distance between them.
+Gene markers	Landmarks for a target gene, either detectable traits that are inherited along with the gene, or distinctive segments of DNA.
+Gene product	The biochemical material, either RNA or protein, resulting from expression of a gene. The amount of gene product is used to measure how active a gene is; abnormal amounts can be correlated with disease- causing alleles.
+Gene testing	Examining a sample of blood or other body fluid or tissue for biochemical, chromosomal, or genetic markers that indicate the presence or absence of genetic disease.
+Gene therapy	Treatment that alters genes (the basic units of heredity found in all cells in the body). In early studies of gene therapy for cancer, researchers are trying to improve the body's natural ability to fight the disease or to make the tumor more sensitive to other kinds of therapy.<BR><BR>Addition of a functional gene or group of genes to a cell by gene insertion to correct an hereditary disease.
+Genetic code	The sequence of nucleotides, coded in triplets (codons) along the mRNA, that determines the sequence of amino acids in protein synthesis. The DNA sequence of a gene can be used to predict the mRNA sequence, and the genetic code can in turn be used to predict the amino acid sequence.
+Genetic counseling	The educational process that helps individuals, couples, or families to understand genetic information and issues that may have an impact on them.
+Genetic linkage map	A chromosome map showing the relative positions of the known genes on the chromosomes of a given species.
+Genetic screening	Testing groups of individuals to identify defective genes capable of causing hereditary conditions.
+Genetic variation	A phenotypic variance of a trait in a population attributed to genetic heterogeneity.
+Genetics	The scientific study of heredity how particular qualities or traits are transmitted from parents to offspring.
+Genome|genetic-material	All the genetic material in the chromosomes of a particular organism; its size is generally given as its total number of base pairs.
+Genome maps	Charts that indicate the ordered arrangement of the genes or other DNA markers within the chromosomes.
+Genome projects	Research and technology development efforts aimed at mapping and sequencing some or all of the genome of human beings and other organisms.
+Genomic library|gene-library|overlapping-clones	A collection of clones made from a set of randomly generated overlapping DNA fragments representing the entire genome of an organism.
+Genotype	Genetic constitution of an organism.
+Germ cells	The reproductive cells of the body, either egg or sperm cells.
+Haploid	A single set of chromosomes (half the full set of genetic material), present in the egg and sperm cells of animals and in the egg and pollen cells of plants. Human beings have 23 chromosomes in their reproductive cells. Compare diploid.
+Hardy-Weinberg Law	The concept that both gene frequencies and genotype frequencies will remain constant from generation to generation in an infinitely large, interbreeding population in which mating is at random and there is no selection, migration or mutation.
+HERAC	Health and Environmental Research Advisory Committee
+Hereditary mutation|germline-mutation	A gene change in the body's reproductive cells (egg or sperm) that becomes incorporated in the DNA of every cell in the body; also called germline mutation.
+Heterogeneity	The production of identical or similar phenotypes by different genetic mechanisms.
+Heterozygosity	The presence of different alleles at one or more loci on homologous chromosomes.
+Heterozygote	Having two alleles that are different for a given gene.
+HGCC	Human Genome Coordinating Committee
+HGMIS	Human Genome Management Information System (ORNL)
+HGP	Human Genome Project.
+HHMI	Howard Hughes Medical Institute.
+Homeobox	A short stretch of nucleotides whose base sequence is virtually identical in all the genes that contain it. It has been found in many organisms from fruit flies to human beings. In the fruit fly, a homeobox appears to determine when particular groups of genes are expressed during development.
+Homologies	Similarities in DNA or protein sequences between individuals of the same species or among different species.
+Homologous chromosomes	A pair of chromosomes containing the same linear gene sequences, each derived from one parent.
+Homozygote	Having identical alleles at one or more loci in homologous chromosome segments.
+Hormone therapy	Treatment that prevents certain cancer cells from getting the hormones they need to grow.
+Hormones	Chemicals produced by glands in the body. Hormones control the actions of certain cells or organs.
+Housekeeping genes	Those genes expressed in all cells because they provide functions needed for sustenance of all cell types.
+HUGO	Human Genome Organization. (international)
+Human gene therapy	Insertion of normal DNA directly into cells to correct a genetic defect.
+Human genome	The full collection of genes needed to produce a human being.
+Human Genome Initiative	Collective name for several projects begun in 1986 to (1) create an ordered set of DNA segments from known chromosomal locations, (2) develop new computational methods for analyzing genetic map and DNA sequence data, and (3) develop new techniques and instruments for detecting and analyzing DNA. This DOE initiative is now known as the Human Genome Program. The national effort, led by DOE and NIH (now including the National Human Genome Research Institute), is known as the Human Genome Project.
+Human Genome Project	An international research effort (led in the United States by the National Institutes of Health and the Department of Energy) aimed at identifying and ordering every base in the human genome.
+Hybridization	The process of joining two complementary strands of DNA or one each of DNA and RNA to form a double- stranded molecule.
+Imaging	Procedures that produce pictures of areas inside the body.
+Immune system	The complex group of cells and organs that defends the body against infection and disease.
+Impotence (IM-po-tens)|impotence	Inability to have an erection.
+Imprinting	A biochemical phenomenon that determines, for certain genes, which one of the pair of alleles, the mother's or the father's, will be active in that individual.
+In situ hybridization	Use of a DNA or RNA probe to detect the presence of the complementary DNA sequence in cloned bacterial or cultured eukaryotic cells.
+In vitro	Outside a living organism.
+Inborn errors of metabolism	Inherited diseases resulting from alterations in genes that code for enzymes.
+Incomplete penetrance	The gene for a condition is present, but not obviously expressed in all individuals in a family with the gene.
+Informatics	The study of the application of computer and statistical techniques to the management of information. In genome projects, informatics includes the development of methods to search databases quickly, to analyze DNA sequence information, and to predict protein sequence and structure from DNA sequence data.
+Interferon (in-ter-FEER-on)|interferon	A type of biological response modifier (a substance that can improve the body's natural response to disease). It slows the rate of growth and division of cancer cells, causing them to become sluggish and die.
+Interleukin-2 (in-ter-LOO-kin)|interleukin-2	A type of biological response modifier (a substance that can improve the body's natural response to disease). It stimulates the growth of certain disease-fighting blood cells in the immune system. Also called <I>IL-2</I>.
+Interphase	The period in the cell cycle when DNA is replicated in the nucleus; followed by mitosis.
+Introns	The DNA base sequences interrupting the protein- coding sequences of a gene; these sequences are transcribed into RNA but are cut out of the message before it is translated into protein. Compare exons.
+Isochromosome	A metacentric chromosome produced during mitosis or meiosis when the centromere splits transversely instead of longitudinally; the arms of such chromosome are equal in length and genetically identical, however, the loci are positioned in reverse sequence in the two arms.
+JHU	Johns Hopkins University
+JITF	Joint Informatics Task Force
+Karyotype	A set of photographed, banded chromosomes arranged in order from largest to smallest.
+Kilobase (kb)|kb|kilobase	Unit of length for DNA fragments equal to 1000 nucleotides.
+LANL	Los Alamos National Laboratory, Los Alamos, NM
+LBL	Lawrence Berkeley Laboratory, Berkeley, CA
+Library	An unordered collection of clones (i.e., cloned DNA from a particular organism), whose relationship to each other can be established by physical mapping. See Genomic Library.
+Ligase	An enzyme that functions in DNA repair.
+Linkage	1.The greater association in inheritance of two or more nonallelic genes than is to be expected from independent assortment; genes are linked because they reside on the same chromosome . 2.Analysis of pedigree the tracking of a gene through a family by following the inheritance of a (closely associated) gene or trait and a DNA marker.
+Linkage analysis	A gene-hunting technique that traces patterns of heredity in large, high-risk families, in an attempt to locate a disease-causing gene mutation by identifying traits that are co-inherited with it.
+Linkage map|genetic-map	A map of the relative positions of genetic loci on a chromosome, determined on the basis of how often the loci are inherited together. Distance is measured in centimorgans (cM).
+LLNL	Lawrence Livermore National Laboratory, Livermore, CA
+Local treatment	Treatment that affects the tumor and the area close to it.
+Localize	Determination of the original position (locus) of a gene or other marker on a chromosome.
+Locus (plural is loci)|loci|locus	The position on a chromosome of a gene or other chromosome marker; also, the DNA at that position. The use of locus is sometimes restricted to mean regions of DNA that are expressed. See gene expression.
+Lod score	Logarithm of the odd score; a measure of the likelihood of two loci being within a measurable distance of each other.
+Lymph (limf)|lymph	An almost colorless fluid that travels through the lymphatic system and carries cells that help fight infection and disease.
+Lymph nodes	Small, bean-shaped organs located along the channels of the lymphatic system. Bacteria or cancer cells that enter the lymphatic system may be found in the nodes. Also called <I>lymph glands</I>.
+Lymphatic system (lim-FAT-ik)|lymphatic-system	The tissues and organs, including the bone marrow, spleen, thymus, and lymph nodes, that produce and store cells that fight infection and disease. This system also has channels that carry <I>lymph</I>.
+Macrorestriction map	Map depicting the order of and distance between sites at which restriction enzymes cleave chromosomes.
+Malignant (ma-LIG-nant)|malignant	Cancerous.
+Mammogram (MAM-o-gram)|mammogram	An x-ray of the breast.
+Mapping	See gene mapping, linkage map, physical map.
+Marker	A gene with a known location on a chromosome and a clear-cut phenotype, used as a point of reference when mapping a new mutant.
+Megabase (Mb)|mb|megabase	Unit of length for DNA fragments equal to 1 million nucleotides and roughly equal to 1 cM.
+Meiosis	The doubling of gametic chromosome number. Meiosis results in four rather than two daughter cells, each with a haploid set of chromosomes.
+Melanoma	Cancer of the cells that produce pigment in the skin. Melanoma usually begins in a mole.
+Messenger RNA (mRNA)|messenger-rna|mrna	RNA that serves as a template for protein synthesis. (See genetic code.)
+Metaphase	A stage in mitosis or meiosis during which the chromosomes are aligned along the equatorial plane of the cell.
+Metastasis (meh-TAS-ta-sis)|metastasis	The spread of cancer from one part of the body to another. Cells in the metastatic (secondary) tumor are like those in the original (primary) tumor.
+Missense mutation	A change in the base sequence of a gene that alters or eliminates a protein.
+Mitochondrial DNA	The mitochondrial genome consists of a circular DNA duplex, with 5 to 10 copies per organelle.
+Mitosis	The process of nuclear division in cells that produces daughter cells that are genetically identical to each other and to the parent cell.
+Molecule	A group of atoms arranged to interact in a particular way; one molecule of any substance is the smallest physical unit of that particular substance.
+Monoclonal antibodies	Substances that can locate and bind to cancer cells wherever they are in the body. They can be used alone, or they can be used to deliver drugs, toxins, or radioactive material directly to the tumor cells.
+MRC	Medical Research Council (U.K.)
+MRI	A procedure using a magnet linked to a computer to create pictures of areas inside the body. Also called <I>magnetic resonance imaging</I>.
+Multifactorial	A characteristic influenced in its expression by many factors, both genetic and environmental.
+Mutation	A change in the number, arrangement, or molecular sequence of a gene.
+NAS	National Academy of Sciences (U.S.)
+Newborn screening (for genetic disorders)|newborn-screening	Examining blood samples from a newborn infant to detect disease-related abnormalities or deficiencies in gene products. There are other purposes for , and methods of, screening newborns.
+NHGRI	National Human Genome Research Institute
+NIH	National Institutes of Health, Bethesda, MD
+Nitrogenous base	A nitrogen containing molecule having the chemical properties of a base.
+NLGLP	National Laboratory Gene Library Project (LANL, LLNL)
+Nonsense mutation	A mutation in which a codon is changed to a stop codon, resulting in a truncated protein product.
+NRC	National Research Council (NAS)
+NSF	National Science Foundation
+Nucleic acid	A large molecule composed of nucleotide subunits.
+Nucleotide	A subunit of DNA or RNA, consisting of one chemical base plus a phosphate molecule and a sugar molecule.
+Nucleus	The cell structure that houses the chromosomes.
+OHER	Office of Health and Environmental Research
+Oncogenes	Genes that normally play a role in the growth of cells but, when over expressed or mutated, can foster the growth of cancer.
+Oncologist (on-KOL-o-jist)|oncologist	A doctor who specializes in treating cancer.
+ORNL	Oak Ridge National Laboratory, Oak Ridge, TN
+OSTP	Office of Scientific and Technology Policy (White House)
+OTA	Office of Technology Assessment (U.S. Congress)
+PACHG	Program Advisory Committee on the Human Genome
+Pap test	Microscopic examination of cells collected from the cervix. It is used to detect changes that may be cancer or may lead to cancer, and it can show noncancerous conditions, such as infection or inflammation. Also called <I>Pap smear</I>.
+Parthenogenesis	The development of an individual from an egg without fertilization.
+Pathologist (path-OL-o-jist)|pathologist	A doctor who identifies diseases by studying cells and tissues under a microscope.
+PCR	<U>P</U>olymerase <U>c</U>hain <U>r</U>eaction; a technique for copying the complementary strands of a target DNA molecule simultaneously for a series of cycles until the desired amount is obtained.
+Pedigree	A diagram of the heredity of a particular trait through many generations of a family.
+Pelvic	Having to do with the pelvis, the lower part of the abdomen, located between the hip bones.
+Penetrance	A term indicating the likelihood that a given gene will actually result in disease.
+Peripheral stem cell support (per-IF-er-ul)|peripheral-stem-cell-support	A method of replacing blood-forming cells destroyed by cancer treatment. Certain cells (stem cells) in the blood that are similar to those in bone marrow are removed from the patient's blood before treatment. The cells are given back to the patient after treatment.
+Phage	A virus for which the natural host is a bacterial cell.
+Phenotype	Observable characteristics of an organism produced by the organism's genotype interacting with the environment.
+Physical map	Map where the distance between markers is the actual distance, such as the number of base pairs.
+Plasmid	Autonomously replicating, extrachromosomal circular DNA molecules, distinct from the normal bacterial genome and nonessential for cell survival under nonselective conditions. Some plasmids are capable of integrating into the host genome. A number of artificially constructed plasmids are used as cloning vectors.
+Pleiotropy	The phenomenon of variable phenotypes for a number of distinct and seemingly unrelated phenotypic effects.
+PNL	Pacific Northwest Laboratory, Richland, WA
+Polygenic disorders	Genetic disorders resulting from the combined action of alleles of more than one gene (e.g., heart disease, diabetes, and some cancers). Although such disorders are inherited, they depend on the simultaneous presence of several alleles; thus the hereditary patterns are usually more complex than those of single- gene disorders. Compare single-gene disorders.
+Polymerase	Any enzyme that catalyzes the formation of DNA or RNA from deoxyribonucleotides or ribonucleotides.
+Polymerase chain reaction (PCR)|pcr|polymerase-chain-reaction	A method for amplifying a DNA base sequence using a heat- stable polymerase and two 20- base primers, one complementary to the (+)- strand at one end of the sequence to be amplified and the other complementary to the (- )- strand at the other end. Because the newly synthesized DNA strands can subsequently serve as additional templates for the same primer sequences, successive rounds of primer annealing, strand elongation, and dissociation produce rapid and highly specific amplification of the desired sequence. PCR also can be used to detect the existence of the defined sequence in a DNA sample.
+Polymorphism	Difference in DNA sequence among individuals. Genetic variations occurring in more than 1% of a population would be considered useful polymorphisms for genetic linkage analysis. Compare mutation.
+Predictive gene tests	Tests to identify gene abnormalities that may make a person susceptible to certain diseases or disorders.
+Predisposition	To have a tendency or inclination towards something in advance.
+Prenatal diagnosis	Examining fetal cells taken from the amniotic fluid, the primitive placenta (chorion), or the umbilical cord for biochemical, chromosomal, or gene alterations.
+Presymptomatic diagnosis	Diagnosis of a genetic condition before the appearance of symptoms.
+Primer	Nucleotides used in the polymerase chain reaction to initiate DNA synthesis at a particular location.
+Probability	The long term frequency of an event relative to all alternative events, and usually expressed as decimal fraction.
+Proband	Individual in a family who brought the family to medical attention.
+Probe	Single-stranded DNA labeled with radioactive isotopes or tagged in other ways for ease in identification.
+Progesterone (pro-JES-ter-own)|progesterone	A female hormone.
+Prognosis (prog-NOS-sis)|prognosis	The probable outcome or course of a disease; the chance of recovery.
+Prokaryote	Cell or organism lacking a membrane- bound, structurally discrete nucleus and other subcellular compartments. Bacteria are prokaryotes. Compare eukaryote. See chromosomes.
+Promoter	A site on DNA to which RNA polymerase will bind and initiate transcription.
+Prophylactic surgery	Surgery to remove tissue that is in danger of becoming cancerous, before cancer has the chance to develop. Surgery to remove the breasts of women at high risk of developing breast cancer is known as prophylactic mastectomy.
+Protein	A large, complex molecule composed of amino acids. The sequence of the amino acids, and thus the function of the protein, is determined by the sequence of the base pairs in the gene that encodes it. Proteins are essential to the structure, function, and regulation of the body. Examples are hormones, enzymes, and antibodies.
+Protein product	The protein molecule assembled under the direction of a gene.
+Purine	A nitrogen-containing, single- ring, basic compound that occurs in nucleic acids. The purines in DNA and RNA are adenine and guanine.
+Pyrimidine	A nitrogen- containing, double- ring, basic compound that occurs in nucleic acids. The pyrimidines in DNA are cytosine and thymine; in RNA, cytosine and uracil.
+Radiation therapy (ray-dee-AY-shun)|radiation-therapy	Treatment with high-energy rays to kill or damage cancer cells. External radiation therapy is the use of a machine to aim high- energy rays at the cancer. Internal radiation is the placement of radioactive material inside the body as close as possible to the cancer.
+Radioactive (RAY-dee-o-AK-tiv)|radioactive	Giving off radiation.
+Radionuclide scanning	An exam that produces pictures (scans) of internal parts of the body. The patient is given an injection or swallows a small amount of radioactive material. A machine called a scanner then measures the radioactivity in certain organs.
+Recessive	A gene that is phenotypically manifest in the homozygous state but is masked in the presence of a dominant allele.
+Recessive allele	A gene that is expressed only when its counterpart allele on the matching chromosome is also recessive (not dominant). Autosomal recessive disorders develop in persons who receive two copies of the mutant gene, one from each parent who is a carrier. (See Dominant allele.)
+Recombinant DNA molecules	A combination of DNA molecules of different origin that are joined using recombinant DNA technologies.
+Recombinant DNA technologies|genetic-engineering-technologies	Procedures used to join together DNA segments in a cell- free system (an environment outside a cell or organism). Under appropriate conditions, a recombinant DNA molecule can enter a cell and replicate there, either autonomously or after it has become integrated into a cellular chromosome.
+Recombination	The natural process of breaking and rejoining DNA strands to produce new combinations of genes and, thus, generate genetic variation. Gene crossover during meiosis.
+Regulatory regions or sequences	A DNA base sequence that controls gene expression.
+Remission	Disappearance of the signs and symptoms of cancer. When this happens, the disease is said to be "in remission". Remission can be temporary or permanent.
+Repeat sequences	The length of a nucleotide sequence that is repeated in a tandem cluster.
+Reproductive cells	Egg and sperm cells. Each mature reproductive cell carries a single set of 23 chromosomes.
+Resolution	Degree of molecular detail on a physical map of DNA, ranging from low to high.
+Restriction enzyme cutting site	A specific nucleotide sequence of DNA at which a particular restriction enzyme cuts the DNA. Some sites occur frequently in DNA (e.g., every several hundred base pairs), others much less frequently (rare- cutter; e.g., every 10,000 base pairs).
+Restriction enzymes	Enzymes that can cut strands of DNA at specific base sequences.
+Restriction fragment length polymorphism (RFLP)|restriction-fragment-length-polymorphism|rflp	Variation between individuals in DNA fragment sizes cut by specific restriction enzymes; polymorphic sequences that result in RFLPs are used as markers on both physical maps and genetic linkage maps. RFLPs are usually caused by mutation at a cutting site. See marker.
+Ribonucleic acid (RNA)|ribonucleic-acid|rna	A chemical found in the nucleus and cytoplasm of cells; it plays an important role in protein synthesis and other chemical activities of the cell. The structure of RNA is similar to that of DNA. There are several classes of RNA molecules, including messenger RNA, transfer RNA, ribosomal RNA, and other small RNAs, each serving a different purpose.
+Ribosomal RNA (rRNA)|ribosomal-rna|rrna	A class of RNA found in the ribosomes of cells.
+Ribosomes	Small cellular components composed of specialized ribosomal RNA and protein; site of protein synthesis. See ribonucleic acid (RNA).
+Risk factor	Something that increases a person's chance of developing a disease.
+RNA	Ribonucleic acid, a chemical similar to DNA. The several classes of RNA molecules play important roles in protein synthesis and other cell activities.
+Sanger sequence	"Plus and minus" or "primed synthesis" method; DNA is synthesized so it is radioactively labeled and the reaction terminates specifically at the position corresponding to a given base.
+Sarcoma	A type of cancer that starts in the bone or muscle.
+SBIR	Small Business Innovation Research
+SCC	Scientific Coordinating Committee
+Screening	Looking for evidence of a particular disease such as cancer in persons with no symptoms of disease. Checking for disease when there are no symptoms.
+Selection	The process of determining the relative share allotted individuals of different genotypes in the propagation of a population; the selective effect of a gene can be defined by the probability that carriers of the gene will reproduce.
+Sequence tagged site (STS)|sequence-tagged-site|sts	Short (200 to 500 base pairs) DNA sequence that has a single occurrence in the human genome and whose location and base sequence are known. Detectable by polymerase chain reaction, STSs are useful for localizing and orienting the mapping and sequence data reported from many different laboratories and serve as landmarks on the developing physical map of the human genome. Expressed sequence tags (ESTs) are STSs derived from cDNAs.
+Sequencing	Determination of the order of nucleotides (base sequences) in a DNA or RNA molecule or the order of amino acids in a protein.
+Sex chromosomes	The chromosomes that determine the sex of an organism. Human females have two X chromosomes; males have one X and one Y.
+Sex determination	The mechanism in a given species by which sex is determined; in many species sex is determined at fertilization by the nature of the sperm that fertilizes the egg.
+Shotgun method	Cloning of DNA fragments randomly generated from a genome. See library, genomic library.
+Side effects	Problems that occur when treatment affects healthy cells. Common side effects of cancer treatment are fatigue, nausea, vomiting, decreased blood cell counts, hair loss, and mouth sores.
+Sigmoidoscopy (sig-moy-DOS-ko-pee)|sigmoidoscopy	A procedure in which a doctor looks inside the rectum and the lower part of the colon (sigmoid colon) through a lighted tube. The doctor may collect samples of tissue or cells for closer examination. Also called <I>proctosigmoidoscopy</I>.
+Single-gene disorder	Hereditary disorder caused by a mutant allele of a single gene (e.g., Duchenne muscular dystrophy, retinoblastoma, sickle cell disease). Compare polygenic disorders.
+Somatic cell hybrid	Hybrid cell line derived from two different species; contains a complete chromosomal complement of one species and a partial chromosomal complement of the other; human/hamster hybrids grow and divide, losing human chromosomes with each generation until they finally stabilize, the hybrid cell line established is then utilized to detect the presence of genes on the remaining human chromosome.
+Somatic cells	All body cells except the reproductive cells.
+Somatic mutation	A mutation occurring in any cell that is not destined to become a germ cell; if the mutant cell continues to divide, the individual will come to contain a patch of tissue of genotype different from the cells of the rest of the body.
+Southern blotting	Transfer by absorption of DNA fragments separated in electrophoretic gels to membrane filters for detection of specific base sequences by radiolabeled complementary probes.
+Sperm banking	Freezing sperm before cancer treatment for use in the future. This procedure can allow men to father children after loss of fertility.
+Stage	The extent of a cancer, especially whether the disease has spread from the original site to other parts of the body.
+Stool	The waste matter discharged in a bowel movement; feces.
+Surgery	An operation.
+Syndrome	A recognizable pattern or group of multiple signs, symptoms or malformations that characterize a particular condition; syndromes are thought to arise from a common origin and result from more than one developmental error during fetal growth.
+Systemic treatment (sis-TEM-ik)|systemic-treatment	Treatment that reaches cells all over the body by traveling through the bloodstream.
+Tandem repeat sequences	Multiple copies of the same base sequence on a chromosome; used as a marker in physical mapping.
+Technology transfer	The process of converting scientific findings from research laboratories into useful products by the commercial sector.
+Telomere	The ends of chromosomes. These specialized structures are involved in the replication and stability of linear DNA molecules. See DNA replication.
+Teratogens	Any agent that raises the incidence of congenital malformations.
+Thymine (T)|t|thymine	A nitrogenous base, one member of the base pair A- T (adenine-thymine).
+Tissue (TISH-oo)|tissue	A group or layer of cells that together perform a specific function.
+Toxins	Poisons produced by certain animals, plants, or bacteria.
+Trait	Any detectable phenotypic property of an organism.
+Transcription	The process of copying information from DNA into new strands of messenger RNA (mRNA). The mRNA then carries this information to the cytoplasm, where it serves as the blueprint for the manufacture of a specific protein.
+Transduction	The transfer of bacterial genetic material from one bacterium to another using a phage as a vector.
+Transfer RNA (tRNA)|transfer-rna|trna	A class of RNA having structures with triplet nucleotide sequences that are complementary to the triplet nucleotide coding sequences of mRNA. The role of tRNAs in protein synthesis is to bond with amino acids and transfer them to the ribosomes, where proteins are assembled according to the genetic code carried by mRNA.
+Transferase	Enzymes that catalyze the transfer of functional groups between donor and acceptor molecules.
+Transformation	A process by which the genetic material carried by an individual cell is altered by incorporation of exogenous DNA into its genome.
+Transgenic organism	One into which a cloned genetic material has been experimentally transferred, a subset of these foreign gene express themselves in their offspring.
+Translation	The process of turning instructions from mRNA, base by base, into chains of amino acids that then fold into proteins. This process takes place in the cytoplasm, on structures called ribosomes.
+Translocation	A chromosome aberration which results in a change in position of a chromosomal segment within the genome, but does not change the total number of genes present.
+Triplet code	A code in which a given amino acid is specified by a set of three nucleotides.
+Tumor	A mass of excess tissue.
+Tumor markers	Substances found in abnormal amounts in the blood, in other body fluids, or in tumor tissue of some patients with certain types of cancer.
+Tumor suppressor gene	Genes that normally restrain cell growth but, when missing or inactivated by mutation, allow cells to grow uncontrolled.
+TWAS	Third World Academy of Sciences
+Ultrasonography (ul-tra-son-OG-ra-fee)|ultrasonography	An exam in which sound waves are bounced off tissues and the echoes are converted into a picture <I>(sonogram)</I>.
+Ultraviolet radiation (ul-tra-VI-o-let ray-dee-AY-shun)|ultraviolet-radiation	Invisible rays that are part of the energy that comes from the sun. Ultraviolet radiation can burn the skin and cause skin cancer. It is made up of two types of rays, UVA and UVB. Skin specialists recommend that people use sunscreens that block both kinds of radiation.
+UNESCO	<B><U>U</B></U>nited <B><U>N</B></U>ations <B><U>E</B></U>ducational, <B><U>S</B></U>cientific, and <B><U>C</B></U>ultural <B><U>O</B></U>rganization
+USDA	U.S. Department of Agriculture
+Vector	A self-replicating DNA molecule that transfers a DNA segment between host cells.
+Virus	A noncellular biological entity that can reproduce only within a host cell. Viruses consist of nucleic acid covered by protein; some animal viruses are also surrounded by membrane. Inside the infected cell, the virus uses the synthetic capability of the host to produce progeny virus.
+VNTR	Variable number tandem repeats; any gene whose alleles contain different numbers of tandemly repeated oligonucleotide sequences.
+Western blotting analysis	A technique used to identify a specific protein; the probe is a radioactively labeled antibody raised against the protein in question.
+White blood cells	Cells that help the body fight infection and disease.
+Wilms' tumor|wilms-tumor	A kidney cancer (tumor) that occurs in children, usually before age 5.
+X chromosome	A sex chromosome; normal females carry two X chromosomes.<BR><BR>X-inactivation <BR>The repression of one of the two X-chromosomes in the somatic cells of females as a method of dosage compensation; at an early embryonic stage in the normal female, one of the two X-chromosomes undergoes inactivation, apparently at random, from this point on all descendent cells will have the same X-chromosome inactivated as the cell from which they arose, thus a female is a mosaic composed of two types of cells, one which expresses only the paternal X-chromosome, and another which expresses only the maternal X-chromosome. <BR>
+X-rays	High-energy radiation used in low doses to diagnose disease or injury, and in high doses to treat cancer.
+XYY syndrome	Genetic condition in males with extra Y chromosome (in 1 in 1000 male births). Symptoms: tall stature (over 6'), may including sterility, developmental delay, learning problems.
+Y chromosome	A sex chromosome; normal males carry one Y and one X chromosome.
+YAC|yeast-artificial-chromosome	<U>Y</U>east <U>a</U>rtificial <U>c</U>hromosome; a linear vector into which a large fragment of DNA can be inserted; the development of YAC's in 1987 has increased the number of nucleotides which can be cloned.
+Zoo blot	Northern analysis of mRNA from different organisms.

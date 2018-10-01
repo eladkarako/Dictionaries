@@ -1,0 +1,1212 @@
+##name	Data Structure and Algorithm
+##sourceLang	English
+##targetLang	Farsi
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1256
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1256
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2004/01/01, 17:49
+##author	Abolfazl Esfandi
+##description	This glossary contains data stucture & algorithm words for computer students that made by Abolfazl Esfandi from Broujerd-Iran ****** thanks ******* ��� �ǎ� ���� ���� ���� ����� ���� ������ � ������� ��� ������� ��������� ���� ������� �� ���� � ���� �������� ������ ����� ��� �� ���� ����� �� ���� �� �� ������� ���� ��� ���� ������ ���� ���� � ���� ����� ���� �ѐ���� ��� ���\nE_Mail : abolfazlesfandi@gmail.com
+##bgl_creationTime	2005/12/02, 06:45
+1363A152.bmp	File: 1363A152.bmp
+1B81D1D9.bmp	File: 1B81D1D9.bmp
+42B86598.bmp	File: 42B86598.bmp
+76547D31.bmp	File: 76547D31.bmp
+7A864349.bmp	File: 7A864349.bmp
+7E894001.bmp	File: 7E894001.bmp
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+ABB8AA80.bmp	File: ABB8AA80.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+C72ED1CB.bmp	File: C72ED1CB.bmp
+CCE2F8FF.bmp	File: CCE2F8FF.bmp
+2-3 subtree	2-3 زیر درخت
+2-3 tree	درخت 2-3
+A	حرف اول از الفبای انگلیسی، رقمی در مبنای شانزده معادل عدد 10 در مبنای دهدهی
+abolfazl	ابوالفضل، نامی برای آقایان
+abolfazl esfandi	<A href='mailto:abolfazlesfandi@gmail.com'>ابوالفضل اسفندی</A>، سازنده این واژه نامه
+absolute performance guarantee	ضمانت کارایی مطلق
+abstract	انتزاعی
+abstract data type	داده گونه انتزاعی
+accepting state	حالت پذیرفتنی
+Ackerman's function	تابع آکرمن
+Ackermann's function	تابع آکرمن
+activity	فعالیت
+actual	واقعی
+acyclic	بدور دور
+acyclic digraph	گراف جهت دار بی دور<IMG src='ABB8AA80.bmp' align='left' width='143' height='93'>
+acyclic directed graph	گراف جهت دار بی دور<IMG src='ABB8AA80.bmp' align='left' width='143' height='93'>
+acyclic graph	گراف بی دور<IMG src='7A864349.bmp' align='left' width='143' height='93'>
+adaptive heap sort	مرتب ساز هرمی تطابقی
+adaptive k-d tree	درخت K-d تطابقی
+adaptive sort	مرتب ساز تطابقی
+address calculation sort	مرتب ساز محاسبه گر آدرس
+adjacency list	لیست مجاورت
+adjacency list representation	نمایش لیست مجاورت
+adjacency matrix	ماتریس مجاورت
+adjacency matrix representation	نمایش ماتریس مجاورت
+adjacent	مجاور
+admissible vertex	راس مجاور
+adversary	رقیب
+algorithm	الگوریتم
+algorithmic decomposition	تجزیه الگوریتمی
+algorithms	الگوریتم ها، اسم جمع الگوریتم
+all pairs shortest path	کوتاهترین مسیر بین هر دو راس
+alphabet	الفبا
+alternating path	مسیر تناوبی
+alternating Turing machine	ماشین تورینگ تناوبی
+alternation	تناوب
+amortize	سر شکن
+amortized cost	هزینه سر شکن شده
+amortized worst case	بدترین حالت سر شکن شده
+ancestor	جد
+and	و , عملگر عطفی
+ANSI	موسسه استاندارد ملی امریکا
+antichain	پاد زنجیره
+antisymmetric	پاد متقارن
+approximation algorithm	الگوریتم تقریبی
+arc	کمان
+array	آرایه
+array index	اندیس آرایه
+array merging	ادغام آرایه
+articulation point	مفصل
+articulation vertex	مفصل
+artificial	ساختگی، مصنوعی
+assignment problem	مسئله گمارش
+association list	لیست شرکت پذیری , لیست مشارکت
+associative	شرکت پذیری , مشارکت , انجمنی
+associative array	آرایه انجمنی
+asymptotic	مجانبی
+asymptotic analysis	تجزیه و تحلیل مجانبی
+asymptotic bound	کران مجانبی
+asymptotic lower bound	کران پایین مجانبی
+asymptotic notation	نماد مجانبی
+asymptotic space complexity	پیچیدگی حافظه مجانبی
+asymptotic time complexity	پیچیدگی زمان مجانبی
+asymptotic upper bound	کران بالای مجانبی
+asymptotically equal to	تساوی مجانبی
+asymptotically tight bound	کران دقیق مجانبی
+augmenting path	مسیر افزایشی
+automata	اتوماتا
+automation	اتوماتون , ماشین خودکار
+automation simulation	شبیه ساز اتوماتون , شبیه ساز ماشین خودکار
+average	متوسط
+average case	حالت متوسط
+average case cost	هزینه حالت متوسط
+average computing time	میانگین زمان اجرا
+AVL tree	درخت AVL , درخت متوازن<BR>درختی متوازن که در سال 1962 توسط دو ریاضی دان روسی به نامهای <B>A</B>delson-<B>V</B>elskii و <B>L</B>andis معرفی شد.
+B	حرف دوم از الفبای انگلیسی، رقمی در مبنای شانزده معادل عدد 11 در مبنای دهدهی
+B+ tree	درخت +B
+back edge	یال برگشت
+backtracking	پسگرد
+backward	رو به عقب
+bag	گردایه، مجموعه چندگانه
+balance	توازن
+balanced binary search tree	درخت دودویی جستجوی متوازن
+balanced binary tree	درخت دودویی متوازن
+balanced k-way merge sort	مرتب ساز ادغامی k راهی متوازن
+balanced merge sort	مرتب ساز ادغامی متوازن
+balanced multiway merge	ادغام چند راهی متوازن
+balanced node	گره متوازن
+balanced quicksort	مرتب ساز سریع متوازن
+balanced two-way merge sort	مرتب ساز ادغامی دو راهی متوازن
+Bellman-Ford algorithm	الگوریتم بلمن-فورد
+Benford's law	قانون بن فورد
+best case	بهترین حالت
+best case cost	هزینه بهترین حالت
+best first search	جستجوی بهترین اول
+BFS	جستجوی سطح اول , <B>b</B>readth <B>f</B>irst <B>s</B>earch
+biconnected component	مولفه دو همبند
+biconnected graph	گراف دو همبند<IMG src='76547D31.bmp' align='left' width='143' height='93'>
+bidirectional bubble sort	مرتب ساز حبابی دو جهته
+big O notation	نماد O (بزرگ)
+bin sort	مرتب ساز سطلی
+binary	دودویی
+binary function	تابع دودویی
+binary GCD algorithm	الگوریتم ب.م.م (بزرگترین مقسوم علیه مشترک) دودویی
+binary insertion sort	مرتب ساز درجی دودویی
+binary priority queue	صف اولویت دودویی
+binary relation	رابطه دودویی
+binary search	جستجوی دودویی
+binary search tree	درخت جستجوی دودویی، BST<IMG src='7E894001.bmp' align='left' width='143' height='100'>
+binary trie	ترای دودویی
+bingo sort	مرتب ساز بینگو
+binomial distribution	توزیع دو جمله ای
+binomial heap	هرم دو جمله ای
+bipartite graph	گراف دو بخشی
+bipartite matching	تطابق دو بخشی
+bisector	نیمساز
+bit	بیت , کوچکترین واحد حافظه
+bit vector	آرایه بیتی
+block	بلوک
+blocking flow	شاره انسدادی
+blossom	شکوفه
+boolean	بولی
+boolean expression	عبارت بولی
+boolean function	تابع بولی
+bottleneck	گلوگاه
+bottleneck traveling salesman	فروشنده دوره گرد با گلوگاه
+bottom-up radix sort	مرتب ساز مبنایی پایین به بالا
+bottom-up tree automaton	اتوماتون درختی پایین به بالا
+bound	کران
+boundary based representation	نمایش مبتنی بر کرانه
+bounded queue	صف کران دار
+bounded stack	پشته کران دار
+branch	شاخه
+branch and bound	انشعاب و حد
+branching	انشعاب
+breadth first search	جستجوی سطح اول، BFS
+Bresenham's algorithm	الگوریتم برزنهام
+brick sort	مرتب ساز خشتی
+bridge	پل
+British Museum algorithm	الگوریتم موزه انگلیسی
+Broujerd	از شهرهای استان لرستان در کشور ایران
+brute force	کورکورانه
+BSP tree	درخت BSP
+BST	درخت جستجوی دودویی، <B>B</B>inary <B>S</B>earch <B>T</B>ree<IMG src='7E894001.bmp' align='left' width='143' height='100'>
+bubble sort	مرتب ساز حبابی
+bucket	سطل
+bucket array	آرایه سطلی
+bucket sort	مرتب ساز سطلی
+bucketing method	روش سطل بندی
+Byzantine agreement prablem	مسئله معاهده رومی
+Byzantine generals	ژنرالهای رومی
+C	حرف سوم از الفبای انگلیسی، رقمی در مبنای شانزده معادل عدد 12 در مبنای دهدهی
+calculus of communicating syste	حسابان سیستمهای ارتباطی
+canonical complexity class	رده پیچیدگی متعارف
+capacitated facility location	مکان یابی تسهیلات با ظرفیت محدود
+capacity	ظرفیت
+capacity constraint	قید ظرفیت
+cascading cut	برش متوالی، قطع متوالی
+cell	سلول
+cell probe model	مدل وارسی سلول
+cellular automaton	اتوماتون سلولی
+centroid	مرکز ثقل
+certificate	گواهی
+chain	زنجیره
+child	فرزند<IMG src='C72ED1CB.bmp' align='left' width='109' height='75'>
+child field	فیلد فرزند
+Chinese postman problem	مسئله پستچی چینی
+Chinese remainder theorem	قضیه باقیمانده چینی
+Christofides algorithm	الگوریتم کریستفاید
+Christofides heuristic	مکاشفه کریستفاید
+chromatic index	شاخص رنگی
+chromatic number	عدد رنگی
+Church-Turing thesis	تز چرچ-تورینگ
+circuit	مدار
+circuit complexity	پیچیدگی مدار
+circuit value problem	مسئله ارزش مدار
+circular	حلقوی، دایره ای
+circular list	لیست حلقوی
+circular node	گره حلقوی
+circular path	مسر حلقوی، مسیر دوری
+circular queue	صف حلقوی
+circular representation	نمایش حلقوی، نمایش دایره ای
+circularity	حلقوی بودن، دایره ای بودن
+circularity linked list	لیست پیوندی حلقوی
+class	رده , کلاس
+clique	خوشه
+clique problem	مسئله خوشه
+closure	بستار
+collective recursion	بازگشت تجمعی
+collision	تصادم
+comb	شانه
+comb sort	مرتب ساز شاخه ای
+Communicating Sequential Processes	پردازه های ترتیبی مرتبط
+commutative	جابجایی
+comparison	مقایسه
+comparison based	مبتنی بر مقایسه
+comparison based algorithm	الگوریتم مبتنی بر مقایسه
+comparison sort	مرتب ساز مقایسه ای
+competition	رقابت , همکاری
+competitive analysis	تحلیل رقابتی
+competitive ratio	نسبت رقابتی
+complement	مکمل
+complete binary tree	درخت دودویی کامل
+complete graph	گراف کامل
+complete tree	درخت کامل<IMG src='42B86598.bmp' align='left' width='184' height='103'>
+complex function	تابع پیچیدگی
+complexity	پیچیدگی
+complexity class	رده پیچیدگی
+component	مولفه
+computable	محاسبه پذیر
+computable function	تابع محاسبه پذیر
+computer	کامپیوتر، رایانه
+computing time	زمان محاسبه، زمان اجرا
+concave	مقعر
+concave function	تابع مقعر
+concurrent	همزمان
+concurrent flow	شاره همزمان
+configuration	پیکربندی
+conflict	برخورد
+conjunction	ترکیب عطفی
+connected	همبند
+connected component	مولفه همبندی
+connected graph	گراف همبند<IMG src='1B81D1D9.bmp' align='left' width='143' height='93'>
+coNP	کو ان پی
+constant	ثابت
+constant function	تابع ثابت
+continuous	پیوسته
+continuous knapsack problem	مسئله کوله پشتی پیوسته
+Cook's reduction	کاهش کوک
+Cook's theorem	قضیه کوک
+cost	هزینه
+counting sort	مرتب ساز شمارشی
+critical	بحرانی
+critical activity	فعالیت بحرانی
+critical path	مسیر بحرانی
+critical path problem	مسئله مسیر بحرانی
+cross edge	یال متقاطع، یال مجاور
+cut	برش
+cut vertex	راس برشی
+cutting plane	صفحه برشی
+cutting theorem	قضیه برشی
+cycle	دور
+cycle free	بدون دور
+D	حرف چهارم از الفبای انگلیسی، رقمی در مبنای شانزده معادل عدد 13 در مبنای دهدهی
+DAG	گراف جهت دار بی دور<IMG src='ABB8AA80.bmp' align='left' width='143' height='93'>
+DAG shortest paths	کوتاهترین مسیر ها در گراف جهت دار بی دور
+data	داده
+data base	داده پایگاه , پایگاه داده
+data structure	داده ساختار , ساختمان داده
+decidable	تصمیم پذیر
+decidable language	زبان تصمیم پذیر
+decision	تصمیم
+decision problem	مسئله تصمیم
+decision tree	درخت تصمیم
+decode tree	درخت رمزگشا
+decomposable	تجزیه پذیر
+decomposable searching	جستجوی تجزیه پذیر
+decomposable searching problem	مسئله جستجوی تجزیه پذیر
+decomposition	تجزیه
+degenerate	تغییر شکل دادن، تبهگون
+degenerate tree	درخت تبهگون
+degree	درجه
+degree-k graph	گراف درجه k
+delete	حذف
+dense	متراکم , ثقیل , غلیظ , ضخیم
+dense graph	گراف متراکم
+dense index	شاخص چگالی
+depth	عمق
+depth first search	جستجوی عمق اول , DFS
+depth first spanning tree	درخت پوشای جستجوی عمقی
+deque	صف دو سر
+derangement	پریش
+descendant	نواده
+deterministic	قطعی
+deterministic algorithm	الگوریتم قطعی
+deterministic finite automaton	اتوماتون متناهی قطعی , DFA
+deterministic finite state automaton	اتوماتون حالت متناهی قطعی
+deterministic finite state machine	ماشین حالت متناهی قطعی
+deterministic finite tree automaton	اتوماتون درختی متناهی قطعی
+deterministic pushdown automaton	اتوماتون پشته ای قطعی
+deterministic tree automaton	اتوماتون درختی قطعی
+Deutsch-Jozsa algorithm	الگوریتم دویچ- جوزا
+DFA	اتوماتون متناهی قطعی , <B>d</B>eterministic <B>f</B>inite <B>a</B>utomaton
+DFS	جستجوی عمق اول , <B>d</B>epth <B>f</B>irst <B>s</B>earch
+DFS forest	جنگل جستجوی عمق اول
+diagonal	قطر
+diagonalization	قطری کردن
+diameter	قطر
+dictionary	دیکشنری , لغت نامه , فرهنگ داده ای
+difference	تفاضل
+digraph	گراف جهت دار
+Dijkstra's algorithm	الگوریتم دایکسترا
+dimension	بعد , اندازه
+diminishing increment sort	مرتب ساز شانه ای
+dining philosophers	فیلسوفهای گرسنه
+directed acyclic graph	گراف بی دور جهت دار , DAG
+directed acyclic subsequence graph	گراف زیر دنباله بی دور جهت دار
+directed cycle	دور جهت دار
+directed edge	یال جهت دار
+directed graph	گراف جهت دار
+discrete	گسسته
+discrete p-center	p مرکز گسسته
+disjoint set	مجموعه مجزا
+disjoint set data structure	داده ساختار مجموعه مجزا
+disjoint set forest	جنگل مجموعه مجزا
+disjunction	ترکیب فصلی
+distinct	مجزا
+distribute	توزیع شده
+distribution sort	مرتب ساز توزیعی
+distributional complexity	پیچیدگی توزیعی
+divide and conquer	تقسیم و حل
+divide and marriage before conquest	تقسیم و ترکیب پیش از حل
+domain	دامنه
+Doomsday rule	قانون روز رستاخیز
+double direction bubble sort	مرتب ساز حبابی دو جهته
+double hashing	در هم سازی مضاعف
+double rotation	دوران مضاعف
+doubly ended queue	صف دو سر , صف با دو انتها
+doubly linked circular list	لیست دایره ای دو پیوندی
+doubly linked list	لیست پیوندی دو طرفه
+downward	از بالا به پایین
+dual	دوگان
+dynamic	پویا
+dynamic algorithm	الگوریتم پویا
+dynamic array	آرایه پویا
+dynamic hashing	در هم سازی پویا
+dynamic programming	برنامه ریزی پویا
+dynamic tree	درخت پویا
+dynamization transformation	تبدیل پویا سازی
+E	حرف پنجم از الفبای انگلیسی، رقمی در مبنای شانزده معادل عدد 14 در مبنای دهدهی
+edge	یال
+edge coloring	رنگ آمیزی یالی
+edge connectivity	همبندی یالی
+edge crossing	تقاطع یالی
+edge node	گره یال
+efficiency	کارایی
+element	عضو , عنصر
+element uniqueness	یکتایی اعضا
+EM	حافظه خارجی , <B>E</B>xternal <B>M</B>emory
+EM data structure	داده ساختار حافظه خارجی
+empty	خالی
+entity	موجودیت
+entry	جمله، عضو، عنصر، درایه، داده
+Euclid's algorithm	الگوریتم اقلیدس
+Euclidean algorithm	الگوریتم اقلیدسی
+Euclidean distance	فاصله اقلیدسی
+Euclidean Steiner tree	درخت اشتاینر اقلیدسی
+Euclidean traveling salesman	فروشنده دوره گرد اقلیدسی
+Euclidean traveling salesman problem	مسئله فروشنده دوره گرد اقلیدسی
+Euler cycle	دور اویلری
+Euler tour	تور اویلری
+Eulerian graph	گراف اویلری
+Eulerian path	مسیر اویلری
+evaluation	ارزیابی
+exchange sort	مرتب ساز تعویضی
+exclusive or	یای انحصاری , XOR
+exhaust	پردازش شدن
+exhibit	نشان دادن
+existential state	حالت وجودی
+expander graph	گراف توسعه دهنده
+expansion	توسعه، بسط، انبساط
+expansion phase	مرحله بسط
+expected	مورد نظر، مورد انتظار
+exponential	نمایی
+extended binary tree	درخت دودویی تعمیم یافته
+extended Euclid's algorithm	الگوریتم اقلیدسی توسعه یافته , الگوریتم اقلیدسی گسترش یافته
+extendible hashing	درهم سازی قابل تعمیم
+external	خارجی
+external memory	حافظه خارجی , EM
+external memory algorithm	الگوریتم حافظه خارجی
+external memory data structure	داده ساختار حافظه خارجی , EM data structure
+external merge	ادغام خارجی
+external merge sort	مرتب ساز ادغامی خارجی
+external node	گره خارجی
+external quicksort	مرتب ساز سریع خارجی
+external radix sort	مرتب ساز مبنایی خارجی
+external sort	مرتب ساز خارجی
+extreme	خیلی زیاد , بی نهایت
+extreme point	نقطه کنج
+F	حرف ششم از الفبای انگلیسی، رقمی در مبنای شانزده معادل عدد 15 در مبنای دهدهی
+facility	سهولت
+facility location	مکان یابی تسهیلات
+factorial	فاکتوریل
+fast transpose	ترانهاده سریع
+feasible	امکان پذیر
+feasible region	ناحیه امکان پذیر
+feasible solution	جواب امکان پذیر
+feedback edge	یال پس خورد
+Ferguson-Forcade algorithm	الگوریتم فرگوسن - فرکید
+Fibonacci	فیبوناچی
+fibonacci heap	هرم فیبوناچی
+fibonacci heap tree	درخت هرم فیبوناچی
+Fibonacci number	عدد فیبوناچی
+Fibonacci numbers	اعداد فیبوناچی
+FIFO	اولین ورودی - اولین خروجی , <B>F</B>irst <B>I</B>n <B>F</B>irst <B>O</B>ut
+finite	متناهی، محدود
+finite automaton	اتوماتون متناهی
+finite Fourier transform	تبدیل فوریه متناهی
+finite set	مجموعه متناهی
+finite state automaton	اتوماتون حالت متناهی
+finite state machine	ماشین حالت متناهی
+finite state machine minimization	کمینه سازی ماشین حالت متناهی
+finite state transducer	مبدل حالت متناهی
+first-in,first-out	اولین ورودی - اولین خروجی , FIFO
+fixed grid method	روش توری ثابت
+flash sort	مرتب ساز پرتوی
+flow	شاره
+flow conservation	بقای شاره
+flow function	تابع شاره
+flow network	شبکه شاره
+Floyd-Warshall algorithm	الگوریتم فلوید - وارشال
+Ford-Bellman	فورد - بلمن
+Ford-Fulkerson method	روش فورد - فاکرسن
+forest	جنگل
+formal	رسمی , ظاهری , قراردادی
+formal language	زبان رسمی
+formal methods	روش های رسمی
+formal verification	درستی یابی رسمی
+forward edge	یال رو به جلو
+fractal	فرکتال
+fractional knapsack	کوله پشتی تقسیم پذیر
+fractional knapsack problem	مسئله کوله پشتی تقسیم پذیر
+fractional solution	جواب کسری
+free	آزاد , رایگان , رها
+free edge	یال آزاد
+free vertex	راس آزاد
+front	ابتدا
+full	پُر , کامل , درست , تمام
+full array	آرایه پر
+full binary tree	درخت دودویی پر
+fully dynamic graph	گراف کاملاً پویا
+fully dynamic graph problem	مسئله گراف کاملاً پویا
+fully persistent data structure	داده ساختار تمام ماندگار
+fully polynomial approximation scheme	شمای تقریب کاملاً چند جمله ای
+function	تابع
+fuzzy edge	یال فازی
+fuzzy graph	گراف فازی
+fuzzy node	گره فازی
+fuzzy set	تابع فازی
+G	هفتمین حرف از الفبای انگلیسی، علامت اختصاری گیگا (میلیون) = 2 به توان 9
+game tree	درخت بازی
+gamma function	تابع گاما
+geometric optimization	بهینه سازی هندسی
+geometric optimization problem	مسئله بهینه سازی هندسی
+global	سراسری , جهانی
+global optimum	بهینه سازی سراسری
+grand children	نوه
+graph	گراف
+graph coloring	رنگ آمیزی گراف
+graph drawing	ترسیم گراف
+graph follower	دنبال گر گراف
+graph isomorphism	یک ریختی گراف
+graph partition	افراز گراف
+graph theory	تئوری گراف
+graphic data structure	داده ساختار گرافیکی
+greatest common denominator	بزرگترین مخرج مشترک
+greatest common divisor	بزرگترین مقسوم علیه مشترک , GCD<BR>
+greedy	حریصانه
+greedy algorithm	الگوریتم حریصانه
+greedy heuristic	مکاشفه حریصانه
+grid	شبکه
+grid drawing	ترسیم شبکه ای
+Grover's algorithm	الگوریتم گراور
+H	هشتمین حرف از الفبای انگلیسی
+halt	توقف
+halting problem	مسئله توقف
+Hamiltonian cycle	دور همیلتنی
+hash	در هم سازی
+hash address	آدرس درهم ساز
+hash function	تابع در هم ساز
+hash table	جدول در هم سازی
+Hausdorff distance	فاصله هاسدورف
+head	سر
+head node	گره سر
+heap	هرم
+heap sort	مرتب ساز هرمی
+Herter-Heighway Dragon	اژدهای هرتر - هایوی
+heuristic	مکاشفه ای
+hidden	مخفی , پنهان
+hidden Markov model	مدل مارکوف مخفی
+histogram sort	مرتب ساز نمودار ستونی
+homeomorphic	همسان ریخت
+homomorphic	همریخت
+horizontal	افقی
+horizontal visibility map	نقشه دید افقی
+Horner's rule	قانون هرنر
+huffman code	کد هافمن
+hybrid algorithm	الگوریتم آمیخته
+hyperedge	ابر یال
+hypergraph	ابر گراف
+hypothesis	فرض، فرضیه
+I	من، نهمین حرف از الفبای انگلیسی
+ideal	ایده آل
+ideal merge	ادغام ایده آل
+implication	استلزام
+implies	نتیجه می دهد
+in-branching	انشعاب ورودی
+in-degree	درجه ورودی
+in-order	میان ترتیب
+in-order traversal	پیمایش میان ترتیب
+in-place	درجا , با حفظ ترتیب
+in-place merging	ادغام درجا
+in-place sort	مرتب ساز درجا
+incident	تصادم، تلاقی، رویداد
+incident matrix	ماتریس تلاقی
+inclusion-exclusion privciple	اصل رد و شمول
+inclusive or	یای منطقی
+incompressible	فشرده نشدنی
+incompressible string	رشته فشرده نشدنی
+indegree	درجه ورودی
+independent	مستقل
+independent set	مجموعه مستقل
+induction	استقرا
+induction base	پایه استقرا
+induction hypothesis	فرض استقرا
+induction step	حکم استقرا
+infix	میانوندی
+information	اطلاعات
+information theoretic	نظریه اطلاعاتی
+information theoretic bound	کران نظریه اطلاعاتی
+inheritance	وراثت، توارث
+initialize	مقدار دهی، مقدار دهی اولیه
+inline function	تابع درون خطی
+inorder	میان ترتیب
+inorder traversal	پیمایش میان ترتیب
+insertion sort	مرتب ساز درجی
+instantaneous	آنی , فوری
+instantaneous description	توصیف آنی
+integer	صحیح , عدد صحیح
+integer multi-commodity flow	شاره چند کالایی صحیح
+integer polyhedron	چند وجهی صحیح
+interactive	محاوره ای
+interactive proof	اثبات محاوره ای
+interactive proof system	سیستم اثبات محاوره ای
+interface	واسط، رابط
+interior-based	مبتنی بر درون
+interior-based representation	نمایش مبتنی بر درون
+intermediate	واسطه، میانی
+intermediate tree	درخت میانی
+intermediate vertex	راس میانی
+internal node	گره داخلی
+internal path	مسیر داخلی
+internal path length	طول مسیر میانی
+internal sort	مرتب ساز داخلی
+interpolation	درون یابی
+interpolation search	جستجوی درون یابی
+interpolation sort	مرتب ساز درون یابی
+intersection	اشتراک
+interval tree	درخت بازه
+intractable	رام نشدنی
+intro	خود آزما , introspection
+intro sort	مرتب ساز خود آزما
+introspection	خود آزما , intro
+introspection sort	مرتب ساز خود آزما
+introspective sort	مرتب ساز خود آزما
+intuitively	بصورت تجربی، بصورت شهودی
+invoke	احضار کردن
+invoking	احضار
+irreflexive	نابازتاب
+isomorphic	یکریخت
+iteration	تکرار
+iteration limit	حد تکرار
+iterator	تکرار کننده
+J	دهمین حرف از الفبای انگلیسی
+j sort	مرتب ساز j
+Johnson algorithm	الگوریتم جانسون
+Johnson's algorithm	الگوریتم جانسون
+join	ترکیب، اتصال
+K	یازدهمین حرف از الفبای انگلیسی، علامت اختصاری کیلو = 2 به توان 3
+k-coloring	k رنگ آمیزی
+k-dimensional	k بعدی
+k-way merge	ادغام k راهی
+k-way merge sort	مرتب ساز ادغامی k راهی
+Karnaugh map	نقشه کارنو
+Karp reduction	کاهش کارپ
+key	کلید
+Koenigsberg bridges	پلهای کونیگسبرگ
+Koenigsberg bridges problem	مسئله پلهای کونیگسبرگ
+Kolmogorov complexity	پیچیدگی کاموگروف
+Kraft's inequality	نامساوی کرافت
+Kripke structure	ساختار کریپک
+Kruskal	کروسکال
+Kruskal's algorithm	الگوریتم کروسکال
+Kth order Fibonacci numbers	اعداد فیبوناچی مرتبه K ام
+Kth shortest path	k امین کوتاهترین مسیر
+KV diagram	نمودار KV
+L	دوازدهمین حرف از الفبای انگلیسی
+l-reduction	کاهش l
+labeled graph	گراف بر چسب دار
+language	زبان
+last-in,first-out	آخرین ورودی-اولین خروجی , LIFO
+latency time	زمان تاخیر، مدت تاخیر
+latest time	دیرترین زمان
+lattice	شبکه
+layered digraph	گراف جهت دار لایه شده
+layered graph	گراف لایه شده
+leaf	برگ
+leaf node	گره برگی
+learning automata	اتوماتون یادگیر
+least common multiple	کوچکترین مضرب مشترک , ک.م.م , LCM
+least significant digit	کم ارزش ترین رقم معنا دار، رقم معنی دار با کمترین ارزش
+left child	فرزند چپ
+leftist tree	درخت چپ گرا، درخت متمایل به چپ
+leftmost node	سمت چپ ترین گره
+leftmost path	سمت چپ ترین مسیر
+level	سطح
+life time	زمان زندگی
+linear	خطی
+linear hashing	درهم سازی خطی
+linear insertion sort	مرتب ساز درجی خطی
+linear list	لیست خطی
+linear order	ترتیب خطی
+linear probing sort	مرتب ساز وارسی خطی
+linear product	ضرب خطی
+link	پیوند
+linked chain	زنجیره پیوندی
+linked list	لیست پیوندی
+linked queue	صف پیوندی
+linked stack	پشته پیوندی
+linker	پیوند دهنده
+list	لیست
+little o notation	نماد o کوچک
+LM distance	فاصله LM
+logarithmic	لگاریتمی
+loser tree	درخت بازنده
+Lotka's law	قانون لاتکا
+low	پایین , پست , خفیف , ارزان
+lower bound	کران پایین
+lower triangular matrix	ماتریس پایین مثلثی
+M	سیزدهمین حرف از الفبای انگلیسی، علامت اختصاری مگا (میلیون) = 2 به توان 6
+main diagonal	قطر اصلی
+major diagonal	قطر اصلی
+Manhatton distance	فاصله منهتنی
+many-one reduction	کاهش چند به یک
+mapping	نگاشت
+Markov chain	زنجیره مارکوف
+master method	قضیه اصلی
+matched edge	یال تطابق یافته
+matched vertex	راس تطابق یافته
+matching	تطابق
+mathematical	ریاضی
+mathematical induction	استقرا ریاضی
+matrix	ماتریس
+max	بیشینه , حداکثر
+maximal	ماکزیمال , بیشینه نسبی
+maximal independent set	مجموعه مستقل بیشینه
+maximally connected component	مولفه ماکزیمال همبند
+maximum bipartite matching	تطابق دوبخشی بیشینه
+maximum flow problem	مسئله شاره بیشینه
+Mealy machine	ماشین میلی
+mean	میانگین
+median	میانه
+memoization	به خاطر سپاری
+merge	ادغام
+merge sort	مرتب ساز ادغامی
+meromorphic function	تابع مرومورفیک
+min	کمینه
+minimal	مینیمال , کمینه نسبی
+minimal antichain decomposition	تجزیه پاد زنجیری مینیمال
+minimum bounding box	کوچکترین مستطیل در بر گیرنده
+minimum code spanning tree	درخت فراگیر با کمترین کد
+minimum cost spanning tree	درخت فراگیر با کمترین هزینه
+minimum cut	برش کمینه
+minimum spanning tree	درخت فراگیر کمینه
+minimum vertex cut	برش راسی کمینه
+mode	مد
+model	مدل
+model checking	بررسی مدل
+model of computation	مدل محاسبه
+moderate	ملایم , معتدل
+moderately exponential	نمایی ملایم
+monotonical	یکنواخت
+monotonically decreasing	نزولی یکنواخت
+monotonically increasing	صعودی یکنواخت
+Moore machine	ماشین مور
+most significant digit	معنی دار ترین رقم، با ارزش ترین رقم معنا دار
+move	حرکت , انتقال
+multi	چند , چندگانه , متعدد
+multi commodity flow	شاره چند کالایی
+multi set	مجموعه چندگانه
+multi way decision	تصمیم چند راهه
+multi way merge	ادغام چند راهی
+multigraph	گراف چندگانه
+multiple	چندگانه، متعدد
+multiple queue	صف چندگانه
+multiple stack	پشته چندگانه
+N	چهاردهمین حرف از الفبای انگلیسی
+n-ary function	تابع n تایی
+NC many-one reducibility	کاهش چند به یک NC
+NDFA	اتوماتون متناهی غیر قطعی , <B>n</B>on<B>d</B>eterministic <B>f</B>inite <B>a</B>utomaton
+nearest neighbor	نزدیکترین همسایه
+nearest neighbor search	جستجوی نزدیکترین همسایه
+negation	نفی , نقیض
+negative	منفی
+nested	تو در تو
+network	شبکه
+network flow	شاره شبکه
+network flow problem	مسئله شاره شبکه
+next	بعدی
+next state	حالت بعدی
+NIST	موسسه ملی استاندارد و فناوری امریکا
+node	گره
+nonbalance	نامتوازن
+nonbalanced merge	ادغام نامتوازن
+nonbalanced merge sort	مرتب ساز ادغامی نامتوازن
+nondeterministic	غیر قطعی
+nondeterministic algorithm	الگوریتم غیر قطعی
+nondeterministic finite automaton	اتوماتون متناهی غیر قطعی , NDFA
+nondeterministic finite state machine	ماشین حالت متناهی غیر قطعی
+nondeterministic finite tree automaton	اتوماتون درختی متناهی غیر قطعی
+nondeterministic polynomial time	زمان چند جمله ای غیر قطعی
+nondeterministic tree automaton	اتوماتون درختی غیر قطعی
+nondeterministic Turing machine	ماشین تورینگ غیر قطعی
+noniterative	غیر تکراری
+noniterative merge	ادغام غیر تکراری
+not	چنین نیست که , عملگر نقیض
+notation	نماد
+NP-complete language	زبان NP تمام
+nullary function	تابع صفر تایی
+O	پانزدهمین حرف از الفبای انگلیسی
+O notation	نماد O بزرگ، تابع رشد برای کران بالا
+objective function	تابع هدف
+off-line algorithm	الگوریتم برون خط
+omega	اُمگا، تابع رشد برای کران پایین<IMG src='CCE2F8FF.bmp' align='left' width='17' height='18'>
+omicron	اُمیکرون
+on-line algorithm	الگوریتم بر خط
+one dimensional	یک بعدی
+online algorithm	الگوریتم بر خط
+optimal	بهینه
+optimal cost	هزینه بهینه
+optimal merge	ادغام بهینه
+optimal polygon triangulation	مثلث بندی بهینه چند ضلعی
+optimal polygon triangulation problem	مسئله مثلث بندی بهینه چند ضلعی
+optimal polyphase merge	ادغام چند مرحله ای بهینه
+optimal polyphase merge sort	مرتب ساز ادغامی چند مرحله ای بهینه
+optimal solution	جواب بهینه
+optimal tree	درخت بهینه
+optimal triangulation	مثلث بندی بهینه
+optimal triangulation problem	مسئله مثلث بندی بهینه
+optimal value	مقدار بهینه
+optimization problem	مسئله بهینه سازی
+or	یا , عملگر فصلی
+oracle	پیشگویی , وحی , نام یک شرکت نرم افزاری
+oracle set	مجموعه پیشگو
+oracle tape	نوار پیشگو
+oracle Turing machine	ماشین تورینگ پیشگو
+order	ترتیب
+ordered binary decision diagram	نمودار تصمیم دودویی مرتب
+ordered linked list	لیست پیوندی مرتب
+oriented acyclic graph	گراف بی دور جهت دار
+oriented graph	گراف جهت دار
+orthogonal	متعامد
+orthogonal drawing	ترسیم متعامد
+orthogonal list	لیست متعامد
+orthogonal list representation	نمایش لیست متعامد
+orthogonally convex rectilinear polygon	جند ضلعی افقی-عمودی متعامداً محدب
+oscillating merge sort	مرتب ساز ادغامی نوسانی
+out branching	انشعاب خروجی
+out degree	درجه خروجی
+overflow	سرریز
+overflow node	گره سرریز
+overflow page	صفحه سرریز
+overhead	سربار
+P	شانزدهمین حرف از الفبای انگلیسی
+p-way merge sort	مرتب ساز ادغامی P راهی
+padding argument	استدلال لایه گذار
+parametric searching	جستجوی پارامتری
+parent	پدر، والد
+partial	جزئی
+partial function	تابع جزئی
+partial match	تطابق جزئی
+partial order	ترتیب جزئی
+partial recursive function	تابع بازگشتی جزئی
+partially decidable problem	مسئله جزئاً تصمیم پذیر
+partially dynamic graph	گراف جزئی پویا
+partially dynamic graph problem	مسئله گراف جزئی پویا
+partially ordered set	مجموعه جزئی مرتب
+partially presistent data structure	داده ساختار جزئی ماندگار
+path	مسیر
+path length	طول مسیر
+perfect matching	تطابق کامل
+performance guarantee	ضمانت کارایی
+performance ratio	نسبت کارایی
+perimeter	محیط
+permutation	جایگشت
+permutation generator	مولد جایگشت
+persistent data structure	داده ساختار ماندگار
+phase	مرحله، فاز
+pigeonhole principle	اصل لانه کبوتری
+pivot	محور
+planar graph	گراف مسطح
+planar straight-line graph	گراف مسطح با خطوط مستقیم
+planarity	مسطح بودن
+planarization	مسطح سازی
+point	نقطه
+pointer	اشاره گر
+pointer machine	ماشین اشاره گر
+poissonization	پوآسنی کردن
+polygon	چند ضلعی
+polyhedron	چند وجهی
+polylogarithmic	چند لگاریتمی
+polynomial	چند جمله ای
+polynomial approximation scheme	شمای تقریب چند جمله ای
+polynomial hierarchy	سلسله مراتب چند جمله ای
+polynomial time	زمان چند جمله ای
+polynomial-time algorithm	الگوریتم زمان چند جمله ای
+polynomial-time approximation scheme	شمای تقریب زمان چند جمله ای
+polynomial-time Church-Turing thesis	تز چرچ - تورینگ زمان چند جمله ای
+polynomial-time reduction	کاهش زمان چند جمله ای
+polyphase merge	ادغام چند جمله ای
+polyphase merge sort	مرتب ساز ادغامی چند جمله ای
+pop	برداشتن داده از بالای پشته، بازیابی داده از بالای پشته
+poset	مجموعه جزئی مرتب
+Post's correspondence	تناظر پست
+Post's correspondence problem	مسئله تناظر پست
+postfix	پسوندی
+postfix notation	نماد پسوندی
+postman's sort	مرتب ساز پستچی
+potential	پتانسیل , توان بالقوه
+potential function	تابع پتانسیل
+prefix	پیشوندی
+Prim's algorithm	الگوریتم پریم
+primitive	اصلی , اولیه
+primitive recursive	بازگشتی اصلی
+principle	اصل، قاعده کلی
+priority	اولویت
+priority queue	صف اولویت
+prisoner's dilemma	معمای اسیران
+probabilistic algorithm	الگوریتم احتمالی
+probabilistic Turing machine	ماشین تورینگ احتمالی
+probabilistically checkable proof	اثبات بررسی پذیری احتمالی
+probability	احتمال
+probable	احتمالی
+procedure	رویه
+process algebra	جبر پردازه ها
+proper	سره
+proper coloring	رنگ آمیزی مجاز
+proper subset	زیر مجموعه سره
+prune and search	هرس و جستجو
+pseudo	شبه
+pseudo code	شبه کد
+pseudo random number generator	مولد اعداد شبه تصادفی
+pseudorandom number	اعداد شبه تصادفی
+pth order Fibonacci numbers	اعداد فیبوناچی مرتبه P ام
+pure	محض
+purely function language	زبان کاملاً تابعی
+push	قرار دادن داده در بالای پشته، ذخیره داده در بالای پشته
+pushdown automaton	اتوماتون پشته ای
+pushdown transducer	مبدل پشته ای
+Q	هفدهمین حرف از الفبای انگلیسی
+q sort	مرتب ساز q
+qm sort	مرتب ساز qm
+quadtree	درخت چهار تایی
+quadtree complexity	پیچیدگی درخت چهار تایی
+quadtree complexity theorem	قضیه پیچیدگی درخت چهار تایی
+quantum computation	محاسبه کوانتومی
+queue	صف
+quick sort	مرتب ساز سریع
+quicksort	مرتب ساز سریع
+R	هجدهمین حرف از الفبای انگلیسی
+r.e.language	زبان بازگشتی شمارش پذیر
+radix sort	مرتب ساز مبنایی
+ragge	ناهموار
+ragged matrix	ماتریس ناهموار
+random	تصادفی
+random access	دسترسی تصادفی
+random access machine	ماشین با دسترسی تصادفی
+random numbers	اعداد تصادفی
+random numbers generator	مولد اعداد تصادفی
+randomization	تصادفی سازی
+randomized algorithm	الگوریتم تصادفی
+randomized complexity	پیچیدگی تصادفی
+randomized rounding	گرد کردن تصادفی
+range	برد , رنج , محدوده , بازه
+range sort	مرتب ساز بازه ای
+rank	مرتبه
+reachable	قابل دستیابی , دسترسی
+reachable graph	گراف دسترسی
+rear	انتها
+rebalance	تجدید توازن
+recognizer	تشخیص دهنده , شناسنده
+rectangular matrix	ماتریس مستطیل شکل
+rectilinear	افقی - عمودی
+rectilinear distance	فاصله افقی - عمودی
+rectilinear Steiner tree	درخت اشتاینر افقی - عمودی
+recurrence	بازگشتی
+recurrence equations	معادلات بازگشتی
+recurrence relation	رابطه بازگشتی
+recurrences	بازگشتی ها
+recursion	بازگشت
+recursion termination	خاتمه بازگشت
+recursion tree	درخت بازگشت
+recursive	بازگشتی
+recursive algorithm	الگوریتم بازگشتی
+recursive data structure	داده ساختار بازگشتی
+recursive function	تابع بازگشتی
+recursive language	زبان بازگشتی
+recursively enumerable language	زبان بازگشتی شمارش پذیر
+red-black tree	درخت قرمز - سیاه
+reduced basis	پایه ساده شده
+reduced digraph	گراف جهت دار ساده شده
+reduction	کاهش , ساده شده
+reflexive	بازتاب
+regular	منظم
+regular decomposition	تجزیه منظم
+regular expression	عبارت منظم
+relation	رابطه
+relational structure	ساختار رابطه ای
+relative performance guarantee	ضمانت کارایی نسبی
+relaxation	ترمیم
+rescalable	باز مقیاس پذیر
+reside	مقیم بودن، ذخیره شدن
+resident queue	صف ماندگار
+restrict	محدود کردن
+restricted universe sort	مرتب ساز جهان محدود
+reusable	قابل استفاده مجدد
+reverse	معکوس، وارونه
+reverse adjacency list	لیست مجاورتی معکوس
+rho-approximation algorithm	الگوریتم rho تقریبی
+Rice's method	روش رایس
+right child	فرزند راست
+rightmost node	راست ترین گره
+rightmost path	سمت راست ترین مسیر
+root	ریشه
+rough graph	گراف تقریبی
+routing	مسیر یابی
+routing problem	مسئله مسیر یابی
+run time	زمان اجرا
+run time error	خطای زمان اجرا
+S	نوزدهمین حرف از الفبای انگلیسی
+s-t cut	برش s-t
+saddle point	نقطه زینی
+satisfiability	صدق پذیری
+satisfiability algorithm	الگوریتم صدق پذیری
+satisfiability problem	مسئله صدق پذیری
+saturated edge	یال اشباع شده
+scheme	روش، طرح
+scope	حوزه، دامنه، محدوده
+seek time	زمان جستجو
+selection sort	مرتب ساز انتخابی
+selection sort method	روش مرتب ساز انتخابی
+self loop	طوقه
+sentinel	نگهبان، کشیک
+separation theorem	قضیه جدا سازی
+sequential	ترتیبی
+sequential list	لیست ترتیبی
+set	مجموعه
+set complement	مکمل مجموعه
+set difference	تفاضل مجموعه
+set intersection	اشتراک مجموعه
+set union	اجتماع مجموعه
+share	اشتراک
+shared memory	حافظه اشتراکی
+shell sort	مرتب ساز صدفی
+Shor's algorithm	الگوریتم شور
+shortest path	کوتاهترین مسیر
+shortest spanning tree	کوتاهترین درخت فراگیر
+shrink	کوچک شدن
+sibling	همزاد، برادر
+Sierpinski triangle	مثلث سرپینسکی
+signature	امضا , نشان
+simple	ساده
+simple merge	ادغام ساده
+simple path	مسیر ساده
+simulation	شبیه سازی
+simulation theorem	قضیه شبیه سازی
+simulator	شبیه ساز
+single destination shortest path problem	مسئله کوتاهترین مسیر به یک مقصد
+single pair shortest path problem	مسئله کوتاهترین مسیر بین یک زوج راس
+single source shortest path problem	مسئله کوتاهترین مسیر از یک مبدا
+singleton set	مجموعه یک عضوی
+singly linked list	لیست پیوندی یک طرفه
+singularity analysis	تحلیل نقطه منفرد
+sink	چاهک
+sink sort	مرتب ساز فرو برنده
+sinking sort	مرتب ساز فرو برنده
+skew	اریب، مورب
+skew symmetry	تقارن چپ
+skewed binary tree	درخت دودویی مورب
+skewed heap	هرم مورب
+skewed tree	درخت مورب
+slope selection	انتخاب شیب
+slot	شکاف
+solvable	حل پذیر
+sort	مرتب کردن
+sorted linked list	لیست پیوندی مرتب
+sorted sequential list	لیست ترتیبی مرتب
+sorting algorithm	الگوریتم مرتب سازی
+source	منبع , مبدا
+space complexity	پیچیدگی حافظه
+space constructible function	تابع فضای ساختنی
+spanning forest	جنگل پوشا
+spanning tree	درخت پوشا
+sparse graph	گراف خلوت
+sparse matrix	ماتریس خلوت
+sparse polynomial	چند جمله ای خلوت
+sparsification	خلوت سازی
+split	تجزیه، تفکیک
+splitting algorithm	الگوریتم تجزیه
+square matrix	ماتریس مربعی
+square root	ریشه دوم
+stable	پایدار
+stack	پشته
+stack tree	درخت پشته ای
+star-shaped	ستاره ای شکل
+star-shaped polygon	چند ضلعی ستاره ای شکل
+start state	حالت شروع
+state	حالت
+state machine	ماشین حالت
+state transition	گذر حالت
+statement	گزاره، دستور
+Steiner minimum tree	درخت کمینه اشتاینر
+Steiner point	نقطه اشتاینر
+Steiner ratio	نسبت اشتاینر
+Steiner tree	درخت اشتاینر
+Steiner vertex	راس اشتاینر
+Stirling's approximation	تقریب استرلینگ
+Stirling's formula	فرمول استرلینگ
+stooge sort	مرتب ساز ساده لوحانه
+storage	حافظه
+storage management	مدیریت حافظه
+storage management algorithm	الگوریتم مدیریت حافظه
+straight line drawing	ترسیم مستقیم الخط
+Strassen algorithm	الگوریتم استراسن
+strictly	اکیداً
+strictly decreasing	اکیداً نزولی
+strictly increasing	اکیداً صعودی
+strictly lower triangular matrix	ماتریس اکیداً پایین مثلثی
+strictly upper triangular matrix	ماتریس اکیداً بالا مثلثی
+string	رشته
+strongly connected graph	گراف قویاً همبند
+subadditive Ergodic theorem	قضیه ارگودیک زیر جمعی
+subgraph	زیر گراف
+subgraph isomorphism	یکریختی زیر گراف ها
+subpath	زیر مسیر
+subset	زیر مجموعه
+subtype	زیر نوع
+successive	متوالی، بعدی
+suffix	پسوندی
+suffix automaton	اتوماتون پسوندی
+superset	زبر مجموعه , ابر مجموعه
+supersink	ابر چاهک
+supersource	ابر منبع
+suspended queue	صف معوق
+symmetric	متقارن
+symmetric binomial distribution	توزیع دو جمله ای متقارن
+symmetric set difference	تفاضل متقارن مجموعه
+symmetrically linked list	لیست پیوندی متقارن
+synonyms	مترادف
+T	بیستمین حرف از الفبای انگلیسی، علامت اختصاری ترا (تریلیون) = 2 به توان 12
+tail	دم
+tail recursion	آخرین بازگشت
+task	وظیفه، کار
+temporal logic	منطق زمانی
+terminal	پایانه
+text	متن
+theoretical	تجربی، نظری
+theta	تتا، تابع رشد<IMG src='1363A152.bmp' align='left' transp width='18' height='19'>
+thread	نخ، ریسمان
+threaded binary tree	درحت دودویی نخ کشی شده
+three dimensional	سه بعدی
+three-way merge sort	مرتب ساز ادغامی سه راهی
+time complexity	پیچیدگی زمانی
+time efficiency	کارایی زمان
+time/space complexity	پیچیدگی زمان/حافظه
+token	نشانه، نماد، بسته
+top-down radix sort	مرتب ساز مبنایی بالا به پایین
+top-down tree automaton	اتوماتون درختی بالا به پایین
+top sort	مرتب ساز توپولوژیکی , topological sort
+topmost node	بالاترین گره
+topological order	ترتیب توپولوژیکی
+topological sort	مرتب ساز توپولوژیکی , top sort
+total	کامل
+total function	تابع کامل
+total order	ترتیب کامل
+totally decidable problem	مسئله کاملاً تصمیم پذیر
+totally undecidable problem	مسئله کاملاً تصمیم ناپذیر
+tour	تور
+tractable	مهار شدنی
+transducer	مبدل
+transition	گذر
+transition function	تابع گذر
+transitive	تریا , تراگذری، تعدی
+transitive closure	بستار متعددی
+transitive reduction	ساده سازی تریا
+transpose	ترانهاده
+traveling salesman	فروشنده دوره گرد
+traveling salesman problem	مسئله فروشنده دوره گرد
+travelling salesman	فروشنده دوره گرد
+tree	درخت
+tree automaton	اتوماتون درختی
+tree edge	یال درختی
+tree network	شبکه درختی
+tree sort	مرتب ساز درختی
+triangle inequality	نا مساوی مثلثی
+triconnected graph	گراف سه همبند
+trie	ترای , یک نوع ساختار شاخصی
+trinary function	تابع سه تایی
+trivial cycle	دور بدیهی
+Turing machine	ماشین تورینگ
+Turing reduction	کاهش تورینگ
+Turing transducer	مبدل تورینگ
+two dimensional	دو بعدی
+two way linked list	لیست پیوندی دو طرفه
+two way list	لیست دو طرفه
+two way merge sort	مرتب ساز ادغامی دو راهه
+U	بیست و یکمین حرف از الفبای انگلیسی
+unary function	تابع یکتایی
+unbalance	نامتوازن
+unbalanced tree	درخت نامتوازن
+uncomputable	محاسبه ناپذیر
+uncomputable function	تابع محاسبه ناپذیر
+uncomputable problem	مسئله محاسبه ناپذیر
+undecidable	تصمیم ناپذیر
+undecidable language	زبان تصمیم ناپذیر
+undecidable problem	مسئله تصمیم ناپذیر
+undirected graph	گراف غیر جهت دار
+uniform	یکنواخت
+uniform circuit complexity	پیچیدگی مدار یکنواخت
+uniform circuit family	خانواده مدارهای یکنواخت
+uniform hash function	تابع درهم سازی یکنواخت
+uniform matrix	ماتریس یکنواخت
+union	اجتماع
+union of automata	اجتماع اتوماتا
+universal	جامع , همگانی
+universal state	حالت جامع
+universal Turing machine	ماشین تورینگ جامع
+universe	جهان , مجموعه مرجع
+unordered linear list	لیست خطی نامرتب
+unsolvable	حل نشدنی
+unsolvable problem	مسئله حل نشدنی
+unsort	نامرتب
+unsorted	مرتب نشده
+unsorted list	لیست نامرتب
+unstack	خارج کردن از پشته
+upper triangular	بالا مثلثی
+upper triangular matrix	ماتریس بالا مثلثی
+V	بیست و دومین حرف از الفبای انگلیسی
+vacant	خالی
+value returning function	تابع با مقدار بازگشتی
+variant record	رکورد متغیر، رکورد با طول متغیر
+variety	نوع
+Varshal algorithm	الگوریتم وارشال
+vehicle routing	مسیر یابی وسیله
+vehicle routing problem	مسئله مسیر یابی وسیله
+Veitch diagram	نمودار ویتچ
+Venn diagram	نمودار ون
+vertex	راس
+vertex coloring	رنگ آمیزی راسی
+vertex connectivity	همبندی راسی
+vertex cover	پوشش راسی
+vertex set	مجموعه رئوس
+vertical visibility map	نقشه دید عمودی
+vertice	راس
+vertices	رئوس
+violate	نقض کردن
+virtual	مجازی
+virtual function	تابع مجازی
+visibility map	نقشه دید
+visible	قابل دید
+visit	ملاقات
+Viterbi algorithm	الگوریتم ویتربی
+W	بیست و سومین حرف از الفبای انگلیسی
+walk	گشت
+weak-heap sort	مرتب ساز هرمی ضعیف
+weight rule	قانون وزن
+weighted directed graph	گراف جهت دار وزن دار
+weighted edge	یال وزن دار
+weighted external path length	طول مسیر خارجی وزن دار
+weighted graph	گراف وزن دار
+white space	فضای سفید
+winner tree	درخت برنده
+worst case	بدترین حالت
+worst case cost	هزینه بدترین حالت
+worst-case data	داده ها در بدترین حالت
+worst-case search time	زمان جستجو در بدترین حالت
+write out	ذخیره کردن
+X	بیست و چهارمین حرف از الفبای انگلیسی
+xor	یای انحصاری
+Y	بیست و پنچمین حرف از الفبای انگلیسی
+Z	بیست و ششمین و آخرین حرف از الفبای انگلیسی
+zero	صفر
+zero count	شمار صفر
+zero matrix	ماتریس صفر

@@ -1,0 +1,1924 @@
+##name	Odontonomy
+##sourceLang	English
+##targetLang	Turkish
+##bgl_sourceCharset	cp1254
+##bgl_targetCharset	cp1254
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1254
+##bgl_targetEncoding	cp1254
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2001/03/17, 23:49
+##author	Dt.TIPYARDIM B.
+##email	dt_baris@yahoo.com
+##description	Dental Terminology
+##browsingEnabled	
+##bgl_creationTime	2001/02/03, 23:33
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+abate	azaltmak, dindirmek (ağrı)<BR>
+abatticulation|abatikülasyon	<B>1.</B> Eklem kayması<BR><B>2.</B> Çıkık<BR>
+abdomen	Karın, batın.<BR>
+abdominal	karına ait, batına ait.<BR>
+abducent	uzaklaştırıcı, çekici, ayıran, açan.<BR>
+abduct	Çekme, Uzaklaştırma, Ayırma.<BR>
+abductor|abdüktör	Çekici, Uzaklaştırıcı kas<BR>
+abiosis	Hayat yokluğu, noksanlığı.<BR>
+abiotrophy|abiotrofi	Vücut hücrelerindeki hayatiyetin yokluğu veya tetrici olarak azalması.<BR>
+ablactation|ablaktasyon	Çocuğu memeden kesme<BR>
+ablate	Kesip atma, kesme.<BR>
+ablepsia|ablepsi	körlük<BR>
+abluent	Temizleyici.<BR>
+abocclusion|aboklüzyon	alt ve üst çenenin birbirine temas edemediği durum<BR>
+abrasion|abrazyon	Aşınma<BR>
+abrasive|abraziv	Aşındırıcı.<BR>
+absence	Yokluk, eksiklik, Baygınlık, Şuur kaybı<BR>
+abstraction|abstraksiyon	Çenelerin anormal derecede birbirnden uzak olduğu bir tür maloklizyon.<BR>
+acanthoameloblastoma|akantoameloblastom	sedefsi veya dikenli tip hücre içeren bir ameloblastoma<BR>
+acanthoid|akantoid	dikensi, kılıçsı<BR>
+acanthoma|akantoma	keratinize epitel içeren bir epidermoid tümör.<BR>
+acellular|aselüler	hücresiz.<BR>
+acidogenic|asidojen	asit yapan.<BR>
+acquired pellicle|aedilgin pelikül	diş yüzeyinde veya çekim boşluğunu dolduran pıhtının üzerinde biriken aselüler organik madde tabakası; çekim boşluğu pıhtısının üzerindekine 'kahverengi pelikül' de denir.<BR>
+acretion|akresyon	bir yüzeye yapışan yabancı madde birikimi.<BR>
+acrocephaly|akrosefali	sivri ve yüksek kubbeli kafatası ile karakterize durum, oksisefali<BR>
+acromegaly|akromegali	kemiklerin, baş ve ekstremitelerin büyümesi ile karakterize, hipofiz hipefonksiyonuna bağlı gigantizm<BR>
+actinic carcinoma|aktinik karsinom	direkt güneş ışığına maruz kalma sonucu yüz ve öteki çıplak vücut yüzeylerini etkileyen ve çoğu kez bazal hücreli karsinom.<BR>
+actinomyces|aktinomiçes	ağızda saprofit olarak bulunan, ancak bazen şiddetli yangılara sebep olan bir mantar.<BR>
+actinomycosis|aktinomikoz	aktinomiçes bovis' in neden olduğu bir kronik enfeksiyon.<BR>
+acute|akut	ani başlayan, kısıtlı süreli.<BR>
+adamantine|adamantin	diş minesine ilişkin<BR>
+adamantinocarcinoma|adamantinokarsinom	ameloblastomanın habis şekli<BR>
+adamantinoma|adamantinom	Odontojen epitelyumdan kaynaklanan, ancak mine ve başka bir diş dokusu içermeyen lokal agresif çene tümörü<BR>
+adamantoblastoma|adamantoblastom	adamantinom<BR>
+addiction|adiksiyon	ilaca tutsaklık, bağımlılık.<BR>
+adduction|addüksiyon	merkeze veya orta çizgiye doğru çekme<BR>
+adenalgia|adenalji	bir salgı bezini etkileyen ağrı<BR>
+adenectomy|adenektomi	bir bezin cerrahi olarak çıkarılması<BR>
+adenitis|adenit	bir bezin iltihaplanması<BR>
+adeno	salgı bezi anlamında önek<BR>
+adenocarcinoma|adenokarsinom	salgıbezi dokusundan kaynaklanıp, bir dereceye kadar organın kendisini hatırlatan bir habis tümör<BR>
+adenoid	<B>1.</B> Bez benzeri <BR><B>2. </B>Nazofarinksteki lenfoid doku.<BR>
+adenoidectomy|adenoidektomi	adenoidlerin cerrahi eksizyonu (çıkarılması).<BR>
+adenoitis	adenoidlerin iltihabı.<BR>
+adenolymphoma|adenolenfoma	Warthin tümörü; tükürük bezlerinde oluşan selim bir epitelyal tümör<BR>
+adenomatome|adenomatom	adenoidlerin eksizyonu için kullanılan bir cerrahi alet<BR>
+adenopathy|adenopati	lenf bezlerinin büyümesi<BR>
+adhesion|adezyon	<B>1.</B> iki yüzeyin birbirine yapışması, tutunması. <BR><B>2.</B> <I>cerrahide: </I>iki ayrı parçanın yeni bir doku bandı ile anormal birleşmesi. <BR><B>3.</B> Bu birleşmeyi sağlayan doku.<BR><B>4.</B> <I>Dişhek.</I> de süksiyon tekniği kullanmadan üst total protezin damağa tutunmasını sağlayan kuvvet.<BR>
+adhesive|adesif	sıkıca yapışan, adezyonla karakterize.<BR>
+adipose|adipoz	yağ, yağlı<BR>
+adnasal|adnazal	buruna ilişkin, burnun yanında.<BR>
+adnex|adneks	bağlantı; eki yağ bezleri<BR>
+adolescent|adolesan	Ergen.
+adoral	ağızın yanında, ağız yönünde.<BR>
+adrenodontia|adrenodonti	Büyük sivri kaninler ve oklüzal yüzü kahverengi renkleşme gösteren dişlerle karakterize, adrenal bezlerinin aşırı çalışmalarının morfolojik belirtileri.<BR>
+adsorbtion|adsorbsiyon	bağlanma, tutunma<BR>
+aerobe|aerob	yaşamak ve gelişmek için serbest okjisene ihtiyacı olan mikroorganizma.<BR>
+aerodontalgia|aerodontalji	yüksek irtifa uçuşu nedeniyle oluşan diş ağrısı.<BR>
+aerodontia|aerodonti	yüksek irtifada dişsel değişiklikleri inceleyen dişhek dalı.<BR>
+affection|afeksiyon	patolojik veya hastalıklı durum.<BR>
+afferent	merkeze doğru taşıyan, efferentin tersi.<BR>
+affinity|afinite	maddelerin birbirleri ile bağlantı kurma eğilimi, çekilim<BR>
+aflotition|aflotisyon	yutamamak veya çok zor yutabilmek.<BR>
+agenesis|agenez	hiç gelişememe; olmama<BR>
+agmatology|agmotoloji	kırıklar bilimi.<BR><BR>
+agnathia|agnati	çenenin olmaması<BR>
+agranular|agranüler	granülsüz.<BR>
+agueous|akuöz	sulu.<BR>
+aguilibrium|ekilibriyum	birbirine zıt yöndeki kuvvetlerin tam eşitlenmesi; tam denge hali.<BR>
+aktinomikoz apse	Yüze doğru ilerlemiş sol üst 1.Molar dişten menşey alan subakut aktinomikoz apse : Bazen başlangıçta akut ve ciddi bir enfeksiyon gibi görülsede, Aktinomiköz devamlı oluşu ve komşu deriyi etkilemesi ile karakterizedir.<BR>
+alectrocision|elektrozisyon	dokuları elektrokoter veya elektrotom ile kesme.<BR>
+algophbia|algofobi	ağrıdan aşırı korkma.<BR>
+alkali	bazik karakterde<BR>
+allotriodontia	<B>1.</B> Diş transplantasyonu.<BR><B>2.</B> Kist, tümör içi gibi anormal bir yerde bir dişin varlığı.<BR>
+alveolabial	alvol kemiği ve dudaklara ilişkin.<BR>
+alveoloctomy|alveoloktomi	alveol kemiğindeki deformitenin cerrahi olarak düzeltilmesi veya kemik çıkarılması.<BR>
+alveolomaxillary|alveolomaksiller	kas, buksinator kası.<BR><BR>
+alveolondental|alveolodental	alveolkemiği ve dişlere ilişkin.<BR>
+alveolopalatal	alveol kemiği ve damağa ilişkin<BR>
+alveolysis|alveoliz	alveol kemiğinin rezorpsiyonu<BR>
+amalgam carrier|port amalgam	Hazırlanmış amalgamı el değmeden basınçla kavite içine yerleştirmeye yarayan şırınga benzeri el aleti.<BR>
+ameloblast	mine organının içinde oluştuğu epiteldeki germ hücrelerinden birisi.<BR>
+ameloblastic|ameloblastik oluşum	çevresinde kalsifikasyonun oluştuğu mine yapıcı hücreden bir sitoplasma projeksiyonu.<BR>
+ameloblastoma|ameloblastom	adamantinoma.<BR>
+ameloblastosarcoma|ameloblastosarkom	mezenkimal odontogen dokularda oluşabilen habis tümör.<BR>
+amelocemental|amelosemental	sementoenamel mine ve semente ilişkin.<BR>
+amelogenic|amelojenik	mine oluşumuna ait.<BR>
+amnalgesia|amnaljezi	ilaçlar veya hipnoz ile ağrıyı ve ağrının hatırasını kaldırma metodu.<BR>
+amorphous|amorf	şekilsiz.<BR>
+amphiartrosis|amfiartroz	kemik yüzeyleri sinovyal membran veya fibröz kıkırdak disklerle birleşmiş az hareketli bir eklem türü. Örn: omurgalararası eklem.<BR>
+amphidiarthrosis|amfidiatroz	hem ginglimoid, hemde artrodial eklem. Örn: temporomandibüler eklem<BR>
+ampyric|ampirik	etki mekanizması bilinmeden, sadece belli bir sonucun elde edileceği deneysel olarak bilinerek.<BR>
+amygdalaglossus	dilin tabanını kaldıran kas .<BR>
+amyxorrhoea|amiksorea	müköz salgılamanın azalması.<BR>
+anabolism|anabolizma	besinin özümlenme; asimilasyon ve canlı dokuya dönüşme işlemi.<BR>
+anachrosis|anakrozis	lezyon harici enfeksiyonlara karşı artmış bağışıklık ile birlikte, mikroorganizmaların, lokal doku lezyonuna dogru çekilimleri.<BR>
+anaemia|anemi	miktar veya nitelik olarak kansızlık.<BR>
+anaerobe|anaerob	havasız veya serbest oksijensiz ortamlarda yaşayabilen organizmaların genel adı.<BR>
+analeptic|analeptik	canlardırıcı, uyarıcı madde<BR>
+analgesia|analjezi	ağrıya duyarsızlık.<BR>
+anaphylacticshock|anafilaktik şok	anafilaksi nedeni ile koma durumu; _ şok.<BR>
+anaphylaxis|anafilaksi	aşırı duyarlık yaratan bir antijenin vücuda girmesi ile oluşan şiddetli antijen antikor reaksiyonu.<BR>
+anaplasia|anaplazi	( diş minesinde ) kesici kenerdan mine sement hududuna uzanan bozuk mine gelişimi.<BR>
+anaraxia|anaraksi	maloklüzyon.<BR>
+aneurysm|anevrizma	bir arter duvarının çevresel olarak gevşemesiyle oluşan nabız alınabilen kan dolu şişlik.<BR>
+angina pectoris|angina pektoris	prekardial rahatsızlık, baskı, boğulma hissi, ağrı yaratan, dinlenme ve sublingual nitrogliserin ile rahatlayan, myokard iskemisine bağlı klinik sendrom. <BR>
+angiofibroma|angiofibrom	kan veya lenf yollarını içeren bir fibroma.<BR>
+angiologia	Damar bilimi.
+anneal|tavını alma	Metali özelliğine göre ısıtıp soğutarak sertliğini alma.<BR>
+annular|anüler	halka şeklinde.<BR>
+anostomosis|anastomoz	<B>1.</B> İki kanal arası ilişki, örneğin damarlarda. <BR><B>2.</B> Normalde ayrı olan iki boşluk veya organın hastalık veya cerrahi nedenlerde ilişkide olması.<BR>
+anterior	Ön.
+antibody anticore|antikor	belli bir antigene karşı vücut tarafından üretilerek, antigen ile inaktivasyon, aglutinasyon, flokülasyon gibi gözlenebilir belli bir reaksiyon verebilen madde.<BR>
+anticonvulsant|antikonvülsan	normal kas kasılmalarını bilinçsiz çırpınmayı, sara nöbetlerini önleyen.<BR>
+antigen|antijen	Organizmalarda antikor yapan madde.<BR>
+antiodontalgic|antiodontaljik	diş ağrısını azaltan ajan.<BR>
+antisepsis|antisepsi	patojenik mikroorganizmalara zarar vererek veya gelişimini durdurarak sepsis'in engellenmesi.<BR>
+antiseptic|antiseptik	antisepsis yapan herhangi bir madde.<BR>
+antisialagogue|antisiyalagog	tükrük salgısını engelleyen ajan.<BR>
+antitoxin|antitoksin	vücutta salgılanan veya dışardan enjekte edilen, belli bir toksini nötralize eden veya antagonisti olan.<BR>
+antitrismus	ağzın kapanmasını engelleyen kas spazmı.<BR>
+antral	sinusa ait<BR>
+antralfistula|antral fistül	bir sinus absesi veya kemik boşluğuna açılan fistül.<BR>
+antrax|antraks	çıban, şirpençe.<BR>
+antritis|antrik	maksiller sinus iltihabı.<BR>
+antrocele|antrosel	maksiller sinusta sıvı birikimi.<BR>
+antrolith|antrolit	maksiller sinusta taş.<BR>
+antrome|antrotom	bir sinusu kesip açmaya yarayan alet.<BR>
+antronasal|antronazal	maksiller sinusa ait<BR>
+antrooral	maksiller sinusa veya ağıza ilişkin<BR>
+antroscope|antroskop	maksiller sinusu muayene etmeye yarayan alet.<BR>
+antrotomy|antrotomi	maksiller sinusun drene edilmek için cerrahi olarak açılması.<BR>
+antypyretic|antipiretik	ateş düşürücü.<BR>
+apertura	açılım.<BR>
+apexograph|apeksograf	diş kökünün apeksinin yerini tayin etmeye yarayan alet.<BR>
+aphonia|afoni	ses kaybı<BR>
+aphta|aft	ağızda oluşan beyazımsı düzensiz ağrılı lezyon.<BR>
+aphtosis|aftozis	aft oluşumu ile karakterize durum.<BR>
+aphtous stomatitis|aftöz	stomatit ağız mukozası membranını etkilemekle karakterize, tekrarlayan bir tür stomatitis.<BR>
+aphtous ulcer|aftöz ülser	yüzeysel ağrılı bir ülsere dönüşen aftlar<BR>
+apikal	Tepeye yakın olma.
+apirexia|apireksi	ateş olmaması veya geçici azalması.<BR>
+apityalism|apityalizm	tükrük salgı azlığı.<BR>
+aplasia|aplazi	bir doku veya organın gelişmemesi veya defektli gelişmesi<BR>
+aplasic|aplazik	aplazi'ye ilişkin.<BR>
+apophysis|apofiz	dışa doğru gelişim, daha çok kemik oluşumları için kullanılır.<BR>
+apoplexia|apopleksi	beyin kanaması.<BR>
+apostema	geniş bir abse.<BR>
+apoxemena|apoksemena	perisementoklasia tedavisinde periodontal ceplerden çıkarılan madde.<BR>
+apposition|apozisyon	<B>1.</B> İki karşılıklı yüzeyin birbirine değmesi, uyumu. <BR><B>2.</B> Üstüste gelmesi.<BR>
+apyeous|apiyöz	irin oluşturmayan.<BR>
+apyogenous|apiyojen	irin tarafından veya irin nedeniyle oluşmayan.<BR>
+arch|ark	eğri; yay şeklinde yapı.<BR>
+arctation|arktasyon	bir kanal veya deliğin daralması.<BR>
+ariboflavinosis|ariboflavinoz	çelyozis, glossitis, pullu seborik deskuamasyon vb. ne yol açan B vitamini komplekslerinden riboflavin eksikliği.<BR>
+arteria|arter	atardamar.
+arterial|arteryel	artere ilişkin.<BR>
+arteriole|arteriol	arterin küçük bir dalı<BR>
+arterioschlerosis|arterioskleroz	arterin elastikiyetini kaybettiği durum; ateroskleroz ile aynı şey değildir.<BR>
+arthral|artral	ekleme ilişkin.<BR>
+arthritis|artrit	eklem iltihabı.<BR>
+arthrochondritis|artrokondrit	eklem kıkırdağı iltihabı.<BR>
+arthrodial|artrodial	hareketi yüzeylerin birbiri üzerinde kayması şeklinde olan eklem türünden.<BR>
+arthrolith|artrolit	eklem kireçlenmesi.<BR>
+arthropathy|artropati	herhangibir eklem hastalığı.<BR>
+arthrosis|artroz	dejeneratif bir eklem hastalığı.<BR>
+articular|artiküler	ekleme ilişkin.<BR>
+artralgia|artralji	eklemi etkileyen ağrı<BR>
+artroplasty|artroplasti	<B>1.</B> Bir eklemin plastik cerrahisi. <BR><B>2.</B> Suni bir eklemin yapımı.<BR>
+artrosynovitis|artrosinovit	bir eklemin sinovyal membranını etkileyen iltihap.<BR>
+aseptic|aseptik	enfeksiyonsuz. Herhangi bir mikroorganizma içermeyen.<BR>
+asphyxia|asfiksi	boğulma. Anoksi ve kanda CO2 birikimine yol açan, koma ile sonuçlanan oksijen azlığı.<BR>
+aspiration|aspirasyon	nefes almak veya mekanik yolla emmek hareketi<BR>
+aspirator|aspiratör	tükrük emici<BR>
+astomatous|astomatöz	ağızsız.<BR>
+astomia	konjenital ağız yokluğu.<BR>
+ataxia|ataksi	kas koordinasyonu bozukluğu.<BR>
+atelochelia|ateloçeli	dudağın defektli gelişimi.<BR>
+ateloglossi	dilin konjenital defektli olma hali.<BR>
+atelognathia|atelognati	çenenin konjenital defektli olma hali.<BR>
+ateloprosopia|ateloprosopi	yüz oluşumlarının yanlış veya eksik gelişimi<BR><BR>
+atelostomi	ağzın yanlış veya eksik gelişimi.<BR>
+atherogenic|aterojenik	damar içi duvarında daralma yapan.<BR>
+atlas	ilk boyun omuru.<BR>
+atonic|atonik	gevşek. Kasta tonus yokluğu<BR>
+atoxic|atoksik	zehirli olmayan<BR>
+atrophy|atrofi	fizyolojik veya patolojik olarak, bir organın hücrelerinin hacminin veya sayısının azalması sonucu küçülmesi.<BR>
+atropine|atropin	güzelavratotundan elde edilen, tikrük salgısının azaltılması istenen durumda hastaya tablet veya damla şeklinde verilen hormon.<BR>
+attraction|atraksiyon	<B>1.</B> Çekilim. <BR><B>2.</B> Çenelerin anormal olarak sıkı sıkıya kapandıkları bir maloklüzyon türü.<BR>
+attrition|atrisyon	dhk. de diş yüzeylerinin çiğneme nedeni ile zamanla aşınması.<BR>
+atypical|atipik	Düzensiz kabul edilen,normal olmayan.<BR>
+audio analgesia|audio analjezi	kulaklıkla hastaya müzik dinleterek ağrıya hasasiyetinin azaltıldığı bir metod<BR>
+augnatus	ender bir anomali olarak fötusta çift çene olması.<BR>
+auricular artery|auriküler arter	kas, sinir, a, m, n, auricularis.<BR>
+auricular disc|auriküler disk	eklem yapan kemik yüzeyleri arasındaki fibröz tabaka.<BR>
+avulsion|avulsiyon	dişin yerinden tamamen çıkması.<BR>
+baciliform|basiliform	basil şeklinde.<BR>
+bacillicide|basilisid	basilleri öldürmek için kullanılan herhangi bir ajan.<BR>
+bacillus|basillus	<B>1.</B> gram pozitif ve aerop olan, çomak şekilli, bacillaceae familyasının bir cinsi. <BR><B>2. </B>şizomiset herhangi bir çomak şekilli mikroorganizmaya verilen genel ad.<BR><BR>
+bacteraemia|bakteriemi	kanda bakterilerin geçici varlığı ile karakterize durum.<BR>
+bactericide|bakterisit	bakteri öldürücü.<BR>
+bacteriois|bakteroid	bakteriyi anımsatan<BR>
+bacteriolysis|bakterioliz	bakterilerin yıkımı veya ayrışması<BR>
+bacteriolytic|bakterioltik	bakteriyolize ilişkin.<BR>
+bacteriophage|bakteriyofaj	bakterilere saldıran ve onları yutarak yok edebilen, kanda doğal olarak bulunan bir makrofaj<BR>
+bacteriostasis|bakteriyostaz	bakteri üremesini durdurmak ve önlemek işlemi<BR>
+bacteriostat|bakteriyostatik	bakterilerin büyüme ve gelişme sini inhibe eden herhangi bir ajan: örneğin sülfanomid grubu ilaçlar.<BR>
+bacteritic|bakteritik	bakterinin sebep olduğu veya bakteri ile karakterize<BR>
+baelz's disease|baelz hastalığı	e. Von baelz' 1845-1913, alman doktor dudak mukuzasında ağrısız papüllerin varlığı ile karakterize bir hastalık;<BR>
+bald tongue|kel dil	B vitamini eksikliği gibi durumlarda görülen, yüzeyinde sağlıklı derecede belirgin papillerin görülmediği temiz, dümdüz bir dil.<BR>
+balton point|bolton noktası	lateral bir radyografide görülebilen, oksipital kemiğin postkondiler çentiğinin en derin noktası.<BR>
+bartholin's duct|bartolin kanalı	( C. Bartholin, 1655 -1738, danimarkalı anatomist ) sublingual kanallardan büyük olanı.<BR>
+bartholinitis|bartolinit	bartolin kanalı iltihabı.<BR>
+basal|bazal	kaideye, temele, ana yapıya ait.<BR>
+basal bone|bazal kemik	diş köklerini saran alveol kemiği bölümleri hariç,maksiller ve mandibuler ana kemik bloku.<BR>
+basal cell carcinoma|bazal hücreli karsinom	apitelin bazal hücre tabakasından gelişen ve onun karekterinde lokal habis tümör;Bazal hücreli epitelyoma <BR>
+basialveolar line|bazialveoler çizgi	kraniometride, basion ve alvoler noktayı birleştiren çizgi.<BR>
+basicranial|bazikraniyel	kafatası tabanına ilişkin.<BR>
+basifacial|bazifasiyel	yüzün alt kısmına ait.<BR>
+basilar|baziler	baz'a (tabana ) ait.<BR>
+basinasal	basion ve nasion'a ait.<BR>
+basion	foramen magnum' un ön kenarının orta noktası.<BR>
+bednar's aphthae|bednar aftı	( A. Bednar, 1816 - 1818. Avusturyalı hekim ) katetik bebeklerin sert damağının orta çizgisinin her iki yanında birden, simetrik olarak görülen ülser.<BR>
+behcet's syndrome|behçet sendromu	( Hulusi Behçet, 1889 - 1948, Türk deri hastalıkları uzmanı ) virüs, allerji, otoimmünite, mikoplazma gibi nedenlere bağlı olduğu sanılan, erkeklerin daha fazla tutulduğu, ilk belirtisi aftöz stomatit olan sendrom.<BR>
+bekhterev's reflex|bekterev refleksi	( V. M. Bekhterev, 1857 - 1927 . Rus nöroloji uzmanı ) nazal kavitenin bir yanında mukozanın irite edilmesi ile aynı tarafta yüzün kasılması.<BR>
+bell's palsy|bell felci	( sir C. Bell, 1774 - 1842. İskoç fizyolog ) periferal fasiyal paraliz.<BR>
+benign|selim	Sağlığı veya hayatı tehdit etmeyen iyi huylu.<BR>
+bennett angle|bennett açısı	( sir N. G. Bennett, 1770 - 1847. İngiliz dişhekimi )mandibulanın lateral hareketinde denge tarafındaki sagittal düzlem ve kondil yolu arasındaki açı; ortalama 15 C.<BR>
+bicuspid|bikuspit	<B>1.</B> İki oçlu, iki tüberküllü. <BR><B>2.</B> Premolar diş.<BR>
+bilateral	çift taraflı, her iki taraf ile de ilgili.<BR>
+bird face|kuş yüzü	ön dişlerin ve maksillanın anormal derecede öne çıkmış olduğu bir ortodontik anomali; ileri derecede angle 2. Sınıf maloklüzyon; aşırı maksiller protrüzyonun yol açtığı yüz görünümü.<BR>
+blandin's gland|bladin bezi	( P. F. Blandin, 1798 -1849. Fransız cerrah ) dil ucunun alt yüzeyinde bir mikst tükrük bezi; nuhn bezi de denir.<BR>
+blastoma	bir hücrenin gelişim dönemini temsil eden bir tümör.<BR>
+blennoid|blenoid	mukus ( sümük, balgam ) gibi.<BR>
+bohn' sepithelialpearls|epitel hücreleri, bohn	ep stein incileri.<BR>
+boil|çıban	genellikle bir kıl folikülü civarında olan lokalize deri absesi.<BR>
+bolton plane|bolton düzlemi	bolton noktası ve nasion arasında uzandığı hayal edilen, yüz ve kafatasını ayıran düzlem<BR>
+bowen's disease|bowen hastalığı	( J. T. Bowen, 1857 - 1941. Amerikalı dermatolog )kalın keratinize tabaka ile kaplı kırmızı papüller ile karakterize, ağız mukozasını etkileyen bir deri hastalığı.<BR>
+brachycheilia|brakiçeli (a)	dudak kısalığı.<BR>
+brachyglossal|brakiglossal	anormal kısa dil.<BR>
+brachygnathia|brakignati	anormal derecede kısa mandibula; kuş yüzü durumu.<BR>
+brachyodont|brakiyodont	kısa kuronlu, uzun köklü dişleri olma hali.<BR>
+brachyrhynchus|brakirinkus	hem burnun, hemde maksillanın anormal kısalığı.<BR>
+brachyrhynia|brakirini	burnun anormal kısalığı.<BR>
+brady|bradi	' yavaş ' anlamında önek.<BR>
+bradyglossia|bradiglossi	dil hareketlerinde zorlanmaya bağlı olarak anormal yavaş konuşma.<BR>
+bronchospasm|bronkospazm	akciğerde bronşların spazm şeklinde kasılması.<BR>
+brown pellicle|kahverengi pelikül	çekim sonrası, çekim boşluğunu dolduran pıhtının üzerindeki organik aselüler ince film tabakası; edilgin pelikül.<BR>
+bruxomania|bruksomani	dişleri gıcırdatmakla karakterize sinirsel bir rahatsızlık<BR>
+brycomania|brikomani	psikolojik nedene bağlı diş gıcırdatma, bruksizm<BR>
+brygmus|brigmus	dişleri gıcırdatmaya verilen genel ad.<BR>
+bucca|bukka	' yanak ' genellikle ağız içi bölümü kastedilir<BR>
+buccal|bukkal	yanağa ilişkin.<BR>
+buccal involution|involüsyon	içe dönme, içe kıvrılma. ( involution ) bukkal embriyoda ektodermin içeri kıvrılarak stomodeum' u yapması.<BR>
+buccopharyngeal membrane|bukkofaringeal	membran ( zar) ilkel embriyonun sonradan ağız ve farinksi meydana getiren bölümü.<BR>
+bunodont	yuvarlak tüberküllerin olan molar diş.<BR>
+cachectic|kaşektik	kaşeksiye bağlı.<BR>
+cachexia|kaşeksi	aşırı zayıflama.<BR>
+cacodontia|kakodonti	hastalıklı dişlerde karakterize herhangi bir durum.<BR>
+cacoglossia|kakoglossi	dilin hastaliklı veya gangrenli olması durumu.<BR>
+cacostomia|kakostomi	ağızın herhangi bir hastalıklı durumu.<BR>
+calcification|kalsifikasyon	organik doku içinde sertleşmeye yol açan kalsiyum tuzları birikmesi.<BR>
+calcified|kalsifiye	kalsiyum tuzlarının birikmesi ile sertleşmiş.<BR>
+calcination|kalsinasyon	<B>1.</B> Bir maddenin toz haline indirgenmesi. <BR><B>2.</B> Bir bileşiğin içindeki buharlaşabilir maddeleri ısı ile uçurma işlemi<BR>
+calcinosis|kalsinoz	patolojik veya normal dokularda kireçlenme. Örn: calsinosis circumscripta= deri-derialtı dokularda yerel kireçlenme.<BR>
+calcium|kalsiyum	Ca ile sembolize edilen, iki değerli metal; kirecin ana maddesi olan, hemen hemen tüm organik dokularda bulunan, özellikle kemik ve dişlerde yoğun olan element.<BR>
+calculus|kalkulus	genellikle üriner sistemde, safra kesesinde, tükrük bezlerinde, diş aralarında kalsiyum tuzlarının çökelmesi ile oluşan anormal taşlaşma; diş taşı.<BR>
+calibration|kalibrasyon	<B>1.</B> Kanal veya tübün çapının ölçülmesi, kalibre ölçümü. <BR><B>2.</B> Herhagi bir ölçüm aletinin belli bir standarda göre üzerindeki ölçüm çizgileri.<BR>
+camper's line|kamper çizgi	meatus acusticus eksternus ile spina nasalis arasında olduğu varsayılan çizgi.<BR>
+camper's plane|kamper düzlemi	yüzün her iki yanında tragal ve subnasal'dan geçen, genellikle oklüzal düzleme paralel olan yatay bir düzlem.<BR>
+campylognathia|kampilognati	üst çenenin veya dudağın tavşan ağzına benzediği malformasyon; tavşan ağzı.<BR>
+cancer|kanser	( Lt. yengeç ) tümörlerin herhangi bir habis şekli için kullanılan terim.<BR>
+cancrum|kankrum	gangrenli bir ülser.<BR>
+candida albicans|kandida albikans	Maya benzeri patojen bakterial bir mantar cinsi ;Moniala'da denir Albicans moniliasis yapan bir kandida türüdür. Resim: elektron mikroskop görüntüsü<BR>
+candidosis|kandidosis	kronik hiperplastik kandidasis<BR>
+caniniform|kaniniform	kanin şeklinde.<BR>
+capillary|kapiller	<B>1.</B> Ven ve arterleri birbirine bağlayan kılcal damarlar. <BR><B>2.</B> Kılcal herhangi bir boruya verilen genel sıfat.<BR>
+carabelli's tübercle|carabelli tüberkülü	genellikle ırsi olarak üst molar bir dişin lingual yüzünde bulunabilen küçük tüberkül.<BR>
+carbohydrate|karbonhidrat	karbon, hidrojen ve oksijen içeren organik kimyasal yapı. Canlı organizmalara besin olarak enerji verici grubu oluştururlar. Şeker, nişasta, dekstrin ve selülozlar bu gruba girerler.<BR>
+carcinogen|karsinojen	kansere yol açabilen herhangi bir madde veya ajan.<BR>
+carcinogenesis|karsinogenez	kanser oluşması.<BR>
+carcinoid|karsinoid	kökeni tartışmalı, çoğu zaman habis karakterli bir tümör.<BR>
+carcinomatoid|karsinomatoid	karsinomayı andıran.<BR>
+carcinomatous|karsinomatöz	karsinomaya ilişkin veya karsinomanın etkilediği.<BR>
+carcinosarcoma|karsinosarkom	hem karsinom, hem de sarkom özelliklerini içeren mikst bit tümör.<BR>
+cardio|kardiyo	kalb'i belirten önek.<BR>
+cariogenic|karyojenik	çürük yapan.<BR>
+carnivore|karnivor	etobur<BR>
+carotid canal|karotis kanalı	temporal kemiğin petrosa'sında, içinden arteria carotis interna'nın geçtiği kanal.<BR>
+cartilage|kıkırdak	kemiklerin eklem yüzeylerinde ve serbest olarak bulunan, non - vasküler ( damarsız ) elastik bağlantı dokusu; kartilaj<BR>
+catabolism|katabolizma	vücudun, dokulardaki kompleks bileşiklerini yıkıma uğratması; yıkıcı metabolizma; anabolizmanın tersi.<BR>
+catalepsy|katalepsi	adalelerin katılaşması, irade, istemli hareketler ve hissin birdenbire kaybolması ile karakterize bir durum.<BR>
+cataphasia|katafazi	sürekli aynı kelimenin tekrarlandığı konuşma bozukluğu; kekemelik.<BR>
+cataplexy|katapleksi	şok, kas tonusu kaybı veya aşırı korku, heyecan sonucu kasların katılaşması.<BR>
+catarrh|nezle	Mukus salgılı müköz membran iltihabı.<BR>
+catenoid|katenoid	zincir gibi.<BR>
+catgut|katgüt	koyun, kedi vb. barsağından hazırlanmış cinsine göre belli bir süre sonra rezorbe olan cerrahi dikiş ipliği.<BR>
+catheter|kateter	<B>1.</B> Sonda.<BR><B>2. </B>Vücut içindeki organları görerek incelemek için kullanılan fiber - optik elastik çubuk. <BR><B>3. </B>Damar içine girip besin vermek yada film çekmek için kullanılan ince uzun boru.<BR>
+catodont|katodont	yalnızca mandibüler dişleri olan.<BR>
+caustic|kostik	yakıcı; dokuya zarar verici.<BR>
+cauterisation|koterizasyon	kostik bir madde veya ısı ile koter uygulama işlemi.<BR>
+cavernous|kavernöz	geniş boşluklar içeren.<BR>
+cavity|kavite	<B>1.</B> Boşluk. <BR><B>2. </B>Dişte çürük nedeni ile oluşmuş veya çürüğü temizleyip doldurmak üzere fazladan kesilerek hazırlanmış boşluk.<BR>
+cebocephaly|sebosefali	Burun yokluğu, birbirine yakın orbita çukurları, maymun yüzüne benzer bir görüntü ile karakterize konjenital bir kafa şekil bozukluğu.<BR>
+cellulary|selüler	Hücrelerden ouşan.<BR>
+cellulitis|selülit	Hücrelerarası, özellikle deri altı dokusunun yaygın cerahatli iltihabi.<BR>
+cement|sement	Dişlerin kök bölümlerinde dentin tabakasının üstünü saran kemiksi doku.<BR>
+cementitis|sementit	Sement iltihabı.<BR>
+cemento enamel|semento enamel	Dişin hem sementine, hemde mine tabakasına ilişkin.<BR>
+cementoblast|sementoblast	Sonunda sementi oluşturan germ hücre.<BR>
+cementoblastoma|sementoblastoma	Odontojen kaynaklı, sement ve sementoblastlardan oluşan habis tümör; gerçek sementoma<BR>
+cementoclasia|sementoklazi	Sement rezorpsiyonu.<BR>
+cementocyte|sementosit	Sement dokusu ile birleşmiş başka bir hücre.<BR>
+cementodentinal|sementodentinal	Hem semente, hem de dentine ilişkin.<BR>
+cementoma|sementoma	Sement' ten oluşan tümör.<BR>
+cementopathia|sementopati	Periodontosis<BR>
+cementoperiartitis|sementoperiostit	Alveoler piyore.<BR>
+cementosis|sementoz, hiperplazi	hücre üretiminin artmasına bağlı olarak bir organ veya dokunun aşırı gelişmesi, bölgesel sement birikimi.<BR>
+cementum hyperplasia|hiperplazi	hücre üretiminin artmasına bağlı olarak bir organ veya dokunun aşırı gelişmesi.<BR>Lokalize sement birikimi; sementoz.<BR><BR>
+cementum inostosis|inostoz	zarar görmüş kemik dokusunu tamamlamak üzere yeni kemik dokusunun oluşma işlemi. ( inostosis ) sement-u sementin, dentinin içinde doğru patolojik kalınlaşması.<BR>
+centi|santi	'Yüzde bir' anlamında önek.<BR>
+centigrade|santigrat	Donma derecesinin 0, kaynama derecesinin 100 olduğu sıcaklık birimi.<BR>
+central|sentral	Merkeze yakın olan.
+central bearing device|orta dayanak aleti	Oklüzal hataları düzeltmek, doğru sentrik ilişkiyi bulmak gibi çeşitli temporomandibüler ilişkileri saptamak amacı ile daha çok prostodontide kullanılan, alt veya üst mum duvarlardan birine temas ucu ve/ veya kayıt ucunun, diğerine de bu ucun dayandığı ve yatay hareketlerini de kaydedebildiği bir düzlemin monte edildiği alet.<BR>
+centric occlusion|sentrik oklüzyon	Merkezi kapanış.<BR>
+centric position|sentrik pozisyon	Mandibulanın maksilla ile sentrik ilişki içinde yani en geride olduğu durum.<BR>
+centric relation|sentrik ilişki	Merkezi ilişki.<BR>
+cephalic|sefalik	Başa ilişkin.<BR>
+cephalometry|sefalometri	Yüz plastik cerrahisi ve ortodontide kullanılan, baş ölçümü bilimi.<BR>
+cephalostat|sefalostat	farklı zamanlarda çekilen röntgen filmlerini üstüste koyup karşılaştırabilmek veya çekim anında başın sallanmasını önlemek için başın sabit tutulmasına ( örneğin kulak deliklerinden ) yarayan alet.<BR>
+cera|sera	Mum<BR>
+ceramics|seramik	Porselen işleme sanatı.<BR>
+ceramodontics|seramodonti	Porselen kron ve inley işleme sanatı.<BR>
+cerebellar|serebellar	Beyinciğine ait.<BR>
+cerebellum|serebellum	Beyincik.<BR>
+cerebrum|serebrum	Beyin.<BR>
+cereus|seröz	<B>1.</B>Seruma ilişkin.<BR><B>2.</B> Serum yapan. (serous). <BR><B>3.</B> Mumdan oluşan, mum gibi.<BR>
+cervical|servikal	<B>1. </B>Servikse, boyuna ilişkin. <BR><B>2. </B>Kronun alt çevresi; kole; kron boynuna ilişkin.<BR>
+cervical line|servikal çizgi	Mine- sement sınır çizgisi.<BR>
+cervix|serviks	<B>1.</B> Boyun. <BR><B>2.</B> Dişhek. de dişin boynu; kolesi; mine- sement hududu.<BR>
+chalinoplasty|kalinoplasti	ağız açılarında plastik cerrahi operasyon.<BR>
+chamecephalic|kamesefalik	yassı kafatası olması.<BR>
+chameprosophic|kameprosopik	geniş, basık yüzlü olma hali.<BR>
+chancre|şankr	Küçük bir papül şeklinde başlayıp hızla erosif bir ülsere doğru gelişen primer sifilitik bir lezyon.<BR>
+cheilalgia|kilalji	dudak (lar)ı etkileyen nevraljik ağrı.<BR>
+cheilectomy|kilektomi	dudağın bir kısmının cerrahi olarak alınması.<BR>
+cheilocarcinoma|kilokarsinom	dudak kanseri.<BR>
+cheilophagia|kelofaji	dudak ısırma.<BR><BR>
+cheiloplasty|keloplasti	dudaktaki bir defektin plastik cerrahi ile düzeltilmesi.<BR>
+cheilorraphy|kelorafi	dudakların dikilmesi.<BR>
+cheilosis|kelozis	dudak ve ağız kenarlarında lezyonlar ile karakterize, riboflavin eksikliğine bağlı durum.<BR>
+cheilostomatoplasty|kelostomatoplasti	ağız ve dudağın plastik cerrahi ile düzeltilmesi.<BR>
+cheliotomy|kelotomi	dudağın bir bölümünün eksizyonu.<BR>
+chemico parasitio theory|şimiko parazitik teori	Bakterilerin meydana getirdiği asidin mineyi dekalsifiye ederek çürüğe yolaçtığı şeklinde 1889'da geliştirilen çürük teorisi.<BR>
+chemoprophylaxia|kemoproflaksi	kimyasal ilaçlar ile proflaksi.<BR>
+chemoteraphy|kemoterapi	patojen organizmayı kimyasal ilaçlar ile etkileyerek hastalığın tedavi edilmesi.<BR>
+cherubism|şerubizm	Tombul yüz hatları ve yukarı dönmüş gözler ile karakterize fasiyal fibröz displasi.<BR>
+chiasma|kiazma	Çaprazlama; üstüste gelme.<BR>
+chiasma opticum|kiazma optikum	Her iki göz sinirinin beyine girmeden önce birbiri içinden çapraz geçme yeri.<BR>
+chloroma|kloroma	lösemik bir kan tablosu ile birlikte görülen, özellikle kafatası ve yüzü etkileyen, yeşilimsi renkli çok sayıda myeloid tümör ile karakterize durum.<BR>
+chlorosarcoma|klorosarkoma	kloroma
+chondral|kondral	kıkırdaksı, kıkırdağa ilişkin.<BR>
+chondrocranium|kondrokraniyum	embriyonun kıkırdaksı kafatası.<BR>
+chondrofibrosarcoma|kondrofibrosarkom	kondrosarkom.<BR>
+chondroma|kondroma	kıkırdak dokusundan oluşan tümör.<BR>
+chondromalacia|kondromalasia	kıkırdağın anormal yumuşaklığı ile karakterize durum.<BR>
+chondrosarcoma|kondrosarkom	kıkırdak sarkoması.<BR>
+chondrosis|kondroz	kıkırdak oluşumu.<BR>
+chronic|kronik	uzun süre devam eden ve aşırı rahatsız edici belirtileri olmayan; 'akut' un tersi, müzmin.<BR>
+chronic marginal gingivitis|kronik marjinal gingivitis	kronik marjinal gingivitis.<BR>
+chronic periodontitis|kronik periodontitis	ilerlemenin yavaş ve yaygın olduğu derin dişeti iltihabı.<BR>
+cicatrix|sikatriks	<B>1. </B>Granülasyon dokusunda, ter-yağ bezleri ve kıl foliküllerinin olmadığı liflerden zengin, hücre ve damarlardan fakir doku; sikatris. <BR><B>2.</B> Nedbe dokusu; yara veya insizyon yeri iyileştikten sonra kalan iz.<BR><BR>
+cicatrization|sikatrizasyon	Yara veya ameliyat yerinin iz bırakacak şekilde iyileşmesi.<BR>
+ciliform|siliform	Kıllı, kıl benzeri, kıl gibi.<BR>
+ciliform teeth|siliform dişler	Çok ince, sık dişler: belli balık türlerinde görülür.<BR>
+cingulum|singulum	Ön maksiller dişlerin lingual yüzeylerinde servikal ( koleye yakın ) üçte bir bölümlerindeki sırt, kabartı.<BR>
+cisterna	Bir lenfatik damarın genişlemesi.
+clapton's line|clapton çizgisi	bakır zehirlenmesinde görülen, dişetleri üzerinde yeşil çizgi.<BR>
+class|sınıf	Canlıların sınıflandırılmasındaki en üst bölüm; bir alt bölüm olan takımlara ayrılır.<BR>
+cleft cheek	yarık yanak
+cleft palate|likostoma	yarık damak.<BR>
+cleidocranial dysostosis|kleidokranial	kafa kemiklerinin defektif şekillenmesi, klavikula' ların kısmen veya tamamen olmaması ile karakterize, ender bir dizostoz türü; dişlerin sürmesini etkiler ve parsiyel anodonti de görülebilir.<BR>
+clinocephalic|klinosefaik	omurgada eğrilik ve eğer şeklinde kafatası olan konjenital bir defekt.<BR>
+clonic|klonik	klonüs'e; ardarda gelen kasılma ve gevşemelere ilişkin veya bu özellikte.<BR>
+clonus|klonüs	ardarda kas kasılması ve gevşemesi olan konvülsif spazmlar.<BR>
+close-bite|örtülü kapanış	Kapanış derin.<BR>
+clostridium|klostridyum	basil familyasının anaerobik, gram pozitif, spordan üreyen, çomak veya iğ şeklinde görülen organizmalar.<BR>
+coagulation|koagülasyon	pıhtılaşma.<BR>
+coccal|kokal	koküs'e ait veya ilişkin.<BR>
+cochlea|koklea	iç kulağın bir bölümü oluşturan helezonik tüp; iç kulak salyangozu.<BR>
+codex|kodeks	çeşitli ilaçların yapılma şekil ve formüllerini içeren derleme kitap.<BR>
+cohesion|kohezyon	maddenin moleküllerini birleştiren kuvet; yapışma.<BR>
+cohesive|kohesif	kohezyona ilişkin; yapışan.<BR>
+cold cautery|soğuk koter	Karbondioksit karı gibi bir soğuk kaynağının kullanıldığı koterizasyon.<BR>
+collagen|kollajen	kemik, kıkırdak ve baglantı dokusunun temel yapıtaşlarından bir albüminoid.<BR>
+colloid|kolloid	<B>1. </B>Zamk gibi. <BR><B>2.</B> Tiroid bezinin jelatin gibi, renksiz salgısı, <BR><B>3. </B>Bir başka maddenin dispersiyon ortamında bir maddenin partiküllerinin eşit aralıklarla dağıldığı, maddenin bir hali.<BR>
+colloidal|kolloidal	kolloid yapıda, özellikte.<BR>
+coma|koma	şeker koması hariç, dışardan gelen uyarılara yanıt vermeyen tam bilinçsizlik hali.<BR>
+comatose|komatoz	komada olma hali.<BR>
+comedon|comedone	ortasında sızan keratinize materyal ihtiva eden yanağın yağ bezi kisti (Bir dev comedone)<BR>
+commensal|komensal	zarar vermeden başka bir canlının üzerinde ondan faydalanan.<BR>
+commissura|komissura	benzer yapıların birleşme noktası.<BR>
+complex pocket|kompleks cep	birkaç diş yüzünü birden ilgilendiren ancak tek yüzden açılımı olan periodontal cep.<BR>
+composite odontoma|kompozit odontoma	diş germinin çeşitli elementlerinden oluşan odontoma.<BR>
+concave|konkav	içbükey.<BR>
+concentrated|derişik	konsantre; yoğun.<BR>
+condensation|kondensasyon	<B>1.</B> Yoğunlaştırma. <BR><B>2. </B>Altın folyoyu dolgu için diş kavitesinin içine tepme işlemi.<BR>
+condylar plane|kondiler düzlem	sagittal düzleme dik olan, kondil başlarının en geri noktasından ve mandibula açısı bölgesinde yükselen ramus üzerinden geçen düzlem.<BR>
+condyle|kondil	yuvarlak eklem çıkıntısı; özellikle mandibulanın oksipital kemik ile yaptığı eklemin mandibuladaki çıkıntısı.<BR>
+condylectomy|kondilektomi	kondilin cerrahi işlemle kesilip alınması<BR>
+condylion|kondilyon	mandibüler kondilin yan ucunda bir nokta.<BR>
+condyloid|kondiloid	kondili hatırlatan, kondil benzeri, kondile ilişkin.<BR>
+condyloid process|kondiloid proçes	kondiloid oluşum, kondil başı.<BR>
+condylotomy|kondilotomi	kondil'e cerrahi şekil müdahalesi.<BR>
+congenital|konjenital	doğumda var olan.<BR>
+congenital epulis|konjenital epulis	rahim içi gelişme döneminde oluşmaya başlayan bir granüler hücre tümörü.<BR>
+congestive absoess|konjestif abse	doku direncinin birikmeyi önlemesi nedeni ile iltihap kaynağından uzakta oluşabilen abse.<BR>
+conjinctiva|konjunktiva	göz kapağının arkasındaki müköz membran.<BR>
+connectivetissue|bağ dokusu	mezenkimal dokuyu dektekleyen, fibrositler, kollagenlifler, elastik lifler, yağ dokusu vb. den oluşan ara doku.<BR>
+constriction|konstriksiyon	kasılma, çekme.<BR>
+contemination|konteminasyon	yabancı madde veya organizmaların karışması veya bulaşması ile kirlenme.<BR>
+contraction|kontraksiyon	uzunluğu veya hacmin azalması; çekme, kasılma.<BR>
+convex|konveks	dışa doğru açılı, kubbe şeklinde yüzeyi olan; dışbükey.<BR>
+conyle path|kondil yolu	alt çenenin çeşitli hareketleri süresince mandibüler kondilin TME boyunca izlediği yol.<BR>
+copula|kopüla	<B>1.</B> Embriyoda ikinci brankiyal arkların ilerde dil kökünü oluşturmak üzere biraraya gelmesi ile oluşan dil yükseltisi. <BR><B>2. </B>Birleştirici herhangi bir yapı.<BR>
+corium|koryum	epidermis ile subkütan doku arasındaki konnektif doku; dermis; asıl deri.<BR>
+coronion|koronion	kraniyometride, mandibulanın koronoid çıkıntısının uç noktası.<BR>
+coronofacial|koronofasiyel	başın taç bölümüne ve yüze ilişkin.<BR>
+coronoid|koronoid	<B>1. </B>Taç şeklinde. <BR><B>2.</B> Kron şeklinde.<BR><B>3.</B> Gaga gibi kıvrık.<BR>
+coronoid process|koronoid çıkıntı	içine temporal kasın yapıştığı, mandibulada yükselen ramusu ön üst sınırındaki ince yassı kemik çıkıntısı.<BR>
+cortex|kortex	<B>1. </B>bir kap, kılıf içinde organın en dış tabakası. <BR><B>2.</B> Beynin gri maddeden oluşan en dış tabakası.<BR>
+cortical|kortikal	<B>1.</B> Kortekse ilişkin. <BR><B>2.</B> Ağaç kabuğu anlamında, kamiğin dış tabakası için kullanılan bir sıfat.<BR>
+cortical plate|kortikal plaka	çene alveol çıkıntılarının en dış üst kemik tabakası.<BR>
+corynecaterium|kornibakteryum	mikobakteri familyasının gram - pozitif, aerobik ve ince çubuk şeklinde olan bir cinsi.<BR>
+costen's syndrome|costen sendromu	yanlış oklüzyona bağlı temporo mandibüler eklem zedelenmesi ile, baş, göz, dil ve nasal sinüslerde ağrı, çiğneme halinde ağrılı kas spazmları görülen bir sendrom<BR>
+cranial|kranial	kranium'a ilişkin.<BR>
+cranial nerve|kraniyal sinir	oniki kafa çiftinden herhangi birisi.<BR>
+cranio|kranio	kranium'u ifade eden önek.<BR>
+craniobuccal|kraniobukkal	kranium ve ağız boşluğuna ilişkin.<BR>
+craniofacial|kraniofasiyel	kranium ve yüze ilişkin.<BR>
+craniofacial disjunction|kraniofasiyel kırık	maksillada le fort 3. Sınıf kırık.<BR>
+craniofacial dysjunction|disjonksiyon	birleşik olmama hali. ( dysjunction ) kraniofasiyel - maksillada le fort 111 kırık.<BR>
+craniofacialnotch|kraniofasiyel çentik	nasal ve orbital boşlukların arasındaki kemik bölümünde bir çentik.<BR>
+craniomalacia|kraniomalazi	kafatası kemiklerinin yumuşaklığı ile karakterize anormal durum.<BR>
+craniomandibular|kraniomandibüler	kranium ve mandibulaya ilişkin.<BR>
+craniostosis|kraniostoz	kranial suturların anormal erken kemikleşmesi.<BR>
+crepitation|krepitasyon	çıtırtı sesi; eklemlerde, bazı akciğer hastalıklarda, içine enjektörle hava kaçmış dokularda, vb. alınabilen ses.<BR>
+crepitus|krepit	çıtırtı sesi; eklemlerde, bazı akciğer hastalıklarda, içine enjektörle hava kaçmış dokularda, vb. alınabilen ses.<BR>
+cribriform|kribriform	kalbursu; elek gibi.<BR>
+criveilhier's nerve|cruveilhier siniri	nervus facialis'in bir ara dalı.<BR>
+crocodile tongue|timsah dili	Timsah veya skrotum derisini hatırlatacak derecede derin girinti ve kıvrımları olan anormal dil.<BR>
+cross bite|çapraz kapanış	alt - üst dişlerin bukkolingual ilişkilerinden normalin tam tersi; alt dişlerin üst dişlerin üstüne bindiği bir maloklüzyon.<BR>
+culture medium|kültür ortamı	bakteri üretmek için ekim yeri olarak kullanılan madde; besiyeri.<BR>
+curettage|küretaj	<B>1.</B> Bir kemik içi boşluğun duvarlarından yabancı maddenin kazınarak çıkartılması. <BR><B>2. </B>Periodontal ceplerden ve diş kökü yüzeylerinden nekroze doku veya diştaşlarının kazınarak çıkartılması.<BR>
+curled enamel|kıvrık mine	içinde kristal prizma çubuklarının kıvrık olduğu mine<BR>
+curve of occlusion|oklüzyon eğrisi	Ağızdaki alt ve üst dişlerin oklüzal ve insizal çıkıntılarının aynı anda değdikleri eğilimli kapanış yüzeyi.<BR>
+curve ofspee|spee eğrisi	Alt kanin tepe noktasından başlayıp, alt- üst küçük ve büyükazıların mukkal tüberküllerini takibederek ramusun ön sınırına kadar uzanan hayali çizgi.<BR>
+cusp angle|tüberkül açısı	Tüberkül tepesinden aşağı dik indirilen hayali bir çizği ile tüberkül kenarının meziodistal veya bukkolingual düzlemde yaptığı açı<BR>
+cyanosis|siyanoz	Çogunlukla kanda oksijen azalmasına bağlı, derinin ve mukozanın renginin maviye çalması, morarması.<BR>
+cyclopia|siklopi	Ortada tek gözlü olmak.<BR>
+cynodontism|sinodontizm	Pulpa odası çok küçük ve uzun köklü dişleri olmak.<BR>
+cyst|kist	1. Sıvı, gaz veya yumşak madde içeren membranöz torba. <BR>2. İçi epitelle döşeli patolojik boşluk.<BR>
+cystic|kistik	kist özelliğinde; kiste benzer.<BR>
+cyto|sito	'Hücre' anlamında önek.<BR>
+debris	<B>1.</B> Diş yüzeyinde yapışık herhangi bir yabancı madde. <BR><B>2. </B>Cerrahi yolla alınan diş maddesi parçacıkları. <BR><B>3.</B> Tortu.<BR>
+decalcification|dekalsifikasyon	kemik, diş, vb. kalsifiye dokuda kalsiyum tuzlarının kaybı.<BR>
+dedentition|dedentisyon	dişlerin kaybedilmesi; daha çok yaşlılığa bağlı dişeti ve alveol kemiği atrofisi nedeni ile.<BR>
+deep over-bite|örtülü kapanış	ısırma pozisyonunda üst ön dişlerin, alt dişlerin üzerine fazlaca örttüğü, üstüste binmenin ( overbite) aşırı olduğu bir maloklüzyon; örtülü kapanış.<BR><BR>
+deflective occlusal contact|oklüzal temas sapması	mandibulanın serbest halden kapanışa geçerken ilk karşılıklı tüberkül temasından sonra tam ısırma pozisyonuna gelene kadar mandibülanın kapanış yönünün hafif saparak sentrik ilişkiye gelmesi durumu.<BR>
+deformation|deformasyon	şeklin bozulması.<BR>
+deformity|deformite	şekil bozukluğu, malformasyon.<BR>
+degeneration|dejenerasyon	<B>1.</B> Dokunun kimyasal yapısının değişmesi, fonksiyon kaybına uğraması ile yavaş yavaş yıkımı. <BR><B>2.</B> Bozulma, aslını yitirme.<BR>
+degenerativedisease|dejeneratif hastalık	herhangi belli spesifik bir sebebi olmadan, genellikle yaşlılığa ya da otoimmün bir nedene bağlı genel bozulma, yıkım hali.<BR>
+deglutition|deglütisyon	yutma.<BR>
+degradation	organik kimyasal bir bileşiğin bir karbon atomu yitirmesi<BR>
+dehydration|dehidratasyon	vücutta veya herhangi bir dokuda su kaybı.<BR>
+demineralization|demineralizasyon	vücutta veya dokuda mineral kaybı.<BR>
+dense in dente|diş içinde diş	dişin pulpa odası içinde dişe benzer bir yapının bulunduğu anormal durum;<BR>
+dental arthritis|dental artrik	periodontal membranı etkileyen iltihap.<BR>
+dental crypt|kript	gelişen dişi içeren kemik boşluğu<BR>
+dental geriatrics|gerodontoloji	ileri yaşlara özel ağız,- diş sorunları ile ilgilenen dişhekimliği dalı.<BR>
+dental sac|foliküler torba	Embriyonal haftanın sonunda oluşan çan organını saran bağ dokusundan oluşmuş bir kapsül; diş torbası.<BR><BR>
+dental splint	dişleri hareketsiz kılmak amacıyla yapılan herhangi bir düzenleme veya aparey; şine.<BR>
+dental terminology|odontonomi	Dişhekimliği terminolojisi.<BR>
+dentalgia|dentalji	diş ağrısı.<BR>
+dentaphone	ses titreşimlerini dişlerden nervus auditorius'aileten,sağırlar için işitme yardımcı çihazı.<BR>
+dentiform	diş şeklinde.<BR>
+dentifrice|dentifriz	diş temizlemede kullanılan macun, toz veya likid.<BR>
+dentigerous cyst|dentigerous cyst, foliküler kist	kaynağını mine organından alan, daha çok alt 3. Molar ve üst kaninler bölgesinde görülen, belirgin klinik araz vermeden ekspansif olarak büyümeye devam eden kist.<BR>
+dentinal sclerosis|dentin skleroze	dişte şeffaf bölgeler ve doku değişiklikleri meydana getiren, dentin kanalcıklarının kalsifikasyonu.<BR>
+dentine|dentin	dişin en büyük bölümünü oluşturan, pulpa ile mine ve sement tabakaları arasında yer alan, odontoblastlar ve uzantılarından oluşan mineralize bağ dokusu.<BR>
+dentinitis|dentinit	dentin kanalcıkları iltihabı.<BR>
+dentinogenesis|dentinifikasyon	dentin oluşumu.<BR>
+dentinogenesis imperfecta|dentinogenesis imperfekta	kalıtsal, hatalı oluşumu sonucu minenin kolay kırıldığı ve dentinin kolay aşındığı, radyografide: pulpanın kalsifiye olması nedeni ile görülmediği, dentin kanalcıklarından fakir, renginin sarıdan mavimsi griye kadar değiştiği durum.<BR>
+dentinoid	<B>1. </B>Dentini anımsatan. <BR><B>2.</B> Dentinden oluşan bir tümör.<BR>
+dentinoma	Kaynağını dentinden alan veya dentinden oluşan herhangi bir tümör.<BR>
+dentinosteoid	dentin ve kemik dokusundan oluşan anormal bir yapı.<BR>
+dentition|dentisyon	<B>1.</B> Çenelerdeki dişler.<BR><B>2.</B> Diş sürmesi; dişlenme.<BR>
+dento alveolar	dişlere ve alveol kemiğine ilişkin.<BR>
+dentoid	diş şeklinde<BR>
+dentomental	dişler ve çene ucuna ilişkin.<BR>
+dentonasal	dişlere ve buruna ilişkin.<BR>
+dentonomy|dentonomi	diş sınıflandırması.<BR>
+dentotropic|dentotrop	dişleri oluşturan dokulara doğru çekilen.<BR>
+denture flanche|protez flanşı	Flaş; protez flanşı.<BR>
+depression|depresyon	<B>1. </B>Yüzeyde girinti.<BR><B>2.</B> Bunalımlı ruh hali; moral çöküntü.<BR>
+dermal	deriye ilişkin.<BR>
+dermato	-deri -' anlamında örnek.<BR>
+dermis	asıl deri.<BR>
+dermoid cyst|dermoid kist	kıl folikülleri veya ter bezleri içeren konjenital kistik bir yapı.<BR>
+desguamation|deskuomasyon	epitel tabakasının dökülmesi, soyulması.<BR>
+desguamative|deskuamatif	derin epitel tabakasının pul pul dökülmesi şeklinde veya buna benzer; deskuamasyona ilişkin.<BR>
+desmoid	<B>1. </B>Ligamenti hatırlatan, bağsı, fibröz. <BR><B>2.</B> Lokal agresif bir fibroma.<BR>
+detrition|detrisyon	aşınma; örneğin dişlerde abrazyon.<BR>
+detritus	<B>1.</B> Bozunmuş doku artığı. <BR><B>2. </B>Sağlıklı ya da çürümekte olan bir diş yüzeyine yapışmış bozunmuş doku artığı.<BR>
+devitalization|devitalizasyon	bir dokunun canlılığının ortadan kaldırılması; örneğin arsenik asit kullanarak diş pulpasının.<BR>
+dexter|dekster	sağ
+diastematognathia|diastematognati	konjenital, uzunlamasına mandibula yarığı.<BR>
+diastole|diastol	her kalp atışında sistolün ardından gelen dilatasyon safhası.<BR>
+diathesis|diyatez	hastalık ve diş tesirlere karşı aşırı hassasiyet şeklinde beliren bünye anomalisi; hastalık istidadı.<BR>
+dichotomy|dikotomi	iki eşit parçaya kesilip ayırma.<BR>
+diffuse|diffüz	yaygın, dağılmış, saçılmış.<BR>
+diglossia|diglosi	bir gelişme anomalisi olarak dilin çift veya çatal olması.<BR>
+dilaseration|dilaserasyon	<B>1.</B> Yırtılma. <BR><B>2. </B>Bir dişin gelişim sırasında bir travma ile kırılması veya zarar görmesi sonucu, normal kalsifikasyonu bozulmadan çarpık olması.<BR>
+dilatation|dilatasyon	genişleme, gerilme.<BR>
+diluted|seyreltik	Yoğun olmayan, sulu, dilüe.<BR>
+dilution|dilüsyon	seyreltme<BR>
+diphteria|difteri	corynebacterium diphteria tarafından meydana gelen, özellikle üst solunum yolları mukozası üzerinde fibrinli bir yalancı zar oluşumu ile ve bir eksotoksine sekonder olarak miyokard ve sinir dokusu harabiyetiyle karakterize akut bulaşıcı hastalık.<BR>
+diphyodont|difiyodont	önce süt dişlerinin, sonra yerine kalıcı dişlerin çıkması şeklinde ardarda çıkan iki diş dizisi olan.<BR>
+diploe	kafatası kemiklerinin alt - üst laminaları arasındaki süngersi kemik dokusu.<BR>
+diprodont	alt çenede sadece iki kesici olması.<BR>
+discoid	<B>1. </B>disk şeklinde. <BR><B>2.</B> Kazıyıcı yüzeyi disk şeklinde olan bir ekskavatör.<BR><B>3.</B> Disk şeklinde tablet.<BR>
+dislocation|dislokasyon	yerinden çıkma veya çıkarma, çıkık.<BR>
+displacement|deplasman	yerinden olma; yer değiştirme.<BR>
+distal	Orta hattan uzakta.
+distogingival	bir küçük veya büyük azının bukkal veya lingual kavitesinin distal ve gingival duvarlarına ilişkin.<BR>
+distomolar	molar dişlerin arkasında çıkabilen artı diş.<BR>
+distoocclusion|distoklüzyon	alt çene diş kavsinin üst çeneye göre distalde olması; alt çenedeki dişlerin, üst çenedeki antogonistlerine göre normalde olmaları gereken yerin distalinde yer almaları durumu; distal kapanış; angle 2. Sınıf maloklüzyon.<BR>
+distoplacement|disloplasman	bir diş veya dişlerin distale doğru yer değiştirmesi.<BR>
+distopulpal	bir oklüzal kavitenin veya proksimo - oklüzal kavitenin basamak bölümünün distal ve pulpal duvarlarına ( küçük veya büyükazılarda ) ilişkin.<BR>
+dolichocephalic|dolikosefal	anormal derecede uzun kafası olan.<BR>
+dolichoeuromesocephalic|delikoöromezosefal	anormal derecede uzun ve temporal bölümü çok geniş kafası olan.<BR>
+dolichoeuroprocephalic|doliktoöroprosefal	çok uzun ve frontal bölümü geniş kafası olan.<BR>
+dolichofacial|dolikofasiyel	anormal derecede uzun yüzü olan.<BR>
+dolichoplatycephalic|dolikoplatisefal	anormal derecede uzun ve geniş yassı kafatası olan.<BR>
+dolichouranic|dolikoüranik	palato - maksiller indeksi 110' dan fazla ve anormal uzun damağı olan.<BR>
+dolorogenic|dolorojen	ağrı yapan.<BR>
+dorso - ventral	önden arkaya.<BR>
+dorsonasal	burun köprüsüne ilişkin.<BR>
+dorsum	herhangi bir organın arkası; sırtı.<BR>
+dotage|demans	bunama<BR>
+durveyor|paralelometre	İskelet protez yapımında, diş yüzeylerinin birbiri ile paralelliğini kontrol etmek, saptayabilmek için kullanılan alet.
+dys|dis	' uyumsuz, zor, ağrılı' anlamında örnek<BR>
+dysallilognathia|disalilognati	alt ve üst çenelerin birbirine benzememesi, uymaması.<BR>
+dysfunction|disfonksiyon	uyumsuzluk veya fonksiyon anormalliği<BR>
+dysgnathic|disgnatik	kötü gelişim ve ilişkisi bozuk çenelere ilişkin.<BR>
+dysostosis|dizostos	embriyonel dönemdeki kıkırdakların kemikleşmesi sürecinde görülen bozukluk sonucu oluşan anomaliler.<BR>
+dysphagia|disfaji	yutkunma zorluğu.<BR>
+dysplasia|displazi	anormal formasyon veya gelişme.<BR>
+dyspnoea|dispne	zor nefes alma; nefes darlığı.<BR>
+dystrophy|distrofi	hatalı beslenme sonucu ortaya çıkan bozukluk.<BR>
+eburnation|eburnasyon	patolojik bir nedenle diş veya kemik yapısında yoğunluk veya sertlik artışı.<BR>
+eccentric|eksantrik	merkezden uzağa yerleşmiş, ayrı merkezleri paylaşan.<BR>
+eccentric occlusion	mandibulanın' rest ' ( dinlenme ) pozisyonundan başka yapabileceği her türlü kapanış.<BR>
+ecchymosis|ekimoz	ince kan damarlarının yırtılmasından dolayı derialtına kan toplanarak o bölgenin mor bir renk alması<BR>
+ectoderm|ektoderm	epidermis' in dış duyu organlarının, oral ve anal müköz membranın geliştiği embriyonun üç primer tabakasından en dışta olanı.<BR>
+ectopic|ektopik	normalde olmaması gereken bir yerde veya pozisyonda.<BR>
+edema oedema|ödem	Sistemik hastalık veya travma nedeni ile, lokal olarak sıvı birikimi.<BR>
+ekstravasation|ekstravazasyon	sıvının çevre dokulara bir kanal vasıtası ile kaçması.<BR>
+electrocautery|elektrokoter	<B>1. </B>Yanık benzeri bir doku iyileşmesi sağlayan ancak doku harabiyetinin derecesi ve niteliğini kontrol etme imkanı bulunmayan, düşük voltaj - yüksek akım ile koterizasyon. <BR><B>2.</B> Bu iş için kullanılan alet.<BR>
+electrocoagulation|elektrokoagülasyon	uygulandığı bölgede nekrotik bir saha içine dehidre ettiği hücreleri çökelten, örneğin hemostazda kullanılan, etkisi azaltılmış yüksek frekans alternatif elektirik akımını iki kutuplu uygulama tekniği.<BR>
+elephantiasis gingivae|makrogingiva	dişetinde karakteristik fibrosis olan, ender görülen ırsi hipertrofik gingiva.<BR>
+elimination|eliminasyon	atılım<BR>
+elinguation|elinguasyon	dilin cerrahi yolla alınması.<BR>
+elixir|eleksir	alkol ve su ile dilüe edilmiş, sakkarozla tadlandırılmış iştah açıcı şurup.<BR>
+embolisim|emboli	pıhtı parçası, hava kabarcığı vb. bir nesnenin taşınıp gelerek bir damarı tıkaması, dolaşımı engellemesi durumu.<BR>
+embolus	damarın tıkanmasına yol açan pıhtı, hava kabarcığı, vb. engel.<BR>
+emphysema|anfizem	doku ve organların arasında hava kalması.<BR>
+empyema|ampiyem	kapalı bir boşlukta cerahat toplanması.<BR>
+enameloma	mine incisi.<BR>
+end toend bite|tet a tet kapanış	Uç uca kapanış.<BR>
+endamoeba	insanda parazit olarak bulunabilen türleri de bulunan bir amip cinsi. Buccalis. Gingivalis. - gingivalis. Dişetleri çevresi ve diştaşlarında yerleşebilen.<BR>
+endemic|endomik	belli bir bölgede yaygın, sık rastlanır.<BR>
+endermic|endermik	deriden emilen.<BR>
+endo	' içi ' anlamında önek.<BR>
+endochondral|endokondral	kıkırdak - içi; kıkırdak içide gelişen.<BR>
+endocrinodontia|endokrinodonti	endokrin bez salgıları ile diş gelişimi arasındaki ilişkiyi inceleyen bilim dalı.<BR>
+endognathion	premaksillanın iç bölümü.<BR>
+endolymph	iç kulak salyangozunu içindeki sıvı.<BR>
+endothelial	endotelyum'a ilişkin, endotelyum.<BR>
+endothelioma|endotelyoma	menşeini endotel hücrelerinden alan bir tümör.<BR>
+endothelium|endotelyum	kalbi ve kan damarlarını saran hücrelerden oluşan zar<BR>
+enervation|enervasyon	bir sinirin kısmen veya tamamen çıkartılması.<BR>
+enostosis|enostoz	bir kemik kavitesi içinde bölgesel patolojik kemik gelişimi<BR>
+enteral	barsak emilimi yoluna ilişkin.<BR>
+entocome|entokon	bir üst büyükazının arka palatal tüberkülü.<BR>
+entoconid|entokonid	bir alt büyükazının arka lingual tüberkülü.<BR>
+entoglossal	dil içinde oluşan<BR>
+entomion|entomiyon	parietal kemiğin, temporal kemiğin periekal çıkıntısını geçen mastoid açısının ucundaki nokta.<BR>
+entopic|entopik	normal pozisyonunda, olması gereken yerde oluşan.<BR>
+enula	dişetinin iç bölümü.<BR>
+epi	'üzeri, - üzerinde' anlamında önek.<BR>
+epiagnathus	zayıf, yetersiz, yeterince gelişmemiş üst çenesi olma hali.<BR>
+epicranial aponeurosis|epikraniyel	aponevroz oksipito frontal kasın ayrı bölümlerini birleştiren aponevroz.<BR>
+epidemic|epidemik	salgın, salgın şeklinde.<BR>
+epiderm	üst deri<BR>
+epidermoid	<B>1. </B>Dermis'i hatırlatan. <BR><B>2. </B>Epidermoid kist.<BR>
+epidermoid carcinoma|epidermoid karsinom	kökenini çok katlı yassı epitel katlarından alan bir karsinom.<BR>
+epiglottis	dil tabanının arkasında, yutkunurken larinksin üstünü refleks olarak örten kıkırdak yapı; gırtlak kapagı.<BR>
+epithelial|epitelyal	epitel yapıda, görünümde.<BR>
+epithelioma|epitelyoma	epitelyumdan kaynaklanan veya epitel hücrelerinin meydana getirdiği herhangi bir tümör.<BR>
+epithelium|epitelyum	organları ve vücut dokularını kaplayan veya kılıf yapan ince hücre tabakası. Yerine göre farklı özelliklerde olabilirler; örnegin ağız mukozasını dışta epite liçte de bağdokusu katı meydana getirir ve buradaki epitel, çok katlı yassı epitel özelliği<BR>
+epitheloid|epiteloid	epitel yapıda, görünümde.<BR>
+epostoma	eksoztoz.<BR>
+epulofibroma	dişetlerini etkileyen bir fibroma.<BR>
+epuloid	epulis'i anımsatan, epulis şeklinde.<BR>
+eruption|erupsiyon	<B>1. </B>Patlama, püskürme, fırlama, indifa. <BR><B>2. </B>Diş sürmesi.<BR>
+eruption-cyst|sürme kisti	Süren bir dişin kronu etrafında oluşan kist; erupsiyon kisti<BR>
+eruptive|eruptif	sürmeye ilişkin veya sürme ile karakterize.<BR>
+erythema|eritema	subkütan kapillerlerin konjestiyonuna bağlı, yaygın veya lekeler halinde deri kızarıklığı; eritem. Resim Erythema multiforme mucosada<BR>
+esosphenoiditis	sfenoid kemiği etkileyen osteomyelit.<BR>
+etherosclerosis|etheroskleroz	damar içi yüzeyinin kolestrol birikimi nedeni ile kalınlaşarak damarın elastikiyetini kaybettiği durum.<BR>
+ethmoid canals|edmoid kanallar	içinden arka etmoid ve nozosilier sinirlerin ve etmoid damarların geçtiği, frontal ve etmoid kemiklerin arasındaki kanallar.<BR>
+ethmoid nerve|etmoid sinir	etmoid sinüslerin ve burun boşluğunun mukozasını innerve eden sinir.<BR>
+ethmoid process|edmoid çıkıntı	alt burun konkasının üst sınırda bir çıkıntı.<BR>
+ethmoidal notch	eklemli bir kafatasında etmoid kemiğin kalbursu tabakasını meydana getiren, frontal kemiğin orbitaltabakaları arasındaki boşluk.<BR>
+ethmoidal sinus|etmoidal sinüs	burun boşluğuna açılan ve etmoid kemiğin labirentini oluşturan birbiri ile ilişkili küçük kavitelerden biri.<BR>
+ethmoidbone|edmoid kemik	burun boşluğunun çatısını ve kafatası ön boşluğunun tabakasını meydana getiren delik kemik; kalbursu kemik<BR>
+etiology	hastalık sebeplerini inceleyen bilim dalı.<BR>
+eubacteriales	gerçek bakteri; schizomycetes sınıfının bir takımı.<BR>
+eurycephalic|örisefal	Anormal derecede geniş kafatsı olmak.<BR>
+eurygnathic|örignatik	Anormal geniş çeneli.<BR>
+euryon|öryon	Kafatasının enine engeniş çapının her iki uç noktasından biri.<BR>
+euryprosophic|öriprosop	Anormal geniş yüzü olan.<BR>
+eustachian tube|öztaki borusu	Orta kulak ile üst farinksi birleştiren kanal.<BR>
+evagination	<B>1. </B>Bir organ veya kısmın öne doğru çıkıntı yapması.<BR><B>2. </B>İçinin dışa dönmesi.<BR>
+eversion|eversiyon	dışa dönme, dışa doğru dönmüş olma durumu.<BR>
+excavation|ekskavasyon	<B>1.</B> Boşluk, kavite. <BR><B>2.</B> Keserek, kazıyarak böyle bir kavite açma işlemi.<BR>
+excoriation|ekskoriasyon	yüzeyel deri kaybı.<BR>
+excretion|ekskresyon	1. Yabancı maddeyi vücuttan uzaklaştırma işlemi.<BR><B>2. </B>Bu şekilde uzaklaştırılan madde.<BR>
+exelcymosis|ekselsimoz	çekim; ekstraksiyon.<BR>
+exesion|eksezyon	epitelin ülseratif durumlarında görüldüğü gibi kemikte veya yüzeysel dokuda kademeli aşınma.<BR>
+exodontia|eksodonti	diş çekimi.<BR>
+exodontosis|eksodontoz	diş kökünü etkileyen eksoztoz.<BR>
+exogenous|eksojen	bir organizmanın dışından kaynaklanan veya dışında gelişen.<BR>
+exophthalmos|eksoftalmos	göz küresinin anormal derecede dışarı fırlaması, çıkmış olma hali, eksoftalmi.<BR>
+exostosis|eksoztoz	kemik yüzeyinde veya dişkökü yüzeyinde oluşan üzeri kıkırdakla örtülü kemik oluşumu.<BR>
+expansion|ekspansiyon	uzunluk, alan veya hacim olarak büyüme; genişleme.<BR>
+expansion arch	angle' ın köşeli ark ( edge wise ) tekniğini geliştirmeden önce uyguladiği, azı halkalarındaki yatay tüplere vida ve somun sistemi ile bağlanan, kalın ( 0.9 mm ) yuvarlak kesitli, köklerin yerini değiştirmeden sadece kronları eğim ( version ) yolu ıle.<BR>
+expulsive gingivitis|ekspulsif	dişleri kök yuvalarından yavaş yavaş çıkartarak kaybına neden olan osteoperiostit.<BR>
+external|eksternal	Dışa ilişkin.
+extirpation|ekstirpasyon	bir bölümün tamamen çıkartılması.<BR>
+extra|ekstra	- ' dışında, -ötesinde' anlamında önek.<BR>
+extracascular|ekstravasküler	damar dışı.<BR>
+extract|ekstraks	bitkisel veya hayvansal drogların çözücüde eritilip sonra çözücü uçurularak hazırlanan yarı sıvı, yumuşak ya da katı bir ilaç türü; öz hülasa, ekstre.<BR>
+extractor	dişi çekmekte kullanılan herhangi bir alet<BR>
+extrusion|ekstrüzyon	bir dişin yukarıya doğru hafifçe çekilmiş veya aşağıdan itilmiş, ' uzamış ' olma hali.<BR>
+exudate|eksuda	iltihapta, damar çeperinden dişarı ya da çevre dokulara yayılan serum sayısı.<BR>
+exudation|eksudasyon	eksuda oluşması.<BR>
+exuviation|eksuviasyon	epidermal herhangi bir yapının örneğin süt dişlerinin dökülmesi.<BR>
+eysson's bone|eysson kemiği	simfisis menti'deki ( mandibula orta dikişi ) mental kemik.<BR>
+facial|fasiyel	yüzeye ilişkin.<BR>
+facial canal|facial kanal	temporal kemiğin petrosa bölümünden stilo- mastoid deliğe doğru uzanan; içinden fasiyel sinirin geçtiği kanal; fallop kanalı.<BR>
+facial nerve|fasiyel sinir	simik kaslarını, stapedius ve stilopyoid kasları digastrik kasın arka karıncığını innerve eden 7. Kafa çifti.<BR>
+faciesleontina|aslanyüzü	lepra'da kaşların dökülmesi ve bu bölgenin kabalaşması ve buranın yapısının değişmesi ile özgünleşen yüz biçimi.<BR>
+faciocervical|fasiyoservikal	yüze ve boyuna ilişkin.<BR>
+facioplegia|fasiyel paraliz	yüz felci.<BR>
+fascia|fasya	<B>1.</B> Deri altındaki areolar doku tabakaları; yüzeysel fasya. <BR><B>2.</B> Kasları, sinirleri, vb. kuşatan areolar doku tabakaları; derin fasya.<BR>
+fascial|fasyal	fasyaya ilişkin.<BR>
+fede's disease|fede hastalığı.	özellikle bebeklerde alt kesicilerin emerken dilaltında yaptığı travma nedeni ile görülen sublingual papillomatöz ülserasyon; riga- fede hastalığı da denir.<BR>
+fergusson's operation|fergusson operasyonu	fergusson operasyonu<BR>
+fetus	gelişimin ilk üç ayında doğuma kadar, rahim içinde gelişen embriyoya verilen ad; cenin.<BR>
+fibre|lif	dokulardaki ipliksi bağ dokusu.<BR>
+fibril	ince lif; lifçik.<BR>
+fibrilloblast	odontoblast<BR>
+fibrin	pıhtı ağını yapan, trombin ve fibrinojenin etkileşmesi ile oluşan erimez protein lifi.<BR>
+fibroadamontinoblastoma	kaynağını ameloblasttan alan bir fibroma; ameloblastik fibroma.<BR>
+fibroadenoma|adenofibrom	fibröz ve glandüler dokudan oluşan tümör<BR>
+fibroblast	bağ dokusunu oluşturan ana hücreler( stem cell )'den biri.<BR>
+fibrocartilage|fibrokartilaj	yoğun fibröz doku da içeren kıkırdak.<BR>
+fibroma	fibröz dokudan oluşan tümör.<BR>
+fibromatosis|fibromatoz	çeşitli fibroma ya da fibröz doku gelişimi.<BR>
+fibropapilloma	adenofibroma.<BR>
+fibrosarcoma|fibrosarkom	fibroblastlardan türeyen habis tümör.<BR>
+fibrous|fibröz	liflere ilişkin, liflerden oluşan<BR>
+fibrous ankylosis|fibröz ankiloz	fibröz adezyona veya eklem içi fibroza bağlı hareket zorluğu.<BR>
+fibrous epulis|fibröz epulis	genellikle gerçek bir tümör olmayan, fazladan gelişmiş, saplı, iltihaplı, dişeti kitlesi.<BR>
+filiform	ipliksi, ip şeklinde.<BR>
+fissure decay|fissür	<B>1.</B> Yarık, ince oluk. <BR><B>2.</B> Dişlerin oklüzal yüzeylerinin ortasında, tüberküller arasındaki oluklar. ( fissure ) çürüğü diş fissürlerinde başlangıç çürük.<BR>
+fistula|fistül	cerahatli bir kaviteden dış yüzeye veya diğer bir organa uzanan onormal kanal. Resim : Periodontal apse sinus<BR>
+fixation|fiksasyon	sert, bükülmez bir şekilde tutundurma, sabitleştirme işlemi.<BR>
+fixed appliance|sabit aparey	Kullanan kişinin kendi kendine ağzından çıkaramayacağı şekilde dişlere tuturulmuş ortodontik aparey.<BR>
+flap	deri, mukoza vb. yumuşak dokunun kazayla veya tedavi amacı ile cerrahi olarak, tamamen çıkartılmadan kesilip kaldırılması; lambo.<BR>
+flap operation|lambo operasyonu	flap operasyonu.<BR>
+fleischmann's follicle|fleischmann folikülü	ağız tabanında, genioglossus kasın kenarında değişken folikül.<BR>
+fluoridation|floridasyon	merkezi bir su kaynağının, faydalanan insanların diş çürüme hızlarını azaltmak için milyonda bir oranda genellikle sodyum florür ile florlanması.<BR>
+fluoride|florür	florun herhangi başka bir element ile yaptığı bileşik.<BR>
+fluoridization|floridizasyon	diş çürüğünü önlemek için florürün herhangi bir şekilde kullanılması.<BR>
+fluorine|flor	kimyasal senbolü F olup, halojen grubunun metal olmayan bir elementi.<BR>
+fluorosis|floroz	<B>1.</B> Flor zehirlenmesi. <BR><B>2. </B>Kemiklerde yoğunluk artması, dişlerde hipoplazi ve renkleşme ile karakterize, gelişim döneminde uzun süre aşırı flor almaya bağlı kronik durum.<BR>
+focal|fokal	odoksal; odağa, ilgili noktaya ilişkin.<BR>
+focal sepsis|fokal sepsis	yayılarak sistemik bir hastalığa yol açabilecek bölgesel bir enfeksiyon odağı.<BR>
+foetal|fetal	fetusa ilişkin.<BR>
+foetus|fetus, fötus	gelişimin ilk üç ayında doğuma kadar, rahim içinde gelişen embriyoya verilen ad; cenin.<BR>
+foil|varak	Altın, kalay veya platin gibi metalleri silindirden geçirerek elde edilen çok ince metal tabakası.<BR>
+follicle|folikül	küçük kese veya salgı bezi.<BR>
+follicular|foliküler	foliküle ilişkin.<BR>
+follicular cyst|foliküler kist	dentigeröz kist.<BR>
+fontanel	bebeklerde kafatası kemikleri arasındaki membran - kıkırdak yapı;, bıngıldak.<BR>
+fordyce spots|fordyce benekleri	ektopik yağ bezlerinden oluşan, dudak ve yanakların iç yüzünde görülen, patolojik bir durumun belirtisi olmayan küçük sarı benekler; fordyce granülleri.<BR>
+formularly|kodeks	çeşitli ilaçların yapılma şekil ve formüllerini içeren derleme kitap.<BR>
+fossa	Lt. küçük girinti.
+fovea	Lt. küçük girinti.<BR>
+fovea pterygoideab mandibulae|fovea pterygoidea mandibulae	mandibula boynunun ön kenarında, diş pteriogoid kasın yapıştığı girinti; alt çene pterigoid çukuru.<BR>
+fovea sublingualis mandibulae|fovea submaksillaris mandibulae	submaksiller bezin yerleştiği, mandibulanın iç yüzündeki girinti.<BR>
+fracture|fraktür	kırık<BR>
+fraenotomy|frenetomi	yapışık dili, frenulumunu keserek ( parça almadan ) rahatlatma işlemi<BR>
+fraenulum	Lt. küçük frenum.<BR>
+fraenum labiorum|dudak frenumu	dudağın iç yüzünü bulunduğu çenedeki orta kesiciler arası dişetine bağlayan frenum<BR>
+fragilitas ossium osteogenesis imperfecta|fragilitas ossium	kemiklerin aşırı kırılgan olduğu bir gelişim bozukluğu; osteogenesis imperfekta.<BR>
+freanum linguae|dil frenumu	dilin alt yüzünü ağız tabanına bağlayan frenum; dil frenumu<BR>
+freeway space|rahat yol boşluğu	Mandibulanın 'rest' ( dinlenme ) pozisyonunda alt ve üst dişler arasındaki hafif aralık.<BR>
+friability|friabilite	kolayca ufalanma özelliği.<BR>
+frontal	<B>1.</B> Frontal kemiğe ya da alına ilişkin. <BR><B>2. </B>Alınsal; ön.<BR>
+frontal bone|frontal kemik	alnı meydana getiren kemik; os frontale.<BR>
+frontal nerve|frontal sinir	nervus frontalis; alın derisini innerve eder.<BR>
+frontal notch|frontal çentik	orbital kemiğin üst kenarında, içinden frontal arter ve sinirin geçtiği girinti.<BR>
+frontal process|frontal çıkıntı	nasal kavite kenarının bir kısmını, göz çukuru kenarını oluşturan ve frontal kemikle eklem yapan maksillanın bir çıkıntısı.<BR>
+frontal sinus	hacmi kişiden kişiye değişen, frontal kemiğin, burun kökü üzerindeki iki kavitesinden biri; sinus frontalis.<BR>
+frontomalar	frontal ve zigomatik ( malar ) kemiklere ilişkin.<BR>
+frontomaxillary|frontomaksiller	frontal kemiğe ve maksillaya ilişkin.<BR>
+frontonasal	frontal ve nasal kemiklere ilişkin.<BR>
+frontonasal process|frontonasal çıkıntı	embriyoda, alnı ve burun köprüsünü yapacak olan, kafadaki kemiğin ön bölümü.<BR>
+frontoparietal	frontal ve parietal kemiğe ilişkin.<BR>
+frontosphenoidal process|frontosfenoid çıkıntı	frontal kemikle ve sfenoid kemiğin büyük kanadı ( ala major ) ile eklem yapan, zigomatik kemiğin aşağı uzanan kalın, dişli çıkıntısı.<BR>
+frontotemporal	frontal ve temporal kemiklere ilişkin.<BR>
+frontozygomatic|frontozigomatik	frontal ve zigomatik kemiklere ilişkin.<BR>
+fulguration|fulgurasyon	cerrahi elektrodun dokudan az uzakta tutularak, kıvılcım atlaması ile yüzeyel doku dehidratasyonu sağlanması.<BR>
+full denture|tam protez	Tamamen dişsiz ağızlara yapılan diş protezi; total protez.<BR>
+fungal	mantar kökenli, mantarsı, mantara ilişkin.<BR>
+fungiform	mantar biçiminde.<BR>
+fungoid	mantarsı, mantarı anımsatan<BR>
+fungus	<B>1. </B>Küf mantar ve şapkalı mantarları da içeren bir bitki organizması sınıfı. <BR><B>2. </B>Vücutta marazi bir granülasyon dokusu gelişimi.<BR>
+furcation|furkasyon	çatallanma, çatal uçlarına ayrılma durumu.<BR>
+furred tongue|tüylü dil	Papillaları kaplı, muköz membranı beyaz, tüylü bir görünümde olan dil.<BR>
+furuncle|çıban	genellikle bir kıl folikülü civarında olan lokalize deri absesi.<BR>
+fused teeth|kaynaşmış dişler	daha çok kesicilerde görülen, dişlerin gelişme sürecinde birbirine kaynaşarak ( fusion ) tek büyük bir diş olarak sürmesi ile karakterize dişler.<BR>
+fusiform	papilla dilin ön üçte -iki sırt bölümündeki ince iğ şeklindeki papillerden biri.<BR>
+fusion|füzyon	<B>1.</B> Kaynaşma, birleşme, erime. <BR><B>2.</B> İki diş folikülünün bir diş yapacak şekilde kaynaşması.<BR>
+fusobacterium	bakterilerin bacteriaceae ailesinin bir cinsi; ince iğ şeklinde, gram negatif ve anaerop özelliktedir. -nucleatum normal ağız florasında bulunan bir türü plautivincenti ülsere stomatitlerde ve gingivitislerde bulunan bir türü.<BR>
+ga; gingivo - axial|gingivo -aksiyel	bir proksimooklüzal kavitenin mezial veya distal bölümündeki gingival ve aksiyel duvarlara ilişkin.<BR>
+galvanism|galvanizm	ağız içi restorasyonlarda iki farklı metalin birbirine değmesi ile galvanik akım oluşarak hastanın ağrı, ağızda garip tad, hatta küçük elektrik deşarjları sonucu çarpılma gibi rahatsızlıklara maruz kalmasına yol açan fiziksel bir olay.<BR>
+ganglion	Düğüm tarzında, makroskopik de olabilen sinir hücre gövdesi toplulukları.
+gangosa	burun ve sert damakta yıkıcı ülserasyon; verem dutunun ( yaws ) son haftası.<BR>
+gangrene|gangren	ileri derecede kan dolaşımı yetersizliğine, travmaya veya enfeksiyona bağlı bölgesel doku nekrozu.<BR>
+garrerson's bandage|garretson bandajı	alt çeneyi hareketsiz kılmak için kullanılan, alından başlanıp ensede çapraz yaparak çenenin altında bağlanan bir bandaj türü.<BR>
+gba; gingivobuccoaxial|gingivobukkoaksiyel	bir proksimo - oklüzal kavitenin mezial veya distal bölümünde yeralan gingival, bukkal ve aksiyel duvarlara ilişkin.<BR>
+geisoma	supraorbital çıkıntı; frontal kemiğin kaş bölümündeki çıkıntı kenar.<BR>
+gemination|geminasyon	tek diş folikülünden, birbirine yapışık, tek pulpalı ikiz diş oluşması.<BR>
+genal	yanağa ilişkin.<BR>
+genial	çeneye ilişkin.<BR>
+genial angle|genial açı	mandibulanın corpus'u ile ramus'u arasındaki açı.<BR>
+genial tubercle|genial tüberkül	mandibulada, protuberantia mentalis'in her iki yanındaki yükseltilerden biri.<BR>
+genio	'çene' anlamında önek.<BR>
+genioglossus|genioglossus kası	dili ileri uzatan ve geri aşağı çeken, dil altındaki kas; musculus genioglossus.<BR>
+geniohyoid muscle|geniohyoid kas	yutkunurken hyoid kemiği yükselten ve ileri çıkartan kas; musculus geniohyoideus<BR>
+genion	<B>1.</B> Çene. <BR><B>2. </B>Kraniometride, protuberantia mentalis'in apeksi.<BR>
+genioplasty|genioplasti	çene üzerinde plastik cerrahi işlem.<BR>
+genus	biyolojik sınıflandırmada, familya ( aile )'nın bir altı; kendi içinde türlere ayrılır; cins.<BR>
+geny|geni	' çene' anlamında önek.<BR>
+genyantritis|geniantrit	maksiller sinüs veya antrum enfeksiyonu.<BR>
+genyantrum|geniantrum	maksiller sinüs veya antrum.<BR>
+genycheiloplasty|genikeloplasti	yanak ve dudakta birlikte plastik cerrahi operasyonu.<BR>
+genyplasty|geniplasti	mandibulada plastik cerrahi operasyon.<BR>
+geothe's bone|goethe kemiği	intermaksiller kemik.<BR>
+geotrichosis|geotrikoz	geotrichum'un herhangi bir türünün sebep olduğu enfeksiyon.<BR>
+geotrichum|geotrisum	bronkopulmoner ve oral lezyonlarda bulunan maya benzeri bir mantar cinsi.<BR>
+germ|diş germi	<B>1. </B>Herhangi bir mikroorganizma,, özellikle patojen bir tür. <BR><B>2. </B>Spor veya tohum. <BR><B>3. </B>İlkel embriyo veya ilkel embriyonun ayrı bir organ veya bölüme gelişecek olan herhangi bir bölümü. (germ ) diş-i mine organı, dental papilla ve foliküler torba;diş taslağ<BR>
+germicide|germisid	<B>1. </B>Germ öldürücü etkisi olan. ( germicidal ). <BR><B>2. </B>Germ öldürücü herhangi bir ajan.<BR>
+gerodontology|gerodontoloji	ileri yaşlara özel ağız,- diş sorunları ile ilgilenen dişhekimliği dalı.<BR>
+gilmer splint	alt çene kırıklarını sabitlemek ve normal oklüzyonu sağlamak için alt - üst dişlerin birbirine gümüş telle bağlandığı yöntem.<BR>
+gingiva	Dişlerin boyuna ve köklerini saran alvoel kemiğini çevreleyen mokoza membranı ve dişeti; serbest dişeti, yapışık dişeti ve dişeti papili olmak üzere üç kısma ayrılır.<BR>
+gingival	<B>1.</B> Dişetine ilişkin. <BR><B>2.</B> Bir dişin, dişetini ilgilendiren yüzeyine bakan kavite duvarına ilişkin.<BR>
+gingival abscess|gingival abse	ABSE gingival.<BR>
+gingival sulcus|gingival oluk	dişeti oluğu.<BR>
+gingival sulcus, gingival crevice|dişeti oluğu	Serbest dişetinin dişe bakan yüzü ile diş arasında kalan, fizyolejik derinliği ortalama 0.69 ila 1.8 mm olarak belirtilmiş, ' V' şeklindeki sığ oluk. Bu oluğu serbest dişeti oluğu ile karıştırmamak gerekir; çünkü serbest dişeti oluğu dişeti oluğunun tam<BR>
+gingivalgia|gingivalji	dişlerini etkileyen nevraljik ağrı.<BR>
+gingivectomy|gingivoktemi	Aslında kronik periodontitis tedavi tekniği olmasına rağmen normal tedaviye cevap vermeyen kronik gingivitis tedavisi için de kullanılan, kemik - üstü ceplerin yumuşak doku duvarını kaldırmak, bütün diştaşı ve diğer birikintilere ulaşabilmek.<BR>
+gingivitis	üz periodontal dokuları ilgilendirmeyen her türlü dişeti rahatsızlığı için kullanılan genel bir terim.<BR>
+gingivoglosstis	dil ve dişetlerinin birlikte iltihabı.<BR>
+gingivolinguoaxial; gla|gingivolinguoaksiyel	bir proksimooklüzal kavitenin distal veya mezial bölümünde gingival, lingual ve aksiyel duvarlara ilişkin.<BR>
+gingivopericementitis|gingivoperisementit	alveoler piyore.<BR>
+gingivoplasty|gingivoplasti	dişeti dokusunu bozulmuş şeklini çeşitli cerrahi yöntemlerle düzeltmek süreti ile fizyolojik dişeti çevresini sağlanması.<BR>
+gingivosis	dişetlerini etkileyen herhangi bir dejeneratif durum.<BR>
+gingivostomatitis|gingivostomatit	gingivitis<BR>
+ginglymoarthroidal|ginglimoartroidal	hem gingliomoid (Menteşe gibi),Hemde artroid (Kayarak)Hareket yapan bir eklemle ilişkin; ör TME.<BR>
+ginglymoid|ginglimoid	Menteşe gibi.<BR>
+ginglymus|ginglimus	sadece ön-arkaya hareket etmeyi sağlayan ,menteşe hareketi yaptıran eklem;Mafsal<BR>
+glabella	kaşlar arasındaki düzgün alan.<BR>
+gland	salgı yapan herhangi organ,salgı bezi, bez.<BR>
+glandula|glandül	Salgı yapan bez.
+glandular|glandüler	bir beze ilişkin.<BR>
+glanoid fossa|glanoid	fossa temporal kemiğin skuama bölgesinde zygomatik çıkıntının altındaki,içine kondil başının yaslandığı girinti (fossa glandularis).<BR>
+glass sermet cement|cam sermet simani	cam iyonomer simanına yaklaşık % 50 oranında gümüş katılarak hazırlanmış, azı dişlerde amalgam yerine tutuculuk ve renk avantajı nedeni ile tercih edilen yeni bir dolgu maddesi.<BR>
+glaze|sır	Porselenin üzerindeki camsı parlak tabaka; suni kronlarda mine etkisi vermek için kullanılır.<BR>
+glazing|sırlama	Porselenin üzerini sır maddesi ile kaplayıp pişirme işlemi.<BR>
+gllosocoma|glossokoma	dilin geri çekilmesi.<BR>
+gllossolabial	dile ve dudaklara ilişkin.<BR>
+gllossolyisis|gllossliz	dil felçi.<BR>
+globular process|globüler çıkıntı	embiryoda,burnun her iki yanında, ileride flitrum'u oluşturacak olan iki yumrudan biri.<BR>
+globulomaxillary|globulomaksiller	globüler ve maksiller çıkıntılara ilişkin.<BR>
+gloss	dil
+glossagra	dili etkileyen ağrı.<BR>
+glossal	dile ilişkin.<BR>
+glossanthrax|glossantraks	dilde büyük,kırmızı şiş enfeksiyon odağı.dilde çıban.<BR>
+glossectomy|glossektomi	dilin total veya parsiyel rezeksiyonu.<BR>
+glossid	dili anımsatan,dil gibi.<BR>
+glossocele|glossosel	dilin şişmesi ve ileri itimi.<BR>
+glossodesmus	lingual frenilum.<BR>
+glossohyal	dil ve hyoid kemiğe ilişkin.<BR>
+glossomantia|glossomanti	bir hastalığın prognozunun dilin görünümünden anlaşılması.<BR>
+glossopalatina|glosapalatin	dil ve damağa ilişkin.<BR>
+glossopathy|glossopati	dilin herhangi bir hastalığı.<BR>
+glossopexy|glossopeksi	dil tabanının mandibulanın ön tarfına suturlarla bağlyarak dil ağız içinde daha öne getirmeye dayanan glossoptoz'un cerrahi tedavisi<BR>
+glossopharyngeal|glossofarengeal	dil ve farinkse ilişkin.<BR>
+glossopharyngeal nerve|glossofaringeal sinir	stilofaringeus kasını ,parotis bezini ve dil mukozasını innerve eden ,dokuzuncu kafa çifti; Nervus glossopharyngeus<BR>
+glossoplasty|glossoplasti	dile yapılan plastik cerrahi müdahale.<BR>
+glossoplegia|glossopleji	dil felçi.<BR>
+glossoptosis|glossoptoz	dilin aşağıya doğru kıvrık olduğu bir şekil ve fonksiyon bozukluğu.<BR>
+glossopyrosis|glossopiroz	dilde yanma hassasiyeti.<BR>
+glossorraphy|glossorafi	dilin cerrahi olarak dikilmesi<BR>
+glossoscopy|glossoskopi	dilin diagnostik muayenesi.<BR>
+glossospasm|glossospazm	dil kaslarına kramp girmesi.<BR>
+glossospiglottic|glossoepiglotik	dil ve epiglotise ilişkin.<BR>
+glossotomy|glossotomi	dilin insizyonu<BR>
+glottis	ses telleri arasındaki açıklık.<BR>
+glycosialia|glikosiali	tükrükte şeker olması.<BR>
+gnarled enamel|kıvrılmış mine prizmaları	için prizma çubuklarının çeşitli yönlere kıvrılmış olduğu mine.<BR>
+gnathalgia|gnatalji	çeneyi etkileyen nevraljik ağrı.<BR>
+gnathankylosis|gnatankiloz	çene ankilozu<BR>
+gnathic|gnatik	çeneye ilişkin.<BR>
+gnathion|gnation	fiziksel antropolojide mandibulanın orta çizgisinin en alt noktası.<BR>
+gnatho|gnato	çene anlamında önek.<BR>
+gnathology|gnatoloji	çiğneme mekanizması inceleyen bilim<BR>
+gnathoplasty|gnatoplasti	çene veya yanağın pilastik cerrahisi.<BR>
+gnathoplegia|gnatopleji	yanak kasları paralizi.<BR>
+gnathorragia|gnatoraji	çenelerden veya bukkal mukozadan kanama.<BR>
+gnathostatics|gnatostati	dişlerin, kafa ile olan kraniometrik ilişkilerine dayanan ekstra - oral bir ortodontik teşhis yöntemi.<BR>
+gnathostomatics|gnatostomati	çene ve ağız fizyolojisi.<BR>
+gomphosis|gomfozis	dişlerle alveol kemiği arasındaki mafsallanma şekli, kakılmış eklem.<BR>
+gongylonemiasis|gongilonemiyaz	daha çok erkeklerde görülen, gongylonemia'nın yol açtığı oral infestasyon.<BR>
+gonion	<B>1.</B> Mandibulanın angulus'unun diş ucu. <BR><B>2.</B> Sefalometride; kondiller ve mandibüler düzlemler arası açıyı ortadan kesen bir çizginin, mandibüler angulusun radyografide görünen bölgesinin diş sınır çizgisini kestiği nokta.<BR>
+goslee tooth|goslee dişi	döküm köprü çalışmalarında kullanılan, hazır olarak değiştirilebilir, metal gövdeye tutturulan porselen diş.<BR>döküm köprü çalışmalarında kullanılan, hazır olarak değiştirilebilir, metal gövdeye tutturulan porselen diş.<BR>
+gothicpalate|gotik damak	anormal derecede yüksek, sivri damak arkı.<BR>
+gouge|kemik guju	ortası oyuk veya oluk şeklinde, kemik kesmeye veya yerinden çıkartmaya yarayan, arkasından çekiç ile de vurulabilen bir keski, çizel türü.<BR><BR>
+graft|greft	bir defekti, doku kaybını implantasyonla tamamlamak için kullanıla doku parçası. Resim:Free Gingival Graft<BR>
+granuloma|granülom	granülasyon dokusu birikintisi; örneğin dental granülom; diş kök ucunda.<BR>
+graves disease|greves hastalığı	hipertirioidizme bağlı, gözlerin ileri fırlak olduğu ve tiroid bezinin büyüdüğü bir hastalık; egzoftalmik guatr<BR>
+gubernaculum dentis	kalıcı bir dişin torbasını etrafındaki dişetine bağlayan bağ dokusu şeridi.<BR>
+gumma|gom	üçüncü sifilitik dönemde vücudun herhangi bir yerinde oluşa bilen yumuşak lastik kıvamında granülasyon doku odagı tümör.<BR>
+gustation|gustasyon	Tad alma duyusu.<BR>
+gutta percha|güta perka	belirli ağaç özsularının dehidre edilmesi ile elde edilen, bir isopren polimeri. Alfa veya beta kristal şeklinde bulunup bunlar birbirlerine dönüşebilir. Dişhekimliğinde daha çok beta tipi kullanılır, beta kristal şeklinde olanı 64 C da yumuşarak. Isı ile<BR>
+gıam's staining method|gıram boyama yöntemi	ayırt edici bir bakteri boyama tekniği; preparat önce anilin - jansiyen moru ile boyanır, sonra alkolle yıkanıp bir başka boya ile boyanır. İlk boyandığı gibi mor renkte kalırsa gram + ikinci boyanın rengini alırsa gram - bakteriler gurubuna girdiği anla<BR>
+Haema|hema	Kan.
+haemangioendothelioma|hemangioendotelyoma	vasküller endotelyumdan kaynaklanan kavermöz tipi bir hemangioma.<BR>
+haemangiopericytoma|hemangioperisitoma	kapiller ve küçük arterleri çevreleyen hücrelerden kaynaklanan kan damarı tümörü.<BR>
+haemato haemo|hemato hemo	' kan' anlamında önek.<BR>
+haematogenous|hematojen	<B>1. </B>Kan yolu ile yayılan, kanda meydana gele. <BR><B>2.</B> Kan yapıcı.<BR>
+haematoma|hematom	kanın damar dışına çıkarak dokular arasına veya deri altına yayılması ile oluşan şişlik.<BR>
+haemodia|hemodi	anormal derecede hassas dişleri olma durumu.<BR>
+haemongioma|hemangioma	genellikle deri ve mukozada, ender olarak da kemikte meydana gelen, periferik, nadiren santral, menşeini aldığı damara göre arteriyel, venöz veya kapiller vasıfta, bünye ve yapılarına göre ise kapiller ve kavernöz olarak adlandırılan kan damarı selim tm<BR>
+haemophilia|hemofili	kadınların taşıyıcı olduğu ve sadece erkeklerde görülen ırsi kan pıhtılaşma bozukluğu.<BR>
+haemophiluds|hemofilus	parvo- bakteri ailesinin gram - negatif, parazitik ve çubuk şeklinde olan bir cinsi.<BR>
+haemoptysis|hemoptizi	üst solunun yolları veya akciğerlerde kanama nedeni ile tükrükte kan bulunması.<BR>
+haemorrhage|hemoraji	travma, vb. nedenle kanın damar dışına çıkarak iç veya dış kanama yapması; kanama.<BR>
+haemorrhagic|hemorajik	kanamadan etkilenen veya kanamaya ilişkin.<BR>
+haemostasis|hemostaz	1. Kanamayı durdurma. <BR>2. Kan dolaşımını herhangi bir noktadan kontrol etme işlemi.<BR>
+haemostatic|hemostatik	<B>1.</B> Kan durdurmaya ilişkin. <BR><B>2. </B>Hemostazda kullanılan herhangi bir ajan.<BR>
+halitosis|halitoz	nefesin kötü kokması<BR>
+hamartoma	doku veya hücrelerin yanlış embriyonal gelişmesi sonucu oluşabilen tümör benzeri lüzumsuz doku kitlesi.<BR>
+hamular process|hamulus çıkıntısı	orta pterigoid laminanın aşağı doğru uzanan kanca şeklindeki çıkıntı.<BR>
+hamulus	kemik üzerinde kanca şeklinde çıkıntı.<BR>
+haphalgesia|hafaljezi	en ufak dokunmada dahi şiddetli ağrının olduğu durum.<BR>
+hect|hekıt	rakam olarak ' yüz' anlamında önek.<BR>
+hecto|hekto	rakam olarak ' yüz' anlamında önek.<BR>
+helix|heliks	kulak kepçesinin dışbükey kenarı.<BR>
+hemi	<B>1.</B> Yarısı anlamında önek. <BR><B>2. </B>Vücudun, birorgan veya parçanın sağ, ya da sol tarafı, yarısı anlamında önek.<BR>
+hemiageusia|hemigusi	dilin yarısının tad duyusunun kaybolması veya yokluğu<BR>
+hemiatrophy|hemiatrofi	bir organ veya vücudun bir tarafını etkileyen atrofi.<BR>
+hemifacial|hemifasiyel	yüzün yarısını etkileyen veya ilgilendiren.<BR>
+hemigeusia|hemigusi	dilin yarısının tad duyusunun kaybolması veya yokluğu.<BR>
+hemiglossectomy|hemiglossektomi	dilin yarısının cerrahi olarak alınması.<BR>
+hemiglossooplegia|hemiglossopleji	dilin bir yarısını etkileyen paraliz.<BR>
+hemignathia|hemignati	yarım çene olma durumu.<BR>
+hemihypermetry|hemihipermetri	bir parça veya organın anormal uzaması veya protrüzyonu.<BR>
+hemihyperplasia|hemihiperplazi	bir organ veya dokunun bir yarısını etkileyen hiperplazi.<BR>
+hemihypertrophy|hemihipertrofi	bir vücut, organ veya parçanın yarısını etkileyen hipertrofi.<BR>
+hemilingual	dilin yarısını ilgilendiren ya da etkileyen.<BR>
+hemimacroglossia|hemimakroglossi	dilin bir yarısının anormal büyümüş olması.<BR>
+hemimandibulectomy|hemimandibulektomi	dilin bir yan yarısının cerrahi olarak alınması.<BR>
+hemipalatolaryngoplegia|hemipalatolaringopleji	yumuşak damak ve larinksin bir tarafının kaslarında paraliz<BR>
+hemiplegia|hemipleji	vücudun bir yarısının felci.<BR>
+herpes	deride, deri ile mukozanın birleştigi yerlerde, konjektiva, kornea ve genital bölgede kümeler halinde veziküllerle karakterize, bazen merkezi sinir sistemini de etkileye bilen enfeksiyonlara yol açan bir virüs.<BR>
+herpes labiallis	Herpes labiallisde çok sayıda lezyonlar . Bu veziküller hızla yırtılır ve üzerinde kabuk teşekkül eder.<BR>
+herpes simplex|herpes simpleks	daha çok dudak, burun kenarlarında görülen, halk arasında uçuk tabir edilen veziküller herpetik lezyonlar.<BR>
+herpes zoster	zona; tükrük damlacıkları ile üst solunum yollarından vücuda giren dermatrop karakterdeki suçiçeğinin virüsünün, nörotrop karakter kazanarak posterior sinir gangliyonkarına yerleşerek, latent uzun bir devreden sonra erişkin yaşlarda çeşitli sebeplerle<BR>
+hetero	farklı, diğer anlamında önek.<BR>
+heterocellular|heteroselüler	çeşitli tür hücrelerden oluşan.<BR>
+heterodont	homodont'un zıddı olarak, farklı şekillerde dişleri olan.<BR>
+heterogeneous|hetorojen	farklı maddelerden meydana gelen; homojen'in zıttı<BR>
+heterostomy|heterostomi	asimetrik, ağız olması hali.<BR>
+heterotopic|heterotopik	normalden başka bir yerde oluşan.<BR>
+heterotrophic|heterotrop	beslenme ve gelişme için kompleks bir karbon kaynağına gereksinen organizmalara ilişkin; ototrop'un tersi.<BR>
+hex|heks	hex<BR>
+hiatus semilunaris|hiatus	herhangi bir aralık, açıklık.(hiatus) bukkal çapraz yüz yarığı ( buccal hiatus ) maksiller nasal kavite ile maksiller antrumu birleştiren, maksillanın iç yüzeyindeki açıklık.<BR>
+higrostomia|higrostomi	kronik aşırı tükrük salgılanması.<BR>
+hilus	bir organda genellikle damar veya kanalların girdiği çukur veya açıklık.<BR>
+hipocalcification|hipokalsifikasyon	Normalde kalsifiye olması gereken bir dokuda,kalsiyum tuzlarının yetersiz depolanması sonucunu doğuran bozuk gelişim.<BR>
+hipocone|hipokon	üst molar dişin distolingual tüberkülü.<BR>
+hiposiagonarhritis|hiposiagonartrit	TME iltihabı<BR>
+hirudiniasis|hirudiniyaz	ağız ve üst solunum yollarının sülükler tarafından istila edilmesi.<BR>
+histo	'doku' anlamında önek.<BR>
+histochemistry|histokimya	vücut dokuları ve sıvıları kimyası.<BR>
+histogenesis|histogenez	dokuların embriyonel ya da hücresel gelişmesi.<BR>
+histopatnology|histopatoloji	hastalıklı dokuda mikro yapısal değişiklikleri inceleyen bilim.<BR>
+homalocephalus|homalosefal	düz, yassı kafalı.<BR>
+homalouranus	anormal düz damak arkı olan kişi.<BR>
+homo	'aynı, benzer' anlamında önek.<BR>
+homodont	tüm dişleri aynı şekil olan; heterodont'un tersi.<BR>
+homogeneous|homojen	tek tür veya çeşitten meydana gelen,karışık olmayan; heterojenin tersi.<BR>
+homogenous|homogen	tek türden gelen, tek türden türemiş ve bu nedenle benzer olan; heterogenin tersi; homojen.<BR>
+homologous|homolog	aynı veya çakışan yapı veya pozisyonda olup, fonksiyonunun benzer olması gerekmeyen.<BR>
+homology|homoloji	homolog olma niteliği; homolog<BR>
+horizontal	Yatay.
+hydrocolloid|hidrokolloid	sert ve erimez gel haline reversibl veya irreversibl olarak dönüştürülerek kullanılan visköz kolloid sol; diş hekimliğinde kullanılan bir ölçü maddesi türü.<BR>
+hydrocyst|hidrokist	içi sulu kıvamda olan kist.<BR>
+hydrostomia|hidrostomi	ağızdan sürekli salya akması ile karakterize durum<BR>
+hygro|higro	'nem ' anlamında önek.<BR>
+hygroma|higroma	enfekte bir bursa' nınetrafını saran, ya da bir kist veya torbayı şişiren tümörümsü sıvı birikmesi.<BR>
+hyo	anatomide, hyoid ark veya hyoid kemik ile ilgiyi belirtmek için kullanılan önek.<BR>
+hyoglossus	dil kenarlarını aşağı kıvıran kas, musculus hyoglossus.<BR>
+hyoid artery|hyoid arter	arteria infrahyoidea ve a. Suprahyoidea.<BR>
+hyoid bone|hyoid kemik	dil tabanı ile larinks arasındaki 'U' şeklinde, dili destekleyen ve bazı yüz kaslarına bağlantı yeri oluşturan küçük kemik.<BR>
+hypalgesia	ağrıya karşı normalden daha az hassasiyet.<BR>
+hypanisognathism|hipanisognatizm	çeneler arası ilişki uyumsuzluğuna yol açan, maksiller dişlerin mandibüler dişlerden daha geniş olmasının sebep olduğu durum.<BR>
+hyper|hiper	<B>1.</B> Aşırı, abartılmış, çok fazla. <BR><B>2. </B>Anatomi ve zoolojide; ' üzerinde' anlamında önek.<BR>
+hyperaemia|hiperemi	lokal enfeksiyon vb. nedeni ile kan hücumu.<BR>
+hyperalgesia|hiperaljezi	ağrıya karşı aşırı hassasiyet.<BR>
+hyperbrachycephalic|hiperbrakisefal	kafanın çok fazla grniş olduğu aşırı derecede brakisefal<BR>
+hypercementosis|hipersementoz	diş köklerinde aşırı sement birikmesi.<BR>
+hyperdontia|hiperdonti	ağızda artı dişlerin bulunması.<BR>
+hyperdontogeny|hiperodontojeni	bazen tam bir üçüncü dişlenme yapacak kadar da olabilen artı dişlerin oluşması durumu.<BR>
+hyperemia|hiperemi	lokal enfeksiyon vb. nedeni ile kan hücumu.<BR>
+hyperfunction|hiperfonksiyon	anormal, aşırı faaliyet.<BR>
+hypergeusia|hipergusi	anormal akut tad duyusu.<BR>
+hyperodontogeny|hiperodontojeni	bazen tam bir üçüncü dişlenme yapacak kadar da olabilen artı dişlerin oluşması durumu.<BR>
+hyperorthognathy|hiperortognati	gnatik indeks değerinin çok düşük olduğu, aşırı ortognati<BR>
+hyperostosis|hiperostoz	kemik hipertrofisi; eksoztoz.<BR>
+hyperplastic|hiperplastik	hiperplaziden etkilenen veya hiperplaziye ilişkin.<BR>
+hypersalivation|hipersalivasyon	Tükrük salgısının artması<BR>
+hypersialosis|hipersialoz	aşırı tükrük salgısı.<BR>
+hypertelorism|hipertelorizm	<B>1. </B>Herhangi iki organ veya parça arasındaki anormal uzaklık. <BR><B>2.</B> Sfenoid kemiğin büyümesi, burun köprüsü üzerinde aşırı genişlik ile karakterize, gözlerin birbirinden uzak olması sonucunu doğuran durum; oküler hipertelorizim.<BR>
+hypertension|hipertansiyon	anormal yüksek kan basıncı.<BR>
+hyperthyroidism|hipertiroidizm	tiroid bezinin hiperfonksiyonu ile ortaya çıkan durum; eksoftalmik guatr.<BR>
+hypertrophic|hipertrofik	hipertrofi ile karakterize.<BR>
+hypertrophy|hipertrofi	bir organ veya bölümün yapıcı hücrelerinin sayılarının aynı kalmasına rağmen hacimsel büyümelerine bağlı büyüme.<BR>
+hypnodontics|hipnodonti	dişhekimliğinde hipnozun kullanılması.<BR>
+hypnotic|hipnotik	uyku veya trans hali sağlama işlemi<BR>
+hypo|hipo	<B>1.</B> Eksik, yetersiz az. <BR><B>2. </B>Anatomi ve zoolojide: 'altında' anlamında önek.<BR>
+hypobranchial|hipobronkiyal	brankiyal arkların altında.<BR>
+hypocondylar|hipokondiler	kondil altında<BR>
+hypocone|hipokon	bir üst molar dişin distolingual tüberkülü.<BR>
+hypoconid|hipokonid	bir alt büyükazının distobukkal tüberkülü.<BR>
+hypoconule|hipokonül	üst büyük azının beşinci,distal tüberkülü.<BR>
+hypoconulid|hipokonülid	alt büyük azının beşinci,distal tüberkülü.<BR>
+hypodermic|hipodermik	deri - altı.<BR>
+hypodontia|hipodonti	dişlerin sayıca az, eksik gelişmeleri durumu.<BR>
+hypofunction|hipofonksiyon	Yetersiz veya az çalışma.<BR>
+hypoglossal|hipoglossal	dil altında.<BR>
+hypoglossal nerve	sinir dil kaslarını uyaran 12. Kafa çifti; nervus hypoglossus.<BR>
+hypoglossiadenitis|hipoglossiadenit	sublingual tükrük bezlerinde enfeksiyon.<BR>
+hypoglossitis|hipoglossit	dil -altı dokularda iltihaplanma.<BR>
+hypohunction|hipofonksiyon	yetersiz veya az çalışma.<BR>
+hypokalcification|hipokalsifikasyon	nomalde kalsifiye olması gereken bir dokuda, kalsiyum tuzlarının yetersiz depolanması sonucunu doğuran bozuk gelişim.<BR>
+hypomicrognathy|hipomikrognati	alt çenenin çok küçük olması; aşırı mikrognati.<BR>
+hypomicrognaty|hipomikrognati	alt çenenin çok küçük olması;aşırı mikrognati.<BR>
+hypomineralization|hipomineralizasyon	vücutta mineral tuzlarının yetersizliği, az olması.<BR>
+hypoostosis|hipostoz	kemik hipoplazisi.<BR>
+hypopharynx|hipofarinks	farinksin alt veya laringeal bölümü için kullanılan eski bir terim.<BR>
+hypophysis|hipofiz	<B>1.</B> Sfenoid kemiğin türk eğeri ( sella tursica )'nın içinde bulunan ve gonadotrop, somatotrop, tirotrop ve ACTH gibi birçok hormonları salgılayan endokrin bez. <BR><B>2. </B>Bir başka şeyden büyüyerek gelişen<BR>
+hypoplasia|hipoplazi	bir organ veya dokunun yetersiz gelişimi.<BR>
+hypoplastıc|hipoplastik	hipoplaziye ilişkin.<BR>
+hyposalivation|hiposalivasyon	tükrük salgısı azlığı; kserostomi<BR>
+hyposiagonarthritis|hiposiagonartrit	TME iltihabı.<BR>
+hyposialadenitis|hiposialadenit	submandibüler tükrük bezlerinin iltihabı.<BR>
+hyposialosis|hiposiyaloz	tükrük salgısının azlığı; kserostomi<BR>
+hypostomia|hipostomi	ağzın sadece faringeal torbaya açılan bir yarık - açıklık olduğu ileri bir mikrostomi şekli.<BR>
+hypotensive|hipotansif	düşük tansiyon yapan; hipotansiyona ilişkin.<BR>
+hypothyroidism|hipotiroidizm	yetersiz tiroid salgısı veya bunun yol açtığı durum.<BR>
+hypotonicity|hipotonisite	kas veya damar tonusunun azalması veya zayıflaması.<BR>
+hypotınic|hipotonik	hipotonisiteye ilişkin.<BR>
+hypsibrachycephalic|hipsibrakisefal	anormal derecede geniş ve yüksek kafatası olan.<BR>
+hypsicephalic|hipsisefal	anormal derecede yüksek kafatası olan.<BR>
+hypsistenocephalic|hipsistenosefal	mandibüler prognati ve çıkıntılı yüz lemikleri ile anormal yüksek ve dar kafatası olan<BR>mandibüler prognati ve çıkıntılı yüz lemikleri ile anormal yüksek ve dar kafatası olan<BR>
+hypsodont|hipsodont	uzun kronlu ve kısa köklü dişleri olan.<BR>
+idiosyncracy|idyosenkrazi	verilen belli bir ilacın tedavi dozlarına karşı, o ilacın farmakolojik etkilerinden çok farklı davranış ve reaksiyon olması hali; patolojik hassasiyet.<BR>
+immediate denture|immediat protez	protez diş çekimini takiben hemen takılmak üzere yapılan bir protez türü.<BR>
+immune|immün	belli bir hastalığa karşı korunmuş veya dirençli;bağışık<BR>
+immunity|immünite	belli hastalık veya zehirlere karşı doğal ya da kazanılmış bağışıklık.<BR>
+immunization|immünizasyon	bağışıklık sağlama işlemi.<BR>
+immuno	'bağışıklık' anlamında önek.<BR>
+immunology|immünoloji	bağışıklık bilimi.<BR>
+imperforated|imperfore	normalde açık olması gereken bir yapının konjenital olarak kapalı olması<BR>
+imperforation|imperforasyon	normalde açık olması gereken bir yapının konjenital olarak kapalı olması.<BR>
+impermeable|impermeabl	sıvı veya hava geçirmez özellikte; impermeabl.<BR>
+impervious|impermeabl	sıvı veya hava geçirmez özellikte; impermeabl.<BR>
+implant denture|implant protez	çene alvoel kemiğine periost altına implante edilmiş metal iskelet yapının ağız içine uzatılmış çıkıntılarına bağlanmış diş protezlerine verilen genel ad.<BR>
+implantation|implantasyon	implantı yerine yerleştirmek, greft koyma işlemi.<BR>
+impression|ölçü	Ağızda dişler üzerinde aljinat ZOE, stenç, alçı, agar, silikon, vb. ölçü maddeleri ile alınan negatif katut; sonra sert alçı bu ölçünün içine dökülerek kalıp ( model ) elde edilir ve teknik laboratuarda protez yapımına geçilir<BR>
+in	<B>1.</B> -in içinde, üzerinde, -e doğru anlamında önek. <BR><B>2.</B> 'olmayan' anlamında olumsuzluk öneki.<BR>
+in vitro	cam içinde; cam test tüpü, veya kültür için kullanılan cam tabaklarda ( petri kutusu vb. ) yapılan gözlemlere ilişkin; canlı org dışında denenen<BR>
+inankyloglossia|inankiloglosi	dilin hareket edebilmekten yoksun olduğu durum; dil bağı.<BR>
+inch|inç	bir ayak ( kadem ) uzunluğun onikide biri, ingiliz uzunluk ölçüsü bir birimi;2.54cm<BR>
+incidence|insidans	belli bir yerde ve belli bir zaman diliminde rastlanılmış belli bir hastalığın vaka adedi.<BR>
+incisal angle|insizal açı	kesici açısı; ön dişlerde kesici kenarın veya kavite duvarının başka bir diş yüzeyi veya kavite duvarı ile yaptığı açı.<BR>
+incisolabial|insizolabial	ön dişlerden birinin kesici kenarı ve labial yüzüne ilişkin.<BR>
+inclusion|inklüzyon	bir dişin alvoel kemiği içinde süremeyecek şekilde gömük kalması.<BR>
+indentation|indensasyon	<B>1.</B> Çentik, çukur veya girinti.<BR><B>2.</B> Dişli veya çıkıntılı olma durumu.<BR>
+induration|endurasyon	<B>1. </B>Sert olma durumu. <BR><B>2.</B> Sertleştirme işlemi. <BR><B>3.</B> Dokunun sert olduğu bir bölge.<BR>
+infection|enfeksiyon	spesifik patojen mikroorganizmaların vücut dokusunu işgal ederek yol açtıkları iltihabi durum.<BR>
+infectious mononucleosis|enfeksiyöz	enfeksiyona ilişkin, enfeksiyonun yol açtığı. ( infectious ) mononükleoz ebstein - barr virüsünün yaptığı, özellikle genç erkeklerde boğaz yangısı yakınmaları ile başlayıp lenf bezlerini tutan viral hastalık.<BR>
+inferior	Lt. alt; superior'un tersi<BR>
+inferolateral	altta ve yanda yer alan<BR>
+inferomedian|inferomedyan	alt - ortada yeralan.<BR>
+inferoposterior	hem altta, hemde arkada yer alan.<BR>
+infiltration|enfiltrasyon	<B>1.</B> Sıvı veya hücrelerin, hücre, doku veya hücrelerarası boşluktan geçme işlemi. <BR><B>2.</B> Bu işlemin gerçekleşmesi ile ortaya çıkan durum.<BR>
+infra	Lt. 'alt, aşağı' anlamında önek.<BR>
+infra bony pocket|kemik içi cep	tabanı, bitişik olduğu alveol kemiği kretinden daha apikal yönde olan ve yan duvarı diş yüzeyi ile alveol kemiği arasında olan periodontal cep türü.<BR>
+infra orbital	göz tabanının altında yeralan.<BR>
+infra orbital artery|infra orbital arter	maksiller arterinin üst dudağı, burun kenarını, alt göz kapağını ve gözyaşı bezini besleyen dalı; arteria infraorbitalis.<BR>
+infra orbital canal|infra orbital kanal	maksillada foramen infra- orbitalis'e doğru infra - orbital oluklardan uzanan geçitlerden biri.<BR>
+infra orbital foramen	maksillada ,içinde infra orbital sinir ve arterlerin geçtiği infra orbital kanalın dışa açıldığı deliği; foramen infraorbitale<BR>
+infra orbital process|intra orbital çıkıntı	zigomatik kemiğin ön yüzünde, mandibula ile eklem yapan sivri uçlu çıkıntı; processus infra - orbitalis.<BR>
+infraclusion|infraklüzyon	aşağı - kapanış.<BR>
+inframandibular	mandibulanın altında.<BR>
+inframaxillary|inframaxiller	maksillanın altında olan.<BR>
+infratemporal	temporal kemiğin altında.<BR>
+infraversion|infraversiyon	bir dişin normal oklüzal düzleme göre aşağıda yer aldığı, kısa kaldığı bir maloklüzyon.<BR>
+inhalation anaesthesia|inhalasyon anestezisi	gaz veya uçucu sıvı anestezik ajanların solunum yolu ile verilmesi ile sağlanan genel anestezi.<BR>
+inion	arka oksipital çıkıntı.<BR>
+innervation|innervasyon	1. Belli bir bölgeye sinir uyarılarının iletilebilir olma durumu <BR>2. Bir organ veya bölümün, yeterli bir sinir dağılımı ile sarılmış olması.<BR>
+inorganic|inorganik	<B>1.</B> Organları olmayan. <BR>2. Organik kaynaklı olmayan.<BR><B>3. </B>Kimyada; karbonat ve siyanürler hariç, karbon içermeyen maddelere ilişkin.<BR>
+insalivation|insalivasyon	ağızdaki yiyeceğin tükürük ile ıslanması; tükürüklenme.<BR>
+inspection|inspeksiyon	gözle muayene.<BR>
+inter	'arasında' anlamında önek.<BR>
+interalveolar|interalveoler	alveoller arası.<BR>
+interarticular|interartiküler	eklem yüzeyleri arasında olan.<BR>
+intercellular|interselüler	hücrelerarası.<BR>
+interconndylar|interkondiller	kondiller arası.<BR>
+interdental	dişler arası.<BR>
+interdental papillae|interdental papilla	dişlerin birbirine komşu yüzleri arasındaki boşluğu dolduran dişeti.<BR>
+interdental septum	iki dişin kök çukurları arasındaki kemik duvar.<BR>
+interdental space|interproksimal aralık, interdental boşluk	komşu dişlerin birbirine bakan yüzleri arasında, temas noktalarının aşağı bölümünde, içini interdental papillanın doldurduğu boşluk.<BR><BR>
+interdental splint	dişlerin arasından tel geçirerek yerinde tutulan, çene kırıklarında kullanılan bir tür şine.<BR>
+interdental wiring|interdental telleme	dişlerarası telleme tekniği.<BR>
+interfrontal	frontal kemiğin iki yarısının arası.<BR>
+interglobular spaces|interglobüler boşluklar	minedentin sınırına yakın dentinde, tamamlanmamış, yetersiz kalsifikasyon nedeni ile bulunabilen büyük boşluklar.<BR>
+intergonial	mandibulanın angulus'ları arasında veya gonion'lar arası.<BR>
+interior	iç,içinde, iç tarafında.<BR>
+interlabial	dudaklar arasında.<BR>
+intermaxillary|intermaksiller	çeneler arası.<BR>
+intermaxillary bone|intermaksiller kemik	fetusta, üst çenenim ortasında, ilerde kaynayacak olan küçük kemiklerden biri.<BR>
+internal	iç
+internal auditory meatus|iç kulak yolu	kulak zarında pars petrosa 'nın içine uzanan ve içinden nervus fasialis ile akusticus ve arteria akustikus internus'un geçtiği kanal; meatus akustikus internus.<BR>
+interocclusal|interoklüzal	antagonist dişlerin oklüzal yüzeyleri arasında olan.<BR>
+interproximal|interproksimal	komşu dişler arasında,; interdental.<BR>
+interradicular|interradiküler	kökler arasına yerleşmiş.<BR>
+interradicular septum|interradiküler septum	çok köklü bir dişin, kökler arasındaki kemik bölümü.<BR>
+interstitial|interstisyel	parça, doku veya hücreler arasına ilişkin veya buraya yerleşmiş.<BR>
+intervascular|intervasküler	damarlar arası.<BR>
+intolerance|entolerans	aşırı duyarlılık sonucu ilacın küçük dozlarda farmakolojik aktivite göstermesi, tahammülsüzlük.<BR>
+intra	'dahilinde, içerisinde' anlamında önek.<BR>
+intra - alveoler septum	diş kök boşluğu içinde kökler arası alveol kemiği parçası.<BR>
+intra arterial|intra - arteriyel	arter içi.<BR>
+intra articular|intra - artiküler	eklem içi.<BR>
+intra buccal|intra bukkal	yanak içinde veya ağız boşluğu içinde.<BR>
+intra - oral anaesthesia|intra - oral anestezi	enjektörün ağız içinden sokularak yapıldığı her türlü lokal anestezi.<BR>
+intra - oral pocket|intra - oral cep	mandibulanın kısmen veya tamamen olmaması durumunda yüz görünümünü düzeltmek için kullanılan bir çene yüz protezini yerinde tutmak için, oral plastik cerrahi bir müdahale ile, bir deri grefti ile kaplayarak hazırlanan ağız içi çep.<BR>
+intra osseous anaesthesia|kemik içi anestezi	anestezik solüsyonu doğrudan diş kök ucu bölgesinde alveol kemiği içine zerkederek sağlanan lokal anestezi.<BR>
+intracellular|intraselüler	hücre- içi.<BR>
+intracoronal|intrakoronal	diş kronu içinde.<BR>
+intracranial|intrakraniyel	kafa boşluğu içinde ( kraniyum'da ) olan.<BR>
+intralingual	dil içinde.<BR>
+intramendullary|intramendüller	kemik iliği ( mendulla ) içinde.<BR>
+intramuscular|intramüsküler	kas içine, kas içinde;i.m.<BR>
+intranasal|intranazal	burun içi.<BR>
+intrathecal|intratekal	kılıf içi.<BR>
+intratracheal|intratrakeal	trakea ( nefes borusu ) içi.<BR>
+intravascular|intravasküler	damar - içi.<BR>
+intravenous anaesthesia|intravenöz anestezi	anestezik bir solüsyonun ven içine verilmesi ile sağlanan genel anestezi.<BR>
+intrusion|intrüzyon	bir dişin alveol kemiği içine itilmesi durumu.<BR>
+invagination|invajinasyon	bir kılıf veya tüpün ( örneğin barsak ) kendi içine veya başka bir yapının içine doğru kıvrılması.<BR>
+inversion|inversiyon	tersine.
+involuntary muscle|istemsiz kas	düz kas; kendi kendine kasılan, iradi hükmün söz konusu olmadığı kas.<BR>
+iontophoresis|iyontoforez	vücut dokularına elektrik iyonları vererek yapilan bir tedavi türü.<BR>
+irrigation|irigasyon	yıkayıp temizleme işlemi, örneğin kaviteyi su spreyi ile.<BR>
+irritant|iritan	tahriş edici (madde).
+irritation|iritasyon	<B>1.</B> Uyarılma, aşırı heyecanlanma. <BR><B>2.</B> Tahriş.<BR>
+irritation point|uyarılma noktsı	Vitalometre ile diş canlılığını ölçerken, elektirik akımı yavaş yavaş yükseltildiği zaman ağrı oluşmadan az önce karıncalanma hissinin olduğu nokta.<BR>
+iso|izo	'aynı, eşit' anlamında önek.<BR>
+isocellular|izoselüler	eşit boyda veya benzer hücrelerden oluşan.<BR>
+isodont|izodont	aynı şekil ve boyda dişleri olan.<BR>
+isometry|izometri	ölçüde eşitlik, yükseltide eşitlik.<BR>
+isomorphous|izomorf	aynı şekilde olan<BR>
+itis|it	hastalık, yangı, iltihap anlamında sönek.<BR>
+jackson crib|jackson kroşe	iki ucu kapalı, plaktan başlayıp plakta biten, interdental üst boşluklardan geçerek koleye yakın olarak vestibül yüze oturacak şekilde dişi saran kapalı bir kroşe şekli; ortodontik apareylerde kullanılır.<BR>
+jackson's claps|jackson kroşe	iki ucu kapalı, plaktan başlayıp plakta biten, interdental üst boşluklardan geçerek koleye yakın olarak vestibül yüze oturacak şekilde dişi saran kapalı bir kroşe şekli; ortodontik apareylerde kullanılır.<BR>
+karsinoma	Epitel dokusunun habis tümörlerine karsinoma adı verilir. <BR>
+kartilaj	kıkırdak.<BR>
+kelectome|kelektom	bir tümörden, muayene için doku örneği almaya yarayan alet.<BR>
+keloid	deride fibröz hiperplastik yara izi gelişmesi.<BR>
+kennedy bar	devamlı bar kroşe.<BR>
+keratin	tüm boynuzsu dokuların temelini oluşturan erimez protein.<BR>
+keratinous|keratinöz	<B>1.</B> Keratine ilişkin veya keratin içeren. <BR><B>2.</B> Boynuzsu.<BR>
+keratogenesis|keratogenez	boynuzsu doku gelişmesi.<BR>
+keratogenous|keratojen	boynuzsu madde gelişmesine neden veya yardımcı olan.<BR>
+keratoglossus	hyoid kemiğin büyük boynuzundan çıkan, hyoglossus kasının bir bölümü.<BR>
+keratolysis|keratoliz	deri üzerindeki boynuzsu tabakanın soyulması.<BR>
+keratolytic|keratolitik	<B>1. </B>Keratolize ilişkin. <BR><B>2. </B>Keratolize yol açan bir ajan.<BR>
+keratosis|keratoz	deride dejeneratif boynuzsu madde gelişmesi.<BR>
+kinetic|kinetik	harekete ilişkin veya hareket üreten.<BR>
+kocher clamp|koher pensi	cerrahi dikiş pensi.<BR>
+kollagen	kollajen.<BR>
+koplik's spots|koplik benekleri	kızamığın erken safhalarda ağız mukozasında görülen küçük beyaz benekler.<BR>
+kuhnt's operation|kuhnt operasyonu	frontal sinüzit tedavisi için ön duvarın kaldırıldığı ve tüm sinüs mukozasının kürete edildiği, kazınıp alındığı bir operasyon.<BR>
+kuspid|küspid	<B>1.</B> Tek tüberküllü. <BR><B>2.</B> Kanin.<BR>
+labial	<B>1.</B> Dudaklara ilişkin. <BR><B>2. </B>Bir dişin dudaklara bakan yüzü.<BR>
+labial artery|labial arter	alt ve üst iki daldan oluşan, dudakları ve burun bölümünü besleyen fasiyel arter dalı; arteria labialis.<BR>
+labial bar|dudak barı	mandibüler diş dizisinin labialinde seyreden, parsiyel bir protezin sağ ve sol iki bölümünü birleştiren metal bağlantı.<BR>
+labial cavity|labial kavite	bir dişin labial yüzünde yer alan kavite; V. Sınıf kavite.<BR>
+labial commissure|dudak kenarı	alt ve üst dudağın birleşme noktası; commissura labialis.<BR>
+labial occlusion|labial oklüzyon	alt dudak kenarında konjenital olarak bulunabilen hafif çökük saha.<BR>
+labial wall|labial duvar	bir dişin labial yüzüne bakan kavite duvarı.<BR>
+labio	dudakları simgeleyen önek.<BR>
+labioalveolar|labioalveoler	dudaklara ve çene alveoler oluşumuna ilişkin. <BR>
+labiocervical|labioservikal	labiogingival.<BR>
+labiodental	dudaklara ve dişlere ilişkin.<BR>
+labiogingival	bir kesici veya kaninin mezial, distal veya proksimoinsizal kavitesinin labial ven gingival duvarlarına ilişkin.<BR>
+labioglossophorygeal|labioglossofaringeal	dudaklara, dile ve farinkse ilişkin.<BR>
+labiogression|labiogresyon	ön, dişlerin diş dizisindeki normal yerlerinden daha önde yer aldığı durum.<BR>
+labiolingual	dudaklara ve dile ilişkin.<BR>
+labiolingual plane|labiolingual düzlem	aksiyolabiolingual düzlem.<BR>
+labiomental	dudaklara ve çeneye ilişkin.<BR>
+labiomycosis|labiomikoz	dudaklarda herhangi bir mantar hastalığı.<BR>
+labionasal|labionazal	dudaklara ve buruna ilişkin.<BR>
+labiopalatine|labiopalatinal	dudaklara ve damağa ilişkin.<BR>
+labioplacement|labioplasman	bir dişin labiale doğru yer değiştirmesi.<BR>
+labioplasty|labioplasti	keloplasti.<BR>
+laceration|laserasyon	yırtılma<BR>
+lactisemia|laktisemi	laktik asit fazlalığı.<BR>
+lactobacillus|lactobasil	'' lactobacteriaceae'' ailesinden gram - pozitif çomak şeklinde, karbonhidratlardan laktik asit ve karmondioksit üretebilen bir bakteri.<BR>
+lacuna|lakün	aralık, boşluk, çöküntü, girinti; bir defekt. Dişhekimliğinde, sementoblast içeren boşluklara denir.<BR>
+laevocondylism|levokondilizm	mandibüler kondillerin sola deviasyonu.<BR>
+lagostoma	yarık dudak.<BR>
+lamina dura	alveol kemiğindeki diş kök yuvalarını sınırlayan kortikal kemik tabakası; radyografide devamlı bir beyaz çizgi olarak görünmesi ile, sağlıklı bir periodonsiyum olduğu ve periapikal lezyon olmadığı sonucuna varılabilmesi nedeni ile, tanı açısından önemli.<BR>
+lamina propria	Mukoza tabakasının bağ dokusu<BR>
+lancet|lanset	<B>1 </B>yumuşak doku kesmeye yarayan bıçak benzeri el aleti. <BR><B>2.</B> Parmağı kan almak için delmekte kullanılan kesici alet.<BR>
+laryngeal	larinkse ilişkin<BR>
+laryngeal reflex|laryngeal refleks	larinks ve farinksin iritasyonu ile oluşan öksürme.<BR>
+laryngo	larinksi belirten önek.<BR>
+larynx|larinks	trakea ve farinks arasındaki kas - kıkırdak yapıda ses üretme organı.<BR>
+latent	kuluçka döneminde, potansiyel olarak saklı duran.<BR>
+lateral	yan; kenara ilişkin.<BR>
+le fort fracture; class I|le fort 1.sınıf kırık	yatay olarak maksillanın alveoler bölümünü , damağı ve pterigoid çıkıntıları etkileyen kırık.<BR>
+le fort fracture; class I, class II, class III|le fort kırığı	maksillo - fasiyel kırıkların üç ana sınıfından biri.<BR>
+le fort fracture; class II|le fort 2 sınıf kırık	burun kemiklerinden uzanan, maksillanın frontal çıkıntısını etkileyen, orbital düzlemden geçerek, maksiller antrumdan pterigoid çıkıntılara doğru inen, piramit şeklinde bir kırık.<BR>
+le fort fracture; class III|le fort 3 sınıf kırık	burun köprüsünü, orbitayı, maksillanın piramidal çıkıntılarını ve zigomatik kemiğin geri kalan bağlantılarını etkileyen, kraniyofasiyel çıkık.<BR>
+lepto	küçük ince, zayıf anlamında önek.<BR>
+leptocephalic|leptosefal	anormal derecede küçük veya dar kafatası olan.<BR>
+leptodontous|leptodont	ince dişleri olan.<BR>
+leptomicrognathus|leptomikrognati	hafif mikrognati.<BR>
+leptoprosopic|leptoprosop	ince veya dar yüzü olan.<BR>
+leptospira	bakterilerin spiroket ailesinin bir cinsi; suda yaşıyabilir.<BR>
+leptostophyline|leptostafilin	dar ve yüksek damağı olan.<BR>
+leptothrix|leptotriks	dallanmamış filament şeklinde görülen, klamiodobakteri cinsi bir mikroorganizma.<BR>
+lesion|lezyon	deride yara, bere veya bir hastalık belirtisi; marazi doku fonksiyon değişikliği.<BR>
+leucaemia|lösemi	dalak, kemik iliği ve lenf bezlerinde belirgin değişiklikler ve kanda lökosit sayısının anormal artması ile karakterize, öldürücü kan hastalığı; kan kanseri; lökoz.<BR>
+leucosis|lökoz	lösemi.<BR>
+leuko|löko	beyaz anlamında önek.<BR>
+levocondylism|levokondilizm	mandibüler kondillerin sola deviasyonu.<BR>
+lichen|liken	dallanan yosun türü.<BR>
+lichen planus|liken planus	yanak mukozası, dil ve ender olarak dudaklarda görülen, yassı papüler erupsiyon ile karakterize, yangılı deri enfeksiyonu lezyonları.<BR>
+lichenoid|likenoid	1. Liken benzeri. <BR><B>2. </B>Gençlerde görülen, dilin etrafı saran halka ile çevrili beyaz noktalarla kaplı olduğu durum.<BR>
+ligament	kemikleri veya destek dokularını birbirine bağlayan sert fibröz doku şeritleri.<BR>
+ligature|ligatür	<B>1.</B> Bir iplik veya kordonla bağlama işlemi. <BR><B>2.</B> Bir dişi apareye, ark teline veya diğer bir dişe bağlamak için ortodontide kullanılan tel veya iplik.<BR>
+line of occlusion|oklüzyon çizgisi	Agle'ın, normal oklüzyon halinde dişlerin temas noktalarını birleştiren çizgi için kullandığı terim.<BR>
+linea|line	çizgi
+linget	dilaltı mukozasından emilerek, v. Jugulariste dolaşıma katılarak hızla doğrudan etkileyen tablet.<BR>
+lingual arch|lingual ark	daha çok alt çenede kullanılan, ark telinin dişlerin lingualinden geçtiği sabit ortodontik aparey.<BR>
+lingual bar	alt çenede ön dişlerin olduğu parsiyel protez vakalarında, iskelet protezin sağ ve sol bölümlerini birleştiren, dişlerin lingualinden geçen metal çubuk.<BR>
+lingual goitre|guatr	iyot eksikliğine bağlı, tiroid bezinin büyüdüğü bir endokrin hastalık. ( goitre )egzoftalmik graves hastalığı. ( exophtalmiccgoitre ) lingual - dil sırtının en arkasında, asıl tiroglossal kanalın üst ucunda bir tiroid tümör.<BR>
+lingual haemorrhoid|lingual hemoroid	dil kökündeki venlerin şişmesi.<BR>
+lingual occlusion|lingual oklüzyon	bir dişin oklüzyon çizgisinin arkasında yer alması.<BR>
+lingual papilla|dil papilli	dil sırtındaki tad almaya yarayan papillerden biri. Papilla.<BR>
+lingual rest|lingual tırnak	bir ön dişin lingual yüzeyine yaslanan veya hazırlanmış özel yuvasına oturan, iskelet protezlerde indirekt tutucu.<BR>
+lingualangle|lingual açı	bir dişin lingual diş yüzeyi veya kavite duvarı ile herhangi bir başka diş yüzeyi veya kavite duvarı arasındaki açı.<BR>
+linguale|lingual nokta	alt çenenin lingual yüzeyinde, mandibüler semfizin üst uç noktası.<BR>
+linguo - occlusal|linguo - oklüzal	bir molar veya premoların lingual yüzlerine veya bu yüzleri etkileyen bir kaviteye ilişkin.<BR>
+linguoaxial|linguoaksiyel	bir proksimo oklüzal kavitenin mezial veya distal bölümünde, lingual ve aksiyel duvarlara ilişkin.<BR>
+linguocervical|linguoservikal	linguogingival.<BR>
+linguoclination|linguoklinasyon	dişin linguale eğilmesi.<BR>
+linguodental	dile ve dişlere ilişkin.<BR>
+linguodistal	<B>1. </B>Distale ve dile doğru. <BR><B>2.</B> Bir dişin lingual ve distal yüzeylerine veya proksimo - oklüzal bir kavitenin basamak bölümünde lingual ve distal yüzeylere ilişkin.<BR>
+linguogingival	<B>1. </B>Dile ve dişetlerine ilişkin. <BR><B>2.</B> Mezial, distal veya proksimoinsizal bir kavitenin lingual ve gingival duvarlarına, yada proksimooklüzal bir kavitenin basamak bölümünde mezial veya distal duvarlara ilişkin.<BR>
+linguoplacement|linguoplasman	bir dişin linguale doğru yer değiştirmesi.<BR>
+linguoversion|linguoversiyon	bir dişin, kök ucu sabit kalacak şekilde dile doğru eğilmesi.<BR>
+lipocyte|liposit	yağ hücresi.<BR>
+lipofibroma	yağ dokusu ve fibröz dokudan oluşan tümör.<BR>
+lipoid	yağ gibi; yağ benzeri.<BR>
+lipoma	yağ hücrelerinden oluşan tümör.<BR>
+lipomatoid	lipomayı anımsatan.<BR>
+lipomatous|lipomatöz	lipomayı anımsatan veya lipomaya ilişkin.<BR>
+liston's operation|liston operasyonu	maksilla eksizyonu operasyonu.<BR>
+litho|lito	"kalkulus" ( taş ) anlamında önek.<BR>
+local|lokal	yerel; sadece belli bir yeri ilgilendiren.<BR>
+locked bite|kilitli kapanış	oklüzyon halinde alt çenenin lateral hareketlerini kısıtlayan veya tamamen engelleyen, diş eksen veya tüberkül ilişkileri nedeni ile ögütme hareketlerinin yeterli yapılamadığı durum.<BR>
+loculus|lokül	küçük boşluk veya kavite.<BR>
+ludwig's angina|ludwig anjini	ağız tabanını etkileyen ve farinkse yayılan ender fakat ciddi bir selülit türü.<BR>
+lumen|lümen	bir tübün duvarları arasındaki boşluk.<BR>
+luxation|lüksasyon	<B>1.</B> Sallanma, çıkık, yerinden oynama. <BR><B>2.</B> Dişin travmaya bağlı olarak yuvasından ayrılması.<BR>
+lycostoma|likostoma	yarık damak.<BR>
+lymphangioma|lenfangioma, lenfanjiyom.	yeni şekillenen lenf damarlarından meydana gelen selim tümör.<BR><BR>
+lymphoepithelioma|lenfoepitelyoma	tonsilleri ve farinksi etkileyen bie epidermoid karsinom; lenfositler ve karsinomatöz doku içeren anaplastik bir tümör.<BR>
+lymphoid|lenfoid	lenfi veya lenf hücrelerini anımsatan, benzeyen.<BR>
+lymphoma|lenfoma	lenfoid dokudan oluşan habis tümör.<BR>
+lymphomatoid|lenfomatoid	lenfomayı anımsatan; lenfomaya benzeyen.<BR>
+lymphomatosis|lenfomatoz	lenfosit proliferasyonu.<BR>
+lymphosarcoma|lenfosarkom	lenfosit proliferasyonu ile birlikte habis mezenkimal tümör.<BR>
+lysozyme|lisozom	tükrük, gözyaşı vb. de bulunan temel bir protein.<BR>
+macrocephalic	anormal büyük kafası olan.<BR>
+macrodontism|makrodonti	dişlerin anormal büyük olması; megalodonti.<BR>
+macrogingiva|makrogingiva	dişetinde karakteristik fibrosis olan, ender görülen ırsi hipertrofik gingiva.<BR>
+macrognathism|makrognati	aşırı büyük çenesi olma durumu.<BR>
+macroplasia|makroplazi	bir doku veya bölümün anormal büyümesi.<BR>
+macrostomia|makrostomi	anormal büyük ağzı olma durumu.<BR>
+magenta tongue|magenta dil	dile morumsu kırmızı renk veren ,aniboflavinozla birlikte olan glossit.<BR>
+magma	<B>1. </B>Pasta ( macun ) veya şekilsiz yumuşak diğer bir madde. <BR><B>2. </B>Eczacılıkta; suspansiyon sıvı ilaç.<BR>
+magnification|magnifikasyon	mercekler yardımı ile, örneğin mikroskopla büyütülmüş görüntü elde etme.<BR>
+malignat	kötü huylu; tedaviye karşı gelen, gelişimi kontrol edilemeyen ve metastaz yapan, prognozu sıklıkla fatal olan.<BR>
+marginal periodontitis|periodontitis	Periodontal membran ve destek alveol kemiği harabiyetine yol açan diş çevresi dokuları iltihabı. Periodontitis<BR>
+marginal rotation|retasyon	<B>1.</B> Dişte dönme hareketi. <BR><B>2.</B> Devir. Aksiyel- dişin ekseni etrafında dönmesi. ( axial rotation ) marginal dişin kenarı etrafında dönmesi.<BR>
+maxillary|maksiller	maksillaya ilişkin.<BR>
+maxillary angle|maksiller açı	orta kesicilerin kontakt noktasında, opiron noktası ve alt çene uç noktasından gelen çizgilerle oluşan açı.<BR>
+maxillary artery|maksiller arter	yanak kaslarını ve alt çene alveoler çıkıntısını besleyen arter; arteria maksillaris.<BR>
+maxillary nerve|maksiller sinir	v. Kafa çifti nervus trigeminalis'in üç ana dalından ortadaki olan, yüzün üst tarafının derisini, üst çene dişlerini, burun mukozası, yanaklar ve damağı dalları innerve eden sinir; nervus maksillaris<BR>
+maxillary plane|maksiller düzlem	sagittal düzleme dik olan, lateral kafa radyografisinde görülücege üzere, spina nasalis arterior ve posterior' lardan geçtiği varsayılan düzlem.<BR>
+maxillary sinus|maksiller sinüs	üst çene kemiği içindeki sağlı- sollu iki büyük hava boşluğundan biri; sinus maksillaris.<BR>
+maxillectomy|maksillektomi	maksillanın eksizyonu, kesilip çıkarılması.<BR>
+maxillitis|maksillit	maksiller kemiğin veya bir maksiller bezin iltihaplanması.<BR>
+maxillofacial|maksillofasiyel	maksillaya ve diğer yüz oluşumlarına ilişkin.<BR>
+mesial	orta hatta yakın.
+mesiogression|ileri itim	özellikle ön dişlein, diş dizisindeki normal yerlerinden daha ilerde, önde oldukları durum; meziogresyon.<BR>
+monilia	Maya benzeri patojen bakterial bir mantar cinsi<BR>
+mycotic dermatitis thrush|pamukçuk	Genellikle çocuklarda ve yaşlılarda rastlanan,dilde ve yanak mukozasında beyaz lekeler ile karakterize, Candida albicans'ın yolaçtığı bir moniliyaz türü; mikotik dermatit, aft.<BR>
+myologia	Kas bilimi.
+naevoxantho - endothelioma|nevoksanto - endotelyoma	Bebeklerde daha çok yüzde ve ekstremitelerde deride görülen sarımsı sert nodüllerle karakterize durum.<BR>
+naevus|nevus	Ben.<BR>
+nanism|nanizm	düzgün oranlı cücelik<BR>
+nanoid	cüce,cüce gibi<BR>
+nasal bone|nazal kemik	Burun köprüsünü meydana getiren iki küçük kemikten biri. <BR>
+nasal capsule|nazal kapsül	Embriyoda burun kavitesini çevreleyen kıkırdak yapı.<BR>
+nasion	Fronto-nazal suturun orta noktası<BR>
+nasmyth's membrane	( A. Nasmyth, d.1848, iskoç çene cerrahı ) primer mine kütikulasi ve mine epitel artığı.<BR>
+naso|nazo	Burun- anlamında önek.<BR>
+nasobuccal|nazobukkal	Buruna ve yanağa ilişkin.<BR>
+nasobuccopharyngeal|nazobukkofaringeal	Buruna, yanağa ve farinkse ilişkin.<BR>
+nasocilliary	Buruna, göze ve kaşa ilişkin.<BR>
+nasocilliary nerve	Göz küresi, göz kapakları, burun, etmoid ve sfenoid sinüsleri innerve eden sinir; nervus nasocilliaris.<BR>
+nasofrontal|nazofrontal	Buruna ve frontal kemiğe ilişkin.<BR>
+nasolabial|nazolabial	Buruna ve dudaklara ilişkin.<BR>
+nasolabial line|nazolabial çizgi	Burunu kenarını, aynı taraftaki ağız kenarına bağlayan çizgi<BR>
+nasolacrimal duct|nazolakrimal kanal	Gözyaşı bezinden burun kavitesine gözyaşlarının geçerek aktığı membran kanal.<BR>
+nasomaxillary|nazomaksiller	Buruna ve maksillaya ilişkin.<BR>
+nasomental reflex|nazomental refleks	Burun yanına perkusyon çekiçi ile vurunca, mentalis kasının alt dudağı kaldırarak kasılması.<BR>
+nasopalatine nerve|nazopalatin sinir	Yumuşak damak mukozasını ve burunu innerve eden sinir; nervus nasopalatinus.<BR>
+nasopharynx|nazofarinks	Farinksin yumuşak damağın üzerinde uzanan bölümü.<BR>
+necrobiosis|nekrobiyoz	Hücrelerin, sonunda ölümü ile sonuçlanan kademeli bozunması.<BR>
+necrosis|nekroz	Belli bir bölge veya dokunun ölümü.<BR>
+neoblastic|neblastik	Yeni dokudan menşeini alan<BR>
+neomatal line|neonatal çizgi	Doğum çizgisi<BR>
+neonatal	Yeni doğana ilişkin.<BR>
+neoplasm|neoplazma	Gelişimi, normal dokulardan bağımlı olarak ve değişikliği uyaran sebebin ortadan kalkmasına rağmen gelişimi devam eden anormal doku kitlesi; 'tümör'le eşanlamlıdır.<BR>
+neoplastic|neoplastik	Neoplazma özelliğinde veya ona ilişkin.<BR>
+nephro|nefro	Böbreği ifade eden önek.<BR>
+nepiology|nepiyoloji	Bebekler ve küçük yaşta çocuklarla ilğilenen pediatri dalı <BR>
+nerve|nerv	Sinir.
+neumann's sheath|neumann kılıfı	(E.F.C Neumann, 1834-1918, alman patalog) dentin kanalcıklarını kaplayan kısmmen kalsifiye olmuş doku.<BR>
+neurofibroma|nörofibroma	Menşeini sinir lifi hücrelerinden alan tümör.<BR>
+neuromuscular|nöromüsküler	Hem sinirler hem de kaslara ilişkin.<BR>
+neuron|neurocytus, nöron	Sinir hücresi.
+neutrocclusion|nötr oklüzyon	Angle 1. Sınıf maloklüzyon.<BR>
+nikatamide|niketamid	MSS'nin her noktasını uyaran, depresyon yapıcı maddelerin entoksikasyonunda kullanılan ilaç.<BR>
+nitro	'Azot' veya' azot' dioksit' anlamında önek.<BR>
+nitrogen|nitrojen	Azot.<BR>
+nitrous|nitröz	<B>1.</B> Üç değerli bir element olarak azota ilişkin. <BR><B>2.</B> Azot okside ilişkin.<BR>
+nociceptive|noziseptif	Ağrı meydana getiren herhangi bir stimulusa veya ağrı reseptörü sinirlere ilişkin.<BR>
+nociceptive reflex|noziseptif refleks	Ağrılı bir stimulusun meydana getirdiği herhangi bir refleks.<BR>
+nodule|nodül	Küçük yumru, küçük şişkinlik.<BR>
+noma	Çoçuklarda görülen, yanak mukozası veya dişetinde başlayıp çevreye doğru yayılan, büyük made kayıplarına sebep olan pronozu fatal bile olabiken, tedavisi ise önce kronikleştirip, sonra elektrobistürü ile cerrahi eksizyon olan ağız- yanak gangreni.<BR>
+norm	Diğerlerinin, benzerlerinin karşılaştırılabilmesi, ölçülebilmesi için sabit standart.<BR>
+nosology|nozoloji	Hastaların sınıflandırılma bilimi.<BR>
+occipital|oksipital	Oksiputa ilişkin.<BR><BR>
+occipitofacial|oksipitofasiyel	Oksipital ve fasiyal kemiklere ilişkin.<BR>
+occipitomental|oksipitomental	oksiputa ve çeneye ilişkin.<BR>
+occiput|oksiput	Kafatasının arka bölümü; oksipital kemik bölgesi.<BR>
+occlusal angle|oklüzal açı	Arka bir dişin oklüzal veya bu yüzdeki bir kavite duvarının, diğer bir diş yüzeyi veya kavite duvarı ile yapacağı açı.<BR>
+occlusal eguilibration|oklüzal dengeleme	Ağız içinde, normal oklüzyonun mekanik yöntemlerle restore edilmesi.<BR>
+occlusal plane|oklüzal düzlem	Maksiller ve mandibüler dişler kapanış halınde iken aralarında olduğu varsayılan hayali düzlem; kapanış düzlemi; çiğneme düzlemi.<BR>
+occlusion|oklüzyon	Kapanış; çenenin kapanmış ve dişlerin temas hali.<BR>
+occlusocervical|oklüzoservikal	Dişin oklüzal yüzünü ve serviksine; kolesine ilişkin.<BR>
+occlusor|oklüzör	Çenenin sadece açma kapama haraketinitaklit adebilen alt-üst alçı model menteşesi.<BR>
+octo|okto	'Sekiz' anlamında önek.<BR>
+ocular|oküler	Göze ilişkin.<BR>
+odont	' Diş' anlamında önek.<BR>
+odontatrophia|odontatrofi	Dişlerin atrofisi.<BR>
+odontectomy	Gömük ,sürmemiş veya yarı sürmüş bir dişin, çıkarılması için cerahi eksizyonu.<BR>
+odontoblastic process|odontoblast uzantısı	Odontoblastların dentin kanalları içinde uzanan, içinde çapı 100-250 A arasında mikrotubuluslar ve 50-75 A boyunda filamentler içeren protoplazmik uzantılar; tomes lifi de denir.<BR>
+odontoblastoma	Menşeini odontoblastlardan alan, daha çok erkeklerde, çoçuk ve gençlerde sıklıkla maksillada görülen, içinde kalsifiye sahalar ve diş parçalarına rastlanabilen selim bir tümör; ameloblastik odontoma, da denir.<BR>
+odontocele|odontosel	Alveolodental kist.<BR>
+odontochirurgical|odontoşirurjik	Dişhekimliği cerrahisine ilişki.<BR>
+odontoclasis|odontoklazi	<B>1.</B> Diş kırığı. <BR><B>2. </B>Dişin rezorbsiyonu <BR>
+odontoclast|odontoklast	Süt dişi kökleri rezorpsiyonu ve sürekli diş köklerinin patolojik rezorpsyonu ile birlikte görülen, süt ve kalıcı dişler arasında oluşan çok-çekirdekli hücreler; bir osteoklast türü.<BR>
+odontogenic|odontojen	Bir dişten veya diş germinden kaynaklanan.<BR>
+odontogenic fibres|odontojen lifler	Pulpayı saran, diş matriksinin bağ dokusunu oluşturan lifler.<BR>
+odontograph|odontograf	Bir diş yüzeyindedeki herhangi bir düzensizliği, mumtazamsızlığı kaydetmeye yarayan alet.<BR>
+odontolysis|odontoliz	Kalsifiye diş maddesinin absorbsiyonu.<BR>
+odontoma	Kaynağını dentinden alan veya dentinden oluşan herhangi bir tümör.<BR>
+odontomere|odontomer	Diş mine organın iki yarısından biri; bukkal yarısına protomer, lingual yarısına da dötoromer denir.<BR>
+odontonomy|odontonomi	Dişhekimliği terminolojisi.<BR>
+odontonosology|odontonozoloji	Diş hastalıklarını inceleyen bilim dalı.<BR>
+odontopathy|odontopati	Herhangi bir dişsel rahatsızlık.<BR>
+odynophobia|odinofobi	Ağrıdan hastalık derecesinde korkma.<BR>
+odynphagia|odinfaji	Ağrılı yutkunma<BR>
+oid	' Benzeri' anlamında sonek.<BR>
+oligo	'yetersiz, az sayıda-' anlamında önek<BR>
+oligodontia|oligodonti	Az sayıda dişi olma durumu; yanlış olarak 'parsiyel anodonti' de denir.<BR>
+oligosialia|oligosiyali	Patolojik düzeyde tükrük salgısı yetersizliği.<BR>
+oliphyodontic gemination|olifiyodont geminasyon	Sürekli bir diş ile bir süt dişinin yaptığı geminasyon.<BR>
+ology|oloji	-Bilimi' anlamında sonek.<BR>
+oma	'Tümör' anlamında önek.<BR>
+oncho|onko	'Tümör' anlamında önek.<BR>
+oncology|onkoloji	Neoplazmaları inceleyen bilim; tümör bilimi.<BR>
+onlay	Akril veneri de olabilen döküm metal kapsül; parsiyel protez desteği ve aynı zamanda örtülü kapanış düzelticisi veya doğal dişlere şine olarak kullanılan, bir dişin oklüzal yüzünü tamamen sıkıca örten bir oklüzal tırnak uzantısı.<BR>
+onychophagia|onikofaji	Tırnak yeme.<BR>
+opacity|opasite	Opak, yani ışık geçirmez olma.<BR>
+opague|opak	Ne saydam, ne de ışık geçiren.<BR>
+opalescent|opalesan	Çeşitli ışıklar yansıtan; yanardöner.<BR>
+opaljia	Fasiyel nevralji; opsialji.<BR>
+opisthion|opistion	Foramen magnum'un alt kenarının orta noktası; kraniyometride kullanılır.<BR>
+opisthogenia|opistojeni	Çenelerin, ankiloz sonucu defektif gelişmesi.<BR>
+oral	Ağızla ilgili.<BR>
+oral diaphragm|oral diyafram	Hyoglossus ve mylohyoid kaslardan oluşan, submandibüler bölgeyi sublingual bölgeden ayıran bölüm<BR>
+oral hygiene|oral hijyen	Ağız sağlığı; diş,dişetleri, dil ve mukozasının sağlığı ve temizliği.<BR>
+oralogy|oraloji	Ağız bilimi; bazen bu konuda genel tıp- dişhekimliği işbirliğini ifade etmek için kullanılır.<BR>
+orbicularis oris muscle|orbicularis oris kası	Ağız çevresindeki dudakları büzen kas; m. Orbicularis oris.<BR>
+orbital	<B>1.</B> Orbitanın alt kenarının en alçak noktası. <BR><B>2.</B> Orbitaya ilişkin.<BR>
+orbitale|orbital	<B>1.</B> Orbitanın alt kenarının en alçak noktası. <BR>2. Orbitaya ilişkin.<BR>
+orifacial angle|orifasiyel açı	Fasiyel çizğinin, üst oklüzal düzlemle yaptığı açı.<BR>
+oro	' Ağız' anlamında önek.<BR>
+orolingual	Ağıza ve dile ilişkin.<BR>
+oromaxillary|oromaksiller	Ağıza ve maksillaya ilişkin.<BR>
+oronasal|oronazal	Ağıza ve buruna ilişkin.<BR>
+oropharynx|orofarinks	Nazofarinksin yumuşak damak sınırından larinkse doğru devamı; farinksin oral bölümü.<BR>
+ortho|orto	'Düz ,normal-anlamında.<BR>
+orthocephalic|ortosefal	İndeksi 70-75 arasında ve dikine düz kafası olan.<BR>
+orthodontia|ortodonti	Maloklüzyonları, dişsel iskeletsel düzensizlikleri ve tedavi yöntemlerini araştıran ve uygulayan dişhekimliği uzmanlık dalı.<BR>
+orthodontic|ortodontik	Maloklüzyonları, dişsel iskeletsel düzensizlikleri ve tedavi yöntemlerini araştıran ve uygulayan dişhekimliği uzmanlık dalı<BR>
+orthognathia|ortognati	Çenelerin hatalı duruşlarının sebeplerini ve tedavilerini araştıran bilim.<BR>
+orthognathic|ortognatik	Gnatik indeksi 98'in altında, düz ve çıkıntısız çenesi olan.<BR>
+ossification|ossifikasyon	<B>1. </B>Kemikleşme, kemiğe dönüşme. <BR><B>2.</B> Kemik gelişimi.<BR>
+osteitis|osteit	Kemik iltihabı.<BR>
+osteo odontoma	Odondoblastlan dan kaynaklanan tümör.<BR>
+osteocementum|osteosement	Sekonder sement ve geliştiği doku.<BR>
+osteochondral|osteokondral	Kemiğe ve kıkırdağa ilişkin.<BR>
+osteoclast|osteoklast	<B>1. </B>Kemik yokeden çok çekirdekli dev hücre. <BR><B>2.</B> Kemik kırmaya yarayan cerrahi alet.<BR>
+osteoclastoma|osteoklastoma	Kemiği etkileyen dev hücreli tümör; dev hücreli kemik tümörü.<BR>
+osteodentine|osteodentin	Bazı balıklarda bulunan kemik benzeri dentin<BR>
+osteodentoma	Kemik dokusu ve dentinden oluşan kemik tümör.<BR>
+osteodystrophy|osteodistrofi	Defektif kemik oluşumu.<BR>
+osteogenesis imperfecta|osteogenesis imperfekta	Ollier hastalığı osteodistrofi..<BR>
+osteolysis|osteoliz	Kemik absorpsiyonu; özellikle dekalsifikasyon.<BR>
+osteoma	Kemik üzerinde veya vücudun bir başka yerinde kemik dokusundan oluşan sert tümör.<BR>
+osteomalacia|osteomalazi	D vitamini eksikliğine bağlı kemik yumuşaması.<BR>
+osteomyelitis|osteomyelit	Kemiğin enfeksiyonu.<BR>
+osteopetrosis|osteopetroz	Albers-Şönberg hastalığı; mermer hastalığı.<BR>
+osteoporosis|osteoporoz	Kemikte anormal porozite ve kırılganlığa yol açan kemik iliği ve kanalların genişlemesi.<BR>
+osteoradionecrosis|osteoradyonekroz	Radyasyon sonucu kemik nekrozu.<BR>
+osteosarcoma|osteosarkom	Kemik dokusundan oluşan sarkom.<BR>
+osteoselerosis|osteoskleroz	Kemiğin anormal sertliği ve yoğunluğu ile karakterize durum.<BR>
+osteotomy|osteotomi	Cerrahi olarak kemik yarma işlemi.<BR>
+otalgia|otalji	Kulak ağrısı.<BR>
+otitis|otit	Kulak iltihabı.<BR>
+ounce|ons	31 grama eşdeğer ağırlık birimi.<BR>
+overhang|taşkın dolgu	Özellikle proksimal yüzde, altına birikinti olacak ve/ veya dişetine baskı yapacak şekilde, dişin normal anatomi dişhatlarının dışına çıkan kötü yapılmış dolgu.<BR>
+owen contour lines|owen kontur çizgileri	Yatay bir kesitte interglobüler boşlukları belirten içiçe halkalar.<BR>
+oxycephaly|oksisefali	Yüksek kubbeli ve sivri kafatası olma hali<BR>
+ozostomia|ozostomi	Ağız kaynaklı, kötü kokulu nefes.<BR>
+palatal	Damağa ilişkin.<BR>
+palatal bar	Bir üst parsiyel protezin iki yanını damaktan geçerek sağlamlaştıran metal bar.<BR>
+palatal reflex|palatal refleks	Damağı uyarılması ile yutkunma.<BR>
+palatal root|palatal kök	Çok köklü birdişin damak tarafındaki kökü.<BR>
+palatine artery|palatal arter	Dört dal halinde yumuşak ve sert damağı besleyen arter; arteria palatina.<BR>
+palatine ridges|ruga	Damak mukozasının orta kabartısı ve etrafındaki kabartıların tümü.<BR>
+palato	Damak anlamında önek.<BR>
+palatograph|palatograf	Konuşma boyunca damak hareketlerini kaydeden alet.<BR>
+palatolabial	Dudaklara ve damağa ilişkin.<BR>
+palatomaxillary|palatomaksiller	Damağa ve maksillaya ilişkin. <BR>
+palatomyography|palatomiyograf	Yumuşak damak hareketlerini kaydeden alet.<BR>
+palatonasal|palatonazal	Damağa ve buruna ilişkin.<BR>
+palatoplasty|palatoplasti	Damağın cerrahi tamiri.<BR>
+palatoplegia|palatopleji	Damak paralizi.<BR>
+palatorrhapy|palatorafi	Yarık damağın dikişlerle düzeltilmesi; stafilorafi.<BR>
+pallanaesthesia|palanestezi	Titreşim duyusunun azalması veya yokolması.<BR>
+palliative|palyatif	Tedavi etmeden yatıştırıcı ve rahatlatıcı ilaç veya tedavi.<BR>
+palmo mental reflex|palmo mental refleks	Avuç içinin baş parmak tarafındaki kabartısının uyarılması ile, ilgili el tarafındaki yüz kaslarının kasılması.<BR>
+palpation|palpasyon	Vücut içindeki doku ve organların deri üzerinden elle pozisyon ve kıvamının yoklanarak muayenesi.<BR>
+palpebral	Göz kapağına ilişkin.<BR>
+papilloma	Selim bir epitelyal tümör.<BR>
+papillomatosis|papillomatoz	Çok sayıda papilla gelişmesi.<BR>
+papule|papül	Deride yuvarlak nodüler çıkıntısı.<BR>
+para	' Yanında ' anlamında önek; bazen ' peri' ile aynı anlamda kullanılır.<BR>
+paradenitis|paradenit	Bir bezi çevreleyen dokuların enflamasyonu.<BR>
+paradental	Bir dişin yanında veya yakınında; bazen periodontal ile eşanlamda kullanılır.<BR>
+paraesthesia|parestezi	Deride yanma, batma, gıdıklanma şeklinde yanıltıcı his.<BR>
+paraglossitis|paraglossit	Dilaltı dokuları ve kaslarının iltihabı. <BR>
+parakeratosis|parakeratoz	Dikensi hücre tabakasının enflamasyonu ile birlikte olabilen ve keratinin defektif şekillenmesine yol açabilen; epidermisin stratum korneumundaki anomali; normalde mukozayı etkiler.<BR>
+paralellometer|paralelometre	İskelet protez yapımında, diş yüzeylerinin birbiri ile paralelliğini kontrol etmek, saptayabilmek için kullanılan alet.<BR>
+paralysis|paraliz	Sinir veya nöronların zedelenmesi ile, kas fonksiyonu veya duyu kaybı.<BR>
+paramedian|paramedyan	Orta çizgiye yakın; paramezial.<BR>
+paramesial|paramezial	Orta çizgiye yakın.<BR>
+paramolar	Büyükazıların arkasında sürebilecek olan artı diş.<BR>
+paranasal|paranazal	Buruna yakın bölge içinde olan.<BR>
+pararhizoclasia|pararizoklazi	Bir dişin kökü çevresinde alveol kemiği ve derin doku tabakalarının enfeksiyonel ülserleşmiş yıkımı.<BR>
+parenteral	Yemek borusu yolu ile besin veya ilaç dışındaki tüm diğer yolları tanımlayan sıfat.<BR>
+paresis|parezi	Hafif felç.<BR>
+parietal abscess|parietal abse	Dişin apeks bölgesi dışında periodontal aralığın herhangi bir yerinde olan abse.<BR>
+parodontid	Menşeini dişetinden alan herhangi bir tümör.<BR>
+parotid gland|parotis bezi	Kulak altı bezi.<BR>
+parrot jaw|papağan çenesi	ön dişlerin ve maksillanın anormal derecede öne çıkmış olduğu bir ortodontik anomali; ileri derecede angle 2. Sınıf maloklüzyon; aşırı maksiller protrüzyonun yol açtığı yüz görünümü.<BR>; Kuş yüzü.<BR>
+parrot tongue|papağan dili	Tifus ve düşük ateşte görülen, boynuzsu, kuru, dışarı çıkartılamayan dil.<BR>
+partial|parsiyel	Bölümlü, kısmi.<BR>
+parulis|gum boil	Sub-periostal abse.<BR>
+paste|pat	Az yağlı, merhemden daha katı kıvamda preparat.<BR>
+patho|pato	' Hastalık' anlamında önek.<BR>
+pathodontia|patodonti	Diş hastalıkları bilimi; dental patoloji.<BR>
+pathogenesis|patogenez	Bir hastalığın başlangıcındn, karakteristik semptomları veya lezyonlarının belirlenmesine kadar gelişimi.<BR>
+pathologic reflex|patolojik refleks	Patolojik bir durum sonucu, teşhisi için yardımcı bir belirti olan herhangi bir refleks; örneğin çene kasılma refleksi. <BR>
+pathology|patoloji	Hastalığın yol açtığı yapısal ve fonksiyonel değişiklikleri inceleyen tıp dalı.<BR>
+pathos|patos	Gr. Hastalık.<BR>
+pathy|pati	' Hastalığı' anlamında sonek.<BR>
+pediatrics|pediatri	Çocukların büyüme ve gelişimi, hastalıkları ve tedavileri ile ilgilenen tıp dalı.<BR>
+pedodotics|pedodonti	Çocukların ağız-diş bakımı ve tedavileri ile ilgilenen dişhekimliği uzmanlık dalı.<BR>
+pellicle|pelikıl, pelikül	<B>1. </B>İnce membran veya deri. <BR><B>2. </B>Bir sıvının yüzeyindeki ince flim tabakası.<BR>
+penatration|penetrasyon	<B>1.</B> Bir doku veya yüzeyin içine işleme, etki etme. <BR><B>2.</B> Bir merceğin odak derinliği.<BR>
+penta	' Beş ' anlamında önek.<BR>
+percussion|perküzyon	Ayna ve sont sapının tersi ile dişe vurularak yapılan muayene.<BR>
+perforation|perforasyon	<B>1. </B>Delikaçma işlemi.<BR><B>2.</B> Bu şekilde açılmış delik.<BR>
+periadenitis	Mucosa necrotica recurrens dil ve genital organlara kadar uzanan, bukkal ve faringeal mukozada tekrarlayan kronik ülserasyon ile karakterize hastalık.<BR>
+periapical|periapikal	Diş kökucu bölgesine ilişkin.<BR>
+pericemental abscess|perisemental abse	Abse.<BR><BR>
+pericementoclasia|perisementoklazi	Kronik cep oluşumu ile periodontitis.<BR>
+pericoronal|perikoroner	Diş kronu çevresinde, bölgesinde.<BR>
+pericoronal abscess|perikoroner abse	Sürmemiş bir dişin kronu çevresinden kaynaklanan abse.<BR>
+pericoronitis|perikoronit	Tam sürmemiş bir dişin kronunu çevreleyen dişetinin iltihabı.<BR>
+peridens	Orta çizgi hariç, ağızda herhangi bir yer ve durumda bulunabilen artı diş.<BR>
+perietal bone|perietal kemik	Kafa kubbesinin sağ ve sol yanını oluşturan iki kemikten biri; os parietale.<BR>
+perikymata|perikimata	Minedeki retzius çizğilerinindış yüzeye ulaştığı yerlerde dişi çepeçevre sardığı görülen, derinliği 0.39-3.04 mikron ve genişliği 0.09-0.15 mm olan, gençlerde belirgin ve yaşlılarda aşınıp silinmiş, mine sement sınırına paralel oluklar.<BR>
+perimeter|perimetre	Diş kronunun çevresini ölçmeye yarayan alet.<BR>
+periodontal	Dişlerine, periodonsiyuma ve dişlerin diğer çevre dokularına ilişkin.<BR>
+periodontal abscess|periodontal abse	Diş kökucu hariç çevre dokuları iltihabı.<BR>
+periodontal membrane	Diş üzerine gelen oklüzal baskılarıalveol kemiğine arada amortisör görevi görerek ileten, fibriller, hücreler, damak ve sinirlerden oluşan, dişin kök kısmını örten sement ile alveol kemiği arasındaki bağ dokusu.<BR>
+periodontal pack, periodontal paste|periodontal pat	Periodontal bir hastalığın tedavisi süresince veya cerrahi bir periodontal operasyon sonrası, dişlerin çevresine ve dişetleri üzerine, koruyucu ve ağız artamından izole edici bir örtü teşkil eden, konerken yumuşak bir macun kıvamından olup, ağız ortamında sıkıştırıldığı dişlerarası boşluklardan kurtulamayacak kadar yarı elastiki bir sertlik kazanan malzeme.<BR>
+periodontal pocket|periodontal cep	Periodontal hastalıklar birlikte olan, serbest dişeti olduğunun dişin apeksine doğru anormal derinleştiği, normalde mine- sement birleşimindeki epitelyal bağlantının harap olarak apekse doğru yer değiştirdiği, kemik-içi ve kemik -üstü olarak iki ayrı tipi olan patolojik dişeti cebi.<BR>
+periodontium|periodonsiyum	Dişi çevreleyen ve destekleyen dokuların tümüne verilen ad; sement tabakası, periodontal membran, alveol kemiği ve dişeti.<BR>
+periodontoclasia|periodontoklazi	Periodonsiyumda herhangi bir yıkıcı ve dejeneratif hastalık.<BR>
+periodontology|periodontoloji	Dişlerin destek dokuları ve dişetleri ile hastalıklarını ve tedavilerini inceleyip araştıran dişhekimliği anabilim dalı.<BR>
+periodontosis|periodontozis	Periodontal membran ve ilğili alveol kemiğinede, iltihabi olmayan doku jenerasyonu; ileri safhalarında iltihap ve oklüzal travmanın eklenmesi ile erken yaşta diş kaybı olabilir. Diffüz alveol kemiği atrofisi diye de tanımlanabilir; juvenil periodontitis terimi daha çok kullanılır.<BR>
+periosteitis|periosteit	Perios iltihabı.<BR>
+periosteum|periost	Eklem yüzeyleri hariç tüm kemik yüzeykerini kaplayan fibröz membran.<BR>
+periostitis|periostit	Periost iltihabı.<BR>
+peripheral|periferal	Merkezden uzakta olan, dışa doğru.<BR>
+periphery|periferi	Merkezden en uzakta olan diş kenar.<BR>
+perirhizoclasia|periradiküler	Kök çevresi dokularını iltihabi yıkımı.<BR>
+peristomal|peristomatöz	Ağız çevresi veya bölgesinde olan.<BR>
+peritonsillary|peritonsiller	Tonsil etrafında veya yanında olan.<BR>
+perlecher|perleşe	Çelyozis.<BR>
+permeability|permeabilite	Geçirgenlik; fizyolojide, membranların ince delikçiklerinden molokül ve iyon geçirme özelliği için kullanılır.<BR>
+permeable|permeabl	Geçirgen.<BR>
+peroral	Ağızdan.<BR>
+petechia|peteşi	Epidermisin altında küçük kan sızıntısının neden olduğu ufak benek, nokta.<BR>
+peutz jeghers syndrome|peutz jeghers sendromu	Ağız çevresinde melanotik çillerle kendini belli eden, barsakta çok sayıda poliplekarakterik herediter hastalık; habisleşebilir.<BR>
+pH	'o' saf asit değerinden '14' saf alkalin yani baz değerine kadar uzanan bir skalada, söz konusu madde içindeki hidrojen iyonu konsantrasyonunu belirten birimin kısaltılması.<BR>
+pharmacodiagnosis|farmakodiyagnoz	teşhisi kolaylaştırmak, yardımcı olmak için ilaç kullanımı.<BR>
+pharmacodynamics|farmakodinami	ilaç etkilerini inceleyen bilim.<BR>
+pharmacognosy|farmakognozi	ilaç hammaddeleri ile ilgilenen farmakoloji dalı.<BR>
+pharmacopoeia|farmakope	belli standartlara göre ilaç hazırlama formülleri ve yöntemlerini içeren resmi kitap.<BR>
+pharmacotherapy|farmakoterapi	ilaç kullanımı ile hastalık tedavisi.<BR>
+pharyngeal|faringeal	farinkse ilişkin.<BR>
+pharynx|farinks	Yutak.<BR>
+philtrum|filtrum	üst dudağın ortasındaki oluk.<BR>
+phlegmon|flegmon	sınırsız yayılan lökositli iltihap.<BR>
+phosphonecrosis|fosfonekroz	fosfor zehirlenmesi nedeni ile çene nekrozu.<BR>
+physiology|fizyoloji	vücut fonksiyonlarını inceleyen tıp bilimi.<BR>
+picrotoxin|pikrotoksin	Anamita coculus bitkisinin tohumundan elde edilen, MSS'nin her noktasını striknin gibi uyaran, hipnotikler gibi depresyon yapıcı ilaçların entoksikasyonunda kullanılan madde.<BR>
+pinlay|pinley	Kavite hazırlanmasına olanak vermeyecek kadar yüzeyi madde kaybına ugramış bir dişe pinlerle tutturulan altın inley.<BR>
+pityalism|pityalizm	Aşırı tükrük salgılanması.<BR>
+planum	düzlem.
+plasmacytoma|plazmasitoma	Plazma hücrelerinden oluşan tümör; myelom.<BR>
+plate culture|kültür	<B>1. </B>Suni bir ortamda mikroorganizmaların yetiştirilmesi.<BR><B>2.</B> Bu şekilde üretilen bir grup mikroorganizma. Karışık- çeşitli değişik tür mikroorganizmaları içeren bir kültür. ( mixed culture ) saf- tek tük mikroorganizma içeren kültür. ( pure culture ) saplam<BR>
+pleurodont|plörodont	Dişleri, alveol kemiğinin veya çenenin yanına yapışmiş olan.<BR>
+plexus|pleksus	Sinir veya damar ağı.<BR>
+polylophodont|polilofodont	Çok tüberküllü dişleri olan.<BR>
+polymer|polimer	Aynı maddenin bir veya daha fazla molekülünün birleşmesi ile ortaya çıkar ürün.<BR>
+polymerization|polimerizasyon	Polimerleşme işlemi; polimer.<BR>
+polyphyodont|polifiyodont	Birkaç doğal diş dizisi olan.<BR>
+polyposis|polipoz	Çok sayıda polip olma hali.<BR>
+polyprotodont|poliprotodont	Çok sayıda kesicileri olan.<BR>
+pontic|pontik	Bir köprü veya protezin, alt desteği olmayan, yandan tutturulmuş üyesi.<BR>
+positioner, tooth positioner|pozisyoner	Ortodontik tedavi sonrası son küçük düzeltmeleri ve pekiştirmeyi yapmak amacı ile kullanılan, alt- üst diş dizilerinin içine gömüldüğü kauçuk aparey.<BR>
+possavant's bar|passavant barı	( PG.Passavant, 1815-1893, alman cerrahı) farinksin arka duvarında üst ve orta farinks kaslarının konuşma sırasında kasılması ile yarık damağı olanlarda beliren çıkıntı.<BR>
+post	sonra, arkasında anlamında.<BR>
+post crown|post kron	pivo kron.<BR>
+post dam	Protez yapılacak bir üst çene alçı modelinin üzerine, sert yumuşak damak sınırı boyunca açılan ince oluk.2. Bu oluk sayesinde protezin arkasınırında oluşan, retansiyona ve arkadan içeri yemek kaçmamasına yardımcı olan kabartı çizgi.<BR>
+posterior	arka.
+posterior occlusion|posterior oklüzyon	mandibüler dişlerin,maksiller dişlere göre olmaları gereken yeri daha gerisinde kapanış gösterdikleri durum; agle 2. Sınıf maloklüzyon.<BR>
+posterior open bite|geri açık kapanış	arka dişlerin tek veya çift taraflı olarak üst dişlerle temas etmediği durum.<BR>
+postoperative|postoperatif	Cerrahi müdahaleden sonra olan.<BR>
+potantialisation|potansiyalizasyon	Bir ilacın, birlikte alındığı diğer bir ilacın etkisini artırması.<BR>
+precancerous|prekanseröz	Kansere dönüşebilcek anormal gelişim.<BR>
+precision attachment|presizyon ataşman	Hassas tutucu.<BR>
+predentine|predentin	Daha içindeki kalsifiye olmamış dentin tabakası.<BR>
+pregnancy gingivitis|gebelik gingivitisi	gebelik dönemlerinde, hormonal dengesizlikten dolayı hücre metabolizmasının etkilenmesi ve yerel doku direncinin azalması şeklinde izah edilen gingivitis.<BR>
+pregnancy tumor|gebelik tümörü	gebelik gingivitesi görülen hastaların %1 inde görülen, hamilelikten sonra küçülen büyüme.<BR>
+premature contact|prematüre kontakt	Erken temas.<BR>
+premaxilla|premaksilla	fötusta maksiller kemikler arası frontal kemik; inter maksiller kemik.<BR>
+premaxillary|premaksiller	<B>1.</B> Premaksillaya ilişkin. <BR><B>2. </B>Maksillanın önünde olan.<BR>
+prenatal	Doğumdan önce var olan.<BR>
+prescription|preskripsiyon	reçete<BR>
+presenility|presenilite	<B>1. </B>Erken yaşlanma. <BR><B>2. </B>Yaşlılık öncesi.<BR>
+prevalence|prevalans	Belli bir yer ve zamanda meydana gelen aynı türden belli vaka sayısı.<BR>
+primary enamel cuticle|primer mine kütikulası	Ameloblastlarının son ürünü olduğu sanılan, mine yüzeyine tutunmuş aselüler organik madde tabakası; nasmyth zarı ve mine epitel artığı da denir.<BR>
+primordium|primordiyum	Bir organ veya bölümün ilk farkedilebilir taslağı.<BR>
+pro-drug|prodrog	Etkisiz olup, vücutta etkili hale geçen drog.<BR>
+probe|sond	Ağız muayenesinde araştırıcı sonda görevini gören ince, yarı bükülebilir kıvrık uçlu el aleti.<BR>
+procheilia|proçeli	Bir dudağın normal pozisyonundan daha ilerde olduğu durum.<BR>
+procheilon|proçelyon	Üst dudağın üst sınırının orta çıkıntısı.<BR>
+prodrome|prodrom	Hastalığın ortaya çıkmasından önceki belirtiler.<BR>
+prognathic|prognatik	Çenesi ileri çıkıntılı olan.<BR>
+prognosis|prognoz	Bir hastalığın gelişimi, süresi ve sonucu.<BR>
+proliferation|proliferasyon	Üreme veya çoğalma.<BR>
+prophylactic odontotomy|profilaktik odontotomi	Diş çürüklerini önlemek amacı ile oklüzel fissüleri mekanik olarak aşındırma işlemi.<BR>
+prophylactodontist|profilaktodontist	Koruyucu dişhekimliği uzmanı.<BR>
+prophylaxis|profilaksi	Hastalıklardan korunmak için yapılan her türlü girişim.<BR>
+prosopo	'Yüz' anlamında önek.<BR>
+prosthodontics|prostodonti	Kron- köprü, tam ve bölümlü her türlü protez dahil dişlerle ilgili her türlü apareyin planlanması ve yapımı ile ilgilenen dişhekimliği dalı; diş protezleri bilimi.<BR>
+prosthodontist|prostodontist	Protez uzmanı, kron- köprü dahil.<BR>
+proteolysis|proteoliz	Protein sindirim işlemi.<BR>
+proteus|protöz	Enterobakteri ailesinden gram- negatif, çubuk şeklinde, karbonhidrat ve proteinleri ubuk dekompoze edebilen bir bakteri cinsi.<BR>
+prothetic|protetik	Proteze ilişkin.<BR>
+proto	' İlk' anlamında önek.<BR>
+protomere|protomer	Bir dişin mine organının bukkal yarısı.<BR>
+protrusion|protrüzyon	Dişlerin ileri fırlak olması; özellikle kesicilerin.<BR>
+protrusive occlusion|protrusif oklüzyon	Angle 3. Sınıf maloklüzyon.<BR>
+proximal|proksimal	Yanda olan, komşu.<BR>
+proximal cavity|proksimal kavite	Bir dişin mezial veya distal yüzünü etkileyen kavite Black3. Sınıf kavite.<BR>
+proximo occlusal|proksimo oklüzal	Arka bir dişin proksimal ve oklüzal yüzlerine ilişkin.<BR>
+proximobuccal|proksimobukkal	Arka bir dişin proksimal ve bukkal yüzlerine ilişkin.<BR>
+proximolabial|proksimolabial	Ön bir dişin proksimal ve labial yüzlerine ilişkin.<BR>
+proximolingual|proksimolingual	Bir dişin proksimal ve lingual yüzlerine ilişkin.<BR>
+pseudo|psödo	' Yalancı' anlamında önek.<BR>
+pseudoanodontia|psödo anodonti	Dişlerin gelişmiş olmasına rağmen, sürmedikleri için dişsiz görünen durum.<BR>
+pseudomembrane|psödomembran	Lökosit ve bakteri içeren, fibrinli eksudadan oluşan ince deri benzeri yalancı membran.<BR>
+pseudomonas|psödomonas	Pseudomonadaceae familyasından Gram- negatif, aerop ve hareketli olan bakteri cinsi.<BR>
+psychosomatic|psikosomatik	<B>1. </B>Zihinsel faaliyetlerdedn dolayı bedensel fonksiyonların birbirine cevap vermesi. <BR><B>2. </B>Zihine ve bedene ilişkin.<BR>
+pterygomandibular|pterigomandibüler	Pterigoid çıkıntı ve mandibulaya ilişkin.<BR>
+pterygomaxillary|pterigomaksiller	Pterigoid çıkıntı ve maksillaya ilişkin.<BR>
+pterygopalatine|pterigopalatin oluk	Oluk, pterigopalatin.<BR>
+pterygopalatine nerve|pterigopalatin sinir	Burun ve sert damak mukozasını innerve eden, maksiller sinirin bir dalı.<BR>
+ptyalocele|pityalosel	Tükrük içeren kist veya kistik lezyon.<BR>
+ptyalolith|ptyalolit	Tükrük taşı.<BR>
+pulp chamber|pulpa odası	Dişin dentinle kaplı diş pulpasını içeren iç boşluğu.<BR>
+pulp horn|pulpa boynuzu	Diş pulpasının kron içine doğru olan, tavite açarken dikkatli; olunması gereken uzantıları.<BR>
+pulpal polyp|polip	Mukozadan kaynaklanan saplı tümör veya kitle. ( polyp, polypus ) pulpa- i dayanıklı ve genç fakat açılmış pılpalarda uzun süren hafif tahriş sonucu, hücrelerin sayısal ve bazen aynı zamanda hacimsel artışı ve ağız ortamından ayrılmış epitel hücrelerinin gelip yapışması ile büyüyen granülasyon dokusu.<BR>
+pulpal wall|pulpa duvarı	Açılan bir kavitede pulpa odasına paralel ve komşu olan kavite duvarı.<BR>
+pulpalgia|pulpalji	pulpa ağrısı
+pulpectomy|pulpektomi	Pulpanın tamamen çıkarılması; kanal tedavisinde yapılır.<BR>
+pulpitis	Diş pulpası iltihabı.<BR>
+pulpotomy|pulpotomi	Diş pulpasının cerrahi olarak kısmen çıkarılması; pulpa amputasyonu.<BR>
+purpura	Deri altı hemorajinin yol açtığı deride veya mukozada mor lekeler şeklinde görülen hastalık.<BR>
+purulence|pürülans	Cerahat içerme durumu.<BR>
+pustule|püstül	Deride, cerahat içeren küçük kabarcıklar.<BR>
+pyaemia|pyemi	Kan dolaşımına katılmış piyojen mikroorganizmalar nedeni ile belirgin genel septisemi.<BR>
+pyorrhoeaalveolaris|alveoler piyore	daha çok, üzerine basınca içindeki irin çıkan periodontal cepli ileri kronik periodontitis vakalarıiçin kullanılan terim.<BR>
+pyramidal fracture|piramit kırık	le fort 2. Sınıf kırık.<BR>
+pyrexia fever|pireksi	Ateş.<BR>
+pyro|piro	' Ateş, yana' anlamında önek.<BR>
+pyroglossia|piroglossi	Dilde yanma hissi.<BR>
+radicular|radiküler	Köke ilişkin.<BR>
+radicular cyst|radiküler kist	Diş kökündeki bir granülomdan kaynaklanan kist.<BR>
+radiectomy|radyektomi	Bir dişin kökünün tamamen veya kısmen kesilip alınması;kök rezeksiyonu.<BR>
+radio opague|radyo - opak	X ışınları geçirmeye dirençli olup, radyografide de filmi karartmadığı için aydınlık bölgelerin oluşmasına yol açan.<BR>
+radiography|radyografi	Dokudan geçebilen x ışınlarına maruz bırakarak, özel filmler üzerinde dokuların yoğunluk ve ışın geçirebilirliklerine göre gölge görüntü elde etme bilimi.<BR>
+radiology|radyoloji	Işın enerjişi bilimi; özellikle tıbbi teşhis ve tedaviye yönelik imcelemelerde bulunur.<BR>
+radioluscent|radyolusent	Xışınlarına çok az direnç göstererek içinden kolayca fazla güç kaybetmeden geçmesini ve böylece film üzerine düştükleri yeri fazlaca karartmasını sağlayan.<BR>
+raphy|rafi	'Dikişi' anlamında sönek.<BR>
+raschhkow's plexus|raschkow sinir pleksusu	Diş papilinde dentin oluşumu sırasında odontoblastların altında bulunan ince sinir pleksusu.<BR>
+reamer|kanal eğesi	kök kanallarını doldurmadan önce genişletmekte, cinsine göre el veya motor ile kullanılan değişik kalınlıklardaki küçük eğe.<BR>
+regio	Bölge.
+reimplantation|reimplantasyon	Yerinden çıkmış veya çıkarılmış dişi, birtakım işlemlerden sonra tekrar ağıza, kendi yuvasına yerleştirme.<BR>
+rejyonel|rejyonel anestezi	Blok anestezi; anestezi<BR>
+resection|rezeksiyon	Bir doku veya organın hastalıklı bölümünün çıkartılması, örneğin epitel abseli dişlerde diş kökünün 1/3 apeks bölgesinin, cerrahi olarak alveol kemiğinin vestibülden açılması ile kesilip çıkarılması; sadece tek köklü ön dişlerde yapılır.<BR>
+residual|rezidüel	Geride kalan, arta kalan.<BR>
+resorption|rezorpsiyon	Doku veya salgı maddelerinin, ya da vücuda dışardan giren yabancı bir maddenin metabolizma tarafından fizyolojik olarak eritilip yokedilmesi.<BR>
+rest|tırnak	Bir parsiyel protezin veya ortodontik apareyin, destek ve stabilizasyon sağlamaya yardımcı uzantısı, örneğin oklüzal tırnak.<BR>
+rest bite|dinlenme kapanışı	çenelerin, dinlenme halinde, birbirlerine tam temas etmedikleri kapanış.<BR>
+restoration|restorasyon	Dokularda bozukluğun mekanik olarak giderilmesi ve eksik dokuların da protetik olarak tamamlanması işlemi; örneğin bir dolgu, kron veya protez.<BR>
+retaining appliance|pekiştirme apareyi	Ortodontik tedavinin istenen sonucu sağlanmasından sonra nüksü önlemek amacı ile kullanılan özel pasif aparey.<BR>
+retention|retansiyon	Yerinde tutma; örneğin protezi ağızda tutma.<BR>
+retention cyct|retansiyon kisti	Bez salgısının tutulması, dışarı salınmaması ile oluşan kist.<BR>
+retention form|retansiyon formu	Bir restorasyonun yerinden çıkmaması için sağlanan şekil.<BR>
+retention plate|retansiyon plağı	<B>1.</B> Bir obtüratörün ana gövdesi, kaide plağı. <BR><B>2.</B> Herhangi bir ortodontok pekiştirme apareyi.<BR>
+reticular|retiküler	Ağsı bir yapıya ilişkin.<BR>
+reticuloendothelial system|retikülo endotelyal sistem	Kan hücreleri yapımı, yıkımı ve demir metabolizması ile ilgili olan, bağışıklık mekanizmasının bir parçası olup daha çok kemik iliği, karaciger, dalak ve lenf bezlerinde yoğunlaşmış olan özel retikül ve endotel hücreleri sistemi.<BR>
+reticulum|retikulum	Fibröz, ağsı dokusu.<BR>
+retro	'geriye, geride' anlamında önek.<BR>
+retrobuccal|retrobukkal	Yanakların gerisindeki ağız bölgesine ilişkin.<BR>
+retrognathia, retrognat hism|retrognati	Alt çenenin geriye çekilmiş olması; Angle 2. Sınıf maloklüzyon.<BR>
+retrolingual	Dil gerisinde.<BR>
+retromandibular|retromandibüler	Ağzın, mandibulanın gerisindeki bölümüne ilişkin.<BR>
+retromolar	Azı dişlerin gerisinde olan.<BR>
+retromolar pad|retromolar yastık	Alt en arka azı dişinin distalindeki yumuşak doku kütlesi.<BR>
+retrusion|retrüzyon	Çenenin, orbital düzlemle ilişkisine göre, geriye çekilmiş olduğu durum.<BR>
+retzius' lines|retzius çizgileri	( M.P. Retzius, 1842- 1919, isviçreli anatomist ) mine kesitinde mikroskopla görülebilen üst üste kalsifikasyon tabakaları.<BR>
+reverse overjet|ön-arka kapanış	Kapanış halinde alt-üst kesici dişlerin kesici kenarları arasındaki yatay mesafe. ( over-jet ) tersine Angle 3. sınıf maloklüzyonda görüldüğü gibi, üst kesicilerin alt kesicilerin lingualine doğru kapandığı, ön-arka kapanışın normalin tam tersi olduğu durum.<BR>
+rhio|rio	' Burun-' anlamında önek.<BR>
+rhizo|rizo	' Kök ' anlamında önek.<BR>
+rhizotomy|rizotomi	Bir dişi kökü veya sinir kökünün cerrahi yolla ayrılması, kesilip bölünmesi.<BR>
+riboflavin	B2 vitamini.<BR>
+risorius muscle|risorius kası	Dudak kenarlarını yanlara çekerek gülümsemeyi sağlayan kas; m.risorius.<BR>
+rudimentary|rudimenter	Kısmen ya da kötü gelişmiş olan.<BR>
+S-N plane|S-N düzlemi	sefalometride, sella tursikanın orta noktası ile nazion noktasından da geçen ve saggittal düzleme dik olan düzlem.<BR>
+s point|s noktası	İçine hipofiz bezinin oturduğu sella turcica'nın lateral radyografideki orta noktası; sella noktası.<BR>
+sacro|sakro	' Et' anlamında önek.<BR>
+sagittal	<B>1.</B>Oksu. <BR><B>2.</B>Önden arkaya.<BR>
+salivary calculus|tükürük taşı	<B>1. </B>Tükürük bezi veya kanalında görülen taşlaşma. <BR><B>2. </B>Supraggingival diştaşı.<BR>
+salivary gland|tükürük bezi	Bez, tükürük.<BR>
+salivation|salivasyon	<B>1.</B>Tükürük yapımı ve salgılanması. <BR><B>2. </B>Anormal tükürük salgılanması.<BR>
+salmonella	Sporsuz, hareketli, çomaklı, Gram- negatif, daha çok barsaklarda bulunan, insanlara patojen bir enterobakteri cinsi.<BR>
+salpingopalatal	Östaki borusu ve damağa ilişkin.<BR>
+salvolithiasis|salvolitiyazis	Tükrük taşı olma durumu.<BR>
+sapro	' Çürümüş, çürüyen' anlamında önek.<BR>
+saprophyte|saprotif	Çürüyen maddeler üzerinde yaşayan bir bitki ve bu tür bakteriler.<BR>
+sarcoma|sarkom	Kaynağı herhangi bir nonepitelyal doku olan habis tümör.<BR>
+scaphocephalic|skaposefal	Ortası önden arkaya kabartılı, gemi omurgası gibi kafatası olan.<BR>
+schisis|şiz şizis	'Yarığı' anlamında sönek.<BR>
+schisto|şisto	'Yarık' anlamında önek.<BR>
+schistoglossia|tongue fissure	Dil yarığı.<BR>
+schistoprosopia|şistoprosopi	Konjenital yüz yarığı.<BR>
+schizodontia|şizodonti	Daha çok üst ön sürekli dişlerde görülen, tek folikülden iki ayrı diş gelişmesi.<BR>
+schizognathism|şizognati	Çene yarığı.<BR>
+schizomycetes|şizomiset	Bir bakteriyel mantar sınıfı.<BR>
+schizoprosopia|şizoprosopi	Yüzde herhangi bir konjenital yarık.<BR>
+schreger's lines|schreger çizgileri	Dentinde: Dentin kanallarının primer kıvrımlarının üstüste geldiği yerleri belirten ve mine dentin sınırına paralel olan enine bir kesitte görülen iç- içe halkalar. Minede: mine prizmaları, minedentin sınırından mine yüzeyine ışınsal olarak değil de 'S' harfi şeklinde kıvrımlar yaparak çıktıkları için, kesit alınınca yüzeye paralel gelen kısımların açık renk gösterip ' parazon' adını aldıkları, dikey gelen kesimlerin ise koyu renk görünüp' diazon' adını aldıkları, daha çok tüberkül uçlarında rastlanan ve aslında optik bir yanılma olan çizgiler.<BR>
+scirrhuss|skiröz	Yoğun baş dokusu içeren sert bir karsinoma.<BR>
+sclerodermma|skleroderma	Fibröz bağ dokusunu etkileyen, deride ve mukozada giderek sertleşen ve kalınlaşan lekelerle karakterize sistemik hastalık; periodontal membranı da etkileyebilir.<BR>
+scleroid|skleroid	Ser yapıda.<BR>
+sclerosis|skleroz	Bir kanalın veya bölümün sertleşmesi; özellikle arterler ve dejenerasyon sonucu sinir sisteminde bağ dokusu proliferasyonu için kullanılır.<BR>
+sclerotic|sklerotik	Sklerozdan etkilenen veya skleroza ilişkin.<BR>
+scoliodontic|skoliodont	Yuvasında dönmüş bir dişi olan.<BR>
+scurvy|skorbüt	C vitamini eksikliğine bağlı, genel zayıflık, anemi, şişmiş ve kanamalı dişetleri ile karakterize, önceden uzun deniz yolculukları nedeni ile taze meyve ve sebze yiyemeden denizciler arasında yaygın olup, artık daha çok yaşlılarda görülen bir hastalık.<BR>
+sebaceous cyst|sabase kist	Sebase bez kanalının dışarı açılmaması ile oluşan kist.<BR>
+sebum	Sebase bezlerin salgıladığı yağ, keratin ve epitel birikintisi içeren yarı- sıvı madde.<BR>
+secodont|sekodont	Büyükazı dişlerinin tüberküllerinde kesici kenarları olan.<BR>
+secondary dentine|sekonder dentin	Direkt/ indirekt kuafajdan sonra veya kendi kendine, odontoblastların pulpanın açılmışveya açılmak üzere olan pulpa- dentin sınırında pulpayı korumak amacı ile sonradan yaptıkları ince ek dentin tabakası.<BR>
+secretion|sekresyon	<B>1. </B>Salgı maddesi. <BR><B>2. </B>Salgı işlemi.<BR>
+sedation|sedasyon	Fonksiyon azalması, sakinleşme.<BR>
+sedative|sedatif	Sedasyon sağlayan;sedasyon.<BR>
+seguela|sekel	Bir hastalıktan geriye kalan arıza.<BR>
+seguestrectomy|sökestrektomi	Bir kemik sökestrinin cerrahi olarak alınması.<BR>
+seguestrum|sökestr	Ana kemikten ayrılmış olan nekroze kemik parçası.<BR>
+selenodont	Uzunlamasına ay şeklinde kabartıları olan; örnegin insanlardaki molar dişler.<BR>
+selenoid valve|selonoid valf	Elektromanyetik kumandalı hava musluğu.<BR>
+semi	' Yarım' anlamında önek.<BR>
+senile|senil	Yaşlanmaya ilişkin.<BR>
+sensory nerve|sensör sinir	dokunma, tad, ağrı gibi duyu algılarının periferden MSS' ne götüren sinir; Duyu siniri.<BR>
+separating varnish|properti	Daha çok alçının alçıya yapışmasını önlemek için kullanılan, akriliğin izolasyonunda kaynerken yapıştığı için kullanılmayan, laktan daha iyi ve kolay sökülür olmasına rağmen belli bir kalınlığı da olan izolasyon sıvısı, verniği.<BR>
+separator|separatör	Ayırıcı; dişhekimliğinde: iki dişin arasındaki mesafeyi geçici olarak arttırmak için kullanılan mekanik alet.<BR>
+sepsis	Ürünlerin emilimi ile ortaya çıkan zehirlenme durumu; vücutta lokal veya genel olarak, immün sistemin kaldırabileceğinden çok patojen mikro- organizma olması.<BR>
+septal abscess|septal abse	Diş kökünün proksimal yüzünde oluşan abse.<BR>
+septal cartilage|septal kıkırdak	Burnun sağ ve sol boşlullarını ayıran orta kıkırdak.<BR>
+septic|septik	Sepsisin yol açtığı veya sepsise ilişkin.<BR>
+septicamia|septisemi	Kana bakterilerin ve toksinlerin yayılmış olduğu sistemik durum.<BR>
+septum	İki yumuşak doku kütlesini veya kaviteyi ayıran ince bölüm.<BR>
+sero	'Serum' anlamında önek.<BR>
+sguamous cell carcinoma|skulama hücreli karsinom	Epitelin skuama hücrelerinden kaynaklanan bir tür karsinom; epidermoid karsinom.<BR>
+sharpey's fibres|sharpey lifleri	<B>1.</B> Kemik il periost arasıdaki bağ dokusu kollajen lifleri. <BR><B>2.</B> Dişi alveol kemiğine mekanik olarak bağlayan perodontal ligamentlerin, kök yüzeyine paralel dizilmiş olan, sement organik yapı elemanı sementoblastların ürünü kollagen liflerle, sement dokusu içine yüzeye dik gömülerek karıştığı, sement dokusu içindeki kollagen lifler.<BR>
+shock|şok	Tansiyon düşmesi, hızlı ve zayıf nabız, solgun ve soğuyan deri, zayıf solunum vb. semptomları olan akut dolaşım bozukluğu yetersizliği.<BR>
+sialagogue|siyalagog	Tükürük salgısını artırıcı.<BR>
+sialaporia|siyaloparı	Tükrük salgısının azlığı.<BR>
+sialitis, sialoadenitis|siyalit	Tükürük bezi iltihabı<BR>
+sialo angiectasis|siyalo anjiyektazi	Tükürük kanallarının şişmesi.<BR>
+sialocele|siyalosel	Tükürük bezi kisti.<BR>
+sialogenous|siyalojen	Tükürük yapan, üreten.<BR>
+sialography|siyalogrofi	Tükürük bezleri ve kanalları radyografisi.<BR>
+sialolith|siyalolit	Tükürük taşı.<BR>
+sialoma|siyaloma	Tükürük tümörü.<BR>
+sinciput|sinsiput	Kafanın üst bölümü; oksiputtan, üstten öne doğru devamı eden bölüm.<BR>
+sine|şine	Dental splint.<BR>
+sinister	sol.
+sinus	Dışa açılımı olan boşluk<BR>
+sinusitis|sinüzit	Maksiller veya frontal sinüs iltihabı.<BR>
+smeared layer|smir tabakası	Endodontik tedavide kanal aletlerinin dentin duvarında medana getirdiği, mikroskopla çorak toprak görüntüsü veren, dentin parçacıkları, pulpa artıkları ve kan hücreleri içeren tabaka.<BR>
+smooth muscle|düz kas	iğ şeklinde, çizgisiz kas; istemsiz kasların çoğu bu türdür.<BR>
+SNA	Sefalometride, S-N düzlemi ile A noktası arasındaki açı.<BR>
+socket|soket	Diş kökü yuvası; diş kökünün, alveol kemiği, içinde yerleştiği boşluk.<BR>
+sodium fluoride|sodyum florür	NaF; su kaynağına 1 p.p.m. Optimum değerinde karıştırılarak, karıştırılmadığı yerlerde tablet şeklinde alarak ve solüsyon şeklinde yüzeyel uygulama ile diş çürüğünü önlemekte kullanılan, beyaz, toz şeklinde bir florür.<BR>
+soldering|lehimleme	lehimleme.<BR>
+somatic nerve|somatik sinir	İstemli kasları, tendonları, deriyi uyaran sinir.<BR>
+spheno|sfeno	Sfenoid kemiği belirten önek.<BR>
+splint	Kırık kemik uçlarını doğru kaynaması için birbirine denk getirerek hareketsiz kılma işlemi veya bu işlem için kullanılan aparey; atel: şine. Sallanan dişler için de kullanılabilir.<BR>
+splinting|şineleme	Hareketli dişleri veya bir kırığı hareketsiz kılmak için split uygulama.<BR>
+stable|stabil	Durağan, sabitlenmiş, dengelenmiş.<BR>
+stannous fluoride|sitano flörür	Diş macununda ve çürüğü önleyici yüzeyel uygulamada kullanılan bir florür türü. SnF2<BR>
+staphyline|stafilin	<B>1. </B>Uvulaya ilişkin.<BR><B>2.</B> Damağın bütününe ilişkin.<BR>
+staphylion|stafilyon	Sert damağın arka kenarının orta noktası.<BR>
+staphylococcus|stafilokok	' Micrococcaceae' bakteri familyasından; düzensiz hücre salkımları veya kısa zincirler olarak görülen ve türleri iltihabi durumlarda, çıbanlarda, cerahatli lezyonlarda bulunan bir bakteri cinsi.<BR>
+staphylorraphy|stafilorafi	Yumuşak damak yarığının cerahi tedavisi.<BR>
+staphyloschisis|stafiloşizi	<B>1. </B>Yarık uvala. <BR><B>2. </B>Yarık yumuşak damak ve uvala.<BR>
+staurion|storyon	Damaktaki enine sutur ile median suturun kesiştiği orta nokta.<BR>
+stenocephalic|stenosefal	Anormal dar kafatası olan.<BR>
+stenocompressor|stenokompresör	Cerrahi bir işlem sırasında stenon kanalını kapatmak için kullanılan bir alet.<BR>
+stenodont	Anormal dar dişleri olan.<BR>
+stenon duct|stenon kanalı	Üst büyükazıların bukkal yüzünün karşısında yer alan, parotis bezinden salgılanan tükrüğün içinden geçerek ağız boşluğuna döküldüğü kanal.<BR>
+stenosis|stenoz	Bir açılımının, kanal ağzının daralması, kasılması.<BR>
+stenostenosis|stenostenoz	Stenon kanalının daralması.<BR>
+sterile|steril	<B>1.</B> Aseptik, mikropsuz. <BR><B>2.</B> Kısır.<BR>
+sterilisation|sterilizasyon	<B>1.</B> Hertürlü mikroorganizmadan temizleme, aseptik yapma işlemi. <BR><B>2.</B> Kısırlaştırma.<BR>
+sterilizer|sterilizatör	Sterilizasyon sağlayıcı herhangi bir alet<BR>
+Stevens - Johnson syndrome|Stevens Johnson sendromu	Konjunktivada ve ağız dokularında eritema multiforme; dermatostomatit.<BR>
+stilman' cleft|stillman yarığı	Daha çok alt ön dişlerin vestibülünde görülen, periodontal hastalık ve diştaşı ile birlikte serviksten kökucuna doğru ilerleyen patolojik dişeti yarığı<BR>
+stoma	Ağız, açılım.<BR>
+stomatitis|stomatit	Ağız enfeksiyonu.<BR>
+stomatologist|stomatolog	Ağız hastalıkları uzmanı.<BR>
+stomatology|stomatoloji	Ağız hastalıkları bilimi.<BR>
+stomodeum	Embriyoda ilkel ağız boşluğu; sonradan ağız ve üst farinksi oluşturacak olan invaginasyonu.<BR>
+stophulus|gum rash	Aksüdatif diyatezin deride yada mukozada yaptığı kaşıntılı papüller; örneğin yeni diş çıkaran bebeklerin dişetlerinde görülebilir.<BR>
+stratum intermedium, Hannover's intermediate membrane|stratum intermedium	Memeli dişlerinde, gelişen sementi kök dentini ve ameloblastlardan ayıran aselüler madde tabakası. Tamamen gelişmiş köklerde sadece dentin ve sement arasındadır.<BR>
+streptothrix|streptotriks	Aktinomiceslerden tam ayırımı yapılamayan bir klamidobakteri cinsi.<BR>
+stroma	Parankimatöz organların çatısını oluşturan bağ dokusu.
+sub	'Alt, altında' anlamında önek.<BR>
+subacute|subakut	Akuttan daha az çiddi; akutkronik arası.<BR>
+subacute bacterial endocarditis|endokardit	Genellikle kalp kapakçıklarını etkileyen endokardiyum 'un yani kalbin iç yüzeyinin yangısı. Subakut bakteryel streptococcus viridans'ın yol açtığı uzun süren bir endokardit.<BR>
+subgingival calculus|subgingival	Diştaşı dişeti kenarının altında kalan, bu nedenle gözle görülemeyip, sadece sont vb. aletle buluna bilen, genellikle koyu kahve veya siyah renkte ve yerinden zor sökülür nitelikte diştaşı.<BR>
+sublingual	Dil altında<BR>
+sublingual duct|sublingual kanal	Sublingual bezin kanallarından biri, Bartholin kanalı.<BR>
+submaxillary fossa|submaksiller çukur	Fovea submaxillaris mandibulae.<BR>
+submental	Çene altında.<BR>
+submucosa|submukoza	Mukoz membranın altındaki doku tabakası.<BR>
+subnasion|subnazyon	Burun açılımının alt ön kenarının, ortasagittal düzlemdeki elt alt noktası.<BR>
+subpulpal wall|subpulpal duvar	Pulpası çıkarılmış pulpa odasının taban yüzeyi.<BR>
+suction dist|süksiyon	Eskiden üst total protezlerde retansiyonu arttırmak amacı ile kullanılmış olan, kaide plağının damak yüzünde vakum boşluğu veya elastik vartuz gibi çeşitleri olan vakum meydana getirici düzenekler; protez plağınınkendi akril gövdesi içinde süksiyon boşluğu olan: ( suction plate ) protezin damak yüzündeki elastik vantuz. <BR>
+sulphonamide|sulfonamid	sülfanilamid türevi, bakteri enfeksiyonlarının tedavisinde kullanılan bileşiklerden biri.<BR>
+super|süper	<B>1.</B> Üzerinde. <BR><B>2. </B>Aşırı anlamında önek.<BR>
+superficial|süperfisiyal	Yüzeyin hemen altında, sığ.<BR>
+supernumerery|süpernümerer	Normal sayıdan fazla, artı, ek.<BR>
+supplemental cusp|suplemental tüberkül	Anormal veya fazla tüberkül.<BR>
+suppuration|supurasyon	Cerahat oluşumu ve dışarı akması.<BR>
+supra	'Üstünde, üzerinde, anlamında önek.<BR>
+supra bony pocket|kemik üstü cep	periodontal cep tabanının, alveol kemiği seviyesinden yukarda olduğu cep türü.<BR>
+supra occlusion|supra oklüzyon	Dişin yuvası içinde dışarı doğru uzanması sonucu, oklüzal yüzeyinin anormal kapanış düzleminin üzerinde yer aldığı durum.<BR>
+supragingival culculus|supragingival	Diştaşı dişeti kenarının üzerine tutunmuş, dirardan görülebilen ve genellikle kolay kaldırılan açık sarı renkte diştaşı.<BR>
+supramentale|supramental nokta	Supramental nokta.<BR>
+swallowing|deglütisyon	yutma<BR>
+symbioisis|simbiyoz	İki organizmanın yardımlaşarak birlikte yaşaması.<BR>
+symptom|semptom	Bir hastalığın varlığı veya hangi aşamasında olduğu üzerine belirti ve kanıt kabul edilen, hastada belli değişiklik belirtileri.<BR>
+syn|sin	'ile, birlikte' anlamında önek.<BR>
+synalgia|sinalji	Bir yerdeki lezyon veya travmanın bir başka yerd yol açtığı ağrı.<BR>
+syncope|senkop	<B>1. </B>Bayılma; serebral anemi sonucu geçici bilinç kaybı. <BR><B>2. </B>Aralık boşluk.<BR>
+syndrome|sendrom	Belli bir hastalığın veya lezyonun varlığını ifade eden semptomlar topluluğu.<BR>
+synergist|sinerjist	Birbirinin etkisini arttıran<BR>
+synodontia|sinodonti	İki diş folikülünden bir diş gelişmesi.<BR>
+synovial membrane|sinovyal membran	Bir eklemin kemik eklem yüzeylerini, ligamanlarını kaplayan ve sinovyal sıvı salgılıyan membran.<BR>
+syphilis|sifilis	Ağız ve yüz lezyonları da teşhise yardımcı semptomlarından olan bulaşıcı zührevi hastalık.; frengi.<BR>
+systemic|sistemik	<B>1. </B>Bütün vücudu etkileyen. <BR><B>2. </B>Sisteme ilişkin.<BR>
+systole|sistol	Kalbin her atışındaki kasılma dönemi.<BR>
+tachy|taşi	' Hızlı, çabuk' anlamında önek.<BR>
+tachycardia|taşikardi	Kalbin hızlı atması.<BR>
+tapinocephalic|tapinosefal	Alçak, düz tepesi olan kafa.<BR>
+tapir mouth|tapir ağzı	Orbicularis oris kasının atrofisine bağlı gevşek, kalın dudaklar.<BR>
+taurodontism|taurodonti	Pulpa odası dikey olarak geniş ve kökleri kısa, kök gövdesi normalden uzun dişlerin olması.<BR>
+tectocephalic|tektosefal	Çatı şeklinde kafası olan.<BR>
+tectonic|tektonik	Plastik cerahiye veya plastik restorasyona ilişkin.<BR>
+telescope crown|teleskop kron	Birbiri üzerine geçebilen, üstteki müteharrik, alttaki sabit tek dişe ait iki kron.<BR>
+temper|tavlama	<B>1. </B>Bir metali, özelliğine göre çeşitli şekillerde ısıtıp soğutarak sertleştirme işlemi; su verme.<BR><B>2.</B> Kıvamına getirme.<BR>
+tendon	Kas liflerini kemiğe veya başka bir yapıya bağlayan, tutturan fibröz bağ dokusu; kiriş.<BR>
+teratoma	Damakta da görülebilen, germ hücrelerinden oluşan ve kıl, diş gibi orada olmaması gereken dokular içeren bir tümör.<BR>
+terratoma|teratoma	damakda da gorulebilen germ hucrelerinden olusan ve kil dis gibi orada olmamasi gereken dokular iceren bir tumor. Resim bebekde benign terratoma<BR>
+tetanus|tetanoz	Klostridyum tetani'nin toksinlerinin sebep olduğu, vücutta tonik kasılmalar, trismus ve son aşamada vücudun tetik vaziyetinde kasılıp kalması ile karakterize, prognozu genellikle fatal olan akut enfeksiyon hastalığı.<BR>
+tetany|tetani	Anormal kalsiyum metabolizmasının sebep olduğu kas spazmı, kramp.<BR>
+thecodont|tekodont	Kemik içine yuvalanmış; kökleri alveol kemiği içinde dişleri olan.<BR>
+therapy|terapi	Tedavi.<BR>
+thermoplastic material|termoplastik madde	Normal oda sıcaklığında sert olup, sıcak su içinde veya alev karşısında yumuşayan, soğuyunca tekrar sertleşen, ama ilk ve son ürün arasında kimyasal yapı ve özllik açısından hiçbir farkın olmadığı madde; örneğin stenç.<BR>
+thrombus|trombus	Damarı veya kalbin içini tıkayan kan pıhtısı.<BR>
+thyroglossal cyst|tiroglossal kist	Tiroglassal kanaldan kaynaklanan kist.<BR>
+thyroglossal duct|tiroglossal kanal	Embriyoda bulunup yetişkinde de bazen kalmış olan, tiroid bezinden dil tabanına uzanan kanal.<BR>
+thyroid gland|troid bezi	Bez, tiroid.<BR>
+tincture|tentür	Bir ilaç maddesinin alkolde çözünmüş solüsyonu.<BR>
+tissue|doku	birlikte özel bir fonksiyon gösteren, benzer hücrelerden oluşan kitle.<BR>
+to decalcify|dekalsifiye etme	dokuyu kalsiyum tuzlarından arıtarak dekalsifikasyon sağlamak.<BR>
+to denerve|denerve etmek	sinirini almak, pulpayı çıkarmak.<BR>
+to dilute|dilüe etmek	sulandırmak; konsantrasyonunu azaltmak.<BR>
+to implant|implante etmek	implantı yerine yerleştirmek; implant.<BR>
+to infiltrate|enfiltre etmek	hücre, doku veya hücrelerarası boşluktan sıvı veya hücrelerin geçmesi ve yerleşmesi.<BR>
+to perforate|perfore etmek	Delik açmak, delmek.<BR>
+to try in|prova etmek	Bir protez veya kronu, herhangi bir yapım aşamasında ağızda kontrol etmek.<BR>
+toliberate|libere etmek	serbest bırakma.<BR>
+tomes' elevator|tomes elevatörü	Alt ve üst büyük azı dişler için özel sağlı- sollu bir çift elevatör.<BR>
+tomes' fibres|tomes lifleri	Odontoblast uzantısı.<BR>
+tomy|tomi	' Kesilmesi' anlamında sönek.<BR>
+tonsillolith|tonsillolit	Tonsiller dokuda taş oluşumu.<BR>
+topical anaesthesia|topikal anestezi	Yüzeyel anestezi;deri veya mukoza üzerine kimyasal bir ajan sürerek ( örneğin%5 lidokain ) veya püskürterek ( örneğin etil klorür ) küçük operasyonlar, süt dişi çekimi veya enjeksiyon öncesi sağlanan lokal anestezi türü.<BR>
+topinard's line|topinard çizgi	Metal noktayı glabellaya bağlayan çizgi.<BR>
+torgue|tork	<B>1.</B> Dönme mömenti, dönmeyi medana getiren kuvvet.,<BR><B>2. </B>Bir dişin uzun ekseni etrafında dönmesi.<BR><B>3. </B>Güçlü, darbeli dönme.<BR>
+torus	Yuvarlak şişkinlik; ekzostoz; bir kemik tümörü.<BR>
+toxin|toksin	Hayvan veya bitki hücrelerinin özellikle bakterilerin meydana getirdiği zehirli madde; toksinler vücuda enjekte edilince spesifik antikor veya antitoksinlerin oluşumuna sebep olurlar.<BR>
+trachea|trakea	Soluk borusu; larinksin alt ucundan bronşlara kadar uzanan kıkırdak boru.<BR>
+tragale|tragal noktası	Tragusun en distal noktası; sefalometride kullanılan bir yumuşak doku nirengi noktası.<BR>
+tragus	Dış kulak yolunun üzerindeki küçük kıkırdak çıkıntı.<BR>
+transillumination|transillüminasyon	Arkadan ışıklandırma; röntgen filmlerini incelemek için negatoskopta kullanılır.<BR>
+transplantation|transplantasyon	Kişiden kişiye organ nakli; dişhekimliğinde bir dişi yerinden çıkartıp, ya aynı ağız içinde başka bir yere veya başka bir ağıza yerleştirme, implante etme.<BR>
+transpossition|transpozisyon	İki komşu dişin yer değiştirmesi.<BR>
+transvers	enine.
+trauma|travma	Yara, bere, incinme; istemdışı, kaza veya saldırı sonucu oluşmuş doku zararı.<BR>
+traumatic occlusion|travmatik oklüzyon	Dişlere veya periodontal dokulara zarar veren oklüzyon.<BR>
+traumatogenic|travmatojen	Travma yapma.<BR>
+treponema	Spiroket familyasından ipliksi, spiral, insana patojen bir bakteri cinsi.<BR>
+triconodont|trikonodont	Üç tüberkülü bir sıraya dizili diş.<BR>
+tricuspid|triküspid	Üç tüberküllü.<BR>
+trigeminal nerve|trigeminal sinir	5. Kafa çifti; n. Ophtalmicus, n. Maxillaris ve n. Mandibularis olmak üzere üç dalı ayrılır.<BR>
+trigeminal neuralgia|prosopalgia, trismus dolorificus, trigeminal nevralji	Bir sinir yolu veya ucunda, batıcı veya zonklayıcı karakterde şiddetli ağrı; sinir ağrısı. Trigeminal - trigeminal sinirin bir veya daha çok dalında ağrı nöbetleri; prosopalgia, trismus dolorificus da denir.<BR><BR>
+tubercle|tüberkül	Diş kronu çiğneme yüzü üzerindeki sivri uçlu mine mine kabartıları.<BR>
+tumour|tümör	Gelişimi normal dokularla koordineli olmayan ve başlatıcı sebep ortadan kaldırılsa dahi gelişmeye, en azından var olmaya devam eden anormal doku kitlesi; bazen daha genel bir anlamda herhangi bir lokalize şişkinlik için de kullanılır.<BR>
+tunica|tunika	katman
+turner tooth|turner dişi	Gelişimi sırasında, herhangi bir şekilde enfeksiyon veya travma ile etkilenmiş olan kendinden önceki şüt dişi sebebi ile zarar görmüş sürekli diş.<BR>
+tyndallization|tindalizasyon	Kültür ortamını üç gün yarımşar saat 100 C buhara tutularak yapılan sterilizasyon.<BR>
+ulatrophy|ulatrofi	Dişeti çekilmesi<BR>
+ulcer|ülser	Deri veya mukozada, yüzeyel nekroz ve doku kaybı sonucu daha derin dokuları açığa çıkaran yerel lezyon.<BR>
+ulceration|ülserasyon	Ülser oluşması.<BR>
+ulceromembrancous gingivitis|ülsero membranöz gingivitis	Gingivitis anug.<BR>
+ulocarcinoma|ulokarsinom	Dişetini etkileyen karsinom.<BR>
+ultra	'Aşırı, ötesinde' anlamında önek.<BR>
+uni	' Bir, tek' anlamında önek.<BR>
+unilateral|ünilateral	Tek tarafa ilişkin, tek kenarı ilgilendiren.<BR>
+unilocular cyst|üniloküler kist	Tek kaviteli kist.<BR>
+uranal angle|uranal açı	Damağın sagittal eğrisinin en yüksek noktası; premaksilla noktası ve spina nasalis posterior arasında oluşan açı.<BR>
+uraniscolalia|uraniskolali	Yarık damak nedeni ile kötü telaffuz.<BR>
+urano	'Damak' anlamında önek.<BR>
+uranoplegia|uranopleji	Yumuşak damak kaslarını etkileyen damak paralizi.<BR>
+uranostaphyloplasty|uranostafiloplasti	Hem sert damağın, hemde yumuşak damağın cerrahi tedavisi.<BR>
+uranostaphylorhaphy|uranostafilorafi	Hem yumuşak hem de sert damaktaki yarığı cerrahi suturlarla kapatma işlemi.<BR>
+uvula	Küçük dil.<BR>
+uvulitis|uvulit	Uvula iltihabı.<BR>
+uvuloptosis|uvuloptoz	Uvulanın gevşek durumu.<BR>
+vacuum|vakum	Hava boşluğu; içinden havanın boşaltılması olduğu hacim; negatif basınç.<BR>
+vagus nerve|vagus siniri	Onuncu kafa çifti; farinks ve larinks mukozası ile çizgili kaslarını uyaran sinir; n. Vagus.<BR>
+valva	Büyükçe kapak.
+vascular|vasküler	Damarlı, damarlara ilişkin.<BR>
+vasoconstriction|vazokonstriksiyon	Damarı çevreleyen cidar kaslarının sinir veya drog uyarısı ile kasılarak damar çapının daralmasına, sonuç olarak kan debisinin azalmasına ve genel etki söz konusu ise tansiyonun da yükselmesine sebep olan durum.<BR>
+vasoconstrictor|vazokonstriktör	Damar- büzücü sinir veya ajan için kullanılan sıfat; damar kasılmasına sebep olan.<BR>
+vasodentine|vazodentin	Kan damarları içeren dentin.<BR>
+vasodilator|Vazodilatör	Damarı çevreleyen kasların gevşemesine ve sonuç olarak damir iç basıncının azalmasına yol açan sinir veya dış ajan.<BR>
+vasomotor nerve|vazomotor sinir	Kan ve lenf damarlarının çaplarını kontrol eden, vazodilatör veya vazokontriktör olabilen sinir.<BR>
+vena|ven	toplardamar.
+ventral	Vücudun karın tarafına ilişkin
+venula|venül	Kapiller aşamasından sonraki ince toplardamar.
+vermilion border|vermilyon sınırı, dudak sınırı.	dudakların kırmızı bölümünün bitiş sınırı; vermilyon sınırı.<BR>
+vertical|vertikal	Dikey.
+vertical dimension|dikey boyut	yüzün, orta çizgiden dikey ölçüm değeri; kaslararası nokta - burun ucu uzunluğunun, burun ucu - çene alt ucu uzunluğuna eşit olması gerektiği düşünülerek tam protezlerde mumlu provada dikkat edilir.<BR>
+vestibule|dalız	Ön.
+viability|viabilite	<B>1. </B>Uygulanabilme.<BR><B>2. </B>Varlığını sürdürebilme
+vibration|vibrasyon	titreşim
+vibro bacteria|vibro bakteri	bitkisel kökenli oldukları iddia edilen tek hücreli patojen mikroorganizmalara verilen genel ad. Şekillerine göre bakteri tipleri: basil - çomak şeklinde.( Bacillus bacteria ) ; biplokok - çift yuvarlak (diplococcus bacteria); spiral, spiril - helezoni.<BR>
+viscous|viskoz	Koyu, yapışkan sıvı.
+voluntary muscle|istemli kas	kontrolu ve kullanımı irade ile mümkün olan, çoğunlukla çizgili olan kas.<BR>
+walzax pliers|valzaks pensi	Çok maksatlı kroşe teli tutucu, bükücü, kesici pensi.<BR>
+white hairy leukoplakia|lökoplaki	dil, dişeti ve yanak mukozasında görülen, bazen habisleşmeye meyleden beyaz, kalın lekeler. ( leukoplakia ) beyaz kıllı - AIDS in ilk belirtilerinden biri.<BR>
+wooden tongue|tahta dil	Aktinomikozun etkilediği dil.<BR>
+xanthodont|ksantodont	sarı dişleri olan.<BR><BR>
+xeno|kseno	' yabancı ' anlamında önek.<BR>
+xero|ksero	' kuru' anlamında önek.<BR>
+xerostomia|kserostomi	tükürük salgısının çok az veya hiç olmamasına bağlı ağız kuruluğu, bir löke - rejyonel anestezi komplikasyonu da olabilir.<BR>
+zona|zon	bölge

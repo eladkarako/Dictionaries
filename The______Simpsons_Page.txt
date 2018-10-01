@@ -1,0 +1,140 @@
+##name	The 100% Simpsons Page
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##email	stuffthepigs@yahoo.com
+##description	Glossary of terms and names of the famous  TV show.
+##browsingEnabled	
+##bgl_creationTime	2000/08/02, 06:25
+##bgl_middleUpdated	2000/08/02, 06:37
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+"AY CARUMBA"|AY CARUMBA	Popular phrase of surprise used mainly by one BART SIMPSON, which was coincidentally his first word.
+"D'OH"|D'OH	Popular phrase of stupidness used by HOMER SIMPSON during hard times.
+"DON'T HAVE A COW|MAN"	Catchphrase used by BART SIMPSON, when trying to calm down someone he's annoyed - most of the time this is HOMER.
+"EXCELLENT"|EXCELLENT	Catchphrase of loveless billionaire CHARLES MONTGOMERIE BURNS.
+"I DIDN'T DO IT"|I DIDN'T DO IT	Catchphrase used by BART SIMPSON on the KRUSTY THE KLOWN show. This phrase made him famous to everyone in SPRINGFIELD, he was known as 'The I Didn't Do It Boy'.
+"MMM..."|MMM	Phrase of temptation used by HOMER SIMPSON.
+"OOOH..."|OOOH	Phrase used by HOMER SIMPSON to show when he's impressed by something or other.
+"WOO HOO"|WOO HOO	Phrase of delight used by HOMER&nbspSIMPSON.
+"YES I AM A VAMPIRE"|YES  I AM A VAMPIRE	A book written by CHARLES&nbspMONTGOMERIE&nbspBURNS, the foreword of the book is by Steve Allen.
+AEROSMITH	Popular rock band who played at MOE'S TAVERN during the era of his money-spinning drink the FLAMING MOE. Top-class AEROSMITH songs include Pink and Don't Wanna Miss A Thing, as well as the classic Crazy.
+ALIENS	Many of these have been spotted in various episodes, the most common appearers being KANG & KODOS. One ALIEN caused so much of a stir that X-FILES stars Mulder and Scully were called.
+APU NAHASAPEEMAPETILON	The operator of the SPRINGFIELD branch of the KWIK-E-MART. He has been shot in repeated robbery's, nearly causing him to miss a day of work.
+B-SHARPS	1980's group formed in SPRINGFIELD group formed in SPRINGFIELDconsisting of HOMER SIMPSON, APU NAHASAPEEMAPETILON, SEYMOUR SKINNER and BARNEY GUMBLE (who replaced POLICE CHIEF WIGGUM as he made the group look too much like the Village People). Hits included Baby On Board and their second album Bigger Than Jesus, the group also won a Grammy Award.
+BARFLIES	Common name given to people who hang around MOE'S TAVERN.
+BARNEY GUMBLE	Overweight, unemployed drunk who hangs around MOE'S TAVERN with HOMER SIMPSON and the other BARFLIES.
+BART SIMPSON	10-year-old, devious, underachieving, school-hating boy. Has in the past discovered a comet that was on a crash-course with SPRINGFIELD, and BLINKY THE THREE-EYED FISH. Known for causing school riots and severing any links the States had with Australia. Once sold his soul for $5. First got drunk at the age of 10, causing beer to be banned in SPRINGFIELD. See also: EL BARTO, "AY CARUMBA", "DON'T HAVE A COW" and "I DIDN'T DO IT".
+BLEEDING GUMS MURPHY	This late jazz star was the inspiration LISA SIMPSON needed to learn to play the saxophone all by herself.
+BLINKY THE THREE-EYED FISH	Found in a SPRINGFIELD river by one BART SIMPSON. This fish is unique by the means that it has three eyes, possibly caused by swimming in water that was polluted by the NUCLEAR POWER PLANT.
+CAPTAIN LANCE MURDOCK	Professional stuntman who inspired BART SIMPSON to become a junior daredevil.
+CAPTAIN McCALLISTER	Sea Captain, who is - understandably - not very successful due to the fact that he has 2 glass eyes.
+CARL	Works at the NUCLEAR POWER PLANT with friends HOMER SIMPSON and LENNY, enjoys a drink at MOES TAVERN.
+CHARLES MONTGOMERY BURNS	Loveless billionaire and owner of the NUCLEAR POWER PLANT, was once shot-down by one MAGGIE SIMPSON. Recently found the Lock Ness Monster (aptly named Nessie) and gave him a job in his Casino.
+CHESTER J LAMPWICK	The real founder of ITCHY & SCRATCHY and thus, the founder of cartoon violence.
+CLETUS THE SLACK-JAWED YOKEL	Southerner with 26 kids, husband of Brandine.
+COMIC BOOK GUY	The guy who owns the Comic Book Store, a very overweight individual.
+DOLPH	One of 4 SPRINGFIELD ELEMENTARY SCHOOL bullies. Friend of JIMBO JONES, KEARNEY and NELSON MUNTZ.
+DONUTS	Favourite snack of HOMER SIMPSON, he once had his head turned into a DONUT.
+EDNA KRABAPPEL	School teacher at SPRINGFIELD ELEMENTARY SCHOOL, among others, she teaches BART SIMPSON, MILHOUSE, MARTIN and NELSON MUNTZ. Her taste in men is appalling and she can now be described as "desperate".
+EL BARTO	Alias used by BART SIMPSON, graffiti of this figure pops up all over town.
+FAIL	Most common grade given to BART SIMPSON.
+FAT TONY	Head of the SPRINGFIELD mob, once tried to assassinate MAYOR QUIMBY.
+FLAMING MOE	Popular alcoholic drink that was created by HOMER SIMPSON, see also: MOE'S TAVERN and AEROSMITH.
+FLANDERS	Stupidly religious family who reside next door to the SIMPSONS, see also: NED FLANDERS.
+FLYING HELLFISH	World War II infantry led by GRANDPA SIMPSON, also included were, CHARLES MONTGOMERIE BURNS, Iggy Wiggum and Sheldon Skinner.
+FRANK GRIMES (R.I.P.)|FRANK GRIMES|R.I.P.	Biggest enemy of HOMER SIMPSON, resentful that HOMER got through life so easily, when it's been so difficult for him. Died after being electrocuted at the NUCLEAR POWER PLANT, was previously blown up in a silo explosion.
+FREDDY QUIMBY	Nephew of MAYOR DIAMOND JOE QUIMBY, was found not guilty of of Grievous Bodily Harm after BART SIMPSON'S testimony.
+GAY	See WAYLON SMITHERS
+GERALD	The baby with one eyebrow, MAGGIE SIMPSON'S one true enemy.
+GRANDPA SIMPSON	Father of HOMER SIMPSON, now resides at the SPRINGFIELD RETIREMENT CASTLE. Was once the leader of the FLYING HELLFISH and a member of the STONECUTTERS.
+HANK SCORPIO	Supervillian and former employer of HOMER SIMPSONduring their short stay in Cypress Creek. His arch nemesis is JAMES BONT (film tie-in by any chance).
+HANS MOLEM	Stumpy, shortsighted old man.
+HERMAN	One-armed military antiques salesman. Once tried to increase his income by selling counterfeit jeans.
+HOMER SIMPSON	A rather simple man it must be said. Currently works at the NUCLEAR POWER PLANT . Has before won a Grammy, been in space, been on tour with Cypress Hill and the Smashing Pumpkins. Member of Be-Sharps, charged with sexual harassment, fought world heavyweight boxing champion Dredrick Tatum, befriended Michael Jackson, supplied the voice of the Itchy & Scratchy character Poochie. Fave beverage: Duff. Fave food: Donuts. Weight: Around 239lbs.
+HUGO SIMPSON	BART SIMPSON'S sinister half-brother who lives in the attic and survives on a bucket of fish heads once a week.
+ITCHY & SCRATCHY	Popular cartoon show among the younger generation. The show consists of 2 characters, Itchy is a mouse who is always inventing new ways to try and kill Scratchy (the cat).
+JAMES BONT	Arch nemesis of HANK SCORPIO. Unfortunately Mr BONT does not thwart SCORPIO'S PLANS.
+JEBADIAH SPRINGFIELD	Founder of the town of SPRINGFIELD. Legend has it that he killed a bear with his bare hands. Although a hero among the townspeople, LISA SIMPSON has found out that JEBADIAH was a phony, he was actually a pirate named Hans Sprungfeld.
+JIMBO JONES	One of the 4 school bullies. See also NELSON MUNTZ, KEARNEY and DOLPH.
+JULIUS HIBBERT	Family doctor of the SIMPSON family. Delivered all 3 of MARGE'S children. Has also performed important surgery on HOMER and GRANDPA SIMPSON including a liver transplant.
+KANG & KODOS	2 of the popular aliens to have appeared in SPRINGFIELD. Before they have: been on the Jerry Springer Show, ran for President, impregnated MARGE and kidnapped the SIMPSONS, they're not all bad though.
+KBBL	Local radio station where BART won his elephant, STAMPY. To win their prises, you have to answer the phone with the phrase "KBBL is gonna give me somethin' stupid".
+KENT BROCKMAN	Local TV anchorman who is married to Stephanie the weather girl. Among others, he presents Smartine, My Two Cents and Eye On SPRINGFIELD.
+KERNEY	another bully at the school. See also, DOLPH, JIMBO JONES and NELSON MUNTZ.
+KRUSTY THE KLOWN	Hero and idol of BART SIMPSON. Was once wrongly accused of robbing the KWIK-E-MART. His own moneymaking product are stung with many faults, the phone number for complains is: 1-800-DONT-SUE.
+KWIK-E-MART	The SPRINGFIELD branch is run by APU NAHASAPEEMAPETILON. It is renowned for it's high prices and high crime rate.
+KWYJIBO	Once used by BART in a game of Scrabble, this word would have got a minimum points score of 26 and a maximum of 86, according to BART, a KWYJIBO is a "fat, dumb, balding North American ape with no chin".
+LADDIE	Dog bought by the SIMPSONS to replace SANTA'S LITTLE HELPER after he went mad. Was later given to a blind old man.
+LARRY	Long-lost son of CHARLES MONTGOMERIE BURNS. Unlike his dad, LARRY has a sense of humour and is quite easy to get along with.
+LENNY	Friend of CARL and HOMER, works at the NUCLEAR POWER PLANT, was a member of the STONECUTTERS.
+LIONEL HUTZ	Attorney of the SIMPSONS, chances of victory: 1/1000000.
+LISA SIMPSON	Brainy, smart-arse of the SIMPSON family. Plays the saxophone (and guitar), has had crushes on NELSON MUNTZ and Mr Bergstrom, a member of M.E.N.S.A. and has made 13 appearances on KENT BROCKMAN'S show Smartline.
+LUNCHLADY DORIS	Middle-aged, smoking, lunchlady of SPRINGFIELD ELEMENTARY SCHOOL. Doubles up as the school nurse to get two paychecks.
+MAGGIE SIMPSON	Youngest of the SIMPSON family, strangely her real father is KANG. She was conceived during a cross-species experiment. Her only true enemy is GERALD. MAGGIE has a real talent of being able to spell out "E=MC2" on her building blocks.
+MARGE SIMPSON	Hair-dying, mother of BART, LISA and MAGGIE, wife of HOMER, sister of PATTY & SELMA. Boring person.
+MARTIN PRINCE	Brainy, nerdy nerd at SPRINGFIELD ELEMENTARY SCHOOL, gets regular beating from the bullies, has no real friends.
+MAYOR DIAMOND JOE QUIMBY	The mayor of SPRINGFIELD, once hired HOMER as his bodyguard. Takes bribes constantly from FAT TONY. Uncle of FREDDY QUIMBY.
+MICHAEL JACKSON	Mega pop star. despite his appearance it was his voice which appeared on the show (although it is credited as John Jay Smith, due to contractual obligations).
+MILHOUSE	Once described as a "wiener kid" by HOMER. Gets scared easily, comes from a broken family (his mum ran off with a gladiator). Still, he is BART'S best friend.
+MOE SYZLAK	Owner and operator of MOE'S TAVERN, once turned the bar into a restaurant calling himself Uncie Moe, the project however, went sour after he started swearing at the kids.
+MOE'S TAVERN	Bar owned by MOE SYZLAK.
+NED FLANDERS	Religious, god-loving father of 2. Is actually an O.A.P. at 60 years old, but retains his youthful looks by restraining from the evils of alcohol and drugs. Doesn't have any form of insurance as he considers it a form of gambling. Has a bomb shelter in his back garden.
+NELSON MUNTZ	One of the 4 bullies in SPRINGFIELD ELEMENTARY SCHOOL, once the object of LISA SIMPSON'S desire.
+NICK RIVIERA	SPRINGFIELD'S second doctor, not as good as JULIUS HIBBERT. A member of the Back-Alley Medical Group. Once performed a triple bypass on HOMER SIMPSON.
+NUCLEAR POWER PLANT	Owned and run by CHARLES MONTGOMERIE BURNS. The Plant is responsible for both SPRINGFIELD'S high impotence rates and also BLINKY THE THREE-EYED FISH.
+OTTO	Local bus driver, among other he drives the bus for the SPRINGFIELD prison and the ELEMENTARY SCHOOL.
+PATTY & SELMA	Twin sisters of MARGE SIMPSON. They share their love for cigarettes, TV show MacGyver and their hatred for HOMER SIMPSON.
+PIMPLE-FACED KID	Has been employed at: Krustyburger, Gulp 'n' Blow, Lard Lad, IRS Burger and Burn's Casino, has lots of pimples.
+PIN PALS	Name of HOMER'S league bowling team, funded by MR BURNS. Others in the team were: OTTO, MOE and APU.
+POLICE CHIEF CLANCY WIGGUM	Overweight, eer...police chief of SPRINGFIELD. Not very good at his job. Father of the hapless RALPH WIGGUM, often abuses his power.
+POOCHIE	ITCHY & SCRATCHY Show character invented to try and increase the show's poor ratings, the voice was provided by HOMER SIMPSON, the character was thus, a big flop.
+PROFESSOR JOHN FRINK	SPRINGFIELD'S chief inventor. Has invented such things as a Matter Transporter, a Frog Exaggerator, a Flying Motorbike and a house that is able to run.
+QUEER	People of a homosexual who have appeared on the show are: WAYLON SMITHERS and John who befriended the SIMPSONS. SPRINGFIELD also has a gay steel mill. See also GAY.
+RALPH WIGGUM	Hapless, unintelligent, but very funny son of POLICE CHIEF CLANCY WIGGUM, often picks his nose.
+RENIER WOLFCASTLE	Actor in the McBain and Radioactive Man movies. A much-liked celebrity.
+REVEREND LOVEJOY	The Reverend of SPRINGFIELD. His daughter, Jessica was much liked by BART SIMPSON.
+ROGER MYERS JUNIOR	Current owner of ITCHY & SCRATCHY and head of the company which he inherited from his father.
+ROGER MYERS SENIOR	Father of ROGER MYERS JUNIOR, creator of ITCHY & SCRATCHY, an idea which he stole off CHESTER J LAMPWICK.
+SANTA'S LITTLE HELPER	The SIMPSON'S family dog. Loved by BART, but not by HOMER after the dog ripped up his $120 Assassin trainers.
+SEYMOUR SKINNER	SPRINGFIELD ELEMENTARY SCHOOL'S principle.
+SHELBYVILLE	Town next to SPRINGFIELD, the residents of the towns hate each other. In SHELBYVILLE it is legal to marry your cousin (urgh!)
+SIDESHOW BOB	Evil, murderous clown formerly employed on the KRUSTY THE KLOWN show, until he framed KRUSTY for armed robbery. Since then, he has been found guilty of attempted murder and kidnapping.
+SIDESHOW CECIL	Brother of SIDESHOW BOB, tried to kill everyone in SPRINGFIELD by blowing up the dam (it didn't work).
+SIDESHOW MEL	KRUSTY THE KLOWN'S current sidekick.
+SIMPSONS	Strange family consisting of HOMER (father), MARGE (mother), BART (eldest child), LISA (middle child) and MAGGIE (baby). The show revolves around them.
+SNAKE	Biggest con in SPRINGFIELD, was executed last Summer, his last word being "Dude".
+SNOWBALL I (R.I.P)|SNOWBALL I	First cat of the SIMPSONS, died after being run over by the Mayor's beer-swilling brother Clovis.
+SNOWBALL II	Current cat of the SIMPSONS.
+SPRINGFIELD	Neighbouring town to SHELBYVILLE, where the show is set.
+SPRINGFIELD ELEMENTARY SCHOOL	SPRINGFIELD'S only school, run by SEYMOUR SKINNER.
+STAMPY	The name of BART'S elephant he won from KBBL radio.
+STONECUTTERS	Anceint society, who HOMER is apparently the leader of.
+SUPERINTENDENT CHALMERS	School inspector who gets up SKINNER'S nose (and vice-versa).
+TREEHOUSE OF HORROR	Without doubt the greatest SIMPSONS episodes ever made, also known as The SIMPSON'S Halloween Specials.
+TROY McCLURE	Local celebrity who is, at the moment, a bit of a washout.
+TUPAC SHAKUR	Greatest rap star and actor to ever live. Starring in such films as Gang Related, Gridlock'd and Poetic Justice. His best songs include Cali Love, Changes and Starin' Through My Rearview. Rest In Peace.
+TV	When BART and LISA asked MAGGIE who she loved best, she came to hug this.
+UNCLE MOE'S FAMILY FEEDBAG	The name of the restaurant MOE turned MOE'S TAVERN into to try and make more money, the idea failed.
+UTER	Foreign exchange student who attends SPRINGFIELD ELEMENTARY SCHOOL.
+V.I.P.	HOMER could not understand what this stands for.
+VALENTINES DAY	LISA once sent a card to RALPH to mark this occasion, it turned into the biggest trouble of her life so far.
+VAMPIRES	Un-dead, bloodsucking peolpe-things. In short they're really cool. Top-class vampire films include: Blade and From Dusk Till Dawn.
+VEGETARIAN	LISA is one of these.
+WAYLON SMITHERS	MR BURN'S right-hand-man. See also QUEER.
+WENDEL	Student at SPRINGFIELD ELEMENTARY SCHOOL. Doesn't have a good stomach.
+WHACKING DAY	A day in which SPRINGFIELD residents drive Snakes into the centre of town and whack them to death. With the help of Barry White, this tradition soon stopped.
+WILLIE	The SCHOOL's groundskeeper. A Scotsman (he wears a skirt and looks like an idiot).
+X-FILES	Popular 1990's TV show whose stars appeared in the episode entitled The SPRINGFIELD Files.
+XT'TAPALATAKETTLE	A gift MR BURNS gave to the SIMPSONS after BART saved his life by giving blood. It is a $32,000 statue of the Olmec Indian God of War.
+XXX	Through HOMER intuition, BART once worked in an XXX Theatre. What many people (including you) use the internet for.
+ZOMBIES	Halloween episodes that feature these are cool. BART believes that they prefer to be called "the living impaired".

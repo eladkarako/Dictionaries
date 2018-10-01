@@ -1,0 +1,953 @@
+##name	Eng2Heb.com
+##sourceLang	English
+##targetLang	Hebrew
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1255
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1255
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##author	Eng2Heb.com
+##email	info@eng2heb.com
+##description	Eng2Heb.com \nDefinitions for words and scientific expressions from various academic domains we couldn't find elsewhere or weren't satisfied with.\nFor English-to-Hebrew translators.
+##browsingEnabled	
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_creationTime	2003/07/04, 16:48
+##bgl_middleUpdated	2007/03/18, 05:52
+ANA|antinuclear antibody test	(ש) בדיקה אנטי-גרעינית לנוגדנים (רפואה)
+ANS|autonomic nervous system|autonomic nervous systems	(ש) מערכת עצבים אוטונומית (פיזיולוגיה)
+ANUG|acute necrotizing ulcerative gingivitis	(ש) אנוג, נומה (רפואה)
+ARC|AIDS-related complex	(ש) קומפלקס קשור לאידס (רפואה)
+Adam's apple|Adam's apples	(ש) סחוס התריס (ביולוגיה)
+Albers-Schonberg disease|Albers-Schonberg|Albers-Schonberg diseases	(ש) התאבנות עצם (רפואה)
+Allium cepa	(ש) בצל הגינה (בוטניקה)
+Alpine scurvy|maidism|mal de la rosa|pellagra	(ש) פלגרה (רפואה)
+Alternaria altemata	(ש) פטרית האלטרנריה (בוטניקה)
+Ammi majus	(ש) אמיתה גדולה (בוטניקה)
+Ammi visnaga	(ש) אמיתה קיצית (בוטניקה)
+Anthemis pseudocotula	(ש) קחון מצוי (בוטניקה)
+As|arsenic	(ש) ארסן (ביוכימיה)
+Asphodelus microcarpus	(ש) עירית גדולה (בוטניקה)
+Astragalus membranaceu	(ש) קדד (בוטניקה)
+Avena sativa	(ש) שיבולת שועל תרבותית (בוטניקה)
+BAM|Business Activity Monitoring	(A) בקרת פעילות עסקית (מחשבים)
+BBB|blood brain barrier|blood brain barriers|blood-brain barrier|blood-brain barriers	(ש) מחיצת דם-מוח (רפואה)
+BCC|basal cell carcinoma|basal cell carcinomas	(ש) קרצינומה של תאי בסיס (רפואה)
+BMI|body mass index	(ש) מדד מסת גוף (רפואה)
+BMT|bone marrow transplantation|bone marrow transplantations	(ש) השתלת מוח עצם (רפואה)
+BPH|Benign Prostatic Hyperplasia|Benign Prostatic Hyperplasias	(ש) גידול שפיר של הערמונית (רפואה)
+Barlow's syndrome|Barlow's syndromes|mitral valve prolapse|mitral valve prolapses	(ש) צניחת מסתם דו-צניפי (רפואה)
+Betula	(ש) שדר (בוטניקה)
+Bison bison	(ש) תאו/באפלו אמריקאי
+Brassica napus|Brassica	(ש) לפתית (אחד מזני הלפתית הוא צמח הקנולה ממנו מייצרים שמן - Brassica oilseed rape) (בוטניקה)
+Brassica nigra	(ש) כרוב שחור (בוטניקה)
+Brassica oilseed rape	(ש) קנולה (בוטניקה)
+C-section|C section|C sections|C-sections	(ש) ניתוח קיסרי (רפואה)
+CABG|coronary artery bypass graft|coronary artery bypass grafts	(ש) מעקף עורק שד פנימי (רפואה)
+CD4 cell|CD4 T cell	(ש) תא עזר T (רפואה)
+CEA|carcinoembryonic antigen|carcinoembryonic antigens	(ש) אנטיגן קרצינו-עוברי (רפואה)
+CREB|cyclic AMP responsive element-binding protein|cyclic AMP responsive element-binding proteins	(ש) חלבון הנקשר לאלמנט מגיב של AMP מעגלי (ביוכימיה)
+CTC|city technology college|city technology colleges	(ש) מכללה טכנולוגית עירונית (חינוך)
+CaM-KII	(ש) קינזת סידן-קלמודולין מסוג II (ביוכימיה)
+Calendula arvensis	(ש) צפורני חתול מצויות (בוטניקה)
+Calycotome villosa	(ש) קדה שעירה (בוטניקה)
+Carthamus tenuis	(ש) קורטם דק (בוטניקה)
+Carthamus tinctorius	(ש) קורטם הצבעים (בוטניקה)
+Census Bureau|census bureau	(ש) לשכת מרשם האוכלוסין בארה"ב
+Centaurea iberica	(ש) דרדר מצוי (בוטניקה)
+Centaurea procurrens	(ש) דרדר הקורים (בוטניקה)
+Centaurea verutum	(ש) דרדר קיפח (בוטניקה)
+Cephalaria syriaca	(ש) שלמון סורי (בוטניקה)
+Cercis siliquastrum	(ש) כליל החורש (בוטניקה)
+Cervus elaphus	(ש) צבי אדום (זאולוגיה)
+Chief Information Officer|CIO|Chief Information Officers	(ש) סמנ"ל מידע (עסקים)
+Chondrichthyes|Chondrichthye	(ש) דגי סחוס (ביולוגיה)
+Chrysanthemum coronarium	(ש) חרצית עטורה (בוטניקה)
+Cichorium pumilum	(ש) עולש מצוי (בוטניקה)
+Cistus	(ש) לוטם (בוטניקה)
+Computer Integrated Manufacturing|CIM	יצור משולב מחשב (טכנולוגיה)
+Covenant Code|covenant codes	(ש) ספר הברית
+Cucurbitaceae	(ש) דלועים (בוטניקה)
+DFEE|department for education and employment	(ש) המחלקה לחינוך ותעסוקה [בריטניה]
+DFM|design for manufacturability	(ש) תכן לייצוריות (טכנולוגיה)
+DRG|dorsal root ganglia|dorsal root ganglion	(ש) גנגליון השורש הגבי (אנטומיה)
+DTS|Data Transformation Services	(ש) שירות העברת נתונים (מחשבים)
+Dactylopteridae|Dactylopteridaes	משפחת דגי הטיר (ביולוגיה)
+Dama dama mesopotamica|dama mesopotamica	(ש) יחמור פרסי
+Daucus aureus	(ש) גזר זהוב (בוטניקה)
+Decision Support System|DSS|Decision Support Systems	(ש) מערכת תומכת החלטה (עסקים)
+Department of Homeland Security|DHS	(ש) המשרד לבטחון המולדת: פרויקט שהקים הנשיא ג'ורג' בוש בעקבות ארועי 11 בספטמבר
+Dermatophagoides pteronyssinus	(ש) קרדית האבק (אנטומולוגיה)
+Diaspora	(ש) גלות, גולה, תפוצות, פזורה
+Diplodus sargus|D. Sargus	(ש) סרגון מסורטט: סוג של דג (זאולוגיה)
+ECT|electroconvulsive therapies|electroconvulsive therapy	(ש) ריפוי בנזע חשמלי (רפואה)
+EDIINT|Electronic Data Interchange Internet Integration|Electronic Data Interchange Internet Integrations	(ש) אינטגרצית אינטרנט של חילופי מידע אלקטרוניים (מחשבים)
+EMG|electromyogram	(ש) אלקטרומיוגרם (אנטומיה)
+EOG|electro oculogram|electro oculograms|electro-oculogram|electro-oculograms	(ש) אלקטרו-אוקולגרם (אנטומיה)
+ETL|Extract Transform and Load|Extract, Transform, and Load	(ש) חילוץ המרה וטעינה (מחשבים)
+Echium judaeum	(ש) עכנאי יהודה (בוטניקה)
+Eleutherococcus senticosus	(ש) גי'נסנג סיבירי (בוטניקה)
+Enterprise Application Integration|EAI	(ש) פתרונות אינטגרציה עסקיים (עסקים)
+Equidae	(ש) משפחת הסוסיים (זאולוגיה)
+Equus burchelli	(ש) זברה (זאולוגיה)
+Equus grevyi	(ש) זברה צרת-פסים (זאולוגיה)
+Equus hemionus	(ש) פרא, חמור בר (זאולוגיה)
+Erodium moschatum	(ש) מקור החסידה המצוי (בוטניקה)
+Eryximachus	(שם פרטי) אריקסימכוס
+Esau	(שם פרטי) עשיו, בנם של יצחק ורבקה. אחיו הבכור התאום של יעקב, אשר קנה מעשיו את הבכורה תמורת נזיד עדשים. האב-הקדמון של אֱדום.<BR>
+Eucalyptus rostrata Schlecht	(ש) אקליפטוס המקור (בוטניקה)
+Euphorbia	(ש) חלבלוב (בוטניקה)
+Euphorbia helioscopia	(ש) חלבלוב השמש (בוטניקה)
+FDI|foreign direct investment|foreign direct investments	(ש) השקעות זרות ישירות (כלכלה)
+Foeniculum vulgare	(ש) שומר פשוט (בוטניקה)
+GATT|General Agreement on Tariffs and Trade	(ש) ההסכם הכללי על מכסים וסחר (כלכלה)
+GM|grant maintained|grant-maintained	(ש) בית-ספר הממומן על ידי מלגות [בריטניה] (חינוך)
+GPT|ALT|alanine aminotransferase|glutamic pyruvic transaminase	(ש) גלוטמין פירוביק טרנסאמינאז (ביוכימיה)
+GTO|Golgi Tendon Organ	(ש) איבר הגיד של גולג'י (אנטומיה)
+Gobiidae	משפחת הגובי, סוג של דג (ביולוגיה)
+Gobius paganellus	(ש) קברנון החוף: סוג של דג (זאולוגיה)
+Gossypium herbaceum	(ש) כותנה (בוטניקה)
+Green Paper|Green Papers	(ש) נייר עמדה ממשלתי [בבריטניה] (פוליטיקה)
+HDL|alpha lipoportein|alpha-lipoportein|high density lipoprotein|high-density lipoprotein	(ש) ליפופרוטאין בצפיפות גבוהה, "הכולסטרול הטוב" (רפואה)
+HRM|human resource management|human resources management	(ש) ניהול משאבי אנוש (כלכלה)
+Heliantus	(ש) חמנית (בוטניקה)
+Huntington chorea	(ש) מחלת הנטינגטון (רפואה)
+Hypericum perforatum	(ש) פרע מחורר (בוטניקה)
+ICC|Integration Competency Center|Integration Competency Centers	(ש) מרכז אינטגרציה (מחשבים)
+ICFTU|International Confederation of Free Trade Unions	(ש) קונפדרציית האיגודים המקצועיים הבינלאומית
+IGL|intergeniculate leaflet|intergeniculate leaflets	(ש) עלעל שבין גרעיני הברך (אנטומיה)
+ILO|International Labor Organization	(ש) ארגון העבודה הבינלאומי
+ISI|import substitution industrialization	(ש) תיעוש כתחליף ליבוא (כלכלה)
+IVF	(ש) הפריה חוץ גופית (רפואה)
+Inula viscose	(ש) טיון דביק (בוטניקה)
+J2EE	(ש) ג'אווה 2 המהדורה העסקית (מחשבים)
+JMS|Java Message Service|Java Message Services	(ש) שירות משלוח הודעות של ג'אווה (מחשבים)
+LDL|beta lipoprotein|beta-lipoprotein|low density lipoprotein|low-density lipoprotein	(ש) ליפופרוטאין בצפיפות נמוכה, "הכולסטרול הרע" (רפואה)
+LEA|local education authorities|local education authority	(ש) רשות חינוך מקומית
+LMS|local management of school|local management of schools	(ש) ניהול מקומי של בתי הספר [בריטניה]
+Lavandula stoechas	(ש) אזוביון דגול (בוטניקה)
+Legg-Calve-Perthes disease|Legg-Calve-Perthes|Legg-Calve-Perthes diseases	(ש) מחלת פרטס (רפואה)
+Lewis formula|Lewis formulas	(ש) נוסחת ייצוג אלקטרונית (ביוכימיה)
+Lilium candidum	(ש) שושן צחור (בוטניקה)
+Lithognathus mormyrus	(ש) שישן מסורטט, מרמיר: סוג של דג (זאולוגיה)
+Liza aurata	(ש) קיפון זהוב: סוג של דג (זאולוגיה)
+Lycopersicon esculentum	(ש) עגבניה (בוטניקה)
+MAI|multilateral agreement on investment	(ש) ההסכם הרב-צדדי להשקעות (כלכלה)
+MFB|medial forebrain bundle|medial forebrain bundles	(ש) אלומה אמצעית של המוח הקדמי (אנטומיה)
+MGm	(ש) גרעין הברך האמצעי - חלק מדיאלי (אנטומיה)
+MPRF|medial pontine reticular formation|medial pontine reticular formations	(ש) תצורת הרשת של אמצע הגשר (אנטומיה)
+MRP|Material Requirements Planning	תכנון דרישות חומרים, תד"ח (טכנולוגיה)
+Majorana syriaca	(ש) אזוב מצוי (בוטניקה)
+Mangifera indica	(ש) מנגו (בוטניקה)
+Matthiola livida	(ש) מנתור המדבר (בוטניקה)
+Medicago	(ש) אספסת (בוטניקה)
+Melilotus albus	(ש) דבש הלבנה (בוטניקה)
+Melissa officinalis	(ש) מליסה רפואית (בוטניקה)
+Mugil cephalus	(ש) בורי, קיפון גדול ראש: סוג של דג (זאולוגיה)
+NGO|NGOs|non-governmental organization|non-governmental organizations	(ש) ארגון לא ממשלתי
+Ocimum basilicum	(ש) ריחן מצוי (בוטניקה)
+Odocoileus virginianus	(ש) צבי לבן זנב (זאולוגיה)
+Ofsted|office for standards in education	(ש) המשרד לסטנדרטים בחינוך [בריטניה] (חינוך)
+Opuntia ficus indica	(ש) צבר מצוי (בוטניקה)
+Orectolobiformes|Orectolobiforme	זננתנאים, משפחה של כרישים (ביולוגיה)
+Ovis aries	(ש) כבשה מבויתת (זאולוגיה)
+Ovis canadensis	(ש) כבשה גדולת קרניים (זאולוגיה)
+Oxalis pes-caprae	(ש) חמציץ נטוי (בוטניקה)
+PACF|Partial AutoCorrelation Function	(ש) פונקציה של מתאם-עצמי חלקי (סטטיסטיקה)
+PC|politically correct	(ת) פוליטיקלי קורקט
+PEF|peak expiratory flow|peak expiratory flows	(ש) זרימת האוויר בשיא הנשיפה (רפואה)
+PFI|PFIs|privative finance initiative|privative finance initiatives	(ש) יוזמות מימון פרטיות [בריטניה] (כלכלה)
+POAH	(ש) האזור הקדם-אופטי וההיפותלמוס הקדמי הסמוך (אנטומיה)
+PPP|PPPs	(ש) שוויון כוח קניה (כלכלה); שותפות ציבורית-פרטית (כלכלה)
+Panax ginseng	(ש) גי'נסנג אסיאתי (בוטניקה)
+Parablennius sanguinolentus	(ש) קברנון דמומי: סוג של דג (זאולוגיה)
+Pareto optimality	(ש) איזון מושלם
+Parietaria officinalis	(ש) כתלית רפואית (בוטניקה)
+Passiflora incarnate	(ש) שעונית (בוטניקה)
+Pausanias	(שם פרטי) פאוסניאס
+Perciformes|Perciforme	סדרת הדקראים, סוג של דג (ביולוגיה)
+Persea americana	(ש) אבוקדו (בוטניקה)
+Phaedrus	(שם פרטי) פיידרוס
+Phleum pratense	(ש) איטן (בוטניקה)
+Populus	(ש) צפצפה (בוטניקה)
+Prosopis farcta	(ש) ינבוט השדה (בוטניקה)
+Prunus amygdalus	(ש) שקד מצוי (בוטניקה)
+QALY|QALYs|Quality Adjusted Life Years	(ש) תוחלת חיים מתוקננת לאיכות חיים (רפואה)
+QCA|qualifications and curriculum authority	(ש) הרשות לכישורים ולתוכנית הלימודים [בריטניה] (חינוך)
+RPC|Remote Procedure Call|Remote Procedure Calls	(ש) קריאה לפרוצדורה מרוחקת (מחשבים)
+Rajidae	משפחת התריסתניים, זן של דגים (ביולוגיה)
+Rangifer tarandus tarandus|R. t. tarandus|R.t. tarandus	(ש) איל (זאולוגיה)
+Raphanus raphanistrum	(ש) צנון מצוי (בוטניקה)
+Reniform	(ת) דמוי כליה
+Retama raetam	(ש) רותם המדבר (בוטניקה)
+Ridolfia segetum	(ש) נירית הקמה (בוטניקה)
+Rosmarinus officinalis	(ש) רוזמרין (בוטניקה)
+Rubinia pseudacacia	(ש) רוביניה בת שיטה (בוטניקה)
+Rubus sanguineus	(ש) פטל קדוש (בוטניקה)
+Ruta chalipinsis	(ש) פיגם מצוי (בוטניקה)
+SCN|suprachiasmatic nuclei|suprachiasmatic nucleus	(ש) גרעין על-כיאזמטי (אנטומיה)
+SEU|social exclusion unit|social exclusion units	(ש) היחידה להדרה חברתית - הוקמה בבריטניה, תחת ממשל מפלגת הלייבור החדשה (פוליטיקה)
+SOA|Service Oriented Architecture|Service Oriented Architectures	(ש) ארכיטקטורה מונחית שירות (מחשבים)
+SSRI|selective serotonin reuptake inhibitor|selective serotonin reuptake inhibitors|specific serotonin reuptake inhibitor|specific serotonin reuptake inhibitors	(ש) מעכב בררני של ספיגה חוזרת של סרוטונין (רפואה)
+Sargocentron rubrum|S. rubrum	(ש) ברקן אדום ים-תיכוני: סוג של דג (זאולוגיה)
+Satureja thymbra	(ש) צתרה ורודה (בוטניקה)
+Scabiosa prolifera	(ש) תגית מצויה (בוטניקה)
+Scolymus hispanicus	(ש) חוח ספרדי (בוטניקה)
+Scutellaria baicalensis	(ש) קערורית (בוטניקה)
+Secale cereale	(ש) שיפון (בוטניקה)
+Senecio	(ש) סביון (בוטניקה)
+Senecio vernalis	(ש) סביון אביבי (בוטניקה)
+Senecio vulgaris	(ש) סביון פשוט (בוטניקה)
+Silybum marianum	(ש) גדילן מצוי (בוטניקה)
+Sinapis	(ש) חרדל (בוטניקה)
+Sinapis alba	(ש) חרדל לבן (בוטניקה)
+Solea solea	(ש) סולית מצויה: סוג של דג (זאולוגיה)
+Stachys	(ש) אשבל (בוטניקה)
+Stellaria media	(ש) כוכבית מצויה (בוטניקה)
+Styrax officinalis	(ש) ליבנה רפואי (בוטניקה)
+TEM|Transmission Electron Microscopy	(ש) מיקרוסקופית אלקטרונים חודרת (ביוכימיה)
+TPS|Transaction Processing System|Transaction Processing Systems	(ש) מערכת עיבוד תנועות (עסקים)
+Tamarix	(ש) אשל (בוטניקה)
+Thymus capitatus	(ש) קורנית מקורקפת (בוטניקה)
+Trachinus draco	(ש) דרקון שדי: סוג של דג (זאולוגיה)
+Trifolium alexandrinum	(ש) תלתן אלכסנדרוני (בוטניקה)
+Trifolium campestre	(ש) תלתן חקלאי (בוטניקה)
+Trifolium dichroanthum	(ש) תלתן דו-גוני (בוטניקה)
+Trifolium palestinum	(ש) תלתן ארצישראלי (בוטניקה)
+Trifolium purpureum	(ש) תלתן הארגמן (בוטניקה)
+Trifolium tomentosum	(ש) תלתן לביד (בוטניקה)
+Trigonella foenum-graecum L.|Trigonella foenum-graecum	(ש) גרגרנית יוונית, חילבה (בוטניקה)
+Triticum aestivum	(ש) חיטה (בוטניקה)
+Turnera diffusa|Damiana	(ש) דמיאנה (בוטניקה)
+Urginea maritime	(ש) חצב מצוי (בוטניקה)
+VAN|Value Added Network|Value Added Networks	(ש) רשת ערך מוסף (מחשבים)
+Verbascum sinuatum	(ש) בוצין מפורץ (בוטניקה)
+Vicia faba	(ש) פול הגינה (בוטניקה)
+Vicia sativa	(ש) בקיה תרבותית (בוטניקה)
+Vitex agnus-castus	(ש) שיח אברהם (בוטניקה)
+WDSL|Web Services Description Language|Web Services Description Languages	(ש) שפה לתיאור שירותי אינטרנט (מחשבים)
+Yin Yang	(ש) יין יאנג / יין ויאנג
+abdominal hernia	(ש) בקע ברום הבטן (רפואה)
+abdominal nerve plexus	(ש) מקלעת סולרית (רפואה)
+abductor muscle|abductor muscles	(ש) שריר מפשק (ביולוגיה)
+abzyme|abzymes	(ש) אבזים; נוגדן קטליטי (מיקרוביולוגיה)
+acculturation|acculturations	(ש) תירבות, אקולטורציה, הסתגלות לתרבות זרה
+accumbens	(ש) אקומבנס (אנטומיה)
+acetic	(ת) אצטי (כימיה)
+acetoacetic	(ת) אצטואצטי (ביוכימיה)
+acetone body|acetone bodies	(ש) קטון, גופי קטון (ביוכימיה)
+acetonemia	(ש) קטוזיס (רפואה)
+acetonuria	(ש) קטונוריה (רפואה)
+achlorhydria	(ש) אכלורהידריה (רפואה)
+achluophobia	(ש) פחד מחושך (פסיכולוגיה)
+acholia	(ש) עימדון מרה, כולסטזיס (רפואה)
+acoustic suspension|acoustic suspensions	(ש) שיכוך אקוסטי (סאונד)
+acquired immunodeficiency syndrome|AIDS	(ש) אידס, תסמונת כשל חיסוני נרכש (רפואה)
+acriasis|acaridiasis|acariosis	(ש) אקריאזיס (רפואה)
+act out|act-out|acted out|acted-out|acting out|acting-out|acts out|acts-out	(ש) להתנהג באופן מוחצן
+actinomyces	(ש) אקטינומיצס (רפואה)
+active crossover|active cross over|active cross overs|active cross-over|active cross-overs|active crossovers	(ש) מפצל תדרים אקטיבי (סאונד)
+actomyosin|actomyosins	(ש) אקטומיוזין (ביולוגיה)
+acupuncture|acupunctures	(ש) דיקור (רפואה)
+acute abdomen	(ש) בטן חדה, בטן אקוטית (רפואה)
+adductor muscle|adductor muscles	(ש) שריר מתווך (ביולוגיה)
+adenine|adenines	(ש) אדנין (ביוכימיה)
+adenitis	(ש) אדניטיס (רפואה)
+adenocarcinoma|adenocarcinomas	(ש) אדנוקרצינומה (רפואה)
+adenomatous	(ת) אדנומטי
+adenovirus|adenoviruses	(ש) אדנו-וירוס (רפואה)
+adhesive capsulitis	(ש) כתף קפואה (רפואה)
+adrenal cortical steroid|adrenal cortical steroids|corticoid|corticoids|corticosteroid|corticosteroids	(ש) קורטיקוסטרואיד (רפואה)
+adrenergic	(ת) אדרנרגי (ביולוגיה)
+adrenergic drug|sympathomimetic durg	(ש) תרופה סימפתומימטית (רפואה)
+aeroembolism|aeroembolisms	(ש) מחלת אמודאים, מחלת קיסון, תסחיף אויר (רפואה)
+aerophobia	(ש) פחד מטיסה (פסיכולוגיה)
+afferent	(ת) אפרנטי (רפואה)
+affirmative action|affirmative actions	(ש) אפליה מתקנת
+afibrinogenemia|afibrinogenemias	(ש) אפיברינוגנמיה (רפואה)
+aflatoxin|aflatoxins	(ש) אפלטוקסין (ביוכימיה)
+after fact	(ת) בדיעבד
+agglutination|agglutinations	(ש) צימות (רפואה)
+aggregate liability|aggregate liabilities	(ש) אחריות מצרפית (משפטים)
+agonist|agonists	(ש) אגוניסט
+agonistic muscle|agonistic muscles	(ש) שריר אגוניסטי (פיזיולוגיה)
+agranulocytosis|agranulosis	(ש) גרנולוציטופניה, אגרנולוציטוזיס (רפואה)
+air sac|air sacs	(ש) נאדית
+akathisia|akathisias	(ש) אקתיזיה (רפואה)
+akinetic mutism|akinetic mutisms	(ש) אלם ללא ניע (פיזיולוגיה)
+alactasia|alactasias	(ש) אלקטזיה (רפואה)
+alcoholic dementia|Korsakoff's psychosis|Korsakoff's syndrome|alcoholic dementias	(ש) תסמונת קורסקוף (רפואה)
+aldosteronism|aldosteronisms	(ש) אלדוסטרוניזם (רפואה)
+alkalating	(ת) מאלקל (ביוכימיה)
+alkaliser|alkalisers|alkalizer|alkalizers	(ש) נוגד חומצה (ביוכימיה)
+alkalosis	(ש) בססת, אלקלוזיס (רפואה)
+alkoxide	(ת) אלקוקסידי (ביוכימיה)
+alopecia areata	(ש) קרחת אזורית (רפואה)
+alpha-adrenergic blocker|alpha adrenergic blocker|alpha blocker	(ש) חוסם אלפא (רפואה)
+alpha-fetoprotein|alpha fetoprotein|alpha fetoproteins|alpha-fetoproteins	(ש) חלבון אלפא-עוברי, אלפא-פטופרוטאין (ביולוגיה)
+altitude disease|altitude sickness	(ש) מחלת גבהים
+alveolitis	(ש) דלקת נאדיות (רפואה)
+amblyopia	(ש) עין עצלה (רפואה)
+amebiasis	(ש) אמביאזיס, דיזנטריה אמבית (רפואה)
+aminoglycoside|aminoglycosides	(ש) אמינוגליקוזיד (ביוכימיה)
+aminosilane|aminosilanes	(ש) אמינוסילאן (כימיה)
+amnionic fluid|amnionic fluids	(ש) מי שפיר (ביולוגיה)
+amnios|amnion|amniotic sac	(ש) שק השפיר (ביולוגיה)
+amphiarthrodial joint	(ש) מפרק נע חלקית (רפואה)
+amygdala|amygdalas|amygdaloid nucleus	(ש) אמיגדלה (פיזיולוגיה)
+amyotrophia|amyotrophias|amyotrophy|amyotrophys	(ש) אמיוטרופיה (רפואה)
+anaplasia|anaplasias	(ש) אנפלזיה (רפואה)
+anaplasty	(ש) ניתוח פלסטי (רפואה)
+ancylostoma|ancylostomas	(ש) אנקילוסטומה (רפואה)
+andro	(ת) גברי, זכרי, אנושי, אנדרו- (קידומת)
+aneuretic	(ת) אניורטי (רפואה)
+angio	(ת) אנגיו-, קידומת המתיחסת לכלי דם או לימפה (פיזיולוגיה)
+angiography|angiographies	(ש) אנגיוגרפיה, צנתור כלי דם (רפואה)
+angiotensin|angiotensins	(ש) אנגיוטנסין (רפואה)
+anisometric	(ת) לא איזומטרי
+anisotropy	(ש) אנאיזוטרופיה (פיזיקה)
+ankylosing spondylitis	(ש) דלקת חוליות מקשחת (רפואה)
+annualized return|annualized returns	(ש) תשואה משונתת (כלכלה)
+anophthalmia|anophthalmias	(ש) אנאופתלמיה - העדר מולד של גלגל העין (רפואה)
+antagonist-precipitated withdrawal|antagonist precipitated withdrawal|antagonist precipitated withdrawals|antagonist-precipitated withdrawals	(ש) גמילה מושרת-אנטגוניסט (רפואה)
+antero-|antero	(ת) קדמי (תחילית)
+anthelminthic|anthelmintic	(ת) נוגד תולעים (רפואה)
+anthropophobia	(ש) פחד מאנשים (פסיכולוגיה)
+antianginal|antianginals	(ש) נוגד תעוקה (רפואה)
+antiarrhythmic|antiarrhythmics	(ש) נוגד הפרעות קצב (רפואה)
+antibody|anti bodies|anti body|antibodies	(ש) אנטיגן, נוגדן
+anticholinergenic|anticholinergenics|anticholinergic drug|parasympatholytic|parasympatholytics	(ש) תרופה פארא-סימפתוליטית (רפואה)
+antihaemophilic factor|factor VIII|hemofil|hemofils	(ש) פקטור VIII (רפואה)
+antiidiotypic	(ת) אנטי-אידיוטיפי (מיקרוביולוגיה)
+antimitotic|antimitotics	(ש) אנטימיטוטי (רפואה)
+antimycotic|antimycotics	(ש) נוגד פטריות (רפואה)
+antisense strand|antisense strands	(ש) גדיל מול-קריא
+antisperm	(ש) נוגד זרע (רפואה)
+antitrypsin	(ש) אנטיטריפסין (ביוכימיה)
+apheresis	(ש) אפרזיס (רפואה)
+apocrine	(ת) אפוקריני (רפואה)
+apostille|apostilles	(ש) אפוסטיל
+appropriate|appropriated|appropriates|appropriating	(פ) לנכס
+appropriation|appropriations	(ש) ניכוס
+aqua fortis|aquafortis|nitric acid	(ש) חומצה חנקתית (ביוכימיה)
+aquaphobia	(ש) פחד ממים (פסיכולוגיה)
+aqueous humor|aqueous humors	(ש) נוזל מימי (ביוכימיה)
+arachnoid membrane|arachnoid membranes	(ש) קרום עכבישי (רפואה)
+arbitration by two arbitrators	(ש) בוררות זבל"א (משפטים)
+arbovirus|arbo virus|arbo-virus|arboviruses	(ש) ארבו-וירוס (רפואה)
+arcus senilis	(ש) קשת הזיקנה (רפואה)
+argyria|argyrias	(ש) רעלת כסף (רפואה)
+ariboflavinosis	(ש) אריבופלבינוזיס (רפואה)
+arteria|arterias	(ש) עורק (פיזיולוגיה)
+arteria axillaris	(ש) עורק בית השחי (פיזיולוגיה)
+arteria brachialis	(ש) עורק הזרוע (רפואה)
+arteria carotis	(ש) עורק תרדמני, עורק התרדמה, קרוטיד (פיזיולוגיה)
+arteria coronaria	(ש) עורק כלילי (פיזיולוגיה)
+arteria femoralis	(ש) עורק הירך (פיזיולוגיה)
+arteria iliaca	(ש) עורקי הכסל (פיזיולוגיה)
+arteria poplitea	(ש) עורק בית הברך (פיזיולוגיה)
+arteria pulmonalis	(ש) עורק ריאתי (פיזיולוגיה)
+arteria radialis	(ש) עורק רדיאלי (פיזיולוגיה)
+arteria renalis	(ש) עורק הכליה (פיזיולוגיה)
+arteria subclavia	(ש) עורק תת-בריחי (פיזיולוגיה)
+arteria temporalis	(ש) עורק הרקה (פיזיולוגיה)
+arteria ulnaris	(ש) עורק הגומד (פיזיולוגיה)
+arteriography	(ש) ארטריוגרפיה (רפואה)
+arteriola	(ש) עורקיק (פיזיולוגיה)
+arthrocentesis	(ש) ניקור מפרק (רפואה)
+arthrodesis	(ש) ארתרודזיה (רפואה)
+arthrography	(ש) ארתרוגרפיה (רפואה)
+arthroscopy|arthroscopies	(ש) ארתרוסקופיה (רפואה)
+articulate|articulated|articulates|articulating	(פ) לחבר, להתחבר (מפרקים, למשל)
+articulatio radiocarpea	(ש) שורש כף היד (פיזיולוגיה)
+articulatio synovialis	(ש) מפרק סינובי (פיזיולוגיה)
+articulatio talocruralis	(ש) קרסול (פיזיולוגיה)
+articulatio temporomandibularis	(ש) מפרק לסתי-רקתי (פיזיולוגיה)
+articulatio trochoidea	(ש) מפרק צירי (פיזיולוגיה)
+artisan|artisans	(ש) בעל מלאכה, אומן
+aspetic	(ת) אספטי (רפואה)
+astheny|asthenia|asthenias|asthenies	(ש) אסתניה (רפואה)
+astragal|astragalus	(ש) עצם הקרסול, טלוס (פיזיולוגיה)
+astroglia|macroglia	(ש) מקרוגליה (רפואה)
+asyndesis	(ש) אסינדזיס (רפואה)
+asystole	(ש) אסיסטולה (רפואה)
+ataractic drug	(ש) תרופת הרגעה (רפואה)
+atonia|atonias	(ש) רפיון (פיזיולוגיה)
+atopy|atopic allergy	(ש) אטופיה (רפואה)
+atresia|atresias	(ש) אטמות (רפואה)
+atrioventricular block|Adams-Stokes syndrome|Adams-Stokes syndromes|atrioventricular blocks|heart block|heart blocks	(ש) תסמונת אדמס-סטוקס (רפואה)
+atypical pneumonia|mycoplasmal pneumonia	(ש) דלקת ריאות מיקופלאסמית (רפואה)
+audioscope	(ש) אודיוסקופ (רפואה)
+auditory area|auditory areas|auditory cortex|auditory cortices	(ש) קליפת השמיעה (רפואה)
+auditory ossicles|auditory ossicle	(ש) עצמימי השמע (פיזיולוגיה)
+auricle|auricles	(ש) אפרכסת (פיזיולוגיה)
+autoagglutination|auto agglutination|auto agglutinations|auto-agglutination|auto-agglutinations|autoagglutinations	(ש) צימות עצמוני (רפואה)
+autoantibody|auto anti bodies|auto anti body|auto antibodies|auto antibody|autoantibodies	(ש) נוגדן עצמי
+autoantigen complementarity	(ש) משלימוּת האנטיגן העצמי: תיאוריה המניחה שפרוטאין או פפטיד קצר, המקודדים על ידי הגדיל המול-קריא (<A href='bword://antisense strand'>antisense strand</A>) של גן, יכולים לעורר שרשרת אירועים המוליכה להיווצרות נוגדן כנגד הפרוטאין שקודד על ידי הגדיל הקריא (<A href='bword://sense strand'>sense strand</A>) של הגן, ובכך לעורר התקפת חיסון עצמית. (מיקרוביולוגיה)
+autocorrelation|auto correlation|auto correlations|auto-correlation|auto-correlations|autocorrelations	(ש) מתאם-עצמי (סטטיסטיקה)
+autocrine	(ת) אוטוקריני (רפואה)
+autodigestion|auto digestion|auto digestions|auto-digestion|auto-digestions|autodigestions	(ש) עיכול עצמי, אוטוליזה (רפואה)
+axon hillock|axon hillocks	(ש) תלולית האקסון (פיזיולוגיה)
+axoplasmic	(ת) אקסופלזמי (פיזיולוגיה)
+axoplasmic transport|axoplasmic transports	(ש) הובלה אקסופלזמית (פיזיולוגיה)
+azoospermia|azoospermias	(ש) חוסר זרע (רפואה)
+azoturia|azoturias	(ש) אזוטוריה (רפואה)
+azygos	(ת) אי-זוגי
+baby tooth|baby teeth	(ש) שן חלב (פיזיולוגיה)
+bacillary dysentery	(ש) שיגלוזיס (רפואה)
+backward integration|backward integrations	(ש) איחוד לאחור (כלכלה)
+bacteriocidal	(ת) בקטריצידלי (רפואה)
+bacteriuria	(ש) בקטריוריה (רפואה)
+barbaric flacon|barbaric flacons	(ש) בז מדברי (זאולוגיה)
+barber’s itch	(ש) סיקוזיס ברבה, דבללת (רפואה)
+baroreceptor|baroreceptors	(ש) קולטן לחץ (רפואה)
+basal body temperature method|basal body temperature methods	(ש) שיטת מדידת החום (רפואה)
+basal forebrain region|basal forebrain regions	(ש) אזור המסד של המוח הקדמי (אנטומיה)
+basal ganglia|basal ganglion	(ש) גנגליונים בסיסיים (אנטומיה)
+basal nucleus|basal nuclei	(ש) גרעין המסד (אנטומיה)
+basement membrane|basement membranes	(ש) קרום בסיס (פיזיולוגיה)
+basic rest-activity cycle|BRAC|basic rest-activity cycles	(ש) קצב בסיסי של פעילות ומנוחה (פיזיולוגיה)
+basolateral nuclei|basolateral nucleus	(ש) גרעין המסד הצדי (פיזיולוגיה)
+basophilia|basophilias	(ש) בזופיליה (רפואה)
+benefit|benefits	(ש) הטבה
+benzodiazepine|benzodiazepines	(ש) בנזודיאזפין (ביוכימיה)
+berylliosis	(ש) בריליוזיס (רפואה)
+beta-adrenergic blocker|beta adrenergic blocker|beta adrenergic blockers|beta-adrenergic blockers	(ש) חסום בטא (רפואה)
+bifurcated	(ת) מפוצל לשניים, מסועף לשניים
+bigeminal pulse|bigeminal pulses	(ש) ביג'מיני (רפואה)
+bighorn sheep|Ovis canadensis|bighorn sheeps	(ש) כבשה גדולת קרניים (זאולוגיה)
+bile pigments|bile pigment	(ש) צבעני מרה (רפואה)
+bile salts|bile salt	(ש) מלחי מרה (רפואה)
+biliary atresia	(ש) אטמות מרה (רפואה)
+biliary cirrhosis|billiary cirrhosis	(ש) שחמת מרה (רפואה)
+biliary colic	(ש) קוליק של המרה (רפואה)
+binge-eating syndrome|binge eating syndrome|binge eating syndromes|binge-eating syndromes|bulimia	(ש) בולימיה (רפואה)
+bioavailability	(ש) זמינות ביולוגית (רפואה)
+biodiversity|biodiversities	(ש) מגוון ביולוגי
+bioequivalent|bioequivalents	(ש) שווה-ערך ביולוגי (ביוכימיה)
+bioinformatic	(ת) ביו-אינפורמטי
+biometry|biostatistics	(ש) ביוסטטיסטיקה (ביוכימיה)
+bioremediation|bioremediations	(ש) ריפוי ביולוגי, שיקום ביולוגי (ביוטכנולוגיה)
+birth control|birth controls|birth prevention|birth preventions	(ש) אמצעי מניעה (רפואה)
+black tongue|black tongues	(ש) לשון שעירה (רפואה)
+blister|blisters	(ש) שלפוחית
+blood clotting|blood coagulation	(ש) קרישת דם (רפואה)
+blood corpuscle|blood corpuscles	(ש) תא דם (פיזיולוגיה)
+blue baby|blue babies	(ש) תינוק כחול (רפואה)
+blue devils	(ש) דליריום טרמנס (רפואה)
+blue-blindness|blue blindness	(ש) טריטנופיה (רפואה)
+boil|boils	(ש) מורסה מוגלתית, פרונקל (רפואה)
+bond|bonds	(ש) אגרת חוב (משפטים)
+bone augmentation|bone augmentations	(ש) אוגמנטציה של הרכס (רפואה)
+bone graft|bone grafts	(ש) שתל עצם (רפואה)
+bone marrow depression|bone marrow depressions	(ש) דיכוי מוח עצם (רפואה)
+bone sclerosis	(ש) טרשת עצם (רפואה)
+bone spur|bone spurs	(ש) דורבן (רפואה)
+booster|booster dose|booster doses|boosters	(ש) מנת דחף (רפואה)
+borelia|borelias|borreliosis	(ש) בורליה (רפואה)
+botryoidal|botryoidals	(ת) כדורי
+brachial plexus	(ש) מקלעת זרוע (פיזיולוגיה)
+brachialis	(ש) ברכיאליס (רפואה)
+brachiocephalic vein|brachiocephalic veins	(ש) וריד אלמוני (רפואה)
+bradykinin	(ש) ברדיקינין (ביוכימיה)
+brain hemorrhage|brain bleeding|brain bleedings|brain hemorrhages	(ש) דימום מוחי (רפואה)
+brandy nose|brandy noses	(ש) רינופימה (רפואה)
+breakbone fever|breakbone fevers	(ש) קדחת דנגה (רפואה)
+brevet rank|brevet ranks	(ש) דרגה ייצוגית
+bring to bear	(פ) להוציא לפועל, ליישם
+broca's area|broca's areas	(ש) אזור ברוקה (רפואה)
+bronchial asthma	(ש) אסתמה, גנחת, קצרת (רפואה)
+bronchial tube|bronchial tubes|bronchus	(ש) סימפון, ברונכוס (פיזיולוגיה)
+bronchogenic	(ת) ברונכוגני (רפואה)
+bronzed diabetes	(ש) המוכרומטוזיס (רפואה)
+brown adipose tissue|brown adipose tissues	(ש) רקמת שומן חומה (רפואה)
+brucellosis	(ש) קדחת מלטה (רפואה)
+bubonic plague|bubonic plagues	(ש) דבר (רפואה)
+buccal gland|buccal glands	(ש) בלוטת לחי (פיזיולוגיה)
+bucktube|bucktubes	(ש) פולרן צינורי ספירלי (כימיה)
+buffer|buffers	(ש) 1. חוצץ, חציצה; 2. מתריס, בופר: חומר המאפשר שמירה על רמת pH קרובה לערך מסוים באמצעות "בליעה" או שחרור של יוני מימן. (ביוכימיה)
+bulbourethral gland|bulbourethral glands	(ש) בלוטת קאופר (רפואה)
+bundle|bundles	(ש) צרור
+bundle branch block|bundle branch blocks	(ש) חסם צרור (רפואה)
+bursa|bursas	(ש) אמתחת, בורסה (פיזיולוגיה)
+buthane|buthanes	(ש) בוטאן (כימיה)
+buthyric	(ת) חמאתי
+buthyric acid	(ש) חומצת חמאה (כימיה)
+byssinosis	(ש) ביסינוזיס (רפואה)
+caisson disease|caisson diseases	(ש) מחלת אמודאים (רפואה)
+calcium blocker|calcium blockers|calcium-channel blocker|calcium-channel blockers	(ש) בולם סידן (רפואה)
+calcium carbonate	(ש) סידן פחמתי, סידן קרבונט (כימיה)
+calculus	(ש) אבנית (רפואה)
+calendar method|calendar methods	(ש) שיטת הימים הבטוחים (רפואה)
+calf bone|calf bones	(ש) שוקית (פיזיולוגיה)
+callosal	(ת) כפיסי (אנטומיה)
+callosal apraxia	(ש) אפרקסיה כפיסית (פיזיולוגיה)
+callositas|callosity|callus	(ש) יבלת (רפואה)
+canaliculus	(ש) תעלית (פיזיולוגיה)
+canalis inguinalis	(ש) תעלה מפשעתית (רפואה)
+cannulation|cannulations	(ש) צנרור (רפואה)
+capillary artery	(ש) עורקיק (פיזיולוגיה)
+capsolotomy|capsolotomies	(ש) פיום קופסית (רפואה)
+capsula glomeruli	(ש) קופסית באומן (רפואה)
+carbachol|carbachols	(ש) קרבקול (רפואה)
+carbamazepine|carbamazepines	(ש) קרבמזפין (רפואה)
+carbuncle	(ש) גחלית (רפואה)
+cardiac glycoside|cardiac glycosides	(ש) קליקוזיד של הלב (רפואה)
+cardiac muscle|cardiac muscles	(ש) שריר הלב (אנטומיה)
+cardiac output|cardiac outputs	(ש) תפוקת הלב (רפואה)
+cardiogenic	(ת) קרדיוגני (רפואה)
+carotenemia	(ש) קרוטנמיה (רפואה)
+carotid artery	(ש) עורק תרדמני (פיזיולוגיה)
+carpal tunnel|carpal tunnels	ש() מנהרת שורש כף היד (פיזיולוגיה)
+cartilaginous cancer	(ש) כונדרוסרקומה (רפואה)
+caseation|caseations	(ש) התגבנות (רפואה)
+cash cow|cash cows	(ש) פרה חולבת (סלנג)
+catecholamines|catecholamine|catecholamino	(ש) קטכולאמינים (ביוכימיה)
+catgut|catguts	(ש) חוט מעיים (פיזיולוגיה)
+cation exhange resin|cation exhange resins	(ש) שרף משחלף קטיונים (ביוכימיה)
+cauda equina	(ש) "זנב סוס" (פיזיולוגיה)
+caudate nucleus|caudate nuclei	(ש) גרעין זנבי (אנטומיה)
+cauliflower ear|cauliflower ears	(ש) "אוזן כרובית" (רפואה)
+caustic|caustics	(ש) חומר מאכּל
+cavernous tissue|cavernous tissues	(ש) רקמה זקיפה (פיזיולוגיה)
+cavum pleurae	(ש) חלל הצדר (פיזיולוגיה)
+cell wall|cell walls|cell-wall|cell-walls	(ש) דופן התא (ביולוגיה)
+cerebellum|cerebellums	(ש) מוחון (אנטומיה)
+cerebral ventricles|cerebral ventricle	(ש) חדרי המוח (אנטומיה)
+characterization|characterizations	(ש) אפיון
+chemical equation|chemical equations	(ש) ניסוח תגובה (ביוכימיה)
+chief warrant officer|chief warrant officers	(ש) רב נגד, רנ"ג
+chondrocyte|chondrocytes	(ש) כונדרוציט, תא סחוס (פיזיולוגיה)
+chondroitin	(ש) כונדרויטין (ביוכימיה)
+clasp-knife reflex|clasp knife reflex|clasp knife reflexs|clasp-knife reflexes	(ש) רפלקס האולר (פיזיולוגיה)
+clay|clays	(ש) חרסית (כימיה)
+clearly	(ת) בעליל
+cloud point|cloud points	(ש) נקודת ערפול (ביוכימיה)
+clozapine	<BR><BR><BR><BR><BR><BR><BR>
+coexistent|co existent	(ת) בו-זמני
+cohesiveness	(ש) לכידות
+collaboration|collaborations	(ש) שיתוף ואיחוד
+colliculus|colliculi	(ש) תליל
+colloform	(ת) דמוי כליה
+combustion|combustions	(ש) שריפה: תגובה כימית בין חומר כלשהו לבין חמצן, בדרך כלל תוך שחרור מהיר של אנרגיה הגורם ללהבה (ביוכימיה)
+commander|commanders	(ש) ניצב משנה
+commissioner|commissioners	(ש) רב ניצב
+commodification|commodifications|comodification|comodifications	(ש) התמסחרות, מסחור
+commodify|commodified|commodifies|commodifying	(פ) למסחר
+commoditised	(ת) ממוסחר
+common law|the common law	(ש) המשפט המקובל (משפטים)
+comorbidity|comorbidities	(ש) תחלואה נלווית (רפואה)
+complementarity	(ש) מַשְׁלִימוּת (מיקרוביולוגיה, פיזיקה)
+complementary protein|complementary proteins	(ש) פרוטאין משלים: לפרוטאין משלים יש כמה משמעויות התלויות בהקשרו הביולוגי. בתיאורית הזיהוי המולקולרי ומשלימות האנטיגן, זהו פרוטאין המקודד על ידי הגדיל המול-קריא (<A href='bword://antisense strand'>antisense strand</A> ) של גן בעל משלימוּת (<A href='bword://complementarity'>complementarity) מבנית ו/או רציפה עם הפרוטאין שקודד על ידי הגדיל הקריא ( </A> <A href='bword://sense strand'>sense strand).</A> (מיקרוביולוגיה)
+complementor|complementors	(ש) חברה המוכרת מוצרים משלימים (כלכלה)
+complete titration|complete titrations	(ש) סתירה מלאה (ביוכימיה)
+concept testing|concept test|concept testings|concept tests	(ש) בדיקת היתכנות
+concomitant	(ת) נלווה, מתלווה
+condemnation|condemnations	(ש) גינוי
+confirmatory	(ת) מאשש (סוג מחקר. בניגוד למחקר מגשש - exploratory).
+conflictual	(ת) סותר, מנוגד, כרוך בקונפליקטים
+constructional apraxia|constructional apraxias	(ש) אפרקסיית בניה (רפואה)
+consultive case|consultive cases	(ש) אבעיה (משפטים)
+contexture|contextures	(ש) מארג, אריגה, מבנה
+contingent	(ת) מותנה, תלוי
+cooperative|cooperatives	(ש) אגודה שיתופית (משפטים)
+corporal|corporals	(ש) סמל שני
+corporate	(ת) תאגידי, משותף
+corticobulbar	(ת) קורטיקו-בולברי (אנטומיה)
+corticorubral	(ת) קורטיקו-רוברלי (אנטומיה)
+corticospinal	(ת) קורטיקו-ספינלי (אנטומיה)
+counterion|counterions	(ש) קטיון מתחלף, קטיון בר-חילוף (ביוכימיה)
+covalent	(ת) אטומרי, קוולנטי (ביוכימיה)
+covalent crystal|covalent crystals	(ש) מוצק אטומרי, מוצק קוולנטי: חומר המורכב מאטומים הקשורים זה לזה באמצעות קשרים קוולנטיים (ביוכימיה)
+covariate|co variate|co variates|co-variate|co-variates|covariates	(ש) משתנה מסביר (סטטיסטיקה)
+coxcomb	(ת) כרבולתי
+crescent|menisc|meniscus	(ת) דמוי חרמש (רפואה)
+crystal|crystals	(ש) מוצק (ביוכימיה)
+cure|cured|cures|curing	(ש) אּשפַר<BR>-------<BR>(פ) אּשפור
+current yield|current yields	(ש) תשואה שוטפת (כלכלה)
+current yield maturity|current yields maturity	(ש) תשואה שוטפת לפדיון (כלכלה)
+cyclohexane|cyclohexanes	(ש) ציקלוהקסאן
+cynophobia	(ש) פחד מכלבים (פסיכולוגיה)
+dam|dams	(ש) עָלָה: בהמה מינקת
+deagglomerate|deagglomerated|deagglomerates|deagglomerating	(פ) מתפרק
+deagglomeration|deagglomerations	(ש) פירוק
+decerebrate|decerebrates	(ת) כרות מוח (אנטומיה)
+decerebrate rigidity|decerebrate rigidities	(ש) קשיון כורות-המוח (אנטומיה)
+deemphasize|de emphasize|de emphasized|de emphasizes|de emphasizing|de-emphasize|de-emphasized|de-emphasizes|de-emphasizing|deemphasized|deemphasizes|deemphasizing	(פ) להמעיט בערך, להמעיט בחשיבות
+deinstitutionalization|de institutionalization|de institutionalizations|de-institutionalization|de-institutionalizations|deinstitutionalizations	(ש) אי מיסוד
+delamination|delaminations	(ש) היפרדות לשכבות
+delayed matching-to-sample task|delayed matching-to-sample tasks	(ש) מטלת התאמה מושהית לגירוי מדגמי (פסיכולוגיה)
+delegitimate|de legitimate|de legitimated|de legitimates|de legitimating|de-legitimate|de-legitimated|de-legitimates|de-legitimating|delegitimated|delegitimates|delegitimating	(פ) ביצוע פעולה של דה-לגיטימציה: ביטול התוקף הלגיטימי או החוקי של דבר כלשהו.
+deligitimization|de ligitimization|de ligitimizations|de-ligitimization|de-ligitimizations|deligitimizations	(ש) דה-לגיטימציה: ביטול התוקף הלגיטימי או החוקי של דבר כלשהו.
+dendritic	(ת) דנדריטי (אנטומיה)
+dendritic spike|dendritic spikes	(ש) פוטנציאל פעולה דנדריטי (אנטומיה)
+density function|density functions	(ש) פונקציית צפיפות, צפיפות הפילוג (סטטיסטיקה)
+dentate gyrus	(ש) רכס משונן (אנטומיה)
+dependents benefit|dependent benefit|dependent benefits|dependents benefits	(ש) גמלת תלויים (משפטים)
+depletion|depletions	(ש) דלדול
+desynchrony|desynchronies	(ש) אי-סינכרוניות
+deterritorialized|deterritorialised	(ת) נטול טריטוריה
+diachrony	(ש) דיאכרוניות
+diagnosis	(ש) אבחון
+diamine|diamines	(ש) די-אמין (כימיה)
+dichotomize|dichotomized|dichotomizes|dichotomizing	(פ) ליצור דיכוטומיה, להפריד בין שני דברים שונים או מנוגדים
+diglycidyl|diglycidyls	(ש) דיגליצידיל (כימיה)
+dilution|dilutions	(ש) מהילה
+dinucleotide|dinucleotides	(ש) דינוקלאוטיד (ביוכימיה)
+diocotyledon|dicot|dicots|diocotyledons	(ת) דו-פסיגי (בוטניקה)
+dioctahedral|dioctahedrals	(ת) דו-תמניוני (גיאומטריה)
+discectomy|discectomies	(ש) ניתוח כריתת דיסקה בעמוד שידרה מותני (רפואה)
+discourse|discourses	(ש) דיון, שיח<HR>(פ) ניהול שיח
+disintermediation|disintermediations	(ש) קץ עידן התיווך: המדיה החדשה (כגון האינטרנט) גורמת לנטרול תפקידי המתווכים (כגון פקידי בנק, סוכני ביטוח, סוכני נסיעות, מוכרים וכו') ומאפשרת גישה ישירה בין הלקוח לספק.
+disintermediator|disintermediators	(ש) גורם המבטל את הצורך בתיווך: המדיה החדשה (כגון האינטרנט) גורמת לנטרול תפקידי המתווכים (כגון פקידי בנק, סוכני ביטוח, סוכני נסיעות, מוכרים וכו') ומאפשרת גישה ישירה בין הלקוח לספק. האינטרנט, לפיכך, הוא דוגמה לגורם המבטל את הצורך בתיווך.<BR>
+display rule|display rules	(ש) חוק תצוגה (אנתרופולוגיה)
+disruptive idea|disruptive ideas	(ש) רעיון מערער
+dividend payout|dividend payouts	(ש) תשלום דיבידנד (כלכלה)
+dormancy|dormancies	(ש) תרדמה
+dramaturgy	(ש) דרמטורגיה, מחזאות
+drug discrimination procedure|drug discrimination procedures	(ש) נוהל הבחנה בין סמים (פסיכולוגיה)
+drusy	(ת) מצופה בקרום
+duress|duresses	(ש) אונס, אילוץ, כפיה (משפטים)
+dynorphin|dynorphins	(ש) דינורפין (ביוכימיה)
+earnings yield|earning yield|earning yields|earnings yields	(ש) תשואת רווחים (כלכלה)
+eavesdropping	(ש) האזנת סתר
+electonegativity|electo-negativity|electon-egativities|electonegativities	(ש) אלקטרושליליות: מדד ליכולת אטום במולקולה למשוך אליו את אלקטרוני הקשר (ביוכימיה)
+electron density|electron densities|electrons densities|electrons density	(ש) צפיפות מטען (ביוכימיה)
+electrophile|electrophiles	(ש) אלקטרופיל (ביוכימיה)
+employers' liability insurance|employer's liability insurance|employer's liability insurances|employers' liability insurances	(ש) ביטוח חבות מעבידים
+end plate|end plates|endplate|endplates	(ש) לוחית סופית (אנטומיה)
+endochondral	(ת) תוך-סחוסי (פיזיולוגיה)
+entorhinal	(ת) אנטוריני (אנטומיה)
+entrepreneurial	(ת) יזמי
+entrepreneurship|entrepreneurships	(ש) יזמות
+epitope|epitopes	(ש) אפיטופ (אזור באנטיגן, שאליו נקשר נוגדן באופן ייחודי) (מיקרוביולוגיה)
+equity	(ש) דיני היושר (משפטים)
+ergometer|ergometers	(ש) ארגומטר - מכשיר המודד כמות עבודה הנעשית באמצעות פעילות של שריר.
+essentialist|essentialists	(ת) מהותני, אסנציאליסטי
+eternally in disgrace	(ת) לדראון עולם
+ethylene glycol	(ש) אתילן גליקול (כימיה)
+evaporation|evaporations	(ש) אידוי: מעבר של חלקיקי חומר מנוזל לגז (ביוכימיה)
+exchequer|exchequers	(ש) אוצר המדינה
+expected yield|expected yields	(ש) תשואה צפויה (כלכלה)
+exploratory	(ת) מגשש (סוג מחקר. בניגוד למחקר מאשש - confirmatory)
+extrafusal	(ת) חוץ-כישורי (אנטומיה)
+fan-tailed raven|fan tailed raven|fan tailed ravens|fan-tailed ravens	(ש) עורב קצר זנב (זאולוגיה)
+fastigial	(ת) פסטיגיאלי (אנטומיה)
+fatal familial insomnia	(ש) אל-שינה תורשתית קטלנית (רפואה)
+fetal reduction|fetal reductions	(ש) דילול עוברים (רפואה)
+first sergeant|first sergeants	(ש) רב סמל ראשון, רס"ר
+flexural	(ת) של גמישות
+flocculonodular	(ת) פלוקולו-נודולרי (אנטומיה)
+fluidization|fluidisation|fluidisations|fluidizations	(ש) הרחפה, הפיכה לנוזל
+foot dragging|foot draggings|foot-dragging|foot-draggings	(ש) סחבת
+forensic ballistics	(ש) בליסטיקה משפטית (משפטים)
+fornix	(ש) פורניקס (אנטומיה)
+forward combination|forward combinations	(ש) איחוד לפנים (כלכלה)
+forward integration|forward integrations	(ש) איחוד לפנים (כלכלה)
+fugitive|fugitives	(ש) אסיר נמלט
+fullerene|fullerenes	(ש) פולרן (כימיה)
+funduscopy|funduscopic	(ש) בדיקת קרקעית העין באמצעות פונדוסקופ (אופתלמוסקופ)
+gamma motor neuron|gamma motor neurons	(ש) נוירון מוטורי מסוג גאמה (אנטומיה)
+gender role|gender roles	(ש) תפקיד מגדרי
+gene expression|gene expressions	(ש) ביטוי גנים
+general obligation bond|general obligation bonds	(ש) אגרת חוב בהתחיבות כללית (כלכלה)
+generalist|generalists	(ש) איש אשכולות
+genophobia	(ש) פחד מיחסי מין (פסיכולוגיה)
+geostationary	(ת) גיאוסטציונרי: הנמצא מעל נקודה קבועה בכוכב (לרוב לגבי לווין שנע במסלול מקביל לכדור הארץ, כך שהוא תמיד נמצא מעל נקודה קבועה על פני כדור הארץ. מסלול של לווין שכזה נקרא מסלול גיאוסינכרוני).<BR>
+geosynchronous	(ת) גיאוסינכרוני: מסלול תנועה של עצם בחלל כך שהוא נמצא תמיד מעל נקודה קבועה בכוכב (לרוב לגבי לווין שנע במסלול מקביל לכדור הארץ, כך שהוא תמיד נמצא מעל נקודה קבועה על פני כדור הארץ. לווין כזה נקרא לווין גיאוסטציונרי).
+glia	(ש) תאי-גליאה / תאי תמך (אנטומיה)
+globus pallidus	(ש) גלובוס פלידוס, הגרעין החיוור (אנטומיה)
+glocalization|global localization|global localizations|glocalizations	(ש) גלוקליזציה (קיצור של Global Localization)
+glomerulonephritis	(ש) דלקת הכליות (רפואה)
+glutaraldehyde	(ש) גלוטראדהיד (ביוכימיה)
+graminaceae	(ש) דגניים (בוטניקה)
+granule	(ת) גרעיני
+granule constituent|granule constituents	(ש) מרכיב גרעין (ביולוגיה)
+grevy's zebra|Equus grevyi	(ש) זברה צרת-פסים (זאולוגיה)
+gross current yield|gross current yields	(ש) תשואה שוטפת ברוטו (כלכלה)
+grossing up|gross up|grossed up	(ש) גילום
+growth plate|growth plates	(ש) לוחית הגדילה (פיזיולוגיה)
+headquarters	(ש) מטה, מפקדה, פיקוד
+headteacher|headteachers	(ש) מנהל [בריטניה]
+hematophobia	(ש) פחד מדם (פסיכולוגיה)
+hemippus	(ש) פרא (חמור בר) סורי (זאולוגיה)
+hemoglobine|hemoglobines	(ש) המוגלובין (כימיה)
+heteroatom|heteroatoms	(ש) הטרו-אטום (ביוכימיה)
+heterodimer|heterodimers	(ש) חלבון המורכב משתי שרשרות פוליפפטידיות שונות (בניגוד להומודימר) (ביוכימיה)
+heteroglossia	(ש) רב-דיבוריות: מונח שטבע חוקר הספרות מיכאיל בחטין (Bakhtin). הרב-דיבוריות מאפיינת את הרומן, בניגוד למונולוגיה, המאפיינית, לדבריו את השירה. ברב-דיבוריות כל קול כולל בתוכו ריבוי של כוונות ומשמעויות. (ספרות)
+hexane|hexanes	(ש) הקסאן (כימיה)
+home office	(ש) משרד הפנים (באנגליה)
+homeostasis	(ש) איזון
+homodimmer|homodimmers	(ש) חלבון המורכב משתי שרשרות פוליפפטידיות זהות (בניגוד להטרודימר) (ביוכימיה)
+homophobia	(ש) פחד מהומוסקסואליות (פסיכולוגיה)
+hurt murmur|hurt murmurs	(ש) אוושה בלב (רפואה)
+hush money	(ש) דמי שתיקה
+hydration|hydrations	(ש) מיום (ביוכימיה)
+hydrogel|hydrogels	(ש) הידרוג'ל (ביוכימיה)
+hydronium	(ש) הידרוניום (ביוכימיה)
+hydropathy	(ש) הידרופתיה: מידת הנטייה של חומצת אמינו להיכנס לסביבה אי-קוטבית (הידרופובית). (מיקרוביולוגיה)
+hydrophobize|hydrophobized|hydrophobizes|hydrophobizing	(פ) להפוך להידרופובי (כימיה)
+hypnagogic	(ת) היפנגוגי (רפואה)
+ideation|ideations	(ש) רעיונאות
+idle threat	(ש) איום שווא
+ignorance of the law	(ש) אי ידיעת החוק (משפטים)
+immiserate|immiserated|immiserates|immiserating	(פ) לאמלל
+immiserated	(ת) אומלל
+immobilize|immobilise|immobilised|immobilises|immobilising|immobilized|immobilizes|immobilizing	(פ) לשתק, להדמים
+immobilized|immobilised	(ת) משותק, מודמם
+immunogenesis	(ש) אימונוגנטיקה (מיקרוביולוגיה)
+immunogenetic	(ת) אימוגנטי (ביולוגיה)
+impairment|impairments	(ש) ירידת ערך (כלכלה)
+in dreadful disgrace|dreadful disgrace	(ת) לדראון עולם
+in the bud	(ת) באיבו
+inform|informed|informing|informs	(פ) לבסס, לתרום ל
+informed	(ת) מבוסס
+innovation value|innovation values	(ש) יצירת ערך מחדשנות
+installment payment|installment payments	(ש) תשלום לשיעורין (כלכלה)
+interact|interacted|interacting|interacts	(פ) לפעול באופן אינטראקטיבי
+interlaminar	(ת) בין-שכבתי
+internal working model|internal working models	(ש) דגם-פעולה מנטלי (פסיכולוגיה)
+interposed	(ת) חוצץ
+interspesific|inter specific|inter-specific	(ת) בין-מיני (ביולוגיה)
+intrafusal	(ת) תוך-כישורי (אנטומיה)
+junior bond|junior bonds	(ש) אגרת חוב בדרגה שניה (כלכלה)
+keratinocyte|keratinocytes	(ש) קרטינוסיט (ביוכימיה)
+kiang|kiangs	(ש) קיאנג, פרא (חמור בר) טיבטי (זאולוגיה)
+kinesphere|kinespheres	(ש) מרחב אישי - שדה מרחבי משוער מסביב לגוף. השטח אליו ניתן להגיע על ידי מתיחת כל האיברים מבלי לזוז מהמקום. המרחב האישי נע עם האדם.
+kuhr|kuhrs	(ש) קור, פרא (חמור בר) הודי (זאולוגיה)
+kulan|kulans	(ש) קולאן, פרא (חמור בר) מונגולי (זאולוגיה)
+lactamase	(ש) לקטמז (ביוכימיה)
+laminin	(ש) למינין (ביוכימיה)
+lance corporal|lance corporals	(ש) רב שוטר
+lateral corticospinal tract	(ש) מסילה קורטיקו-ספינלית צדית (פיזיולוגיה)
+lateral geniculate nucleus|LGN|lateral geniculate nuclei	(ש) גרעין הברך הצדי (פיזיולוגיה)
+lateral nuclei|lateral nucleus	(ש) גרעין צדי (פיזיולוגיה)
+latitude effect|latitude effects	(ש) אפקט קו הרוחב: שיעור מוגבר של מקרי סכיזופרניה בקרב אנשים שנולדו הרחק מקו המשווה (פסיכולוגיה)
+left parietal apraxia	(ש) אפרקסיה קדקודית שמאלית (פיזיולוגיה)
+legum doctor	(ש) דוקטור במשפטים
+liability|liabilities	(ש) אחריות (משפטים)
+licence fee|licence fees	)שם) אגרת רשיון (כלכלה)
+ligand|ligands	(ש) קשיר, ליגנד (מיקרוביולוגיה)
+liquid vehicle|liquid vehicles	(ש) נוזל נושא: נוזל שבו ממסים או מערבבים דבר אחר (כימיה)
+liquidambar|liquidambars	(ש) ליקווידמבר (סוג של עץ)
+litigation fee|litigation fees	(ש) אגרת בית משפט (משפטים)
+locus coeruleus|locus coerulei	(ש) אתר תכול (פיזיולוגיה)
+long-term depression|LTD|long term depression|long term depressions|long-term depressions	(ש) דיכוי ארוך טווח (פיזיולוגיה)
+long-term potentiation|LTP|long term potentiation|long term potentiations|long-term potentiations	(ש) הגברה ארוכת טווח (פיזיולוגיה)
+looting|lootings	(ש) ביזה
+loss payable clause|loss payable clauses	(ש) סעיף תשלום נזק (כלכלה)
+macroalgae	(ש) אצות, עשבי ים
+magnocellular	(ת) מגנוצלולרי (אנטומיה)
+main effect|main effects	(ש) אפקט עיקרי (סטטיסטיקה)
+malicious accusation|malicious accusations	(ש) האשמה זדונית (משפטים)
+mammillary	(ת) דדי (אנטומיה)
+management innovation|management innovations	(ש) ניהול חדשנות
+manipulate|manipulated|manipulates|manipulating	(פ) לתפעל, להפעיל, לתמרן, להוביל מישהו באף, לתחמן
+manualism	(ש) שימוש בידיים לצורך תקשורת
+manufacturability|manufacturabilities	(ש) ייצוריות (טכנולוגיה)
+marginalization|marginalisation|marginalisations|marginalizations	(ש) שוליות, דחיקה לשוליים
+marketing mix|marketing mixes	(ש) תמהיל שיווק (שיווק ופרסום)
+mercapto|mercaptos	(ש) מרקפטו (כימיה)
+meristem|meristems	(ש) רקמה יוצרת (בוטניקה)
+mesocortical	(ת) מזו-קורטיקלי (אנטומיה)
+mesolimbic	(ת) מזו-לימבי (אנטומיה)
+metabolomics	(ש) מטבולומיקה: ניתוח כללי של מטבוליטים, מולקולות קטנות שנוצרות בתהליך המטבוליזם.
+metalation|metalations	(ש) מטלציה (ביוכימיה)
+metalinguistic	(ת) מטא-בלשני: מונח שטבע מיכאיל בחטין
+metalinguistics	(ש) מטא-בלשנות: מונח שטבע מיכאיל בחטין
+metaphysis	(ש) מטפיזה (ביוכימיה)
+mindset|mindsets	(ש) דרך חשיבה
+molar	(ת) מולרי (ביוכימיה)
+mole|moles	(ש) מול: יחידה המייצגת כמות של מספר אבוגדרו של פריטים (בד"כ מספר גדול מאוד של פריטים).
+monocotyledon|monocot|monocots|monocotyledons	(ת) חד-פסיגי (בוטניקה)
+monosynaptic	(ת) חד-סינפטי (אנטומיה)
+montmorillonite|montmorillonites	(ש) מונטמורילוניט (כימיה)
+morphometric	(ת) מורפומטרי
+morphometrics	(ש) מורפומטריה
+mucopolysaccharide|mucopolysaccharides	(ש) מוקופוליסכריד (ביוכימיה)
+mudskipper|mudskippers	(ש) יבשתן אטלנטי, סוג של דג (ביולוגיה)
+multidomestic|multi domestic|multi-domestic	(ת) רב-מקומי (כלכלה)
+multifold	(ת) הרבה, מרובה, רב
+multiplicative|multiplicatives	(ת) כפלי (מתמטיקה)
+multiplicative function|multiplicative functions	(ש) פונקציה כפלית (מתמטיקה)
+muscle spindle|muscle spindles	(ש) כישור השריר (אנטומיה)
+myofibril|myofibrils	(ש) מיופיברילה (אנטומיה)
+myoglobine|myoglobines	(ש) מיוגלובין (כימיה)
+net current yield|net current yields	(ש) תשואה שוטפת נטו (כלכלה)
+nitrophenol|nitrophenols	(ש) ניטרופנול (כימיה)
+nodular|nodulars	(ת) פקעתי
+non-committal|non committal|noncommittal	(ת) לא מחייב
+non-commoditised|non commoditised	(ת) לא ממוסחר, בלתי ממוסחר
+noncompliant|non-compliant	(ת) לא צייתן, לא כנוע
+normal return|normal returns	(ש) תשואה רגילה (כלכלה)
+nucleophile|nucleophiles	(ש) נוקלאופיל (ביוכימיה)
+numinosity|numinosities	(ש) קדוּשה
+objectification	(ש) החפצה, אובייקטיפיקציה
+oblique rotation|oblique rotations	(ש) רוטציה אלכסונית (סטטיסטיקה)
+occupancy|occupancies	(ש) תפוסה
+occupation fee|occupation fees	(ש) אגרת עיסוק (כלכלה)
+oligomer|oligomers	(ש) אוליגומר
+oligonucleotide|oligonucleotides	(ש) אוליגונוקלאוטיד (כימיה)
+on the ground|on the grounds	(ת) בזירת ההתרחשות
+onager|onagers	(ש) אונגר, פרא (חמור בר) פרסי (זאולוגיה)
+oncogene|oncogenes	(ש) אונקוגן (ביוכימיה)
+operating leverage|operating leverages	(ש) מינוף תפעולי (כלכלה)
+opinionation|opinionations	(ש) דוגמטיות, עקשנות
+optacon|optacons	(ש) אופטקון - מכשיר עזר לקריאה לעיוורים.
+option bond|option bonds	(ש) אגרת חוב אופציה (כלכלה)
+oralism	(ש) שיטה אוראלית לחירשים.
+outlier|outliers	(ש) נקודה חריגה (סטטיסטיקה)
+pane|panes	(ש) חלונית (מחשבים)
+panopticon|panopticons	(ש) פנאופטיקון - כלא הבנוי בצורת גליל שבמרכזו מגדל שמירה מתוכו ניתן לצפות בכל המבנה.
+par excellence	(ת) מובהק
+pathophysiologic	(ת) פתופיזיולוגי (רפואה)
+pathophysiologics	(ש) פתופיזיולוגיה (רפואה)
+payment in kind|payments in kind	(ש) תשלום בעין (כלכלה)
+pension benefits|pension benefit	(ש) תשלומי פנסיה (כלכלה)
+penthene|penthenes	(ש) פנטאן (כימיה)
+peribrachial	(ת) פרי-ברכיאלי (אנטומיה)
+perinatal|perinatals	(ש) סב-לידתי - כינוי לתקופת הלידה או לזמן קצר לפניה ואחריה.
+peroxy|peroxies	(ש) פרוקסי (כימיה)
+perseveration	(ש) פרסברציה
+phengophobia	(ש) פחד מאור טבעי (פסיכולוגיה)
+phenomenology	(ש) פנומנולוגיה: תנועה פילוסופית שנוסדה בשנת 1905 בערך על ידי הוסרל, שעיקרה חקירת דברים בהתבסס על האופן בו הם נתפסים ונחווים על ידי התודעה האנושית, ולא על בסיס הנחות מוקדמות <BR>
+phosphodiester|phosphodiesters	(ש) פוספודיאסטר (ביוכימיה)
+phosphoinositide	(ת) פוספו-אינוסטידי (אנטומיה)
+pimozide	(ש) פימוזיד (רפואה)
+plundering	(ש) ביזה
+politically incorrect	(ת) לא תקין פוליטית
+polyarchy	(ש) פוליארכיה
+polyiamide|polyiamides	(ש) פוליאמיד (כימיה)
+polyimide|polyimides	(ש) פולימיד (כימיה)
+polyolefin|polyolefins	(ש) פוליאולפין (כימיה)
+polypropylene|polypropylenes	(ש) פוליפרופילן (כימיה)
+premotor	(ת) קדם-מוטורי (אנטומיה)
+primary cortex|primary cortices	(ש) קורטקס ראשוני (אנטומיה)
+process|processes	(ש) זיז (אנטומיה)
+progressive payment|progressive payments	(ש) תשלום עולה (כלכלה)
+projection fiber|projection fibers	(ש) סיב השלכה (אנטומיה)
+promoter|promoters	(ש) קַדָּם (מיקרוביולוגיה)
+propanol|propanols	(ש) פרופאנול (כימיה)
+prospectus	(ש) תשקיף (כלכלה)
+protein kinase	(ש) קינזת חלבון (ביוכימיה)
+proteome|proteomes	(ש) מערכת החלבונים של אורגניזם (ביוטכנולוגיה)
+public-private partnership|PPP|PPPs|public-private partnerships	(ש) שותפות ציבורית-פרטית (כלכלה)
+purchasing power parity|PPP|PPPs|purchasing power parities	(ש) שוויון כוח קניה (כלכלה)
+purposive	(ת) תכליתי, מכוּון
+putamen|putamens	(ש) פוטמן (אנטומיה)
+quadrature	(ת) ניצב, בניצב
+rate of return|rate of returns	(ש) שיעור תשואה (כלכלה)
+rebound|rebounds	(ש) תגובת נגד
+recontextualization|re-contextualization|re-contextualizations|recontextualizations	(ש) הקשור-מחדש, רה-קונטקסטואליזציה
+red herring|red herrings	(ש) תשקיף "אדום" (כלכלה)
+reference|references	(ש) אסמכתא
+reflexivity|reflexivities	(ש) רפלקסיביות
+rehabilitative	(ת) שיקומי<BR>
+reporter gene|reporter genes	(ש) גן מְדַוֵּחַ: הגן האחראי לאור הגחלילית, לוציפראז, המשמש בביולוגיה מולקולרית כדי לסמן באמצעות אור התבטאות של גנים אחרים (ביוטכנולוגיה)
+reppeling|reppelings	(ש) גלישה מצוקים: ספורט אתגרי
+resent|resented|resenting|resents	(פ) להתרעם, להתמרמר
+reticulospinal	(ת) רטיקולו-ספינלי (אנטומיה)
+retrogradation|retrogradations	(ש) נסיגה, רגרסיה, הדרדרות
+return on common equity|returns on common equity	(ש) תשואה למניות רגילות (כלכלה)
+reuptake|reuptakes	(ש) ספיגה חוזרת (אנטומיה)
+rubrospinal	(ת) רוברו-ספינלי (אנטומיה)
+satisfice|satisfices|satisficied|satisficing	(פ) להניח את הדעת, לענות על הדרישות
+satisficing	(ת) מניח את הדעת, מתקבל על הדעת, מספק, מספיק טוב, עונה על הדרישות
+scientism|scientisms	(ש) מדענות
+secessionist|secessionists	(ת/ש) בדלן
+selenomethionine|selenomethionines	(ש) סלנומתיונין (כימיה)
+self defeating|self-defeating	(ת) (שמהווה) "גול עצמי"
+senior employees insurance|senior employee insurance	(ש) ביטוח מנהלים
+sense strand|sense strands	(ש) גדיל קריא
+sergeant major|sergeant majors	(ש) רב סמל מתקדם, רס"מ
+silane|silanes	(ש) סילאן (כימיה)
+silanol|silanols	(ש) סילאנול (כימיה)
+siloxane|siloxanes	(ש) סילוקסן (כימיה)
+slit-lamp|slit lamp|slit lamps|slit-lamps	(ש) מנורת-סדק (רפואה)
+smectite|smectites	(ש) חרסית - סוג של מינרל (כימיה)
+social exclusion|social exclusions	(ש) הדרה חברתית
+social exclusion unit|social exclusion units	(ש) היחידה להדרה חברתית - הוקמה בבריטניה, תחת ממשל מפלגת הלייבור החדשה (פוליטיקה)
+solemn affirmation	(ת) בהן צדק
+somatotopic	(ת) סומטוטופי (אנטומיה)
+space group|space groups	(ש) חבורה מרחבית (פיזיקה)
+sphenoid	(ת) טריזי
+stakeholder|stakeholders	(ש) בעל ענין
+stalactitic	(ת) זקיפי
+state of matter|state of matters|states of matter|states of matters	(ש) מצב צבירה
+state pension|state pensions	(ש) פנסיה ממלכתית
+strawman|strawmen	(ש) איש קש
+striated	(ת) מסורטט
+striated muscle|striated muscles	(ש) שריר מסורטט (אנטומיה)
+striatum	(ש) סטריאטום (אנטומיה)
+sub-inspector|sub inspector|sub inspectors|sub-inspectors	(ש) מפקח-משנה
+subitize|sabitised|sabitises|sabitising|sabitized|sabitizes|subitise|subitizing	(פ) להעריך במבט חטוף את מספר העצמים בקבוצה. אצל בני האדם הגבול הוא בערך 7.
+sublimation|sublimations	(ש) המראה: שינוי ישיר של מצב הצבירה ממוצק לגז (ביוכימיה)
+subordinate|subordinates	(ש) כפיף (יחסי עבודה)
+subsensitivity|subsensitivities	(ש) תת-רגישות
+substantia nigra	(ש) חומר שחור (אנטומיה)
+supersensitivity|supersensitivities	(ש) רגישות יתר
+support cell	(ש) תא תמך (אנטומיה)
+suprachiasmatic	(ת) על-כיאזמטי (אנטומיה)
+survivor's pension|survivor's pensions	(ש) פנסיית שאירים
+suspended particulate matter|Suspended particulate matters	(ש) חומר חלקיקי מרחף (ביוכימיה)
+sympathomimetic	(ת) סימפתומימטי (ביולוגיה)
+synecdochally	(תה"פ) באופן סינקדוכי: יחס בין פרגמנט לשלם
+synecdochic	(ת) סינקדוכי
+systemic lupus erythematosus|SLE	(ש) זאבת אדמנתית מערכתית (רפואה)
+tachophobia	(ש) פחד ממהירות (פסיכולוגיה)
+take to task|taken to task|takes to task|taking to task|took to task	(פ) לבקר, לגעור, לנזוף
+tardive	(ת) משתהה
+tear film|tear films	(ש) מסך הדמעות (פיזיולוגיה)
+tectospinal	(ת) טקטו-ספינלי (אנטומיה)
+tensor|tensors	(ש) טנסור (מתמטיקה)
+terephthalate|terephthalates	(ש) טרפתלאט (כימיה)
+tetramer|tetramers	(ש) טטרמר - חלבון המורכב מארבע שרשרות פוליפפטידיות (ביוכימיה)
+thermoset|thermosets	(ש) תרמוסט
+thioate|thioates	(ש) תיואט (ביוכימיה)
+time series|time-series	(ש) סדרות עתיות (סטטיסטיקה)
+tissue culture|tissue cultures	(ש) תרבית רקמות (ביוטכנולוגיה)
+to the extent	כל עוד, אם
+toughened	(ת) מוקשה
+tra|adenosine diphosphate|adenosine diphosphates	(ש) אדנוזין דיפוספט (ביוכימיה)
+trabeculectomy|trabeculectomies	(ש) ניתוח פילטרציה לחולי גלאוקומה (רפואה)
+track two diplomacy|track two diplomacies|track-two diplomacies|track-two diplomacy	(ש) דיפלומטיה לא רשמית
+tract|tracts	(ש) מסילה (אנטומיה)
+transactional leadership|transactional leaderships	(ש) מנהיגות מתגמלת (מדעי החברה)
+transcriptome|transcriptomes	(ש) טרנסקריפטום (ביוטכנולוגיה)
+transduction|transductions	(ש) התמרה (ביוכימיה)
+transitional leadership|transitional leaderships	(ש) מנהיגות מעצבת (מדעי החברה)
+transmembrane	(ת) חוצה-ממברנות (ביולוגיה)
+transposon|transposons	(ש) גֵּן נייד, טרנספוזון
+treadmill|treadmills	(ש) שגרה; הליכון (מכשיר כושר)
+tribute|tributes	(ש) מחווה
+trioctahedral|trioctahedrals	(ת) תלת-תמניוני (גיאומטריה)
+tristram's starling	(ש) טריסטרמית (זאולוגיה)
+tryptophane|tryptophanes	(ש) טריפטופן: סוג של חומצת אמינו (כימיה)
+tyrosine kinase	(ש) קינזת טירוזין (ביוכימיה)
+unidentified person|unidentified persons	(ש) פלוני
+unilateralism|unilateralisms	(ש) חד-צדדיות
+up flow|up flows|up-flow|up-flows|upflow|upflows	(ש) זרימה כלפי מעלה
+uridine|uridines	(ש) אורידין: תרכובת שמכילה אורציל ואת הסוכר ריבוז.
+valance|valances	(ש) ערכיות
+validation|validations	(ש) תשריר, הכשר (כלכלה)
+venting|vent|ventings|vents	(ש) איוור (ביוכימיה)
+ventrolateral	(ת) גחוני-צדי (אנטומיה)
+ventromedial	(ת) ונטרו-מדיאלי (אנטומיה)
+verbalism	(ש) ורבליזם: ביטוי מילולי. מילה או משפט. ניסוח. רעיון שמבוטא באופן מילולי. הערה או ביטוי מילוליים.<BR>גם - משפט מילולי ללא משמעות רבה. שימוש שופע במילים מבלי שיכילו משמעות רבה.
+vestibulospinal	(ת) וסטיבולו-ספינלי (אנטומיה)
+vibe|vibes	(ש) אווירה, תחושה (סלנג)
+vinification|vinifications	(ש) ייצור יין
+vitrectomy|vitrectomies	(ש) ניתוח לכריתת זגוגית העין (רפואה)
+warpage|warpages	(ש) תהליך אריזה (תעשייה)
+warrant officer|warrant officers	(ש) רב סמל בכיר, רס"ב
+white matter	(ש) חומר לבן (אנטומיה)
+white-tailed deer|white tailed deer|white tailed deers|white-tailed deers	(ש) צבי לבן זנב (זאולוגיה)
+woof|woofies	(ש) מבוגר מבוסס-כלכלית (שיווק)
+working model|working models	(ש) דגם פעולה (פסיכולוגיה)
+yield to maturity|yields to maturity	(ש) תשואה לפדיון (כלכלה)
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html

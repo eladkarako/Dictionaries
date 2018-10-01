@@ -1,0 +1,2039 @@
+##name	Pharmaceutical terms
+##sourceLang	English
+##targetLang	Chinese (S)
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp936
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp936
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2004/07/16, 02:06
+##author	Allen
+##description	Names of diseases,Medical Glosaries, and More......A good pain-killer for you.
+##browsingEnabled	
+##bgl_creationTime	2003/11/03, 03:43
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+Adenovirus	腺病毒
+Alstrom-Hallgren syndrome	梦的
+Alzheimer disease	阿尔茨海默病
+Anthrax	炭疽病
+Aphthae Epizootic	口蹄疫
+Baastrup syndrome	巴斯特鲁普氏综合征<BR> 又称米肖特（Michotte)氏综合征。唇样骨赘增生。X线表现为在变性关节邻近骨赘之间骨桥形成，有别于其他老年性脊柱强直。脊椎棘突的接触是引起压迫神经根的许多原因中重要的一种。颈、胸或腰椎可受累。
+Bacillary dysentery	细菌性痢疾
+Bacteriocin	细菌素
+Bacteriod	类杆菌
+Bacteriophage	噬菌体
+Becker muscular dystrophy|Duchenne	肌营养不良
+Botulism	肉毒中毒
+Bowel Obstruction	肠阻塞
+Brucellosis	布氏杆菌病
+Cerebral embolism	脑栓塞
+Chronic Atrophic Gastritis	瓜胺酸血症
+Chronic Lymphocytic Leukemia	慢性淋巴細胞性白血癌
+Chronic Myelocytic Leukemia	慢性骨髓細胞性白血癌
+Circumcision	包皮切除术
+Citrullinemia	瓜胺酸血症
+Congenital Cytopenia	先天性血球細胞缺乏症
+Congenital adrenal hyperplasia	先天性肾上腺增生
+Congenital hydrocephaly	先天脑积水
+Congenital melanocytic nevus	先天性黑素细胞痣
+Conjunctivitis	结膜炎
+Constipation	便秘
+Cystinosis	胱胺酸症
+Delayed Ejaculation	迟延射精
+Delirium	譫妄
+Dengue virus	登革病毒
+Dermatophytes	皮肤丝状菌
+Diabetic Gastroparesis	糖尿病胃轻瘫
+Diphtheria	白喉
+Diplococcus	双球菌
+Diverticulosis	憩室病
+Dysmetria	辨距不良
+Dysphagia	吞咽困难
+Dysphonia	发声困难
+Dyspnea	呼吸困难
+Enterovirus	肠病毒
+Epidemic Encephalitis	流脑
+Epididymitis	副睪炎
+Erectile Dysfunction|ED	男性勃起功能障碍
+Erythemamultiforme	多形 性紅斑
+Fell method	费尔氏疗法<BR>治疗麻醉药中毒及溺死的一种人工呼吸法
+Felsen treatment	费尔森氏疗法<BR>直肠灌注氧气以治疗痢疾及溃疡性结肠炎
+Gailliard syndrome	盖亚尔氏综合征
+Gastroesophageal Reflux Disease	胃食管反流性疾病
+Gastroparesis	胃轻瘫
+Gaucher's disease	高雪氏症
+German measles|rubella	风疹
+Giant cell tumor	巨细胞瘤
+Glaserian artery	格拉塞氏动脉 鼓前动脉。起源于咽升动脉，无分枝，分布至鼓室内壁。
+Glaserian fissure	格拉塞氏裂岩鼓裂。正在颞骨下颌窝关节面后方横过的狭窄裂缝。有小动脉及鼓索神经通过。
+Global Environmental Monitoring System	全球环境监测系统 GEMB
+Golgi cell	高尔基氏细胞GoS
+Gombart's reducing agent	龚巴特氏还原剂GRA
+Gombart's reducing agent positive	戈姆巴特氏还原剂阳性 GRAY
+Haplodermatitis	单纯皮炎
+Haplomycosis	单孢子囊菌病
+Health Ambassador	阴道子宫切开术
+Health Ambassador Programme	健康大使计划
+Health Care Assistant	健康服务助理
+Health Care Assistant Clerk	健康服务助理文员
+Health Care Assistant Scheme	健康服务助理计划
+Health Care Needs Assessment	医疗护理需要评估
+Health Information and Record Manager	医疗信息及记录经理
+Health Services Research Committee	医疗服务研究委员会
+Health Services Research Fund	医疗服务研究基金��
+Healthy Eating Movement	健康饮食运动
+Healthy Exercises for All	普及健体运动
+Healthy Lifestyle Campaign	健康生活模式运动
+Healthy Living into the 21st Century Campaign	健康生活新纪元运动
+Helicobacter pylori	幽门螺旋菌
+Helicobacter pylori£¬H.pylori	Helicobacter pylori，H.pylori
+Hemia	疝气
+Hemophilia	血友病
+Hemorrhoids	痔疮
+Henle's loop	亨利氏套
+Hepatitis B Vaccination Programme	hepatitis C 丙型肝炎
+Hereditary coproporphyria	遗传性紫质症
+Holter test	心跳测试检查
+Homocystinuria	同型脱氨酸尿症
+Hospice Care Awareness Programme	认识善终服务计划
+Hospital Administrator	院务主任
+Hospital Authority Board	医院管理局大会
+Hospital Authority[HA]	医院管理局〔医管局〕
+Hospital Chief Executive	医院行政总监
+Hospital Foreman	医院管工
+Hospital Improvement Programme	医院改善计划
+Hospital Master Control Development Plan	医院总控制发展计划
+Hydrocele	阴囊积水
+Hydrocephalus	水脑症
+Hypermethioninemia	高甲硫胺酸血症
+Hyperparathyroidism	副甲状腺功能亢进
+Hypogonadism	性腺功能低下
+Hypomnesia	记忆力减退
+Hypothyroidism	甲状腺功能低下
+Imperforate Anus	肛门闭锁
+Iritis	虹膜炎
+Jaborandi	毛果云香叶
+Jaboulay amputation	雅布累氏截断术<BR><BR>又称雅布累氏手术。骨盆腹腔间截断术，包括半骨盆的下肢截肢术。
+Jaccoud fever	雅库氏热<BR><BR>又称雅库氏分离性热。成人结核性脑膜炎所呈现之发热与徐缓不规则性脉搏的分离现象。
+Jaccoud sign	雅库氏征<BR><BR>白血病患者于胸骨上切迹的主动脉隆起。
+Jaccoud syndrome	雅库氏综合征<BR><BR>又称雅库氏关节炎。通常风湿热反复发作后形成慢性关节炎。因关节囊及肌腱的纤维化改变而导致关节畸形，类似类风湿性关节炎。关节疼痛且常出现风湿结节。
+Jaccoud's dissociated fever	雅库氏分离热<BR><BR>脉搏缓慢不整的发热，见于成人结核性脑膜炎
+Jackson sign	杰克逊氏征<BR><BR>又称休林斯·杰克逊（Hughlig Jackson）氏征。（1）心脏衰竭时，心搏数与脉搏数不相等。起因于心房纤颤。（2）气喘状哮喘。以耳置于接近气喘病人口腔时所听到的哮鸣状声音，气管或支气管有异物的病人亦可听到。（3）肺结核病灶部位之呼气音延长。
+Jacob's ulce	雅各布氏溃疡
+Jacobson sulcus	雅各布森氏沟
+Ladd syndrome	莱德氏综合征<BR> <BR>十二指肠狭窄综合征，先天性十二指肠闭塞。可能是一种常染 色体隐性遗传疾病。表现为新生儿生后数小时或吃奶时剧烈呕 吐，婴儿上腹部膨隆。30%病例有黄疸。可用十二指肠空肠吻 合术或胃空肠吻合术治疗。预后与治疗时间及并发症有关。
+Lade symptom	莱德氏症状 <BR>在水痘发疹14日前出现一种特别的下痢或软便
+Ladendorff test	拉登多夫氏试验<BR> <BR>检有无血液。将待检液体先以愈创木酊后用桉叶油处理，若有 血液存在，此混合液上层变紫色，下层呈蓝色。
+Ladin sign	莱丁氏征<BR> <BR>妊娠的一个体征。子宫在宫颈与宫体之交界处形成一个颈体环 。妊娠时在正中线触诊，触到此交界处呈现弹性环区，有波动 感，且随妊娠增大。
+Laennec cirrhosis	拉埃内克氏肝硬化<BR><BR>又称门静脉性肝硬化、萎缩性门静脉性肝硬化、结节性肝硬化 。各种慢性弥温性肝炎或广泛的肝实质损害继续发展的结果。 临床表现主要有肝功能减退和门静脉高压所引起的脾肿大等。
+Laennec's catarrh	拉埃奈克氏卡他
+Laennec's cirrhosis	拉埃奈克氏硬化
+Lahey operation	莱希氏手术<BR> <BR> 又称莱希氏法。腹会阴分期切除术。第1期手术与Rankin手术 相仿。第2期手术开始时先缝合耻骨上的瘘口，并围绕瘘孔周 围做下腹正中切口，将该段结肠自腹壁分离。其余步骤与Mile s氏手术相同。
+Lain's disease	累恩氏病
+Lakhani-Service method	拉-塞氏法<BR> <BR>一种蚊虫生命表计算法。适用于发育很慢、没有世代重叠的情 况。其特点是以存活率为指数，绘制幼虫各龄期及蛹的分布及 存活率曲线。根据曲线及有关数据制成横向生命表。
+Lassa fever	拉萨热<BR>由Lassa病毒引起的急性、全身性传染病。可能是由飞沫吸入和传染物污染伤口而传染的。症状有疲倦、头痛、背部及四肢疼痛、喉炎及溃疡、发热及惊厥。重病的病人一般在症状出现10～14日内死亡，各器官均可受累。<BR>
+Leishmaniosis	利什曼病
+Leptospirosis	丝螺旋体病
+Malta fever	马耳他热, 波状热
+Maple syrup urine disease	楓糖尿症
+Mediastinitis	纵隔炎症
+Menetrier's disease	胃粘膜巨大肥厚症
+Meningococcus	脑膜炎球菌
+Menopause	更年期
+Mitochondrial defect	粒腺体缺陷
+Multiple sclerosis	多发性硬化症
+Mutate	突变
+Myasthenia Gravis|MG	重症肌无力
+Mycobacterium tuberculosis	结核杆菌
+Mycoplasma	支原体肺炎
+Mycoplasma pneumonia	支原体肺炎
+N.meninyitidis	脑膜炎奈瑟氏球菌
+Nesidioblastosis	胰岛母细胞瘤
+Nitroacetylglutamate  synthetase deficiency	乙醯穀胺酸合成 缺乏症
+Noncyanotic CHD	非发绀型先天性心脏病
+Nuel canal	纽尔氏管<BR>耳蜗内Corti器中一小管，即细胞间小管。
+Omphalia	雷丸
+Organic acidemias	有机酸血症
+Osteoid osteoma	类骨质骨瘤
+Osteolytic Malignancy	蚀骨性肿瘤
+Osteoporosis-pseudogioma Syndrome	假性神经胶质瘤综合征
+Osteosarcoma	骨肉瘤
+Parvovirus	微小病毒属
+Pemphigus	天庖瘡
+Perifolliculitis	毛囊周炎
+Peripheral neuropathy	周围神经病变
+Pertussis	百日咳
+Petechiae	瘀点，瘀斑
+Poliovirus	脊髓灰质炎病毒
+Postherpetic neuralgia|PHN	后遗神经痛
+Prophage	前噬菌体
+Psychogenic amnesia	心因性失憶症
+Pulmonary tuberculosis	肺結核
+Q-mitralvalveclosureinterval	Q-二尖瓣关闭间期Q-MVC
+Quain's fattyheart|Quain's fatty heart	奎因氏脂肪心<BR>心脏脂肪变性。指大量脂肪沉积于心肌内或心肌外。
+Quainfattyheart	心脏脂肪变性。指大量脂肪沉积于心肌内或心肌外。
+Quakingmutation	奎金氏突变<BR>一种小鼠常染色体的隐性突变，产生髓磷脂缺乏的动物品系。
+Raabe test	拉贝氏试验<BR> <BR> 检尿白蛋白。将尿滤至试管中，加1粒三氯醋酸结晶，其周围形成白色圈为白蛋白所致。
+Randall sign	兰德尔氏征<BR><BR>孕妇女手浸冷水中呈过度反应，提示可能发生妊娠中毒症。
+Rankin operation	兰金氏手术<BR><BR>又称兰金氏法。腹会阴分期切除术。第1期手术将乙状结肠在适当的位置切熠 ，其近切端自左下腹另一小切口引出腹壁外做人工肛门，远切端予以缝闭。至梗阻情况解除，全身情况好转，且创口已完全愈合后，再作会阴部乙状结肠直肠切除术。
+Ranvier disk	朗维埃氏触觉盘<BR><BR>在表皮下盘状的神经末端。
+Ranvier membrane	朗维埃氏膜<BR><BR>在真皮和表皮之间的一薄透明膜。
+Ranvier motor points	朗维埃氏运动点<BR><BR>又称朗维埃氏点。在肌纤维内接近肌核处的神经轴突末梢微小的膨大点。
+Ranvier nodes	朗维埃氏结<BR><BR>又称朗维埃绞环。有髓神经纤维的轴索的表面包有一层节段性的鞘，叫髓鞘。每一节段髓鞘是由一个Schwann细胞的胞质膜缠绕轴突的表面构成的。每两节髓鞘之间存在间隙，称Ranvier结，亦是相邻Schwann细胞间隙，便于轴膜内外离子交换，促进神经冲动的传导。
+Ranvier plexus	朗维埃氏神经丛<BR><BR>丛基质紧接角膜前界膜下的部分。
+Ranvier segment	朗维埃氏节<BR><BR>神经纤维在Ranvier结之间的髓鞘质。
+Raoult law	拉乌尔氏定律<BR><BR>（1）溶液冰点。同型电解质溶解于待定溶液剂时，其冰点下降与溶质的克分子浓度成正比。（2）溶质降低挥发性溶剂的蒸气压等于该物质的克分子数乘以该物质在纯净状态下的蒸气压；当非挥发性电解质溶解于某溶剂时，该溶剂蒸气压的下降，等于溶质的克分子数乘以纯净溶剂的蒸气压。
+Rh immune globulin	免疫球蛋白，猕猴免疫球蛋白RhIg
+Rheumatic heart disease	风湿性心脏病
+Ricket	佝偻病
+SUBARACHNOID HEMORRHAGE	蜘蛛膜下腔出血
+Sacro-iliac joints	荐肠关节处
+Scarlet Fever	猩红热
+Scrub typhus	恙虫病
+Soft Tissue Cancer	软组织肉瘤
+Subabdominal	腹下的
+Swallowing Disorders	吞咽障碍
+T cell chronic lymphocytic (leukemia)	慢性T淋巴细胞（白血病）<BR>TCCL
+T lymphocyte-associated antigen	T淋巴细胞相关抗原 TLAA
+Tabb method of myringoplasty	塔布氏鼓膜成形术<BR> <BR>用静脉作移植材料的鼓膜成形术之一。
+Tacaiuma virus	塔卡厄马病毒
+Taenzer's disease	泰泽氏病
+Tait operation	泰特氏手术<BR> <BR>会阴裂伤手术之一。裂伤由一侧皮肤片缝合之手术。
+Tetanus	破伤风
+Trachoma	砂眼
+Urea cycle disorders	尿素循環代謝障礙
+Varicose	静脉曲张
+Viral Hepatitis C	丙型肝炎
+Wilson's disease	威爾森氏症
+aaryngeal squamous carcinoma	喉鳞状细胞癌
+abalienation	精神错乱
+abarognosis|baragnosis	辨重不能
+abarticulation	关节脱位
+abasia	步行不能
+abdominal hysterectomy	腹式子宫切除术
+abdominal migraine	腹性偏头痛
+abdominal sensory block	腹部感觉神经阻滞
+abdominal-perineal resection	腹会阴切除术
+abductor pollicis	拇展肌
+abductor pollicis longus	拇长展肌
+abeqithymia	太阳神经丛麻痹
+abequose	马流产菌糖
+abevacuation	排泄失常
+abiatrophy	生活力缺失
+abirritation	应激性减弱
+ablepharia	无睑畸形
+ablepharon	无睑畸形
+ablepharus	无睑畸胎
+ablepsia	盲，失明
+ablutomania	清洗癖
+abnormally patent eustachian	咽鼓管异常开放（症）
+abortus	流产胎
+abrasion	擦傷
+abrism	相思豆中毒
+abscess	脓肿
+abscess of dental alveola	齿槽脓肿
+absentia	失神
+absolute neutrophil count	嗜中性细胞绝对计数
+abulomania	意志缺失狂
+acalcemia	缺钙血症
+acalcicosis	缺钙症
+acalculia	计算不能，失算症
+acampsia	屈桡不能
+acanthamebiasis	棘阿米巴病
+acanthocephaliasis	棘头虫病
+acanthocytosis	有棘红细胞增多症
+acanthokeratodermia	角质肥厚
+acantholysis	表皮松解症
+acanthoma	棘皮瘤
+acanthosis	棘皮症
+acanthosis nigricans	黑（色）棘皮症
+acanthrocytosis	棘红细胞增多症
+acanthulus	无眦症
+acapnia	缺碳酸血症
+acaptosis	咽下不能症
+acardia|acardiacus	无心畸胎
+acardiotrophia	心脏萎缩
+acariasis	壁虱病，螨病
+acarodermatitis	螨性皮炎
+acarophobia	螨恐怖
+acatalasia	过氧化氢酶缺乏症
+acatalepsia	诊断不明
+acatamathesia	理解不能
+acataphasia	连贯表意不能
+acatharsy	排泄不能
+acathetic	排泄失禁的，排泄障碍的
+acathexia	排泄失禁
+acathisia	静坐恐怖
+acaulinosis	无茎真菌病
+accelerated painless labor	快速无痛分娩
+acedia	淡漠性抑郁症
+acelosis	无腹畸形
+acenesthsia	存在感觉缺失
+acephalemia	头部血液缺乏
+acephalia|acephalism	无头畸形
+acephalobrachia	无头无臂畸形
+achillobursitis	跟腱滑囊炎
+achillodynia	跟腱痛
+achlorhyria	胃酸缺乏
+acholia	无胆汁症
+acholuria	无胆色素尿
+achondroplasty	软骨发育不全
+achor	乳痂
+achreocythemia	红细胞中血红蛋白缺乏
+acute gonococcal urethritis	急性淋菌性尿道炎
+acute inflammation	急性炎症
+adenovirus	腺病毒
+ageusia	味觉缺失
+agnosia	失认
+agraphia	失写［症］
+akinesia	运动不能
+akinetic seizure	无动性发作
+allochesthesia	感觉定位不能
+allochiria	感觉定侧不能
+alternate hemiplegia	交替性瘫痪
+alveolar	牙槽的
+alveolus	<B>小泡</B>
+amiculum	<B>小脑齿状核包膜</B>
+amnesia	健忘症
+ampulla	<B>小囊</B>
+analeptic	苏醒剂; 复苏药; 回苏剂
+analgesia	痛觉缺失
+analgesic	鎮痛劑，止痛劑
+anaphase	后期
+anaphylaxis	过敏反应
+anaspadiac	尿道上裂者
+anaspadial	adj.尿道上裂的<BR>
+anatomy	解剖學
+anencephaly	无脑儿
+angeitis|angitis	脉管炎
+angiasthenia	血管无力
+angiectasis	血管扩张
+angiectomy	血管切除术
+angina decubitus	卧位型心绞痛
+angina pectoris	心绞痛
+angioblast	成血管细胞
+angiocardiography	心血管造影术
+angiocardiopathy	心血管病
+angiochondroma	血管软骨瘤
+angiodermatitis	皮血管炎
+angiolipoma	血管脂肪瘤
+angioneuromyoma	血管神经肌瘤
+angioparalysis	血管麻痹病
+anorexia|loss of appetite	厌食
+anterrograde Amnesie	前向健忘
+aphthae	<B>小溃疡</B>
+aplastic anemia	再生障碍性贫血
+apoplexy	脑血管意外
+appendicitis	阑尾炎
+arteriarctia	动脉缩窄
+arteriectasia	动脉扩张
+arteriectomy	动脉切除术
+arteriolospasm	小动脉痉挛
+arteriomalacia	动脉软化
+arteriometer	动脉口径计
+arteriomyomatosis	动脉肌瘤病
+arterionecrosis	动脉坏死
+arterole	小动脉
+ascopore	<B>小孔</B>
+asthma	哮喘
+astriction|constipation	便秘
+astrocytoma	星形细胞瘤
+atherosclerosis	动脉粥样硬化
+atrioseptopecy	房间隔修补术
+atriotome	心房切开刀
+auriculotemporal	耳颞的
+babesiasis	巴贝虫病
+bacillary	杆菌的，杆菌状的
+bacillary dysentery	杆菌性痢疾
+bacillary sycosis	杆菌性须疮
+bacillemia	杆菌血症
+bacillosis|bacillary disease	杆菌病
+backalgia	损伤性腰背痛
+bacteremia	菌血症
+bactericholia	菌胆汁症
+bacterid	细菌疹
+bacterinia	菌苗病
+bacteriopheophytin	细菌脱镁叶绿素
+bacteriophytoma	细菌性瘤
+balanitis	龟头炎
+barrenness	不孕症
+bartholinian	前庭大腺的
+bartholinitis	前庭大腺炎
+bartonelliasis	巴尔通氏体病
+barydynia	剧痛
+baryencephalia	智力迟钝
+barylalia	言语不清
+baryodmia	嗅觉迟钝
+baryodynia	剧痛
+baryphonia	语声涩滞
+barythymia	忧郁症
+basal cell hyperplasia	基底细胞增生
+basal cell hypoplasia	基底细胞发育不全
+basaloma	基底细胞癌
+basiarachnitis	颅底蛛肉膜炎
+bathygastria|bathygastry	低位胃，胃下垂
+battarism|battarismus	口吃
+bdelygmia	恶心
+bed-wetting	遗尿
+bedlam|bedlamism	精神病
+bedsore	褥疮
+blear	烂的；烂眼睛的；轮廓模糊的
+blear eye	边缘性眼睑炎
+bleb	疱疹；大疱
+bleeder	易出血者
+bleeding	出血
+bleeding esophageal varices	出血性食管曲张,BEV
+bleeding of undetermined origin	不明原因的出血
+blennadenitis	粘液腺炎
+blennelytria	阴道粘膜炎
+blennemesis	粘液呕吐
+blennenteria	粘液性腹泻
+blennisthmia	咽粘膜炎
+blennochesia	粘液性腹泻
+blennochezia	粘液性腹泻
+blennocystitis	膀胱粘膜炎
+blennometritis	子宫粘膜炎
+blennometrorrhea	子宫淋病
+blennophlogisma	粘膜炎，卡他
+blennorhrhagia	淋病
+blennorrhagic	淋病的，粘液溢出的
+blennurethria	尿道淋病
+blennuria	粘液尿
+blepharadenitis	睑板腺炎
+blepharedema	睑水肿
+blepharelosis	倒睫，睑内翻
+blepharitis	睑炎，眼睑炎
+blepharoadenoma	睑腺瘤
+blepharoplegia	睑麻痹
+blepharosymphysis	睑粘连
+brachystasis	肌肉短滞
+bradspermatism	射精徐缓
+bradyarthria	言语徐缓
+bradyauxesis	部分性发育徐缓
+bradybasia	行走徐缓
+bradycardia	心动过缓
+bradycinesia	运动徐缓
+bradyesthesia	感觉迟钝
+bradygenesis	发育徐缓
+bradymenorrhea	经期延长
+bradypepsia	消化徐缓
+bradyphagia	慢食癖
+bradyphrasia	迟语症
+bradyphrenia	思想迟钝
+bradypsychia	精神迟钝
+bradytocia	滞产
+bradyuria	排尿徐缓
+brittle bone disease	脆骨症
+bromidrosis	腋臭
+bronchiarctia	支气管狭窄
+bronchiectasia	支气管扩张
+bronchiocele	细支气管扩大
+bronchiocrisis	支气管危象
+bronchiolectasis	细支气管扩张
+bronchiolitis	细支气管炎
+bronchiospasm	支气管痉挛
+bronchiostenosis	支气管狭窄
+bronchitis	支气管炎
+broncho-alveolitis	支气管肺泡炎
+bronchoadenitis	支气管淋巴结炎
+bronchoaspergillosis	支气管曲菌病
+bronchocephalitis	bronchocephalitis
+bronchoedema	支气管水肿
+bronchohemorrhagia	支气管出血
+bronchophthisis	支气管痨
+bronchophyma	支气管肿大
+bronchoplegia	支气管麻痹
+bronchopleurisy	支气管胸膜炎
+bruise	挫伤
+bruit	杂音
+bruxism	磨牙症
+bruxomania|brycomania	神经性磨牙症
+bubonalgia	腹股沟痛
+bubononcus	腹股沟瘤
+bucardia	牛心症
+buccal	颊的
+buccoglossopharyngitis	颊舌咽炎
+buccula	<B>小颊</B>
+bulblet|clove	<B>小鳞茎</B>
+bunion	小拇囊炎，拇囊炎
+bunionette	小拇囊炎
+buphthalmos	牛眼，水眼（眼积水）
+bursa	囊，粘液囊
+bursitis	滑囊炎，粘液囊炎
+bursopathy	粘液囊病
+capillaritis	毛细管炎
+capillaropathy	毛细管病
+capsulitis	囊炎
+carbohemia	碳酸血症，一氧化碳血症
+carcinomaofrectum	直肠癌
+carditis	心脏炎
+carotid	颈动脉的
+carpitis	腕关节炎
+castration	阉割
+catabythismomania	投水狂，自溺狂
+catadidymus	下身联胎，双上身联胎
+catamenia|catamenial£¬ adj.	月经
+cataphora	昏迷
+cataphrenia	痴呆，可逆性痴呆
+cataplexie|cataplexie;|cataplexis;|cataplexy|cataptosis	猝倒
+catarrh	卡他, 粘膜炎
+catarrhalis	卡他性咽峡炎
+catatonia	紧张症
+cauloplegia	阴茎麻痹
+cauma	灼热，灼伤
+cavernitis	海绵体炎
+cavernoma	海绵状瘤
+cavitas trigeminalis	三叉神经腔
+celio-	腹部
+celiocele	腹部疝
+celiocentesis	腹腔穿刺术
+celiomyalgia	腹肌痛
+celiomyositis	腹肌炎
+celion	石墨碳纤维
+celiophyma	腹瘤
+celioscope	腹腔镜
+celioscopy	体腔镜检查术
+celiosite	腹寄生虫
+celiotomy	剖腹手术
+cerebellum	<B>小脑</B>
+cerebral concussion	脑震荡
+cerebral palsy	脑瘫
+chicken pox|varicella	水痘
+chlamydia	衣原体
+chlrorion	氯离子
+cholera	霍乱
+cholesterol	胆固醇
+chondroglossus	<B>小角舌肌</B>
+chronic inflammation	慢性炎症
+chronic inflammatory demyelinating polyneuropathy	脱髄性多发根神经炎(CIDP)
+clenbuterol	克仑特罗,双氢醇胺，一种兴奋剂。<BR>
+cognition	认知
+colitis	结肠炎
+congenital Coagulation Disorders	腕管症候群
+congenital abnormality	先天性异常
+congenital absence of vagina	先天性无阴道
+congenital anomaly	先天畸形
+congenital cataract	先天性白内障
+congenital leukemia	congenital leukemia
+congenital lung cyst	先天性肺囊肿
+congenital megacolon	先天性巨结肠
+congenital mesoblastic nephroma	先天性中胚叶细胞肾瘤
+congenital rubella	先天风疹
+congenital syphilis	先天性梅毒
+congenital umbilical hernia	先天性脐疝先天性脐疝
+contusion	挫傷
+coron-	冠状
+cryptopore	下陷气孔
+cryptorchid	患隐睾病的人
+cryptorchidectomy	隐睾摘除术
+cryptorchidism	隱睪症
+cubitus valgus	手肘外翻
+cyan-|cyano-, cyanot-	青紫、绀、蓝、氰
+cyanosis	紫绀
+cyst	囊肿
+cystidiole	<B>小隔胞</B>
+dacroocystitis	泪囊炎
+dacryadenitis	泪腺炎
+dacryocanaliculitis	泪小管炎
+dacryocystalgia	泪囊痛，泪腺痛
+dacryocystitis	泪囊炎
+dacryocystostenosis	泪囊狭窄
+dacryoma	泪管肿大
+dacryosolenitis	泪管炎
+dactylitis	指炎；趾炎
+dartre	疱疹
+dehydroepiandrosterone	去氢表雄酮，DHEA
+dementia	老人痴呆症
+demi-	半
+demifacet	半面
+demilune	半月形的，新月细胞
+diencephalosis	间脑病
+diphenhydramine	苯海拉明
+diphtheria	白喉
+diplegia	双侧瘫痪
+diplococcus	双球菌
+diploid	二倍体
+distal convoluted tubule	遠曲小管
+diverticolitis	结肠憩室炎
+diverticulitis	憩室炎
+dysacousia	因鼻引起的耳痛
+dysaesthesia	感觉不良
+dysaphia	触觉障碍
+dysaptation	眼调节不良
+dysarthria	构音困难
+dyslalia	构音困难
+dyslexia	阅读障碍
+dyspareunia	性交疼痛
+dyspepsia	消化不良
+dysthymia	胸腺机能障碍
+dysthyreosis	甲状腺机能障碍
+dysthyroidism	甲状腺机能障碍
+dystimbria	音色不良
+dystithia	哺乳困难
+dystonia	张力障碍
+dystopia	异位，错位
+dystrophia	营养不良，营养障碍
+dystrophoneurosis	营养不良性神经官能症
+dystrophy	营养不良，营养障碍
+dysuresia	排尿困难
+dysuria	排尿困难
+dysury	排尿困难
+dysvitaminosis	维生素失调症
+dyszoospermia	精子生成障碍
+eczema	湿疹
+eczematid	湿疹样疹
+edema	水肿
+edemania	色情狂
+edematous turbinates	鼻甲水肿
+edeoptosis	生殖器脱垂
+ejaculatory duct	射精管
+electromyography	肌电图
+elytratresia	阴道闭锁
+elytritis	阴道炎
+elytrocele	阴道疝
+elytroclasia	阴道破裂
+elytroptosis	阴道脱垂
+emaciation	消瘦
+embolalia|embololalia	插语症
+embolism	栓塞
+emerods	痔
+emesia	呕吐
+emission	遗精
+emphysema	气肿，肺气肿
+encephalitis	脑炎
+encopresis	大便失禁
+endemia	地方病
+endomyocarditis	心肌心内膜炎
+enterosite	肠寄生物
+enterospasm	肠痉挛
+enterostomy	肠造口术
+enterotoxemia	肠毒血病
+enterotoxigenic	产肠毒素的
+enterotoxin	肠毒素
+enterotyphus	伤寒
+enteroviruses	肠病毒
+epidemic enciphalitits B	流行性乙型脑炎<BR>是由嗜神经的乙脑病毒所致的中枢神经系统性传染病。经蚊等吸血昆虫传播，流行于夏秋季，多发生于儿童
+epididymis	附睪
+epilepsy	癫痫
+epispadia	尿道上裂
+epistasy	上位
+epistaxis	流鼻血
+erysipelas	丹毒
+esophagoscope	食管镜，食道镜
+esophagotome	食管刀
+extensor	伸肌
+extracellular fluid	细胞外液
+exzema	湿疹
+facial edema	颜面浮肿<BR>面部虚浮作肿的表现，按之应而起为气肿，按之凹陷为水肿。
+fallopian tube	输卵管
+feminilism	男子女生
+feminism	男子女征
+feminization	女性化（指男子）
+femoral	大腿的
+femoral testis	股环区隐睾
+fertilization	受精
+feto-fetal transfusion syndrome	胎儿-胎儿输血综合征FFTS
+fetor	恶臭
+fetus	胎，胎儿
+fever|\|febricity\|febrility\|febris	发热，热
+fever of unknown	发热原因不明，发热待查|FOU
+fever-blister	发热性疱疹
+feveret	<BR>流行性感冒；短暂热
+fexism	呆小病；克汀病
+fiagellate	鞭毛虫
+fiagellosis	鞭毛虫病
+fiariasis	丝虫病，夜现幼丝虫病
+fiascicular	束的
+fiber	纤维
+fiber binding cell	纤维结合细胞FBC
+fibrcystoma	纤维囊瘤
+fibrillary	原纤维的，纤丝的
+fibrillation	纤维性颤动
+fibrin	纤维蛋白FIB
+fibrinemia	纤维素血汅
+fibrinogen	纤维蛋白原Fb,纤维蛋白原FBG
+fibrinogen related antigen	纤维蛋白原相关抗原FRAg
+fibrinogen-fibrin related antigen	纤维蛋白原-纤维蛋白相关抗原FR-Ag
+fibrinoid	纤维素样的
+fibrinolytic	溶解纤维蛋白的
+fibrinosis	纤维素过多症
+fibroangioma	纤维血管瘤
+fibroblast chemotactic factor	成纤维细胞集落生成细胞FCF
+fibroblast growth inhibitory factor	成纤维细胞生长抑制因子FGIF
+fibroblast pneumocyte factor	肺成纤维细胞因子
+focus	病灶
+follicle|saccule	<B>小囊</B>
+forgettery	健忘症
+fragilis	脆弱类杆菌
+fulmination	暴发
+furcasternum|sternellum	<B>小腹片</B>
+galactacrasia	乳液异常
+galactangioleucitis	乳房淋巴管炎
+galactapostema	乳房脓肿
+galactemia	乳血症
+galacthidrosis	乳汗症
+galactidrosis	乳汗症
+galactoma	乳腺囊肿；乳性鞘膜积液
+galactometastasis	异位泌乳
+galactophlebitis	授乳期静脉炎，股白肿
+galactophlysis	乳性疱疹
+galactophoritis	乳管炎
+galactophthisis	授乳期痨
+gangrene	坏疽
+gangrenous abscess	坏疽性脓肿
+gangrenous angina|malignant angina	坏疽性咽峡炎
+gangrenous granuloma	坏死性肉芽肿
+gaphospasm	书写痉挛
+gastradenitis	胃腺炎
+gastralgia	胃痛
+gastralgokenosis	胃空痛
+gastraneuria	胃神经机能不良
+gastrasthenia	胃无力,胃弱
+gastratrophia	萎缩性胃炎,胃萎缩
+gastrectosis	胃充血
+gastrenteralgia	胃肠神经痛
+gastrenteromalacia	胃肠软化
+gastric mucous membrane	胃粘膜
+gastritis	胃炎
+gastroduodenal ulcer	胃十二指肠溃疡
+gastroenteritis	胃肠炎
+gastroenteropathy	胃肠下垂
+giga-|,giganto-,mega-megalo-,macro-,giga-,giganto-	大，巨大
+giganto-|,mega-megalo-,macro-,giga-,giganto-	大，巨大
+gigantoblast	巨大有核红细胞
+gigantocyte	巨大红细胞
+gigantosoma	巨大发育
+gigatism	巨人症
+githagism	麦仙翁中毒，瞿麦中毒
+glabrous	光洁的，无毛的
+gladiolus	胸骨体 glad
+glandular	腺的
+glandular abscess	淋巴结脓肿
+glant axon formation	巨轴突形成 GAF
+glant cell hepatitis	巨细胞性肝炎 GCH
+glass insulation material	玻璃绝缘材料GIM
+glassblower	吹玻璃工人
+glassblower's disease	吹玻璃工职业病 GBD
+glassblowers'tumor	吹玻璃工人瘤
+glasspox	乳白辣，类天花
+glaucoma	青光眼 glau.
+glaucomatous visual field defect	青光眼性视野缺损 GVFD
+glcycodeoxycholate	甘氨脱氧胆酸盐 GDC
+gleet	慢性淋病性尿道炎
+glial growth factor	神经胶质生长因子GGF
+glial stimulating factor	神经胶质刺激因子 GSF
+glioblastoma	胶质母细胞瘤
+glioblastoma multiforme	多形性成胶质细胞瘤，多形性恶性胶质瘤GMB
+gliocytoma	神经胶质细胞瘤
+gliofibroma	神经胶质纤维瘤
+glioma	神经胶质瘤
+gliomatosis	神经胶质瘤病
+gliomyxoma	神经胶质粘液瘤
+gliosarcoma	神经胶质肉瘤
+glissonitis	肝纤维囊炎，肝周炎
+global	球形的
+globin zine insulin	珠蛋白锌胰岛素GZI
+glomerule	<B>肾小球</B>
+glomerulosclerosis	肾小球硬化症，动脉性肾硬化
+glomerulotubulonephritis	肾小球肾小管肾炎|GLTN,Gltn
+glomerulus	<B>小球</B>
+glomus	血管球
+glonoinism	三硝酸甘油酯中毒
+glossagra	痛风性舌痛
+glossal deviation	舌偏斜|glos.dev.
+glossalgia|glossanthrax	舌痛
+glossauxesis	舌肿大
+glossitic	舌炎的
+glossitis	舌炎
+glosso-labio-laryngeal	舌唇喉的
+glossocele	大舌病
+glossocoma	舌退缩
+glossolalbial	舌唇的
+glossolalia	言语不清
+glossolysis	舌麻痹
+glossoncus	舌肿
+glossopathy	舌病
+glossopharyngeal	舌咽的
+glossopharyngeal neuralgia	舌咽神经痛 GPN
+glossophytia	黑舌病
+glossoplegia	舌麻痹
+glossoptosis	舌下垂
+glossopyrosis	舌灼痛
+glossorrhagia	舌出血
+glossospasm	舌痉挛
+glottagra	痛风性舌痛
+glottalgia	舌痛
+glottidial	声门的
+glottiditis	舌炎
+glucagon	胰高血糖素 HG-factor
+glucagon releasing factor	胰高血糖素释放因子 GLRF
+gnathodynia|gnathoneuralgia	颌神经痛
+gnathoparalysis|gnathoplegia	颌麻痹
+gnathorrhagia	颊出血
+gnathostomiasis	颚口线虫病
+goat	山羊
+goat anti-human IgE	山羊抗豚鼠丙种球蛋白GAGPGG
+goat-anti-mouse brain antibody	山羊抗鼠脑抗体 GAMBA
+goiter	甲状腺肿
+gonacratia	遗精
+gonadal steroid-binding globulin	性腺类固醇结合球蛋白GSBG
+gonadoblastoma	性腺胚细胞瘤
+gonadopathy	性腺病，生殖腺病
+gonadotrop(h)in-releasing factor	促性腺激素释放因子GnRF
+gonadotrophin releasing hormone	促性腺激素释放激素Gnd-RH
+gonadotropic hormone	促性腺激素GnH
+gonadotropin	促性腺激素Gn
+gonadotropin release-inhibitory factor	促性腺激素释放抑制因子GRIF
+gonadotropin stimulation test	促性腺激素刺激试验G-test
+gonadotropin-inhibitory material	促性腺激素抑制物质GIM
+gonadotropin-releasing agent	促性腺激素释放剂GRA
+gonagra	膝关节痛风
+gonalgia	膝痛
+gonarthritis	膝关节炎
+gonarthrocace	膝白肿
+gonarthromeningitis	膝关节滑膜炎
+gonarthrosis	膝关节病
+gonatagra	膝痛风
+gonatocele	膝瘤
+gonecystitis	精囊炎
+gonecystopyosis	精囊化脓
+gonococcus	淋病双球菌
+gout	痛风
+granuloma	肉芽肿
+graphite	石墨
+habitual abortion	惯性流产
+haematemesis	呕血
+haematological examination	验血
+haematologist	血液学家,血液病医生
+haematology	血液学
+haematology and haematological oncology	血液及血液肿瘤科〔专科医生名册〕
+haematuria	血尿
+haemodialysis	血液透析,洗肾
+haemodialysis machine	血液透析机,洗肾机,洗血机
+haemoglobin	血色素,血红素
+haemolytic anaemia	溶血性贫血
+haemophilia	血友病
+haemophiliac	血友病患者
+haemophilus influenza type b	乙型流感嗜血杆菌
+haemophobia	出血恐惧,血液恐惧
+haemorrhage	出血
+haemorrhoid	痔,痔疮
+haemostat	止血钳,止血药
+haemothorax	胸腔积血
+half blood	同父异母,同母异父,半血亲
+half-value layer	半值层
+half-way houseservice	中途宿舍服务
+halitosis	口臭
+hallucination	幻觉
+hallucinogen|hallucinogenic drug	幻觉剂
+hallucinosis	幻觉症
+hallux valgus	拇外翻
+hamulus	<B>小钩</B>
+hand and foot reflexology therapy	手足反射疗法
+hand prosthesis	假手
+hand-foot-mouth disease	手足口病
+haplo-	haplo-与mono不同，是指单纯的单独的
+haploid	单倍体
+haplolichen	单纯苔藓
+haplopia	单视
+haptichallucination	触幻觉,幻触
+hard drug	烈性药物
+harvest organ	获取器官
+hasten childbirth|hasten parturition	催产
+hay fever	花粉病,枯草热
+head circumference	头圆周
+head presentation	头产式,头位产式
+head tumour	头肿瘤
+health assessment	健康评估
+health care	医护,健康护理
+health care cost	医护服务的成本
+health care culture	医护文化
+health care financing system	医护资助制度
+health care personnel	医护人员,健康护理人员
+health care policy	医护政策
+health care practitioner	医护人员,健康护理人员
+health care professional	医护专业人员,健康护理专业人员
+health care provider	医护服务提供者,医护服务机构,提供健康护理服务的机构
+health care service	医护服务,健康护理服务
+health care system	医护制度
+health care utilization behavior	使用医护服务的方式
+health centre	健康中心��
+health certificate	卫生证明书
+health education	健康教育
+health education centre	健康教育中心
+health facility	健康医护设施,健康服务设施
+health hazard	对健康的害处,危害健康
+health index	健康指标,健康指数
+health indicator	健康指标
+health information networking	医疗信息网络
+health insurance	健康保险
+health maintenance organization	保健组织
+health manpower survey	医疗�Ｉ�服务人力调查
+health nurse	健康科护士
+health outcome	医疗成效
+health promoter	推广健康教育的机构,健康大使
+health risk	对健康的害处,危害健康
+health screening	健康检查,身体检查,体格检查
+health screening protocol	健康检查准则
+health service	健康服务
+health visitor	卫生指导员
+health warning	健康忠告
+health worker	保健员
+healths creening[birds]	检查家禽是否符合卫生规定
+hearing aid	助听器
+hearing conservation programme	听觉保护运动
+hearing defect	听觉失灵
+hearing impairment	听觉受损
+hearing loss	丧失听觉,损失听力
+hearing screening test	听力评估
+hearing test	听觉测验
+heart and lung disease	心肺病
+heart beat	心跳
+heart burn	胃灼热
+heart disease	心脏病
+heart failure	心力衰竭,心脏衰弱
+heat apoplexy	中暑
+heat cramp	热痉挛
+heat exhaustion	受热虚脱,热衰竭
+heat rash	汗疹
+heat stroke	中暑
+heat syncope	热晕厥
+hebephrenia	青春期痴呆
+hebephrenic schizophrenia	青春期痴呆型精神分裂症
+helicopter medical service	直升机医疗服务
+helicopter medical team	直升机医疗队
+hemi-	常指半侧，偏侧
+hemicrania	偏头痛
+hemipenis	半阴茎
+hemiplegia	半身不遂
+hemiplegy	偏瘫
+hemiprotein	半蛋白质
+hemipylorectomy	幽门部分切除术
+hemiscotosis	偏侧盲
+hemisection	对切
+hemisphere	半球
+hemisyndrome	偏侧综合征
+hemisynergia	偏身协同动作
+hemitetany	半身手足搐搦
+hemithermoanesthesis	半身热觉缺失
+hemitoxin	半毒素
+hemophagocytic syndrome|hemophagocytic lymphohistocytosis	噬血细胞综合征HPS<BR>亦称噬血细胞性淋巴组织细胞增生症（hemophagocytic lymphohistocytosis），又称噬血细胞性网状细胞增生症(hemophagocytic reticulosis),于1979年首先由Risdall等报告。其特征是发热，肝脾肿大，全血细胞减少。
+hemorrhage|bleeding	出血
+hemotympanum	耳膜出血
+hepatic failure	肝机能衰竭
+hepatitis	肝炎
+hepatitis A	甲型肝炎
+hepatitis B	乙型肝炎
+hepatitis B immuneglobulin	乙型肝炎免疫球蛋白
+hepatitis B surface antigen	乙型肝炎表面抗原
+hepatitis E	戊型肝炎
+hepatology	肝脏科
+herb	草药
+herbal Chinese medicinal material	中草药,中药
+herbal industry	中草药行业,中药业
+herbal medicine	草药,草本药物学
+herbal preparation	中药
+herbal tea	凉茶
+herbal tonic	补药〔中医药〕
+herbshop	中药店
+herd immunityûÆ	体免疫力
+hereditary disease	遗传病
+hereditary factor	遗传因素
+hereditary insanity	遗传性精神病
+hermaphrodite	雌雄同体
+hernia	疝,小肠气
+hernia band	疝气带
+herpes	疱疹
+herpes simplex	单纯疱疹
+herpes simplex type I	疱疹一型
+herpes simplex type II	疱疹二型
+herpes zoster	带状疱疹,“生蛇”
+heterosexual couple	异性夫妇
+heterotransplantation	<BR>异种移植
+heterozygote	异种胚子
+high dependency unit|[HDU]	加护病室,重症护理病房
+high fever	高热,高烧
+high head position	胎儿头部未到骨盆
+high risk behaviour	容易危害健康的行为,容易感染……的行为
+high risk group	高危组别
+high vaginal culture swab	上阴道培养物拭子检验
+higher progression risk	病情较容易恶化
+higher standard accommodation	较高水平病房
+himispasm	偏侧痉挛
+histopathology	组织病理学
+history taking	录取病历
+holiday outpatient service	假期门诊服务
+holistic approach	全人护理模式
+holistic care	全人护理
+holo	完全
+holo-£¬pan-	完全
+holoantigen	全抗原
+holocephalic	头部完整的
+holodiastolic	全舒张期的
+holopathy	全身病
+holoplexia	全身瘫
+holosteosclerosis	全身骨硬化
+holosystolic	全收缩期的
+holotonia	全身肌紧张
+home care hospice service	家居宁养服务
+home leave	暂时出院返家
+home nursing	家居护理
+home visit	上门应诊,家访〔社康护士〕
+homosexual couple	同性恋伴侣
+hook on	染上
+hookworm disease|ankylostomiasis	钩虫病
+hormonal assay	激素分析
+hormonal replacement therapy programme	激素置换治疗计划
+hormonal treatment	激素疗法
+hormone	激素,荷尔蒙
+hormone replacement therapy	激素补充治疗
+hospice care	善终服务,宁养服务
+hospice care bed	善终病床��,宁养病
+hospice ward	善终病房,宁养病房
+hospital administration	医院行政
+hospital care	医院护理
+hospital cluster	医院联网
+hospital consultative committee	医院职员协商委员会
+hospital data centre	医院数据中心
+hospital domestic service	医院内务
+hospital governing committee	医院管治委员会
+hospital information	医院信息
+hospital insurance	住院保险
+hospital management committee	院务委员会
+hospital order	入院令
+hospital speciality	医院专科
+hospital volunteer coordinator	医院义工统筹者
+hospital volunteer service	医院义工服务
+hospital ward training	医院病房训练
+hospital without walls	没有围墙的医院
+hospital's catchment area	医院属区
+hospital-based family medicine trainee	驻院的家庭医学见习医生
+hospitalization	住院
+hot water bottle	热水袋
+hot[Chinesemedicine]	燥热〔中医药〕
+houseman	见习医生
+housemanship	驻院实习
+human T lymp hotrophic virus	Ｔ淋巴细胞病毒
+human conception	人体受孕
+human crutch	扶掖式
+human immunodeficiency virus|[HIV]	艾滋病病毒,后天免疫力缺乏症病毒
+human immunodeficiency virus antibody	艾滋病病毒抗体
+human infertility	人类不育
+husband sperm	丈夫精子
+hydatidiform mole	水囊状胎块,葡萄胎
+hydramnios	羊水过多,胎水过多
+hydrocephalus	脑积水
+hydrotherapy	水力治疗
+hydrotherapy pool	水疗池
+hydrotherapy room	水疗室��
+hymen	处女膜
+hyoicalcia	钙不足
+hyper-	过多，超过，上高，重，过度等
+hyperacidity	胃酸过多
+hyperactivity	活动过度
+hyperaesthesia	感觉过敏,知觉过敏
+hyperalgesia	痛觉过敏
+hyperalimentosis	营养过度
+hyperbaric oxygen therapy	高压氧气治疗
+hypercarbia	碳酸过多
+hyperchloridation	供氯过多
+hyperchloridiotrophia	心肥大
+hypercholia	胆汁过多
+hyperchondroplasia	软骨增殖过多
+hyperendemic	高度地方性的
+hyperhydrosis	多汗症
+hyperimmunity	超大型免疫
+hyperiodemia	重躁狂症
+hyperkinesia	运动过度
+hyperlethal	超致死量的
+hyperlipidemia	高血脂症
+hyperlipoidemia	高脂血症
+hypermania	重躁狂症
+hypermetropia	远视
+hypermetropic astigmatism	远视散光
+hypernormal	超常的
+hyperopia	远视
+hyperpelvic	骨盆上的
+hyperserotonemia	血血清素过多
+hypersexual	非常好色的，性欲过度的
+hyperskeocytosis	幼稚细胞过多
+hypersomnia	睡眠过度，嗜睡症
+hypertcardiotrophia	心肥大
+hypertension	高血压
+hypertensive heart disease	高血压心脏病
+hyperteophy	肥大
+hyperthyroidism	甲状腺功能亢进症
+hypertonic	高张的
+hypnophobia	睡眠恐惧
+hypnosia	嗜眠,病态嗜眠
+hypnosis	催眠
+hypnotherapy	催眠疗法
+hypnotic	催眠药,安眠药
+hypnotism	催眠术
+hypo-	低，少，减退，不足，次，过少，不全
+hypoacidity	胃酸过少，酸过少
+hypoactivity	活动减低
+hypoadrinalemia	血白蛋白减少
+hypoalinentation	营养不足
+hypobaropthy	低气压病
+hypobilirubinemia	低胆红素血症
+hypobromite	次溴酸盐（hyoi-化学上译为次)
+hypochondria	疑病症
+hypochondriacal delusion	疑病幻觉
+hypocondylar	髁下的
+hypoderm	皮下组织
+hypodermic injection	皮下注射
+hypoglossal	舌下的
+hypoglossus	舌下神经
+hypoglottis	舌下部
+hypoglycemia	低血糖症,血糖过少
+hypohidrosis	少汗
+hypokinesis	运动减少
+hypolarunx	喉下部
+hypomania	轻躁狂
+hyponoia	精神迟钝
+hypophrenium	隔下腔
+hypopyon	眼前房积脓
+hyposkeocytosis	细胞性白细胞过少
+hyposmia	嗅觉减退
+hyposmosis	低渗透
+hyposodemia	低钠血
+hyposomia	身体发育不全
+hyposomnia	睡眠不足,失眠
+hypospadiac	adj. 尿道下裂的<BR>n. 尿道下裂者
+hypospadias	尿道下裂<BR><BR>由于雄性激素分泌不足，尿生殖褶闭合不全。下裂程度可不等，轻者仅见于近龟头腹侧，重者可见阴茎腹侧，甚至阴囊。
+hypotension	低血压
+hypotensive drug	降血压药
+hypotrepia	下斜视
+hypovolutism	发育迟缓
+hypsophobia	畏高症
+hysterectomy	子宫切除术
+hysterectomyabdominal	剖腹子宫切除术
+hysterectomyvaginal	阴道子宫切除术
+hysteria	歇斯底里病,癔病
+hysterocarcinoma	子宫癌
+hysterotomy	子宫切开术
+hysterotomy-abdominal	剖腹子宫切开术
+hysterotomy-vaginal	阴道子宫切开术
+ichthyophthiriasis	<B>小瓜虫病</B>
+icterohepatitis	黄疸性肝炎
+icterus|jaundice	黄疸
+ictus	发作，搏动
+idioblapsis	自发性食物过敏
+idiocy	白痴
+idiologism	自解言语症
+idiometritis	子宫实质炎
+idiopathic	自发的，特发的，原发的
+idolomania	偶象狂
+idrosis	多汗，出汗，汗病
+ignipedites	足底灼痛
+ileus	肠梗阻
+incubation period	潜伏期
+interstitial tissue	间质组织，结缔组织
+intestinalfistula	肠瘘
+intracellular fluid	细胞内液
+intracranial pressure	脑压
+intussusception	套叠吸收<BR>即通过跨毛细血管柱现有血管的分裂，及多余微血管芽的剪辑。
+iphenoxylate	地芬诺脂
+keratalgia	角膜痛
+keratectasia	角膜膨胀
+keratiasis	角质疣
+keratitis	角膜炎
+kerato-iridocyclitis	角膜虹膜睫状体炎
+kerato-iritis	角膜虹膜炎
+keratodermia	皮肤角化病，角化病
+keratohelcosis	角膜溃疡
+keratoid	角质样的
+keratoid exanthem	角质性皮疹
+keratoleukoma|leucoma	角膜白斑
+keratoma	角化病
+keratomalacia	角膜软化
+keratomycosis	角膜真菌病，角膜霉菌病
+keratoncus	角质瘤
+keratonosis	皮肤角质层瘤
+keratopathy	角膜病
+keratophagia	角膜霉菌病
+keratoplsia	皮肤角质层增生
+keratoscleritis	角膜巩膜炎
+keratosis palnoplantaris	掌跖角化病
+labial	唇的
+labial fistula	唇瘘
+labial intertrigo	唇间擦烂
+labial keratosis	唇角化病
+labialversion malposition	唇向错位
+labichorea|labiochorea	唇舞病，口吃
+labiform	唇状的
+labiform fistula;ostial fistula	唇状瘘
+labiochorea	唇舞病，口吃
+labioincisal	唇牙切面的
+labiolingual	唇舌的
+labiomycosis	唇真菌病
+labor	分娩，生产
+labyrinthic	迷路的
+labyrinthitis	迷路炎,内耳炎
+lacerated	撕裂，割裂
+laceration	撕裂傷
+lacunar	陷窝的
+lagophthalmic	兔眼的
+lagophthalmos	兔眼
+lamb dysentery bacillus|LD(bacillus)	羔羊痢疾杆菌
+lamellar	板的，层的
+laryngeal angina|laryngitis	喉炎
+laryngeal carcinoma|laryngocarcinoma	喉癌
+laryngemphraxis	喉阻塞
+laryngismus	喉痉挛
+laryngitis	喉炎
+laryngocarcioma	喉癌
+laryngocele	喉囊肿
+laryngomalacia	喉软化，咽软化症
+laryngoparalysis	喉麻痹
+laryngopathy	喉病
+laryngorrhagia	喉出血
+laryngoscleroma	喉硬结
+laryngostenosis	喉狭窄
+laryngostomic fistula	喉造口瘘
+laryngotracheitis	喉气管炎
+laryngotracheobronchitis	喉气管支气管炎
+laryngotyphoid	喉型伤寒
+laryngovestibulitis	喉前庭炎
+laryngoxerosis	喉干燥
+larynx	喉結
+legionnella	军团杆菌
+lichen planus	扁平苔藓
+limb fracture	四肢骨折
+lobule	<B>小裂片</B>
+loculus	<B>小腔室</B>
+lyme disease	莱姆病是可由鹿身上的寄生虫传染的细菌感染引起的疾病。这种寄生虫通常寄生在白脚鼠， 白尾鹿或其它脯乳动物或鸟类身上。
+macerated	浸软的，浸渍的
+macro-	除巨大外，还指长
+macrobiosis	长寿
+macrocephalia	巨头症，大头畸形
+macrocephalous	巨头的
+macrocephaly	头围太大
+macrocheilia	巨唇
+macrocheiria	巨手
+macrochtromosome	巨染色体
+macroclitoris	巨阴蒂
+macrococcus	巨型球菌
+macrocolon	巨结肠
+macrocoly	巨结肠
+macrocomous	长毛的
+macrocyst	巨囊
+macrocyte	巨红细胞
+macrocythemia	大红细胞症
+macrocytosis	大红细胞症
+macrogenesis|macrogenesy	巨人症
+macroglobulinemia	巨球蛋白血症
+macrognathia	巨颌
+macrolymphocytosis	大淋巴细胞增多症
+macrophallus	巨阴茎
+macropia	视物显大症，大视症
+magnetic resonance imaging	磁共振成像,MRI
+malaise	乏力
+malaria	疟疾
+mammillary	乳房状
+mammography	乳腺Ｘ线摄影术
+mammoplasia	乳腺生长
+mastadenitis	乳腺炎
+mastalgia|mastodynia	乳腺痛
+mastatrophy	乳腺萎缩
+mastitis	乳房炎
+mastology|mazology	乳腺学
+meatotomy	尿道外口切开术
+median	中数
+mega-|megalo-	大
+megabacteriun	巨大细菌
+megabladder	巨大膀胱
+megacaryoblast	成巨核细胞
+megacaryocyte	巨核细胞
+megacecum	巨肓肠
+megacephalia	巨头
+megacoddus	巨大球菌
+megacolon	巨结肠
+megalencephalon	巨脑
+megalerythema	巨大红斑
+megalo-	大，巨大
+megaloblast	巨成红细胞
+megalocardia	心肥大
+megalocephalia	巨头
+megalodactyly	巨趾（指）
+megaloglosia	巨舌
+megao	巨大
+megao-esophagus	巨食管
+megasontia	巨芽
+meiosis	减数分裂
+melanin	黑色素
+melaninogenicus	黑色素类杆菌
+melanocytic naevi congenital	先天黑素细胞痣
+melanoma	黑素瘤
+melanuria	黑色素尿症
+melatonin	褪黑激素
+meningism	假性脑〔脊〕膜炎
+meningitis	髄膜炎
+meningocele	脊膜膨出
+meningohy droencephalocele	积水性脑膜脑膨出
+menopause	绝经
+mercy killing	安乐死
+mero-	局部,常指部分
+merodialysis	部分分离
+meromicrosomia	部分躯干过小
+meropia	部分盲
+merorachischisis	部分躯干过小
+micro-	小，细，微
+microcyte	<B>小红细胞</B>
+microgamete	<B>小配子</B>
+microgyria	<B>小脑回</B>
+micromere	<B>小分裂球</B>
+micronucleus	<B>小核</B>
+microphakia	<B>小晶状体</B>
+microphallus|micropenis	小阴茎
+microsection	显微切片
+microslide	显微镜玻片
+microsoma	微粒体
+microsomtia	矮小身材
+microsphere	中心体
+microspherocyte	小球形红细胞
+microstomia	<B>小口</B>
+microtia	<B>小耳畸形</B>
+mictosporangium	小孢子囊
+migraine	偏头痛
+minisome	<B>小核蛋白体</B>
+miocardial infarction	心肌梗塞
+monoacid	单价酸的
+monoarticular	单关节的
+monocelled-	单细胞的
+monochromatic	单色的
+monocyte	单核细胞
+monogenous	单性生殖的
+mononeuritis	单神经炎
+mononuclear	单核的
+monophase	单相
+monoxide	单氧化物
+mulatto	白黑混血儿的
+multi-	,多，多数
+multicapsular	多囊的<BR>
+multicellular	多细胞的
+multicenrtic	多中心的
+multifetation	多胎妊娠
+multiform	多形的
+multilobular	多叶的
+multinodular	多结节的
+multiparous	多胎的
+multiple	多的
+multiple sclerosis	多发性硬化症
+multiterminal	多端的
+multivalence	多价
+musculi perinei|perineal muscles	会阴肌
+myasthenia	肌无力
+mycoplasma	支原体
+myelitis	脊髓炎
+myocardial infarction	心肌梗塞
+myocarditis	心肌炎
+myopericarditis	心肌心包炎
+nanocephalia	小头畸形
+narcolepsy	发作性睡眠病
+narcoma	麻醉性昏睡
+nasal polyplrhinopolypus	鼻息肉
+nasitis	鼻炎
+necrosis	坏死
+necrospermia	死精症
+neopathy	新病
+neophrenia	幼年性精神病
+neoplasm	新生物，赘生物
+nephelopia	角膜翳性视力障碍
+nephradenoma	肾腺瘤
+nephralgia	肾痛
+nephranuria	肾性无尿
+nephrapostasis	肾脓肿
+nephratony	肾驰缓
+nephritis	肾炎
+nephrolithiasis	肾结石
+nephrom	肾单位
+nephroma	肾瘤
+nephromalacia	肾软化
+nephromegaly	巨肾，肾肥大
+nephroparalysis	肾麻痹
+nephropathy	肾病
+nephrophthisis	肾结核
+nephroptosia	肾下垂
+nephroptosis	肾上垂
+nephropyelitis	肾盂肾炎
+nephropyosis	肾化脓
+nephrorrhagia	肾出血
+nephrosarcoma	肾肉瘤
+nephrosclerosis	肾硬化
+nephrosis	肾病
+nephrosonephritis	肾病性肾炎
+nephrospasis	悬垂肾
+nephrotoxic nephritis	肾毒性肾炎
+nephrotuberculosis	肾结核
+nephrotyphoid	肾型伤寒
+nephrotyphus	肾型斑疹伤寒
+nephrozymosis	肾发酵病
+nephrydrosis	肾盂积水
+nervosism	神经衰弱
+nervosity	神经过敏
+neuralgia	神经痛
+neurasthenia	神经衰弱
+neuro-optic	视神经的
+neuroepithelium	神经上皮
+neurofibril	神经原纤维
+neurofilament	神经丝
+neuronevus	真皮内痣
+neuroniits	神经元炎
+neuronosis	神经病
+neuropapillitis	视神经乳头炎，视神经炎
+neuroparalysis	神经性麻痹
+neuropathic	神经病的
+neuropathy	神经病
+neurophlegmon	神经炎
+neurophonia	叫喊性神经病
+neuropsychopathy	神经精神病
+neuropsychosis	神经精神病
+neuropyra	神经性热
+neuroretinitis	视神经视网膜炎
+neuroretinopathy	视神经视网膜病
+neurosarcoma	神经肉瘤
+neurosclerosis	神经硬化
+neurosis	神经官能症
+neurosism	神经衰弱
+neurospongioma	神经胶质瘤
+neurotransmitter	神经递质
+neurotrauma	神经外伤
+neurotrophasthenia	中性白细胞减少症
+neurotrosis	神经外伤
+neurovascular bundle	神经血管束
+neutrophilia	嗜中性
+niphablepsia	雪盲
+nocardiosis	诺卡氏放线菌病
+noctalbuminuria	夜蛋白尿
+noctambulation	梦行症
+node	瘤
+nosematosis	小孢子虫病
+noseresthesia	感觉倒错
+nosomycosis	霉菌病,真菌病
+nosotoxicosis	中毒病
+nostalgia	怀乡病
+nosuppurative	非化脓性的
+notalgia	背痛
+notochordoma	脊索瘤
+noxious stimulus	侵害刺激
+nucleus	细胞核
+nucleus pontinus nervi trigemini	三叉神经脑桥核
+nummular	钱币形的,钱患状的
+nyctalgia	夜痛
+nyctalopia	夜盲症
+nyctaphonia	夜间失音
+nymphitis	小阴唇炎
+nymphomania	慕男狂,女子淫狂
+nystagmus	[希]眼球震颤
+nystagmus horizontalis	[希]平行性眼球震颤
+nystagmus undulans	[希]波浪型眼球震颤
+oarialgia	卵巢痛
+oat cell carcinoma	燕麦形细胞癌
+oberkieferkrebs	上颌癌
+obesity	肥胖,多脂
+obesity hypoventilation syndrome	肥胖通气不足综合征
+obliterative appendicitis	闭塞性阑尾炎
+obliterative brachiocephalic arteritis	闭塞性肱头动脉炎
+obliterative fibrous bronchiolitis	闭塞性纤维性细支气管炎
+obliterative pericarditis	闭塞性心包炎
+obstructive dysmenorrhea	梗阻性痛经
+obstructive emphysema	梗阻性肺气肿
+odentoschim	牙隐裂
+odinagogue	催产剂
+odontagma	牙折
+odontagra	痛风性牙痛
+odontalgia	牙痛
+odontalgicum	治牙痛药
+odontalysis	牙检验
+odontectomy	牙切开术
+odonterism	牙震
+odontexesis	牙洁治法
+odonthemodia	牙敏感
+odontia	牙痛
+odontitis	牙炎
+odontoblastoma	成牙质细胞瘤
+odontocia	牙软化
+odontoclasis	牙折裂
+odontoclast	破牙质细胞
+odontodes	牙多
+odontoloxy	牙不齐
+odontolysis	牙质溶解
+odontonecrosis	牙坏死
+odontopathy	牙病
+odontophlegmon	牙髓炎
+odontophobia	牙恐怖
+odontophore	舌突起
+odontoprisis	咬牙
+odontoptosis	牙脱落
+odontosis	牙萌出
+odontosynerism	牙震
+odontotomy	牙切开术
+odontotrypy	钻牙术
+odontrimma	牙清洁剂
+odynolysis	止痛
+odynometer	痛觉计
+odynophagia	吞咽痛
+odynophobia	疼痛恐怖
+odynopoeia	引起阵痛
+odynuria	尿痛
+oedema	水肿
+oenilism	葡萄酒中毒
+oenomania	间发性酒狂
+oesophagectomy	食管切除术
+oesophagus	食道
+oestrum	激烈的冲动，发情期
+oestrus	发情
+olfactory	嗅觉的
+oligemia	血量不足，血量减少
+oligemic	血量减少的
+olighidria	少汗
+oligo-	少，缺少
+oligoamnios	羊水过少
+oligoblast	成少突神经胶质细胞
+oligocardia	心动徐缓（心跳次数少）
+oligochromimia	血红蛋白过少
+oligochylia	乳糜过少
+oligocopria	排泄物过少
+oligocythemia	红细胞减少症
+oligocythmia	红细胞 减少
+oligodacrya	泪液分泌过少
+oligodendroglia	少突胶质细胞
+oligodipsia	渴感过少
+oligogalactia	乳汁减少
+oligohydria	水缺乏
+oligomer	寡聚物
+oligoocholia	胆汁过少
+oligopnea	呼吸迟缓（呼吸次数 少）
+oligoria	寡情症
+oligosideremia	血铁减少
+oligospermia	精子减少
+oligosteatosis	皮脂减少
+oliguria	少尿
+omentitis	网膜炎
+omentum	网膜
+ommateum	复眼
+omphalectomy	脐切除术
+omphalelcosis	脐溃疡
+omphalitis	脐炎
+omphalium	脐腺
+omphalocele	脐突出
+omphalocephalics	脐头畸形
+omphalochorion	脐绒毛膜
+omphalogenesis	脐形成
+omphaloid	脐状的
+omphaloidean	脐部的
+omphaloma	脐瘤
+omphaloncus	脐瘤
+omphalophlebitis	脐静脉炎
+omphalophyma	脐瘤
+omphaloplacenta	脐胎盘
+omphaloproptosis	脐带脱垂
+omphalorrhagia	脐出血; 脐带出血
+omphalorrhexis	脐破裂
+omphalorrhoea	脐液溢
+omphalos	脐; 脐窝; 中点; 中枢
+omphaloschisis	脐裂
+omphalosite	脐营养畸胎
+omphaloskepsis	意守丹田<BR>[宗]意守肚脐
+onanism	交媾中断
+oneirism	梦幻症
+oneiroanalysis	梦态精神分析
+oneirodynia	恶梦
+oneirology	梦学
+oneiromancy	圆梦，解梦
+ophthalmia	眼炎
+opisthencephalon	<B>小脑</B>
+optic atrophy	视神经萎缩
+orchitis	附睾炎
+organelle	<B>小器官</B>
+ossicle|ossiculum	<B>小骨</B>
+osteoarthritis	退化性关节炎,OA
+osteoclasts	破骨细胞
+osteomalacia	骨软化症
+osteopenia	骨量减低
+osteophytosis	骨赘病
+osteopokilosis	脆弱性骨硬化
+osteoporosis	骨质疏松症
+otitis media	中耳炎
+ovary	卵巢
+over-	过度
+overaction	作用过度
+overactive	活动过度的
+overcorrection	矫正过度
+overdistension	膨胀过度
+overexerition	用力过度
+overgrowth	生长过度
+overhydration	水分过多
+overlapping	重叠
+overresponse	反应过度
+oviduct	輸卵管
+pachycolpismus	肥厚性阴道炎
+pachydactyly	指（趾）肥大
+pachyderma	皮肤肥厚
+pachyleptomeningitis	硬软脑（脊）膜炎
+pachylosis	皮肤粗糙
+pachynesis	肥厚
+pachyonychia	甲肥厚
+palmus	心跳,心悸
+palpitation	心悸
+panagglutination	全凝集
+panarteritis	全动脉炎
+panarthritis	全关节炎
+pancarditis	全心炎
+pancreas	胰腺
+pancytopenia	全血细胞减少
+pancytosis	全血细胞增多
+panesthesia	全感觉
+paralalia	发音不能
+paralysis	麻痹
+paraspinal abscess	脊椎旁脓疡
+paraspinal space	脊椎旁空间
+perineal membrane	会阴膜
+peripheral neuropathy	周围神经病损
+peritonitis	腹膜炎
+persistent pupillary membrane	瞳孔膜存留
+pharyngitis	咽炎
+phlebitis	静脉炎
+phlegm	痰；粘液
+phtisis	痨病, 肺结核
+pimple	<B>小脓疱</B>
+pityriasis	牛皮癣
+pityriasis rosea	玫瑰糠疹
+pityriasis rubua pilaris	毛发红糠疹
+pleo-	常指过多，增，多
+pleocaryocyte	多核细胞
+pleochromocytoma	多色细胞瘤
+pleocytosis	细胞增多
+pleolysis	最大溶血浓度
+pleomastia	多乳房
+pleomorphic	多形的
+pluri-	多，多数
+pluriceptor	多簇受体
+pluricytopenia	多种细胞减少
+pluridyscrinia	多种分泌障碍
+pluriglandular	多腺性的
+plurigravida	经产的
+plurimenorrhea	多次行经
+plurinuclear	多核的
+pluripara	经产妇
+pluripolar	多极的
+pluripotential	多能的
+pneumatocardia	心腔积气
+pneumobacillus	肺炎杆菌
+polio|Poliomyelitis	脊髓灰质炎
+poliomyelitis	脊髓灰质炎
+polioviruses	小儿麻痹病毒
+poly-	多，多数
+polychtomatophlia	多染性细胞增多
+polychylia	乳糜过多
+polyclic	多环的
+polyclinic	综合门诊所，综合医院，分科医院
+polycystic	多囊的
+polycystic kidney disease	多囊肾
+polycystoma	多囊病
+polycythemia	红细胞 增多症
+polydeficiency	多种维生素缺乏
+polydipsia	烦渴
+polydontia	多牙
+pore	<B>小黑点</B>
+postmenopausal osteoporosis	绝经期骨质疏松症
+prion	美国加州大学神经生物学家Stanley B. Prusiner研究了克雅氏病，在1982年提出蛋 白质感染颗粒3（proteinaceous infectious partjicles，缩写为prion）的概念。Prion不 含核酸，疾病的传播仅与蛋白质有关。Prion可以引起人类和动物的多种疾病.
+proctalgia	肛部痛
+proctatresia	肛门闭锁
+proctectomy	直肠切除术
+procteurynter	直肠扩张器
+procteurysis	肛门扩张术
+proctiger	载肛突
+proctitis	直肠炎
+proctoclysis	直肠滴注法
+prolapse of gastric mucosa	胃粘膜脱垂症
+prosopalgia	三叉神经痛
+prostatic utricle	前列腺囊
+psoriasis pustulosa	腕疱型银屑病
+pudendal	阴部神经
+pulmonary abscess	阿米巴肺脓肿
+pulmonary edema	肺气肿
+pyloric stenosis	幽门过窄
+pyodermia	脓皮病
+qcepo|qcepo;macho	结节型皮肤利什曼病
+quadrantalcephalalgia	象限头痛
+quadrantic	象限的
+quadranticanopsia	象限盲
+quadrantichemianopsia	象限盲
+quadricepsextensionexercise	股四头肌伸展练习QEE
+quadrilateral	四边形的
+quadriplegia|tetraplegia	四肢瘫
+quadruplet	四胎儿
+quadrupletpregnancy	四胎妊娠
+quail	恐惧QAI
+quality assurance reagent	质量保证试剂QAR
+rabbit anti-human thymocyte globulin|RATG	兔抗人胸腺细胞球蛋白
+rabbit antibladder cancer	免抗膀胱癌,RABCa
+rabbit antidog-thymus serum	兔抗犬胸腺血清,RADTS
+rabbit antihuman thymocyte globulin|RAHTG	兔抗人胸腺细胞球蛋白
+rabbit antimouse thymocyte|RAMT	兔抗鼠胸腺细胞
+rabbit antirat-thymocyte serum|RARTS	兔抗（大）鼠胸腺细胞血清
+rabbit antithymocyte globulin|RATG	兔抗胸腺细胞球蛋白
+rabbit antithymocyte serum|RATS	兔抗胸腺细胞血清
+rabbit aorta contracting substance|RCS	兔主动脉收缩物质
+rabbit ovarian antitumor serum|ROATS	兔卵巢抗肿瘤血清
+rabbit pox virus|RPV	兔痘病毒
+rabbit red blood cell|RRBC	兔红细胞
+rabbit serum globulin|RSG	兔血清球蛋白
+rabbit-anti-mouse brain serum	兔抗鼠脑血清, RAMBS
+rabbit-anti-mouse platelet serum	兔抗鼠血小板血清,RAMPS
+rabbit-anti-mouse-brain associated T cell serum	兔抗鼠脑相关T细胞血清, RAMBTS
+rabies	狂犬病
+rachilla	<B>小花轴</B>
+ramentum	<B>小鳞片</B>
+ramificative	分支的
+ramitis	神经根炎
+rampant	蔓延的;猛烈的
+ramus ganglii trigemina	三叉神经节支
+random blood smear|RBS	随机血涂片
+random blood sugar	随机血糖<BR><BR>RBS
+range-gated Doppler	选择脉冲范围多普勒，距离选通脉冲多普勒<BR><BR>RGD
+ranine	舌下的
+rankenangioma	葡萄状血管瘤
+ransferrin,common form|TFC	转铁蛋白普通型
+ranula	舌下囊肿
+reticulated siderocytes	网状高铁红细胞R-S
+reticulocyte	网织红细胞，网状细胞Rct
+reticuloendothelial depressant factor	网状内皮系统抑制因子RDF
+reticuloendothelial depressant substance	网状内皮系统抑制物质RDS
+reticuloendothelial phagocytic capacity	网状内皮系吞噬（细胞）能力
+reticuloendotheliosis	网状内皮细胞增生症
+reticulohistiocytic	网状组织细胞的
+reticulohistiocytoma	网状组织细胞瘤
+reticulosis	网状细胞增多症
+reticulospinal	网状脊髓束REST
+reticulospinal tract	网状脊髓束REST
+retinal branch vein occlusion	视网膜分支静脉闭塞RBVO
+retinal nerve fibre layer	视网膜神经纤维层RNFL
+retinal vein thrombosis	视网膜静脉血栓形成RVT
+retinitis	视网膜炎
+retinoblastoma	视网膜母细胞瘤
+retinoblastoma derived growth factor	视网膜母细胞瘤衍生生长因子RDGF
+retinol binding protein and prealbumin	视黄醇结合蛋白与前白蛋白RBP-PA
+retinomalacia	视网膜软化
+retinomeningoencephalitis	视网膜脑膜脑炎
+retinopapillitis	视网膜视乳头炎
+retinopathiadiabetica	[拉]糖尿病性视网膜病Ret diab
+retinopathy	视网膜病
+retinosis	视网膜变性
+retothelial	网状上皮的
+retothelioma	网织上皮瘤
+retro-	后，向后，在后
+retroauricular	耳后的
+retrobulbar	眼球后的；延髓后的
+retrobulbar neuritis	球后视神经炎RBN
+retrocalcaneobursitis	跟腱滑囊炎
+retrocecal	盲肠后的
+retrocession	后移，退行
+retrocusive	退奔的
+retroesophageal	食管后的
+retroflex bundle	后屈束RFB
+retrograde	逆行的，退行的
+retrograde Amnesie	逆行健忘
+retrograde kidney study	逆行性肾脏研究RKS
+retromammary	乳房后的
+retroparotid	腮腺后的
+retroperitoneal	腹膜后的
+retroperitoneal lymph node dissection	腹膜后淋巴结清扫术RLND
+retroperitonitis	后腹膜腔炎
+retropharyngeal	咽后的
+retropharyngitis	咽后炎
+retroposition	后位，后移，复位
+retropubic	耻骨后的
+retropubic hernia	耻骨后疝
+retrospective	回顾的，回想的
+retrosternal	胸骨后的
+retrotonsilla	r 扁桃体后的
+retrotonsillar	扁桃体后的
+retrouterine	子宫后的
+retroversion	后倾
+retrovesical	膀胱后的
+reverse immune cytoadhesion	反向免疫细胞粘着RICA
+reversed gastric tube	撤出胃管；备用胃管RGT
+reversed passive cutaneous anaphylaxis	逆转被动皮肤过敏反应RPCA
+reversible obstructive airway disease	可逆阻塞性气道疾病ROAD
+reversionary	间变
+rhabdomyoblastoma	横纹肌母细胞瘤
+rhabdomyochondroma	横纹肌软骨瘤
+rhabdomyomyxoma	横纹肌瘤
+rhabdomyosarcoma	横纹肌肉瘤
+rhachiochysis	脊管积液
+rhachiopathy	脊柱病
+rhachiophyma	脊柱瘤
+rhachioplegia	脊髓麻痹
+rhachitis	佝偻病；脊柱炎
+rhagades	皲裂
+rhaphania	野萝卜子中毒
+rheoophthalmography	眼血流图描记法ROG
+rhesus diplold rabies vaccine	罗猴二倍体狂犬病疫苗RDRV
+rhesus leukocyte antigen	猕猴白血球抗原RhI-A
+rhesus monkey tissue culture	猕猴组织培养RMTC
+rheumatic	风湿性的rheum.
+rheumatic annular erythema	风湿性环行红斑
+rheumatic arthritis	风湿性关节炎
+rheumatic cervical perispondylitis	风湿性颈椎骨周炎<BR><BR>
+rheumatic edema	风湿性水肿
+rheumatic encephalitis	风湿性脑炎
+rheumatic endocarditis|Bouillaud's disease	风湿性心内膜炎
+rheumatic fever	风湿热rheu fev.
+rheumatic heart disease	风湿性心脏病
+rhinogenous headache	鼻源性头痛
+rickets|rachitis	佝偻病
+ritis	虹膜炎
+sacculus	球囊
+salmonella	沙门氏菌
+salmonellosis	沙门氏菌病
+salpingian	输卵管的
+salpingioma	输卵管瘤
+salpingitis	输卵管炎；咽鼓管炎
+salpingo-ovaritis	输卵管腹膜炎
+salpingocele	输卵管疝
+salpingocyesis	输卵管妊娠
+salpingorrhexis	输卵管破裂
+salpingostenochoria	咽鼓管狭窄
+saphenous	隐静脉的
+scabies|,itch	疥疮
+scald	烧烫伤
+schwannitis	神经鞘炎
+schwannoma	神经鞘瘤
+schwarmerei	不健康的偏爱
+sciapody	巨足
+sciatic nerve	坐骨神经
+sciatica	坐骨神经痛
+sclerosis	硬化
+scrotum	阴 囊
+semen	精液
+semi-	半<BR>
+semiantigen	半抗原
+semicanal	半管
+semicartilagimous	半软骨的
+semicircular	半环形的
+semicoma	半昏迷，轻昏迷
+semiconscious	半清醒的
+semidecussation	半交叉
+semiflexion	半屈
+semilunare	月骨
+semimembrane	半渗透膜的
+seminal groove	输精沟
+seminal vesicle	seminal vesicle
+seminiferous tubules	曲細精管
+senile osteoporosis|SOP	老年性骨质疏松症
+sepsis	敗血症
+septicemia|septicaemia	败血病
+serious adverse reaction	严重不良反应
+sinusitis	窦炎
+smallpox	天花
+solanesol	茄尼醇，CAS No 13190-97-1
+sperm	精子
+spermatic cord	精索
+spinal cord injury	脊髓损伤
+splanchnocele	内脏脱出
+stalklet	<B>小茎</B>
+stercoral appendicitis	粪石性阑尾炎
+sub-	除不全，不足，次，亚，下意外，还表示位置在下面。
+subacetate	次醋酸盐（次用于化学名称）
+subacidity	酸不足
+subacute	亚急性
+subarchinoid	蛛网膜下腔的
+subaural	耳下的
+subcapduloperiosteal	关节囊骨膜下的
+subclavicular	胸骨下的
+subdivision	亚门
+subfamily	亚科
+subfebrile	微热的
+subgroup	亚组
+subinvolution	复旧不全
+subiodide	次碘化物
+sublethal	亚致死的
+subliukemia	亚白血病
+subscapular	肩胛下的
+subtotal	次全的
+suppurative mastitis	乳发<BR>以乳房红肿痛热，溃后大片皮肉腐烂坏死，甚至热毒内攻为主要表现的痈。.
+supra-|super	过度
+susceptible population	易感人群
+swamp fever	沼地热
+sympathetic	交感神经系统sympath.
+sympatheticotonia	交感神经过敏
+sympathetoblastoma	成交感神经细胞瘤，交感神经母细胞瘤
+sympathicogonioma	交感神经原细胞瘤
+sympathiconeuritis	交感神经炎
+sympathicopathy	sympathiconeuritis
+sympathizing	交感的
+sympathogliobastoma	交感神经胶质母细胞瘤
+sympathogonioma	交感神经元细胞瘤
+sympathoma	交感神经瘤
+symphalangia	指（趾）关节粘连
+symphalangism	指（趾）关节粘连
+symphysopsia	独眼畸形
+symptom	症状
+symptomatic	症状的
+symptomatic anemia	症候性貧血
+symptomatic diffuse esophageal spasm	症状性弥漫性食管痉挛
+symptomatic idiopathic diffuse esophageal spasm	症状性特发性播散性食管痉挛SIDES
+syncope	晕厥
+synechia	粘连
+synencephalocele	粘连性脑疝
+synergistic	协同的
+synorchidism	两睾丸相融合一起
+synoscheos	阴囊阴茎粘连
+synovial	滑膜的
+synovialoma	滑膜瘤
+synoviosarcoma	滑膜肉瘤
+synovitis	滑膜炎
+synphalangism	指关节粘连
+syntactical	句法的，语法的
+syphilecus	梅毒性溃疡
+syphilid	梅毒疹
+syphiloma	梅毒瘤，树胶肿
+syphilomyces	湿疣
+syphilopsychosis	梅毒性精神病
+syringadenoma	汗腺腺瘤
+syringitis	咽鼓管炎
+syringo-encephalia	脑空洞症
+syringo-encephalomyelia	脑脊髓空洞症
+syringobulbia	延髓空洞症
+syringocarcinoma	汗腺瘤
+syringocystadenoma	汗腺腺瘤
+syringomyelia	脊髓空洞症
+syringomyelic	脊髓空洞症的
+syringomyelitis	空洞性脊髓炎
+syringomyelus	脊须中央管扩张
+syrnigopontia	脑桥空洞症
+sysomus	并躯联胎
+systematic	系统的
+systematize	系统化
+systemic	系统的；全身的
+systemic arteriolar resistance index	体循环小动脉阻力指数SARI
+systemic blood flow index	全身血流指数SBFI
+systemic inflammatory response syndrome	全身炎症反应综合征,SIRS
+tabacism	烟草中毒，烟末沉着病，烟尘肺
+tabagism	烟草中毒
+tabardillo	鼠型斑疹伤寒
+tabes	消瘦；脊髓痨
+tabes-psychosis	脊髓痨性精神病
+tabescent	消瘦的
+tabetic	脊髓痨的
+tabetic crisis	脊髓痨性关节病
+tabetic dementia	tabetic foot 脊髓痨性足
+tabetic ocular crisis|Pel's crisis	tabetic otalgia 脊髓痨性耳痛
+tabetic otalgia	脊髓痨性耳痛
+taboparalysis	脊髓痨性全身麻痹
+tachetic	有斑点的，斑的
+tachycardia	心动过速
+tackle	滑车
+tactile	触觉的<BR>
+tactile aphasia	触觉性失语
+tactile fremitus	触觉性震颤
+tactile vocal fremitus	触觉的语音震颤TVF
+tadpole edema virus	蝌蚪水肿病毒TEV
+taenia coli muscle of the guinea pig	豚鼠结肠肌绦虫TCGP
+taeniasis	绦虫病
+talampicillin	酞氨苄青霉素TAPC
+talipes	畸形足
+talipes equinovarus	马蹄内翻足 TEV
+temporomandibular joint	颞于颌关节,TMJ
+testis	睾丸
+tetanus	破伤风
+thrombosis	血栓形成
+thrush	鹅口疮
+thyroidism	甲亢
+tinnitus	耳鸣
+topo-	常指部位,局部<BR>
+topoalgia	局部痛
+topodysesthesia	局部感觉迟钝
+topographic	局部解剖的
+topology	局部解剖学
+toponarcosis	局部麻醉
+toponeurosis	局部神经机能病
+torticollis|stiff neck	斜颈
+trabecular vein	<B>小梁静脉</B>
+transient global amnesia|TGA	短暂性全脑遗忘症
+trigeminal nerve	三叉神經
+trigerminal neuralgia	三叉神经痛
+tuberculous menigo -myelitis	结核性脊髓脊髓炎
+tuberous sclerosis	结节性硬化症
+tympanules	<B>小鼓膜</B>
+typhoid	伤寒
+typhus	斑疹伤寒
+uarthritis	痛风，尿酸性关节炎
+ulagia	龈痛
+ulatrophy	龈萎缩
+ulcer	溃疡
+ulcerative blepharitis	溃疡性睑缘炎
+ulcerative pulpits	溃疡性牙髓炎
+ulcerogranuloma	溃疡肉芽肿
+ultra-	超过
+ultracentrifugal	超离心的
+ultrafilter	超滤器
+ultramicron	超微粒
+ultrasonic	超声波的<BR>
+ultrasound	超声波
+ultraviolet	紫外线
+urea cycle disorders	尿素循环代谢障碍
+urethra	尿道
+urethrae	尿道球静脉
+urethral catheterization	尿道导管插入术
+urethral cautery	尿道内烧灼器
+urethral crest	尿道嵴
+urethral cryptitis	尿道隐窝炎
+urethralgia	尿道痛
+urethrostenosis	尿道狭窄
+urophobia	恐尿症
+urticaria|hives	荨麻疹
+uterine cancer	子宫癌
+uterus	子宮
+utricle	胞果
+utricular	具胞的
+utriculitis	椭圆囊炎
+utriculus	小囊
+vaginalectomy	阴道切除术
+vaginapexy	阴道固定术
+vaginismus	阴道痉挛
+vaginitis	阴道炎
+vagotomy	胃神经切断术
+vagotonia	迷走神经过敏
+vagotonic	迷走神经过敏的
+vagotonine	迷走紧张素
+vagus nerve	迷走神經
+valetudinarian	adj. 虚弱的，过分担心健康的<BR>n.病弱的人
+valetudinarianism	体弱多病
+valgoid	外翻状的
+valgus	外翻
+variation	变异
+varices of vulva	外阴脉管曲张
+varicoloured	五颜六色的，杂色的
+variola	天花
+variolation	变种
+varus	足內翻
+vas deferens	輸精管
+vas rectum	直管；直小管
+veal	小牛肉
+veinlet	<B>小静脉</B>
+vertigo	眩晕
+verumontanum	精阜
+vesicula|vesicle	小气囊
+vesicula seminalis	拉）精囊
+vestibule	前庭
+visiting pill	探亲避孕药
+vuluitis	外阴炎
+vulva	外阴
+vulvutis	外阴炎
+whooping cough	百日咳
+xerosis	干燥症
+yellow fever	黄热病
+zona|shingles	带状疮疹
+¦Â-thalassemia	地中海贫血

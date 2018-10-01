@@ -1,0 +1,521 @@
+##name	Muscle Pain
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_middleUpdated	2002/08/30, 04:21
+##author	Eduardo Spaccasassi
+##description	Medical terms relative to muscle pain
+##browsingEnabled	
+##bgl_creationTime	2002/07/23, 21:51
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+A band	dark (anisotropic) band that can be seen running across muscle fibers in the light microscope. It is formed by the aligned myosin filaments of many myofibrils and causes the visible striations of skeletal muscle fibers.
+Abscess	a circumscribed collection of pus appearing in acute or chronic localized infection and associated with tissue destruction and, frequently, with swelling.
+Acetylcholine|Ach	neurotransmitter of the neuromuscular endplate (junction between a motor fiber and a muscle cell) and of many synapses in the peripheral and central nervous system.
+Acetylsalicylic Acid|ASA	Aspirin is one of the nonsteroidal anti-inflammatory drugs.
+Action potential	propagated change of the membrane potential of a nerve or muscle cell. If the membrane is depolarized (its inside made more positive) to threshold, a sudden influx of sodium ions occurs that makes the membrane potential transiently positive. It becomes negative again by an outflux of potassium ions.
+Activation	stimulation of a receptor or neuron so that it starts firing action potentials or increases its discharge frequency.
+Active TrPs	trigger points (TrPs) that cause a clinical pain complaint or other abnormal sensory symptons.
+Acute pain	pain caused by a short-lasting noxious stimulus acting on normal nociceptive structures.
+Adenitis	Inflammation of a gland.
+Adenosine triphosphatase|ATPase	An enzyme that splits adenosine triphosphate into adenosine diphosphate and phosphate plus energy.
+Adenosine triphosphate|ATP	a molecule that provides energy for energy-dependent cell processes by splitting into adenosine diphosphate and energy.
+Adhesions	inflammatory bands that bind surfaces together that are covered by mucous membranes.
+Adventitia	connective tissue surrounding blood vessels and some inner organs.
+Affective-motivational component of pain	pain component that mediates the suffering associated with pain.
+Afferent fiber or nerve cell	a neuron or its fiber that conducts action potentials from the periphery to the central nervous system (primary afferent fiber) or to higher centers within the central nervous system (secondary or higher order afferent neurons). Often, sensory is used as a synonym for afferent.
+Afferent unit	an afferent (sensory) fiber together with its receptive ending and cell body.
+Afterdischarge	a discharge of neurons outlasting the duration of the stimulus.
+Algesic	pain-producing.
+Algesic substance	one of the substances that cause pain or increase the sensitivity of nociceptors.
+Algogenic	pain-producing
+Algometer|Algesiometer	an instrument for measuring the degree of sensitivity to a painful stimulus.
+Algometry	Measurement of pain
+Allodynia	pain caused by a stimulus that does ot normally provoke pain.
+Alpha-Motor fiber	a thick myelinated nerve fiber of a somatomotor neuron that supplies striated muscle.
+Amino acid transmitters	neurotransmitters that consist of amino acid such as glutamate and aspartate.
+Amyloidosis	a disease of unknown cause characterized by the extracellular accumulation of amyloid in various organs and tissues of the body.
+Analgesia	absence of pain in response to a stimulus that would normally be painful.
+Anaphylaxis	immediate transient kind of immunologic (allergic) reaction characterized by contraction of smooth muscle and dilatation of capillaries, resulting from the release of pharmacologically active substances such as histamine.
+Angina pectoris|Stenocardia	severe constricting pain in the chest, usually caused by coronary disease.
+Anorexia	diminished appetite, aversion to food.
+Antidromic	an impulse propagation against the normal direction.
+Aponeurosis	a fibrous sheet or expanded tendon giving attachment to muscular fibers and serving as the means of origin or insertion of a flat muscle.
+Arterioles	small arterial vessels of a size between arteries and capillaries. In contrasto to capllaries, the wall of arterioles contains a thin layer of smooth muscle cells.
+Arteritis	inflammation involving an artery.
+Asepsis	a condition in which living pathogenic organisms are absent.
+Association cortex	those parts of the cortex thar are not specialized as target areas of the special sense organs (e.g., eye and ear).
+Atrophy	a wasting of tissue
+Autoimmune disease	a disease arising from and directed against the individual´s own tissues.
+Autonomic nervous system	those efferent parts of the nervous system that are not under voluntary control. It consists of two main parts, the sympathetic and the parasympathetic nervous system.
+Average pain threshold|APT	sum of dolorimeter readings at the 18 designated tender point sites (kg/cm2) divided by 18.
+Axial muscles	head and trunk muscles that are situated in the central part of the body.
+Axodendritic synapse	a contact between the axon of one neuron and the dendrite of another nerve cell.
+Axon	a process of a neuron that conducts action potentials away from the cell body. The axon is the output portion of a neuron.
+Axon reflex	in sensory nerve fibers, the invasion of nonexcited branches of a receptive ending by antidromic action potentials arising in other excited branches of the ending or in the axon. The invasion is followed by the release of neuropeptides and other substances from the ending.
+Axotomy	transection of nerve fibers or a nerve.
+Basal ganglia	originally, all of the large masses of grey matter at the base of the cerebral hemisphere; currently, the corpus striatum (caudate and lentiform nucleus) and cell groups associated with the corpus striatum.
+Benign	denoting the mild character of the nonmalignant character of a neoplasm.
+Biofeedback	a training technique that enables an individual to gain some element of voluntary control over autonomic (or other involuntary) body functions. In electromyographic feedback training, the patient sees or hears the electromyogram of the affected muscle and thus receives information (feedback) about the contractile state of the muscle he is trying to relax or activate.
+Biogenic amines	substances formed by decarboxylation of amino acids. e.g.: histamine, serotonin.
+Botulinum A toxin	one of a series of toxins from the bacterium <I>Clostridium</I> <I>botulinum</I>, which may be present in improperly preserved food and acts by permanently inactivating acetylcholine release and destroying the neuromuscular junction. The toxin is used in the therapy of spasticity.
+Bradykinin|BK	a molecule composed of nine amino acids (a nonapeptide). One of the so-called vasoneuroactive substances; it dilates blood vessels and sensitizes or excites nociceptors.
+Brainstem|Hindbrain	mesencephalon plus rhombencephalon. The rhombencephalon includes the pons, cerebellum, and medulla oblongata.
+Brawny edema	a thickening and dusky edema.
+Brodmann area	a region of the cortex characterized by a particular cytoarchitecture, i.e., size, arrangement, and density of nerve cells.
+Bruxism	a clenching of the teeth, resulting in rubbing, gritting, or grinding together of the teeth, usually during sleep.
+Bundle of muscle fibers	a muscle fascicle. A group of muscle fibers surrounded by perimysium.
+C fiber	an unmyelinated nerve fiber that conducts action potentials at a velocity of less than 2.5m/s in humans.
+c-fos	cellular (c) oncogene that controls the growth of osteosarcoma (os). It is one of the immediate-early genes that are expressed in neurons within a few hours following stimulation of sensory endings or fibers.<BR><BR>c-FOS - the transcription factor (protein) synthesized by the c-fos gene.
+c-jun	a cellular oncogene that - similarly to c-fos - is expressed in neurons in response to input from the body periphery.<BR><BR>c-JUN - the protein synthesized by the oncogene c-jun.
+Calcium pump	energy-dependent transport mechanism that transports Ca++ across a membrane. For instance, it returns Ca++ ions into the sarcoplasmic reticulum to terminate muscle contraction following their release to activate the contraction.
+Calculosis	tendency to form calculi or stones; also used to describe the presence of stones in the urinary or biliary tract.
+Calculus	a stone-like concretion formed in the passages of the biliary and urinary tracts; it is usually composed of salts of inorganic or organic acids or of other material, such as cholesterol.
+Capillary	the smallest blood vessel. Here, the exchange processes between blood and tissue take place. Capillaries consist of an inner layer of endothelial cells and a basal lamina. They lack a muscle layer.
+Capsaicin	the active ingredient of the chilli pepper that causes the burning sensation after ingestion. It is a powerful stimulating agent for afferent C fibers.Its stimulating action is often followed by reduced sensitivity of C nociceptors (i.e.: by desensitization)
+Carrageenan	a sulfate polysaccharide derived from Irish moss; it is used in animal experiments to induce a sterile inflammation.
+Catalepsy	a morbid state in which there is a waxy rigidity of the limbs, which may be placed in various positions that can be maintained for a time; there is unresponsiveness to stimuli, pulse and respiration are slow, and the skin is pale.
+Catecholamines	pyrocatechols with an alkylamine side chain; e.g.: epinephrine.
+Caudal	related to or in the direction of the tail end of an organism.
+Causalgia	a syndrome of sustained burning pain, allodynia, and hyperpathia after a traumatic nerve lesion, often combined with vasomotor and sudomotor dysfunction and later trophic changes.
+Cellulitis	inflammation of cellular or connective tissue.
+Central nervous system|CNS	the brain and the spinal cord.
+Central pain	pain initiated or caused by a primary lesion or dysfunction in the central nervous system. It may result, for example, from spinal cord injury.
+Central sensitization	increase in excitability of central nervous system neurons; this excitability can last for long periods of time following an acute painful stimulus.
+Cerebral ventricles	normal cavities in the brain that are interconnected and filled with cerebrospinal fluid.
+CGRP	Calcitonin gene-related peptide - a neuropeptide composed of 37 amino acids; it has a strong vasodilating action.
+Cholecystitis	inflammation of the gallbladder.
+Chorea	irregular, spasmodic, involuntary movements of the limbs or facial muscles.
+Chronic pain	pain that persists past the normal time of healing; in clinical practice, a period of 3 months is recognized as a convenient dividing line between acute and chronic pain.
+Cingulate cortex or gyrus	a gyrus on the medial aspect of a hemisphere located directly above and running parallel to the corpus callosum.
+Clearance	removal of a substance from the blood.
+Colic	spasmodic pain in the abdomen.
+Collateral	a side branch of an axon.
+Compliance	the compressibility, for example, of a muscle that can be assessed clinically by pressing a finger into it or by squeezing it between the fingers to determine how easily it is indented and how "springy" it is.
+Compound action potential	summed action potentials of many fibers in a nerve that are excited simultaneously, for example, by an electrical stimulus.
+Concentric contraction|Shortening	a reduction of muscle length produced by generation of muscle force.
+Contractile activity	forms of activation of the contractile apparatus of a muscle.
+Contraction-sensitive receptor	a muscle receptor that responds strongly to physiologic contractions.
+Contracture	1. in the clinical (static) sense: shortening of muscle caused by remodeling of connective tissue. <BR>2. in the physiologic (dynamic) sense: an activation of the contractile mechanism of a muscle.
+Convergence	a neuroanatomic connection implying that inputs from many sources make synaptic contacts with a single neuron in the central nervous system.
+Coronary infarction	a sudden insufficiency of the blood supply in the coronary arteries as a result of emboli, thrombi, or external pressure.
+Coryza	mucous discharge from the nostrils, running at the nose.<BR>An acute rhinitis.
+Cramp	a painful muscle spasm associated with electromyographic activity, such as nocturnal leg cramp.
+Cranial	relating to the head end of an organism.
+Cranial nerve	a large peripheral nerve whose fibers originate and terminate in the supraspinal portions of the central nervous system (brainstem and diencephalon).
+Cross excitation	transmission of action potentials between neighbouring nerve fibers.
+CRPS	Complex regional pain syndrome - forms of pain that are associated with signs of sympathetic disturbances and therefore suggest an involvement of the sympathetic system (e.g.: causalgia, Sudeck syndrome).<BR>It was formerly known as reflex sympathetic dystrophy.
+Curare	a plant extract that produces paralysis of skeletal muscle by blocking the receptor molecule for acetylcholine in the postsynaptic portion of the neuromuscular endplate.
+Cyclic AMP	cAMP - cyclic adenosine monophosphate, an intracellular second messenger that is part of the cascade of events that transforms the action of neurotransmitters or other substances into metabolic changes in the affected cell.
+Cyclo Oxigenase|COX	an enzyme that synthesizes prostaglandins from arachinoid acid.
+Deafferentation	abolition of the influence of afferent fibers (or afferent activity) from central nervous system neurons. Dorsal root avulsion is an example of traumatic deafferentation.
+Decarboxylation	a chemical reaction involving the removal of a molecule of carbon dioxide from a carboxylic (-COOH) group.
+Decerebration	the removal of the brain above the lower border of the corpora quadrigemina of the mesencephalon or a complete section of the brain at about this level.
+Deep somatic tissues	subcutaneous tissues such as muscle, tendon, joint capsule, and ligaments. The term excludes viscera.
+Demyelination	destruction of the myelin sheath of thick nerve fibers, caused by degenative and metabolic diseases (e.g.: diabetes)
+Dendrite	a process of a neuron where most of the synaptic contacts with axons of other neurons are located. A dendrite is the main input region of a neuron.
+Depolarizing muscle relaxants	agents that block neuromuscular transmission by binding to the acetylcholine receptors of the muscle membrane and depolarizing the membrane for a prolonged period of time. e.g: succinylcholine
+Dermatome	area of skin supplied by cutaneous branches from a single spinal nerve.
+Descending antinociceptive system|Descending inhibition	a pain-suppressing network of neurons that originate in the mesencephalon and medulla and inhibit the activity of spinal nociceptive neurons via descending axons.
+Descending facilitation	pain-enhancing activity of a network of spinal nociceptive neurons that originate in the mesencephalon and medulla and influence spinal neurons via descending axons. These pain-facilitating neurons are intermingled with the pain-inhibiting neurons of the antinociceptive system.
+Descending inhibition|descending antinociceptive system	a network of neurons that originate in the mesencephalon and medulla oblongata and inhibit spinal nociceptive neurons.
+Desensitization	a reduction in sensitivity of a neuron to a stimulus, caused by the same or another stimulant.<BR>An example is the desensitization of receptors caused by capsaicin after initial excitation.
+Desmin	an intracellular protein filament of intermediate size (between microfilaments and microtubules). It forms bundles that enhance the mechanical stability of cells.
+Diaphoresis	perspiration
+Diastolic blood pressure	blood pressure during the period of relaxation of the heart ventricles. It is the minimum blood pressure that occurs between two contractions of the heart musculature.
+Discectomy	excision, in part or whole, of an intervertebral disc.
+Disinhibition	the abolition of an existing inhibition of a neuron. In terms of discharge frequency of a spontaneously active neuron, disinhibition is equivalent to activation.
+Distal	situated away from the center of the body, or from the point of origin; applied to the extremity or distant part of a limb or organ.
+Divergence	a neuroanatomic connection implying that a single afferent fiber has synaptic contacts with more than one central nervous system neuron.
+Dolorimeter	an instrumento for measuring the intensity of a painful stimulus.
+Dorsal horn	dorsal (posterior) portion of the grey matter in the spinal cord. Sensory neurons are located here.
+Dorsal root	nerve fiber bundles that enter the spinal cord at the dorsolateral circumference of the spinal cord. It contains primary afferent fibers that originate in cell bodies of the dorsal root ganglion.
+Dorsal root ganglion	an accumulation of sensory nerve cell bodies forming part of a dorsal root. The cell bodies in the ganglion have a central process that terminates in the spinal cord and a peripheral process that forms one or several receptive nerve endings. The dorsal root ganglia of spinal nerves are located in the intervertebral foramen.
+Dysarthria	disturbance of articulation as a result of emotional stress or paralysis, incoordination, or spasticity of the muscles.
+Dysesthesia	an unpleasant abnormal sensation, whether spontaneous or evoked.
+Dysphagia	difficulty in swallowing.
+Dystonia	an abnormal tonicity in any of the tissues.
+Dysuria	difficulty or pain in urination.
+Eccentric contraction|Lengthening	an increase in muscle length, with muscle force resisting the lengthening of the muscle by external forces.
+Ecchymosis	a purplish patch caused by extravasation of blood into the skin.
+Ectopic	out of place.<BR>With regard to neuronal activity, the term means that the discharges originate at an abnormal location.
+Edema	an accumulation of an excessive amount of watery fluid in cells, tissues, or serous cavities.
+Effusion	escape of fluid from the blood vessels or lymphatics into the tissues or a cavity.
+Elastic stiffness	elastic part of the viscoelastic component of resistance to movement. It is clinically tested by performing slow movements (where the viscosity doesn´t influence the measurement).
+Electroencephalogram|EEG	a graphic record of the electrical activity of the brain as recorded by the electroencephalograph.
+Electroencephalograph	an instrument that records the electrical activity of the brain.
+Electrogenic contraction	a contraction elicited by electrical activity of the motor nerve and muscle cell.
+Elevation	lifting a part of the body.
+Emotional-affective component of pain	pain component identified with suffering.
+Endogenous	originating or produced within the organism.
+Endomysium	loose connective tissue around a single muscle cell.
+Endorphin	an endogenous opioid with morphine-like actions.<BR>It is an inhibitory transmitter.
+Endplate potential|EPP	short-lasting positive change of the normally negative membrane potential of a muscle cell. <BR>The EPP is caused by acetylcholine.
+Endplate zone|Motor point	that part of a skeletal muscle where the endplates are located.
+Enkephalin	an endogenous opioid derived from endorphin by splitting.
+Enkephalinergic	neurons that use enkephalin as a transmitter.
+Enthesitis	painful inflammation of the insertion region of a muscle provoked by muscle stress.
+Enthesopathy	a disease process ocurring at the site of insertions of muscle tendons and ligaments into bones or joint capsules.
+Ephapse	synapse-like close apposition between neighbouring fibers in a damaged nerve or neuroma, which may provide direct electrical coupling, leading to cross talk between the fibers.
+Epigastric|Epigastric region	topographic area of the abdomen located between the costal margins and the subcostal plane, which is the level of the bottom of the rib cage.
+Epimysium	connective tissue that encloses a whole muscle. In most muscles a separate fascia surrounding the epimysium is also present.
+Ergonomics	a scientific discipline dedicated to providing a work situation that providesoptimal trunk and limb support and placement of materials. <BR>The goal of ergonomics is to eliminate strained posture and unnecessary motor activity.
+Ergoreceptor	a non-nociceptive group III or IV muscle receptor that is activated during physiologic contractions.<BR>It is presumed to mediate respiratory and circulatory adjustments during physical work.
+Evoked potential	a change in voltage usually recorded from the somatosensory cortex surface following stimulation of a peripheral nerve or another sensory input. The potential consists of several waves that are named according to their polarity (N for negative, P for positive) and their latency (time between onset of the stimulus and occurrence of the potential) in milliseconds (ms).
+Exacerbation	an increase in the severity of a disease or in any of its signs or symptoms.
+Excitatory postsynaptic potential|EPSP	a short-lasting depolarization of the membrane of the postsynaptic neuron, caused by a small amount of excitatory neurotransmitter (e.g., glutamate).
+Extrapyramidal reactions	motor reactions that are caused by activation of the extrapyramidal motor pathways (pathways outside the pyramidal tract).
+Facet joints	small joints connecting the vertebrae.
+Fascia	a sheet of fibrous tissue that envelops the body beneath the skin; it also encloses muscles and muscle groups and separates structural components of a muscle.
+Fascicle	a bundle of nerve or muscle fibers that are enclosed in perineurium or perimysium, respectively.
+Fasciculations	involuntary contractions or twitchings of individual motor units; a coarser form of spontaneous muscular contractions than the fibrillation of individual muscle fibers.
+Fibrillation	involuntary contraction of individual muscle fibers.
+Fibromyalgia|FM|FMS	also called <B>Fibromyalgia Syndrome</B>, it is a chronic condition of increased pain sensitivity, characterized by widespread pain and <U><I>tender points</U></I> at 18 designated locations.
+Fibrosis	formation of fibrous tissue as a reparative or reactive process.
+Fibrositis|Nonarticular rheumatism	an outdated term describing muscle pain radiating from a small tender spot within the muscle.
+Filament	1. one of the contractile proteins of the muscle (actin and myosin).<BR>2. a thin bundle of nerve fibers dissected from a nerve for recording the impulse activity in single fibers (in neurophysiologic animal experiments).
+Flare	a redness of the skin extending beyond the local reaction to the application of an irritant or a noxious stimulus.
+Flexion reflex|flexor reflex	a reflex leading to the contraction of a flexor muscle. Usually, the reflex occurs in response to a painful stimulus to the skin. The effect of the reflex is to move the limb away from the source of pain.
+Flexor reflex afferents|FRA	afferent fibers that can elicit the flexion reflex.
+Free nerve ending	main type of receptive ending of small-diameter afferent fibers.
+Funiculus|column	the largest subdivision of the white matter in the spinal cord (e.g., dorsal funiculus between the two dorsal horns).
+GABA	an inhibitory neurotransmitter in the central nervous system.
+Galactorrhea	a continued discharge of milk from the breasts between intervals of nursing or after weaning.
+Gamma-Motor fiber	a thin myelinated nerve fiber that supplies the muscle fibers within a muscle spindle (the intrafusal muscles).
+Gate control theory	a spinal mechanism for the modulation of pain, which assumes that impulse activity in small-diameter (nociceptive) fibers elicits pain (opens the gate), whereas activity in large-diameter (non-nociceptive) fibers inhibits the pain (closes the gate).
+Glaucoma	an increase in the inner pressure of the eye. One possible mechanism is closure of the angle between iris and cornea. The closure inhibits the efflux of the fluid from the anterior eye chamber into the veins of the eyeball.
+Glycolysis	anaerobic conversion of glucose to lactic acid, which yields much less energy per molecule of glucose than does oxidative metabolism.
+Grey matter	tissue component of the central nervous system that contains the cell bodies of the neurons together with other structures. The processing of impulse activity takes place in the grey matter.
+Group Ia fiber	an afferent (sensory) fiber with origin in a primary ending of a muscle spindle.
+Group Ib fiber	an afferent (sensory) fiber originating in a Golgi (tendon) organ.
+Group III fiber	a thin myelinated muscle afferent (sensory) fiber that conducts action potentials at a velocity of 2.5 to 30 m/s.
+Group IV fiber	an unmyelinated muscle afferent (sensory) that conducts action potentials at a velocity of less than 2.5 m/s.
+Gynecomastia	excessive development of the male mammary glands.
+Gyrus	one of the prominent, folded elevations that form the cerebral hemispheres. Each gyrus is separated from the next by a sulcus.
+H band|Hensen	a pale inner zone of the A band of the striation pattern of a skeletal muscle. It marks that region of the A band where only myosin (and no actin) filaments are present.
+Half-life|half-time	time for half of a substance to be converted or disappear from the tissue.
+Hamstring muscles	semimembranosus, semitendinosus, and biceps femoris muscles. The tendons of these muscles attach to the ischial tuberosity.
+Hematoma	a localized mass of usually clotted blood outside blood vessels, confined within an organ, tissue or space.
+Hemiparesis	a slight paralysis affecting one side of the body.
+Hemiplegia	paralysis of one side of the body.
+Hemolysis	alteration, dissolution, or destruction of red blood cells in such a manner that hemoglobin is liberated.
+Herniated disc	a protrusion of the soft center of a vertebral disc into the vertebral canal. The protrusion can compress the spinal cord or nerve roots and cause pain and other symptons.
+Hertz|Hz	a measure of frequency in cycles per second.
+Heterosynaptic facilitation	increase in responsiveness of a central nervous system neuron by an input that does not excite the cell, meaning that the input excites another neuron, which in turn facilitates the cell under study.
+High-threshold mechanosensitive receptor|HTM	a mechanoreceptor with a high stimulation threshold in the noxious range. The term is often used to describe nociceptors that have not been tested with chemical or thermal stimuli.
+Hippocampus	part of the limbic system, it is a convoluted structure that forms the caudal medial margin of the cerebral hemisphere.
+Histamine	a biologic amine derived from histidine by decarboxylation.<BR>It stimulates gastric secretion, dilates blood vessels and constricts bronchial smooth muscle.
+Hoarseness	a rough, harsh quality of voice.
+Homonymous	having the same name. When used with regard to muscle reflexes, it means that the receptor eliciting the reflex and the contracting motor units are located in the same muscle.
+Hyperalgesia	an increased pain response to a stimulus that is normally painful (stimulus and response are in the same mode).
+Hyperesthesia	an increased sensitivity to stimulation, excluding the special senses (the increased sensation is in the same category as the applied stimulus).
+Hyperexcitability	an abnormal increase in responsiveness of a central nervous system neuron to synaptic input.
+Hyperpathia	a painful syndrome characterized by abnormally painful reaction to a stimulus, especially a repetitive stimulus, as well as an increased threshold.
+Hypertonia	an increased muscle tone for any reason. It includes a variety of conditions such as spasticity, rigidity, dystonia, and muscular contracture.
+Hypertonic saline	a salt solution that has a higher osmotic pressure than serum.
+Hypoalgesia	diminished pain sensation in response to a normally painful stimulus.
+Hypochondriasis	a false belief that one is suffering from some disease.
+Hypoesthesia	a decreased sensitivity to stimulation, excluding the special senses.
+Hypothalamus	ventral region of the diencephalon forming the walls of the ventral half of the third ventricle.
+Hypothenar	fleshy mass at the medial ulnar side of the palm.
+Hypotonia	a loss of normal elastic stiffness that may relate to thixotropy.
+Hypoxia	a reduction in the level of oxygen pressure in body tissues.
+Hysteria	diagnostic term referable to a wide variety of psychogenic symptons involving disorders of function that may be mental, sensory, motor, or visceral.
+I band	isotropic area of the striation pattern of a muscle. The band is located outside the region of the myosin filaments adjacent to the Z band. The I band contains actin filaments only; it looks pale in the light microscope.
+Idiosyncrasy	an unusual individual mental, behavioral, or physical characteristic.
+Immediate-early gene|IEG	a gene that is expressed in neurons within a few hours following stimulation by peripheral input.
+Immunoreactive	a tissue component (antigen) that is stained histologically with labeled antibodies.
+Immunoreactivity	staining produced in histologic sections by labeled antibodies in order to visualize antigens in the tissue.
+In vitro|organ bath	An experimental setup for studying isolated organs or cells that are immersed in or superfused with artificial extracellular fluid and kept alive by gassing the fluid with a mixture of oxygen and carbon dioxide.<BR>From Latin "in the glass".
+Inhibitory postsynaptic potential|IPSP	a short-lasting hyperpolarization of the membrane of the postsynaptic neuron, caused by a small amount of inhibitory neurotransmitter (e.g., glicine). The IPSP shifts the membrane potential away from threshold, which reduces the excitability of the cell.
+Innocuous stimulus	a weak stimulus that is not normally painful. In skeletal muscle, small deformation of the tissue or contractions under physiologic conditions are innocuous.
+Insula	an oval region of the cerebral cortex; it is buried in the depth of the sylvian (lateral) fissure.
+Integration of neuronal activity	processing of simultaneous excitatory and inhibitory synaptic potentials in a neuron.
+Interleukin-1|IL-1	a polypeptide hormone that is synthesized by monocytes and acts on the hypothalamus to induce fever and on the muscle to promote protein degradation.
+Interneuron	a nerve cell that is interposed between two others and has no long axons in ascending or descending tracts.
+Intracerebroventricular	an injection into one of the cerebral ventricles.
+Intrafusal muscle fiber	a muscle fiber inside a muscle spindle.
+Intrathecal	into the subarachnoid space.
+Intrinsic	inherent. Applied to neuronal activity, it refers to discharges that occur in neurons in the absence of a recognizable external stimulus.
+Ion channel	a large channel protein present in the membrane of nerve cells.
+Irritable bowel syndrome	troublesome constipation interspersed with painful cramping and diarrhea, often accompanied by tenderness to palpation in the left upper quadrant or the whole left side of the abdomen.
+Ischemia	a reduction in blood flow in an organ or a part of an organ.
+Isometric contraction	an increase in muscle force without length change.
+Isotonic contraction	a reduction in muscle length without change in the force exerted.
+Kinesiology	the science or study of movement and of the active and passive structures involved.
+Kyphosis	dorsal flexion (forward bending) of the spine. A small degree of kyphosis in the thoracic spine is normal.<BR>Opposite to lordosis.
+Lamina	latin for "layer". The term is used for the layers of the dorsal horn of the grey matter of the spinal cord.
+Latent connections|silent connections	innefective synaptic connections in the central nervous system that may become effective under pathologic conditions.
+Latent TrPs	trigger points (TrPs) that often cause motor dysfunction (stiffness and restricted range of motion) <B><I>without causing</B></I> <B><I>pain</B></I>, in contrast to the pain-producing <B><I>active</B></I> TrPs.
+Leukotrienes|LTs	substances released from damaged tissue by activation of the enzyme lipoxygenase.
+Local muscle pain	pain caused by excitation of muscle nociceptors.
+Local twitch response|LTR	a twitch response of the taut band fibers evoked by snapping palpation or needle penetration of the trigger point.
+Lockjaw	an example of trismus, which may be caused by tetanus infection, for example.
+Locomotor muscle	a skeletal muscle that is mainly used for body movement.
+Long-term potentiation|LTP	in the hippocampus, LTP represents a neuroplastic change that is characterized by a long-lasting increase in neuronal excitability following a short-lasting high-frequency input.
+Lordosis	curvature of the spine with the convexity looking anteriorly. A small degree of lordosis in the lumbar region is normal.<BR>Opposite to kyphosis.
+Low-threshold mechanosensitive receptors|LTM	mechanoreceptors with a low stimulating threshold in the innocuous range.
+Lumbago	pain in the mid and lower back.
+Luxation	complete dislocation of a joint.
+Malignant	(in reference of a neoplasm) having the property of locally invasive and destructive growth and metastasis.
+Mast cells	free tissue cells that are frequently located in the connective tissue around blood vessels.
+Masticatory muscles	muscles involved in chewing.
+Medulla oblongata	caudalmost part of the brainstem, just rostral to the spinal cord.
+Membrane depolarization	a change of the membrane potential of a neuron or muscle cell that makes the normally negative potential on the inside more positive.
+Membrane potential	difference in electric charge between the two sides of a cell membrane.
+Meningitis	inflammation of the membranes of the brain or spinal cord.
+Mesencephalon|midbrain	located between the hypothalamus (rostrally) and the pons (caudally), it is characterized by the lamina tecti cerebri dorsally and the crus cerebri ventrally. Important cell groups include the red nucleus, the substantia nigra, and the periaqueductal grey matter.
+Mesothelium	a single layer of flattened cells forming an epithelium that lines serous cavities.
+Metabotropic receptor	a receptor molecule for neurotransmitters that is located in the postsynaptic membrane and, after binding to the transmitter, activates G proteins and other membrane-bound molecules.
+Metenkephalin	an endogenous opioid that is used as an inhibitory neurotransmitter by neurons of the descending antinociceptive system. Its action results in decreased pain sensitivity.
+Micromolar	a measure of concentration of a substance in a solution. A micromolar solution contains 1/1,000,000 of the molecular weight of the substance in grams per litre.
+Microneurography	a technique of recording impulse activity from single nerve fibers in humans by inserting thin needle electrodes through the skin into a peripheral nerve.
+Microsome	one of the small spherical vesicles derived from the endoplasmic reticulum after disruption of cells by centrifugation.
+Miniature endplate potential|MEPP	small, spontaneous synaptic potentials (depolarizations) of the muscle cell membrane in the endplate region in the absence of electrical activity of the alpha-motor neuron.
+Mitochondrion	a cell organelle (structure within the cytoplasm) that supplies the cell with energy; it contains the enzymes of the citric acid cycle.
+Moderate pressure	a weak mechanical stimulus used in animal experiments to stimulate low-threshold mechanosensitive receptors. It leads to a small local deformation of the muscle.
+Monosynaptic	a neuronal connection that includes only one synapse.
+Morning stiffness	stiffness felt by patients with, for example, rheumatoid arthritis.
+Motor endplate|neuromuscular endplate	structure that links a terminal nerve fiber of the alpha-motor neuron to a muscle fiber. It contains the synapse where the electrical signal of the nerve fiber is converted to a chemical messenger (acetylcholine), which in turn initiates another electrical signal (the action potential) in the cell membrane of the muscle fiber.
+Motor point|Endplate zone	that part of a skeletal muscle where the endplates are located. <BR>Previously defined as the region where the motor nerve entered the muscle.
+Motor unit	all muscle fibers supplied by the same alpha-motor neuron.
+Mucosa|tunica mucosa	mucous membrane lining the inner wall of the gastrointestinal tract and other inner organs.
+Multireceptive neurons|wide dynamic range neurons	nerve cells with convergent inputs from various receptor classes, such as mechanoreceptive and nociceptive.
+Muscle fatigue	a progressive reduction in force of maximum voluntary contraction of a muscle.
+Muscle fiber|muscle cell	Also known as muscle cell, a muscle fiber contains many nuclei and can extend over the whole length of a muscle. <BR>
+Muscle spasm|contracture|cramp	spasm is a pesistent contraction of striated muscle that cannot be released voluntarily.
+Muscle spindle	a muscle receptor that measures the length of a muscle and is excited by muscle stretch.
+Muscle stiffness	discomfort with movement of a joint.
+Muscle tension	an increase in resistance to passive joint movement commonly described as muscle tone or muscle spasm.
+Muscle tone	resting tension of a muscle, clinically determined as resistance to passive movement or to deformation.<BR>Muscle tone has two components: viscoelastic and contractile.
+Muscle twitch	a single or short-lasting activation of the contractile apparatus of a muscle, e.g., by a short electrical stimulus or during a monosynaptic reflex.
+Myalgia	pain in a muscle or muscle group.
+Myasthenia gravis|Goldflam disease	a chronic progressive muscular weakness, usually beginning in the face and throat.
+Myelinated muscle fiber	a process of a neuron that is surrounded by a myelin sheath.
+Myoclonus	twitching of a muscle or group of muscles.
+Myoedema	a mounding of the muscle without electromyographic activity following percussion.
+Myofascial pain syndrome|MPS	a regional muscle pain syndrome of any soft tissue origin.
+Myofibril	contractile element of a muscle cell.
+Myogelosis|muscle gellings	a localized hardening in muscle caused by a hypothetical increase in muscle colloid.
+Myotome	muscles supplied by muscular branches from a single spinal nerve.
+Nausea	sick at the stomach; an inclination to vomit.
+Necrosis	death of tissue cells as a result of pathologic changes.
+Neoplasia	pathologic process that results in the formation and growth of a neoplasm.
+Neoplasm	an abnormal tissue that grows more rapidly than normal, shows lack of structural organization, and usually forms a distinct mass of tissue that may be either benign or malignant.
+Nerve fiber	an axonal process of a neuron together with its sheath.
+Neuraxis	axial unpaired part of the central nervous system: the spinal cord, rhombencephalon, mesencephalon, and diencephalon.
+Neurite	Also known as axon, at the neurite, the action potentials leave the neuron.
+Neurobiology	a term including neuroanatomy, neurophysiology, and neuropharmacology.
+Neurogenic inflammation	a sterile inflammation caused by antidromic neuronal activity in a spinal nerve or parts of it.
+Neurokinin-1 receptor|NK-1	a receptor molecule in the membrane of nerve cells that binds substance P and mediates its intracellular effects.
+Neurokinin A|NKA|NKB	neurokinin A and neurokinin B are peptides that together with substance P form the tachykinin group.
+Neuroma	the proliferative mass of Schwann cells and axons that develops at the proximal end of a severd or injured nerve.<BR>Besides Schwann cells and axons, a neuroma also contains fibroblasts and fibrocytes.
+Neuromuscular endplate	junction between a motor nerve fiber and a muscle cell.
+Neuron	a nerve cell.
+Neuropathy	a disturbance of function or pathologic change in a nerve.<BR>In one nerve, mononeuropathy; in several nerves, neuropathy multiplex; if diffuse or bilateral, polyneuropathy.
+Neuropeptide	a molecule consisting of a chain of amino acids that is found in the cytoplasm of neurons and other cells.
+Neuroplasticity	capability of the central nervous system to react to a short-lasting input with a long-lasting deviation from normal synaptic function.
+Neurosis	a psychologic or behavioral disorder in which anxiety is the primary characteristic.
+Nitric oxide|NO	a gaseous neuromodulator that is sinthesized by the enzyme NO-synthase in neurons. It can also be produced by endothelial and microglial cells. It has a strong dilatory action on blood vessels.
+NMDA receptor	<B><I>N-methyl-D-aspartate</B></I> receptor, one of the receptors of glutamate.
+Nociception	events in the peripheral and central nervous system that are associated with the processing of electrical signals elicited by tissue-threatening stimuli.
+Nociceptive neuron	a nerve cell that signals the presence of tissue-threatening stimuli.
+Nociceptor	a free nerve ending that is specifically activated by noxious stimuli.
+Nonarticular rheumatism	term used for soft tissue pain syndromes that are <B><I>not</B></I> associated with a specific joint dysfunction or disease. It is <B><I>not</B></I> used for fibromyalgia and are<B><I> not</B></I> attributed to myofascial trigger points.
+Noxious stimulus	a tissue-threatening, subjectively painful stimulus.
+NSAID	nonsteroidal antiinflammatory drug (NSAID): a nonsteroidal drug that inhibits inflammatory processes. (e.g., aspirin)
+Nucleus	an aggregation of neuronal cell bodies within the central nervous system, tipically belonging to the same sensory or motor system.
+Nucleus raphe magnus|NRM	an aggregation of neuronal cell bodies in the midline region of the ventral medulla oblongata.
+Occupational myalgia	muscle pain induced by muscular activity at work that is at or near the muscle´s tolerance (because of intensity of work or frequent repetition).
+Opiate	any derivative or preparation from opium.
+Opioid	any (synthetic) narcotic that resembles opiates in action but is not derived from opium.
+Oxidative metabolism	energy-yielding degradation of metabolites that requires consumption of oxygen.
+p|pond	pond <BR>1 p is the force a mass of 1 g exerts under the influence of earth´s gravity
+Pain	an unpleasant sensory and emotional experience associated with actual or potential tissue damage or described in the terms of such damage.
+Pain-facilitating system	a system of neurons in the reticular formation of the upper medulla, which, by their activity, enhance the discharges of spinal nociceptive neurons.
+Pain memory|phantom pain	a hypothetical mechanism implying that a peripheral lesion induces a memory trace in the central nervous system, which reproduces or maintains the pain even after surgical removal of the pain source.
+Pain-producing substances	endogenous substances that can excite nociceptors.
+Palpitation	perceptible pulsation of the heart.
+Pancytopenia	pronounced reductio in the number of erythrocytes, all types of white blood cells, and the blood platelets in the circulating blood.
+Paralysis	loss of power of voluntary movement in a muscle through injury or disease of its nerve supply.
+Paranoid	relating to paranoia, a mental disorder characterized by the presence of delusions, often of a persecutory character, in an otherwise intact personality.
+Paraplegia	paralysis of both lower extremities and of the lower trunk in general.
+Paraspinal muscles	muscles that attach to or near vertebrae.
+Parenteral	by some other means than through the gastrointestinal tract or lung; introduction of substances by intravenous, subcutaneous, or intramuscular injection.
+Paresthesia	an abnormal sensation, whether spontaneous or evoked.
+Parietal peritonium	serous sac consisting of mesothelium and a thin layer of irregular connective tissue that lines the abdominal cavity.
+Peptic ulcer	a lesion characterized by loss of tissue of the mucous surface of the stomach or duodenum, where the mucous membrane is exposed to acid gastric secretion.
+Peptide	a molecule composed of two or more amino acids conected by peptide bonds.
+Periaqueductal grey matter|PAG	an aggregation of neuronal cell bodies around the cerebral aqueduct.
+Perimysium	connective tissue around a muscle fascicle.
+Periosteum	thick layer of connective tissue that covers the surface of a bone except for its articular catilage.
+Peritendineum	connective tissue around a tendon.
+Periumbilical	connective tissue around the umbilicus.
+Petechia	minute hemorrhagic spot in the skin.
+Phantom pain	pain referred to (felt in) a surgically removed limb or part thereof.
+Phlebitis	inflammation of a vein.
+Phosphorylation	addition of phosphate to an organic compound, such as glucose or a protein, through the action of a phosphorylase or kinase.
+Pia mater	a thin membrane of connective tissue that firmly adheres to the surface of the brain and spinal cord.
+Pitting edema	an edema that retains for a time the indentation produced by pressure.
+Polymodal nociceptors	nociceptors that can be excited by a variety of noxious stimuli.
+Postexercise muscle soreness|soreness	the pain caused by excessive or unaccustomed eccentric (lengthening) contractions (e.g, following unaccustomed descent from a mountain climb).<BR>Soreness, tenderness and stiffness appear between 8 and 24 hours after the activity.
+Postganglionic fibers	fibers of the sympathetic and parasympathetic nervous system between the autonomic ganglion and the innervated tissue.
+Postsynaptic inhibition	an inhibition of a postsynaptic cell effected by a hyperpolarization of the membrane of the postsynaptic neuron.
+Postural muscle	a skeletal muscles that is mainly used for maintaining body posture.
+Potentiation	an influence between stimuli that leads to an enhancement of the effect of one stimulus by the other in a more than additive way.
+Poupart´s ligament	inguinal ligament.
+Prefrontal cortex	a large portion of the frontal lobe, including all areas ventral to the motor cortex on the lateral and medial aspects of the hemispheres.
+Presynaptic bouton	a widening of the axon that forms the presynaptic portion of a synapse.
+Presynaptic inhibition	an inhibition of a postsynaptic cell effected by a reduction of the amount of neurotransmitter released by the presynaptic bouton.
+Prevalence	number of existing cases of a disease in a given population at a specific time.
+Preventive analgesia	preemptive analgesia - local anesthesia applied immediately before and while a painful therapy or operation is being performed under general anesthesia.
+Priapism	abnormally persistent erection of the penis.
+Primary afferent fiber	sensory nerve fiber in a peripheral nerve.
+Primary ending of muscle spindle	a receptive nerve ending thar wraps around the central portion of an intrafusal muscle fiber in a spiral course.
+Primary hyperalgesia	increased pain in the region of a peripheral lesion.
+Processing of nociceptive information	all neuronal events associated with the transmission of nociceptive impulses in the central nervous system.
+Projected pain	pain caused by a lesion of nerve fibers along their course in a peripheral nerve or dorsal root.
+Proprioceptive cells	neurons that are dominated by input from muscle spindles and tendon organs.
+Prostaglandins|PGs	biologically active substances that were first found in genital fluids and accessory glands.
+Protraction	drawing a part of the body forward.
+Proximal	nearest the trunk or the point of origin.
+Pruritus	itching
+Psychosis	a mental disorder causing gross distortion or disorganization of a person´s mental capacity, emotional response, and capacity to recognize reality, communicate, and relate to others.
+Pyogenic	related to pus formation.
+Quadriplegia|Tetraplegia	paralysis of all four limbs.
+Radiation of pain	subjective spreading of pain from a lesion to neighbouring areas.
+Radiculopathy	pain caused by compression or another lesion of a dorsal root.
+Ramus	dorsal or ventral - the main divisions of a spinal nerve.
+Rash	a cutaneous eruption.
+Receptor	1. a receptive nerve ending.<BR>2. a large molecule built in the cell membrane.
+Receptor potential	a local change in the membrane potential of a receptive nerve ending, caused by a stimulus.
+Reciprocal inhibition	a spinal mechanism by which an antagonist muscle is inhibited whenever the agonist muscle is activated.
+Red muscle fibers	muscle cells that contain quantities of myoglobin and oxidative enzymes but are poor in phosphorylases.
+Referral of pain	a central nervous system mechanism by which pain is not felt at the site of a lesion but remote from it.
+Referred hyperalgesia	a hyperalgesia in one tissue induced by a painful lesion in another tissue or organ.
+Referred inhibition	an inhibition of one muscle caused by abnormal input from another site.
+Referred pain	referred pain is felt not at the site of its origin but remote from it.
+Referred spasm	a spasm caused in a muscle by a painful disorder in another muscle or other body structure.
+Reflex	an involuntary reaction to a stimulus.
+Reflex sympathetic dystrophy|CRPS	is now called "complex regional pain syndrome" (CRPS); characterized by forms of pain that are associated with signs of sympathetic disturbances and therefore suggest an involvement of the sympathetic system.
+Refractory period	that period of time directly following an action potential, during which a muscle or nerve cell is not excitable.
+Repetitive strain injury|RSI	muscle pain induced by muscular activity at work; it is also known as cumulative trauma and occupational myalgia.
+Resonant frequency	frequency of minimum resistance to movement of a mechanical system that has a certain weight and elasticity. At resonant frequency, resistance to motion comes from viscosity and not from elasticity.
+Resting discharge|background discharge|spontaneous discharge	impulse activity of neurons in the absence of external stimulation.
+Rigidity	stiffness and inflexibility of muscles, caused by muscle spasm (involuntary contraction), such as in Parkinson´s disease.
+Rigor mortis	irreversible contracture (in the physiologic sense) of all muscle fibers after death.
+Rippling muscle syndrome	a dysfunction of skeletal muscle characterized by a rolling wave of contraction that spreads laterally across the muscle in both directions following percussion of the muscle.
+Rostral	relating to the snout end of an organism.
+Rupture	tearing of a muscle or its tendon.
+Sarcomere	smallest functional unit of a muscle cell.
+Sarcoplasmic reticulum	the reticulum within the sarcoplasm.
+Satellite cells	1. cells that are present underneath the basement membrane of the normal muscle cells.<BR>2. cells that are found around dorsal root ganglion cells and are derived from Schwann cells.
+Satellite TrPs	trigger points that develop from a key TrP in another muscle.
+Schwann cells	non-neuronal cells that form a sheath around axons in the peripheral nervous system.
+Sciatica	pain in the lower back and hip radiating down the back of the thigh into the leg; it is usually attributed to a herniated lumbar disc but may come from muscles.
+Sclerosing agent	an injectable irritant that causes tissue induration and scarring by eliciting a sterile inflammation.
+Second messenger	intracellular signal molecules that activates enzymes in response to an external stimulus and change the metabolism of cells.
+Secondary ending of muscle spindle	receptive nerve ending that wraps around the intrafusal muscle fiber on both sides of the central region.
+Secondary hyperalgesia	increased pain and allodynia in body regions surrounding a lesion (where the tissue and receptors are completely intact).
+Secondary muscle spindle afferents	myelinated (group III) fibers from muscle spindle that, in contrast to the primary muscle spindle afferents, do not arise from the receptive endings in the centre of the intrafusal muscle fibers but on both sides of the central region.
+Segment	applied to the spinal cord: a section where one spinal nerve originates with its dorsal and ventral roots.
+Segmental inhibition|afferent inhibition	inhibition of local pain caused by input via thick myelinated (non-nociceptive) afferent fibers from the same region.
+Sensitization of a nociceptor	an increase in the nociceptor´s sensitivity to stimulation.
+Sensory-discriminative component of pain	pain component that mediates the identification of the modality (mechanical, chemical, thermal), the site, intensity, and time-course of a painful stimulus. This component is probably the result of activity in the postcentral gyrus of the cortex.
+Sensory modalities	all sensations originating in special sense organs (e.g., vision, hearing, touch, pain).
+Serotonin|5-HT|5-hydroxytryptamine	one of the vasoneuroactive substances; it constricts blood vessels, sensitizes or excites nociceptors, and is released from blood platelets.
+Silent nociceptors	nociceptors that cannot be activated by mechanical stimuli under normal circumstances but respond readily to these stimuli in inflamed tissue.
+Sinusitis	an inflammation of the lining membrane of any sinus, especially one of the paranasal sinuses.
+Slowly conducting fiber	a nerve fiber that has a conduction velocity of below 30 m/s. Morphologically, the fiber is either thin myelinated or unmyelinated.
+Soft tissue pain disorders|nonarticular rheumatism	a term including more than 100 different painful conditions of muscle, fascia, tendon, ligament, joint capsule, bursae, periosteum, and subcutaneous tissue.<BR>e.g., fibromyalgia
+Somatic reference zone	that region of the body (skin or deep somatic tissues) to which pain from a trigger point is referred.
+Somatization	a process characterized by the development of physical signs and symptons, including pain, in response to psychic stress.
+Somatomotor cortex	that cortical region where motor information to skeletal muscle groups originates. The primary motor cortex comprises large portions of the precentral gyrus, the secondary motor cortex, and a small, medially adjacent region on the medial surface of the brain.
+Somatosensory	relating to sensory information from receptors of the body, excluding those of such special sensory organs as eye and ear.
+Somatosensory cortex	that cortical region where the information from mechanoreceptors, thermoreceptors, and possibly also nociceptors is processed.
+Somatostatin|SOM	one of the neuropeptides. SOM has mainly inhibitory influences on nerve cells. It is also present in other tissues (e.g., pancreatic islets).
+Somatotopy	topographic association of positional relationships of receptors in the body via respective nerve fibers to their terminal distribution in specific functional areas of the cerebral cortex and other areas of the cebtral nervous system.
+Somnolence	sleepiness, drowsiness, an inclination to sleep.
+Spasm	a longer-lasting contraction of a muscle that is not under voluntary control and is not dependent on posture.
+Spasticity	muscle spasm observed in conditions such as hemiplegia, brain injury, or spinal cord injury.
+Spatial summation	the mechanism by which subthreshold inputs to a neuron add up (and may become suprathreshold) if inputs from many body region act on the same region simultaneously.
+Spinal nerve	a large peripheral nerve whose fibers originate or terminate in one segment of the spinal cord.
+Spinal stenosis	a narrowing of the vertebral canal that encroaches on the spinal cord.
+Spread of pain	term used for describing the expansion of a region in which pain is felt.
+Static contraction	maintained contraction without phases of relaxation.
+Stellate blockade	a block of the stellate ganglion by injection of a local anesthetic.
+Striatal-frontal circuits	neuronal connections between the striate body and the cortex of the frontal lobe.
+Striatum|corpus striatum	striate body, a complex formed by the caudate and putamen, two nuclei in the cerebrum.
+Subluxation	an incomplete dislocation of a joint.
+Substance P|SP	a neuropeptide. It consists of a chain of 11 peptides, has strong vasodilatory actions, and is a neuromodulator for nociceptive processes in the central nervous system.
+Substantia gelatinosa	second lamina (layer) of the dorsal horn in the spinal cord.
+Sudomotor fibers	sympathetic efferent fibers that activate sweat glands.
+Superfusion	a method of administering active agents to tissues: a constant stream of fluid containing the agent is applied to the surface of the tissue so that it is always covered with a thin film of the solution.
+Supine	the body lying face upward.
+Supplementary motor area	a part of the motor cortex that is located on the medial surface of the hemispheres, ventral to the precentral gyrus.
+Sympathectomy	excision of a segment of a sympathetic nerve or of one or more sympathetic ganglia.
+Synapse	a connection between two neurons in the central nervous system.
+Syncope	a fainting or swooning; a sudden fall of blood pressure or failure of the cardiac systole, resulting in cerebral ischemia and subsequent loss of consciousness.
+Syringomyelia	presence in the spinal cord of fluid-filled longitudinal cavities; it is marked clinically by pain and paresthesia followed by muscular atrophy of the hands.
+Systemic lupus erythematosus|SLE	an inflammatory connective tissue disease with variable features, frequently including fever, weakness, and fatigability, joint pain or arthritis resembling reumatoid arthritis, diffuse erythematous skin lesions on the face, neck, or upper extremities, with liquefaction degeneration of the basal layer and epidermal atrophy, lymphadenopathy, pleurisy or pericarditis, glomerular lesions, anemia, hyperglobulinemia, a positive lupus erythematosus test, and other evidence of an autoimmune phenomenon.<BR>It is also known as "disseminated lupus erythematosus"
+Systremma	another term for calf cramps or nocturnal leg cramps.
+Tachyphylaxis	rapid appearance of progressive decrease in response following repetitive administration of a pharmacologically or physiologically active substance.
+Tardive dystonia	a late, tardy form of dystonia.
+Taut band	a palpable rope-like hardening of a muscle harbouring a myofascial trigger point.<BR>Taut bands are a group of tense muscle fibers that may be passively stretched by the contracture of contraction knots in a trigger point in the centre of the fibers.
+Temporal summation	a mechanism by which subthreshold inputs to a neuron sum up (may become suprathreshold and elicit action potentials) if a given input from the same source acts on a neuron at a high frequency.
+Tender point	one of eighteen designated sft tissue body sites that, when tender to palpation, help to identify fibromyalgia.
+Tender point index	the sum of tenderness ratings (on a scale of 0 to 4) for each of the 18 designated tender point sites.
+Tenderness	pain elicited by weak (pressure) stimuli thar are not normally painful.
+Tendomyopathy	a painful condition of the insertion zone of a muscle.
+Tendon organ|Golgi	Tendon (Golgi) organ - a mechanoreceptor in the tendon that measures the tension of the muscle. It is arranged in series with the muscle. Activation of tendon organs inhibits the homonymous muscle.
+Teratogenicity	property or capability of producing fetal malformation.
+Tetanic muscle contraction	repeated muscle contractions at such a high frequency that the single contractions merge.
+Tetraplegia|Quadriplegia	paralysis of all four limbs.
+Tetrodotoxin|TTX	a poweful neurotoxin found in the ovaries of the Japanese pufferfish that blocks impulse conduction in nerve fibers.
+Thixotropy	change (reduction) in the viscosity of a fluid following movements.
+Threshold	1. electrical - the minimum change in membrane potential that leads to the generation of action potentials in an excitable cell (nerve or muscle cell).<BR>2. mechanical, thermal, chemical - when using these less well-defined stimuli, the lowest intensity of a stimulus that leads to a just-recognizable response of a neuron or individual is taken as its threshold.
+Tinel sign	pain, dysesthesia, or paresthesia on percussion of a neuroma or nerve lesion. The peripheral basis of the Tinel sign is the mechanosensitivity of sprouting nerve fibers in the neuroma or in the nerve lesion.
+Tinnitus	sensation of noises in one or both ears.
+Topography	description of any part of the body, especially in relation to a definite and limited area of the surface.
+Tract	a bundle of nerve fibers that connect two centers (nuclei) within the central nervous system.
+Transcription factor	the intermediate gene product that is involved in the transcription of a DNA sequence into an mRNA sequence.
+Transcutaneous electrical nerve stimulation|TENS	therapeutic method that is used to inhibit nociceptive neurons in the central nervous system by stimulating myelinated afferents in a peripheral nerve through the intact skin.
+Tremor	an involuntary trembling movement.
+Triad	electron microscopic structure of a muscle cell, formed by two cisternae (terminal expansions of the sarcoplasmic reticulum) and a tubular invagination (transverse tubule) of the cell membrane.
+Trigger point|TrP	1. central TrP - a tender localized hardening in a skeletal muscle.<BR>2. attachment TrP - tenderness in the region of muscle attachment caused by enthesitis or enthesopathy induced by the persistent tension of the taut band muscle fibers.
+Trismus	a firm closing of the jaw as a result of tonic spasm of the muscles of mastication. In practice, the term is commonly appliedto restricted opening of the mouth, not only because of muscle spasm but also because of fibrotic contractures and/or adhesions.
+Tropomyosin	a protein molecule associated with the actin filament, which (together with troponin) masks the binding site for myosin in a resting muscle.
+Troponin	a protein molecule associated with the actin filament, which (together with tropomyosin) masks the binding site for myosin in a resting muscle.
+Twitch	a momentary contraction of a muscle fiber or of a group of muscle fibers.
+Unmyelinated fiber	a nerve fiber that lacks a myelin sheath.<BR>These fibers still have a thin sheath formed by Schwann or glial cells.
+Varicosities	expanded portions of nerve endings and preterminal fibers that contain neuropeptides and other substances stored in vesicles. When the receptive ending is excited, the stored substances are released from the fiber.
+Vasomotor fibers	sympathetic efferent fibers that innervate smooth muscle of blood vessels.
+Vasoneuroactive substances	substances that dilate or constrict blood vessels and increase the sensitivity of nociceptors or excite them. (e.g., BK)
+Ventral root	fiber bundles leaving the spinal cord at the ventrolateral circumference of the spinal cord.
+Ventricle|cerebral ventricle	cerebral ventricles are interconnected cavities in the brain filled with cerebrospinal fluid.
+Ventrobasal complex|VB	the combination of two nuclei of the thalamus: nucleus ventralis posterolateralis and nucleus ventralis posteromedialis.
+Verbal rating scale|VRS	verbal estimate of pain severity by the patient, on the same scale of 0 to 10 that is used for the visual analog scale values.
+Vesicle	in neurons: a microscopic sac inside the presynaptic portion of a nerve cell and also within receptive nerve endings. Vesicles are formed by membrane material and contain neurotransmitters and other substances.
+Vicious cycle	a positive feedback mechanism that is self-sustaining. In such a system, the result of a chain of events is fed back to the starting point of the chain, maintaining the process.
+Viscoelastic tone	combined viscous and elastic tension of a resting muscle, caused by the physical properties of the soft tissues.
+Visual analog scale|VAS	a tool for measuring the severity of a patient´s pain
+von Frey hairs	synthetic or natural hairs used for quantitative mechanical stimulation of skin receptors.
+Warfarin	an anticoagulant derived from coumarin, it is also used as a rat poison.
+Wheal	a circumscribed evanescent area of edema of the skin, appearing as a urticarial lesion, slightly reddened, and accompanied by itching.<BR>The wheal around a lesion is probably the result of an increase in the permeability of blood vessels, caused by the release of substance P.
+Whiplash injury	a hyperextension-hyperflexion injury of the neck.<BR>Often, this injury occurs in a car accident when one car (which may be stopped) is hit from behing by another (moving) car.
+White matter	a tissue component of the central nervous system that contains many fiber tracts and only a few neuronal cell bodies.<BR>In the white matter, the conduction of impulse activity between central nervous system centres occurs, but no information processing takes place.
+White muscle fibers|Type II fibers	muscle cells that have a pale appearance because they contain less myoglobin than do red fibers. They have predominantly glycolytic metabolism.
+Wind-up	increase in the magnitude of response in dorsal horn neurons to repeated C-fiber input. The increase occurs if the identical input is repeated at short intervals (less than 2 seconds).
+Winging	winging of the scapula - an abnormal scapular posture characterized by lifting of the medial margin of the scapula from the thorax wall as a result of muscle weakness.
+Xerostomia	dryness of the mouth, resulting from diminished or arrested salivary secretion.
+Z band	the borderline region between two sarcomeres. Actin filaments are fixed to the Z bands.
+Zygapophyseal joints	small joints connecting the vertebrae.

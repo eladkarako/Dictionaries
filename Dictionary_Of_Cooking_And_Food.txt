@@ -1,0 +1,539 @@
+##name	Dictionary Of Cooking And Food Terms
+##sourceLang	English
+##targetLang	English
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1252
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	Dirk Merkel
+##email	webmaster@recipearchive.com
+##description	An easily searchable online dictionary and glossary for terms related to food and cooking.
+##browsingEnabled	
+##bgl_creationTime	2000/08/07, 12:23
+##bgl_middleUpdated	2000/08/07, 12:57
+8EAF66FD.bmp	File: 8EAF66FD.bmp
+C2EEF3F6.html	File: C2EEF3F6.html
+a la	(French) The style of, such as: a la Francaise (The style of the French).
+a la Bourgeoise	(French) The style of the family (family style).
+a la Broche	(French) Cooked on a skewer over a flame. See Brochette.
+a la Carte	(French) Each menu item is priced separately: Foods prepared to order.
+a la King	(French) A Bechemel sauce containing mushrooms, green peppers, and red peppers or pimentos.
+a la Mode	(French) Refers to ice cream on top of pie.
+a la Provencale	(French) Dishes prepared with garlic and olive oil. See Provencale.
+a la Russe	(French) The Russian way.
+A.P.	As Purchased.
+Abaisee	The french term for a sheet of puff pastry which has been rolled very thinly. Sometimes it refers to a thin slice of sponge cake used in a dessert.
+Abaisse	A French term for a sheet of rolled out pastry which is usually used as base in a dessert. It can also mean a cookie or slice of sponge cake on which a filling (preserves or cream) is to be spread.
+Aboukir	A Swiss dessert made of sponge cake and chestnut-alcohol flavored cream.
+Aboukir Almonds	A sugar-glazed petit-four made by pressing two whole blanched and roasted almonds into the sides of a ball of green-colored marzipan. It is then held with a dipping fork and dipped into boiled sugar syrup and left to sit on parchment paper until firmly set.
+Absinthe	Also wormwood. An aromatic plant that contains an alkaloid used to make medicinal drinks in the Middle Ages. The first absinthe liquer was made by HL Pernod in the late 1700's. Later it was discovered that absinthe had dangerous effects on the nervous system and was outlawed in 1915. Pernod is now flavored with aniseed.
+Accolade	En accolade means presenting two similar kinds of food leaning on each other on the same plate. The term usually applies to poultry and game hens.
+Acetic Acid	A natural organic acid which is also known as vinegar. It is used in sugar and confectionery recipes, in pavlovas (as a stabilizer for the eggs), and in royal icing (to help the icing set).
+Acetomel	A mixture of honey and vinegar that produces a sweet/ sour syrup. Although it is rarely used today, in the past it was used to preserve fruits.
+Achar	A yellowish, strongly spiced pickle popular in Indian cuisine. It is usually made from a mixture of chopped fruit and vegetables steeped in a spicy sauce. A typical achar might include carrots, peppers, cucumbers, green beans, cabbage, cauliflower, and lemons steeped in salt. The whole mixture would then be preserved in an oil spiced with onion, ginger, cayenne, vinegar and saffron.
+Acidulate	To give a dish or liquid a slightly acidic, tart or piquant taste by adding some lemon juice, vinegar, or unripened fruit juice. Also, one can acidulate fresh cream by adding lemon juice to get sour cream.
+Acidulated Water	Water to which a mild acid, usually lemon juice or vinegar, has been added to prevent sliced fruits (especially apples and pears) and peeled or cut up vegetables (i.e. artichokes and salsify) from turning dark during preparation. To make acidulate water, squeeze half of a lemon into a medium bowl of water.
+Advocaat	A thick, yellow liqueur made from egg yolks, sugar, and alcohol. It can be served before and after dinner, on desserts, or in mixed drinks.
+Affriander	(French) To give a dish a more appetizing appearance by garnishing it.
+Affriter	A French term used to describe the seasoning of a pan. This can be achieved by rubbing it with salt or by heating a little bit of oil in the pan and then drying it with a cloth.
+Agar-agar	An extract of seaweed (also know as Bengal isinglass and Japanese or Ceylon moss) from the Pacific and Indian Oceans. It comes in either small transparent strips or powdered form. The Japanese use it in soups. However, its most common use is in commercial food products such as deserts, soups, ice creams, and sauces. Probably, because agar-agar dissolves in water over low heat and upon cooling sets into a jelly.
+Agave	A Mexican plant with large, fleshy leaves. Its fermented sap is used to make tequila, pulque, and mescal.
+Aging	A term used to describe the holding of meats at a temperature of 34 to 36 degrees F. for a period of time to break down the tough connective tissues through the action of enzymes thus increasing tenderness.
+Agneau	(French) Lamb.
+Agnes Sorel	A garnish made of mushrooms, chicken, and pickled tongue named after the mistress of King Charles VII of France. In Agnes Sorel soup, the garnish is cut into thin strips and added to the thickened soup.
+Agnolotti	A kind of ravioli in which the pasta is cut into small, round pieces. They are usually stuffed with meat and vegetables and then folded over like turnovers. Agnolotti are popular in the Piedmont region of Italy,where they are boiled in stock and served with butter and grated cheese.
+Agraz	A North African sorbet made from almonds, verjuice, and sugar. It has an acidic flavor and goes well with Kirsch.
+Aioli	A Provencal garlic-mayonnaise sauce. In fact, the name is derived from ail (garlic) and oli (oil). It is served with cold fish, eggs, salad, snails, and cold meat.
+Al Dente	Italian for 'to the tooth'. It refers to the firm but trender consistency a perfectly (in some opinions) cooked piece of pasta will have.
+Alabaster	A shaker dish of mashed potatoes and turnips, name after the silvery white color.
+Albondigas	Meatballs
+Allspice	A single spice whose flavor is reminiscent of a blend of nutmeg, cloves juniper berries, pepper, and cinnamon. It is processed from the fruit of an evergreen tree found in the Western Hemisphere.
+Allumette Potatoes	(French) Potatoes cut like large match sticks.
+Almond Paste	A mixture of ground almonds, sugar, and glucose. The Odense brand of almond paste is a good one to try. It can be found in the baking aisle in most grocery stores.
+Alphabet Pasta	Pasta shapes in the form of letters and numbers. This favorite kids' shape is usually used in soups for a fun meal anytime.
+Amandine	(French) Prepared with or garnished with almonds.
+Amaretti	Italian almond cookies reminiscent of the macaroon.
+Amaretto	An almond flavored liqueur (made from apricot pits) from Italy. Disaronno Amaretto is a good brand to try.
+Anaheim Chiles	Mild, long green chiles named for the area near Los Angeles where they were once cultivated. You can buy them canned (whole or chopped) and fresh.
+Ancho Chiles	Dried poblano chiles that come in color ranging from dark red to almost black. They are moderately hot with a smokyflavor. Pasilla chiles are a good substitute.
+Angel Hair	Capellini ("Fine Hairs") A thin, delicate pasta. These strands are best if used with thinner, delicate sauces. Other uses: break in half and put in soup; use in salads or stir-fry meals.
+Anglaise	(French) The English way.
+Anis	(Spanish) Anise
+Anise	A spice whose flavor is reminiscent of licorice, usually bought ground. (although seed form is also common). It is found in cookies, cakes and liqueurs.
+Arborio Rice	A short grain white rice from Northern Italy. The length of the grain is often less than two times its width. It is used often in risotto due to its ability to absorb flavor as it cooks, yet remain somewhat firm in the center. The Spanish Valencia rice is a good substitute.
+Armagnac	A member of the brandy family known for its distinct, unpolished flavor with hints of prune. Armagnac can be found in most liquor stores.
+Arrowroot	A white, powdery thickener finer than flour. It is quite expensive and preferable to cornstarch because it provides a clear finish. Its extracted from rhizomes. It was originally used by American Indians to heal arrow wounds, hence the name 'arrowroot'.
+Arroz A La Espanola	Spanish rice.
+Arroz Con Pollo	Chicken with rice.
+Arugula	Also known as rocket. Arugula is a pepper and mustard flavored green that is used in many salads and as a sandwich condiment. Watercress is a good substitute if you can't find it. Although, most American farmers' and gourmet markets carry it.
+Asafran	(Spanish) Saffron
+Asiago	An Italian cheese (known as poor man's Parmesan) mainly used for grating. It is reminiscent of cheddar. Although, it is traditionally made with sheep's milk, today it is often made with cow's milk.
+Aspic	(English) Clear meat, poultry, or fish jelly.
+Atole	A gruel-like blue corn-meal drink. Is either served withsugar, scalded milk, or both.
+au Gratin	(French) To top food with cheese or bread crumbs, then baked.
+au Jus	(French) Served with natural juices.
+au Lait	(French) With milk.
+au Naturel	(French) Food that are plainly cooked.
+Babka	A sweet Polishyeast bread that usually contains almond and raisins, but recent versions use chocolate and cinnamon.
+Baked Alaska	Also called Omelet sursprise. A frozen dessert in which solidly frozen ice cream is placed on top of a layer of sponge cake and frosted with meringue. The cake is placed under a broiler to brown it slightly.
+Baking Powder	A leavening agent of which the most common is double-acting baking powder, called so because it reacts first with liquids and secondly, with the heat during baking. A good substitute for 1 teaspoon of baking powder is 1/4 teaspoon baking soda plus 1/2 teaspoon cream of tartar. Periodically, check the expiration date on your can as baking powder loses its leavening power over time.
+Baking soda	A leavening agent, activated by interacting with something acid. Liquid ingredients like sour milk, sour cream, buttermilk, yogurt, molasses, and lemon juice help baking soda produce the gases which in turn make a batter rise. The batter should be baked as soon as possible after the liquid has interacted with the baking soda.
+Bamboo shoots	These are the ivory-colored shoots of the bamboo plant. Widely available in cans; fresh bamboo shoots are expensive and seasonal. Bamboo shoots have a tender-crisp texture and sweet flavor. To refresh canned bamboo shoots, rinse and quickly blanch before use.
+Bard	To wrap meat with bacon or salt pork.
+Barley, Pearl|Barley|Pearl Barley	Polished barley.
+Barquettes	Small, boat shaped pastry tarts made of short crust pastry or puff pastry, baked blind and then filled with sweet or savory fillings.
+Basmati Rice	An aromatic rice with a nutty flavor. Its grains separate nicely after cooking, making it ideal for pilafs.
+Baste	To pour drippings, fat, or stock over food while cooking.
+Bay Leaf	An aromatic leaf that comes from bay laurel. Whole, halved, or ground, it lends a slightly bitter, pungent seasoning to soups, stews, and stocks. It id one of the primary ingredients in a bouquet garni.
+Bearnaise	(French) Sauce derived from Hollandaise, with a tarragon reduction added.
+Bechamel	(French) A rich cream sauce made from cream and a roux, with an onion pique.
+Beef, Dried|Beef|Dried Beef	Beef soaked in brine and then soaked and dried.
+Beurre	(burr) (French) Butter.
+Beurre Manie	Literally, handled butter. It is an equal mixture of soft butter and flour, used for thickening soups and sauces.
+Beurre Noir	(burr-nwahr) (French) Butter cooked to a dark brown, then adding capers and a dash of vinegar.
+Beurre Noisette	(burr-nwah-zet) (French) Butter that tastes like hazelnuts, achieved by melting butter until it turns a golden brown.
+Biscochitos	Anise seed cookies.
+Bitters	(Angoustra bitters) A liquid combination of cloves, cinnamon, quinine, nutmeg, rum, dried fruits, and other root and herbal extracts. They are mostly used in drinks.
+Bittersweet or semisweet chocolate	This is the chocolate most often called for in cake and cookie recipes. 'Bittersweet' and 'semisweet' are often used interchangeably, though bittersweet generally has more chocolate 'liquor' (the paste formed from roasted, ground cocoa beans). Most semisweet chocolate contains at least 35% chocolate liquor, while some fine bittersweets contain 50% or more. Bittersweet and semisweet chocolate have a deep, smooth, intense flavor that comes from the blend of beans used rather than added dairy products. Sugar, vanilla, and cocoa butter are added to the liquor to lend an even richer taste.
+Black beans, salted|Black beans|salted Black beans	An important Chinese ingredient, black soybeans are cooked and fermented with salt and spices, resulting in a pungent, soft bean with a distinctive salty flavor. This unusual item is used in steamed, braised, and stir-fried dishes, giving them a rich, complex flavor.
+Black Cow	An ice cream soda made with vanilla ice cream and cola.
+Black Rice	Milled rice is white, but the outer bran layer can be brown, red or black. In the case of black rice, the raw grains look charred and the cooked ones are the color of blackberries.
+Blackstrap Molasses	Unrefined molasses which has a bitter taste.
+Blanch	To place foods in boiling water briefly either to partially cook them or to aid in the removal of the skin (i.e. nuts, peaches, tomatoes). Blanching also removes the bitterness from citrus zests.
+Blind Bake	To bake a pie crust without the filling. Metal weights or dried beans are usually used to keep the pastry from bubbling.
+Blue Cheese	A cow's milk, semisoft, blue-veined cheese with a very strong aroma. The most common US made blue cheese is Maytag (Iowa). Similar cheeses include France's Roquefort and Italy's Gorgonzola.
+Bok choy	A Chinese cabbage with white stems and broad, dark green leaves. Shanghai or baby bok choy is smaller and has a more delicate flavor. Steamed, blanched or used in soups and stir-fries, bok choy imparts a refreshing, mildly bitter taste. Chose stalks that are crisp with unblemished leaves.
+Bombe	A frozen dessert made by lining a special mold with ice cream or sorbet, The center cavity is then filled with a mousse, cream or parfait mixture. The mold is tightly sealed and the dessert is frozen solid before unmolding and serving.
+Bouquet Garni	A bunch of herbs (traditionally parsley, thyme, and bay leaf) bundled up in a cheesecloth bag that usually dangles into a stockpot via a string. The herb bundle gives the stew, soup or stock an aromatic seasoning. The bouquet garni is removed before serving.
+Braising	A cooking method where food (usually meat) is first browned in oil, then cooked slowly in a liquid (wine, stock, or water).
+Brioche	A sweet yeast bread that is originally French. Brioche has a unique lightness, flavor and aroma. It is composed of flour, sugar, yeast, milk, butter, and egg yolk. It is similar to the Jewish Challah.
+Brown Cow	An ice cream soda made with vanilla ice cream and root beer.
+Brown Sugar	Comes in two forms:the more intense dark brown sugar and light brown sugar, both containing molasses. The dark brown sugar contains more molasses, giving it a stronger flavor. Although commercial packaging of brown sugar has improved, it has a tendency to get hard. To avoid, store it in an airtight container. Be sure to measure brown sugar, packed.
+Bruschetta	Originally from the Italian "bruscare" meaning "to roast over coals," It is traditionally made by rubbing slices of toasted bread with garlic cloves, then drizzling the bread with extra-virgin olive oil. The bread is salted and peppered, then heated and served warm. Most people serve it topped with tomato, garlic, basil. However, these days restaurants and marketers are calling any piece of dough with a chopped up topping a "bruschetta".
+Bulgur	Whole wheat which has been boiled until tender and the husk is about to crack open, then dried. It is a common ingredient in Arabic (burghul), Turkish (bulgur), and Cypriot (pourgouri) cooking. You can buy it coarse or fine ground in most middle-eastern grocery stores.
+Bunuelos	Fried sweet puffs that can be glazed with brown sugar-maple syrup or sprinkled with cinnamon-sugar.
+Burrito	Flour tortilla filled with refried beans and chile sauce, ground beef and chile sauce, or a combination of both, and rolled.
+Cafe	(French) Coffee.
+Calabaza	Baked pumpkin.
+Calavo	The trade name for California Avocados.
+Caldillo	Poor man's stew made of ground beef, raw potatoes, and seasonings.
+Calorie	Unit of heat; 1 calorie = 3.968 B.T.U. . The heat required to raise 1 gram of water 1 degrees centigrade.
+Calupas	Meaning "little boats," is a fried corn tortilla topped with shredded chicken or beans, cheese, tomatoes, guacamole, and salsa.
+Calvados	An apple brandy from Normandy, France made from cider that has been aged for up to two years and distilled.
+Canadian Bacon	The large rib-eye muscle of the pork loin, cured and smoked. It is boneless and usually lean, making it a good ham substitute for those watching their fat.
+Canape	(French) An appetizer prepared on a base such as toast or crackers.
+Canard	(French) Duck.
+Candy Thermometer	Usually a large glass mercury thermometer that measures temperatures from about 40 degrees F to 400 degrees F. A frame or clip allows it to stand or hang in a pan during cooking.
+Cannellini Beans	A large creamy, white bean used often in Italian cooking. They are sometimes referred to as Northern beans and make excellent vegetarian substitutes for both fish and chicken.
+Capers	The small buds of a Mediterranean shrub. They are usually pickled in vinegar or dried and salted.
+Capirotada	(Bread Pudding) Toasted bread topped with caramelized-sugar corn syrup, sliced longhorn cheese, raisins and cinnamon, and baked until cheese melts.
+Capon	A castrated rooster that makes a good roasting bird. It ranges in size from four to ten pounds and has plenty of breast and thigh meat. Its size makes it an ideal choice for serving eight to twelve. Buying capon may prove to be difficult; try to special order it from your butcher.
+Carambola	Also known as star fruit. A golden yellow fruit grown in the West Indies, Indonesia, and Brazil. When sliced, the fruit has a star shaped .The flesh of the carambola is juicy and highly acidic. Its taste is reminiscent of plums, grapes, and apples. It is eaten fresh, mostly in salsas and vinaigrettes, and sometimes as a dessert (with sugar and cream).
+Caramelized Sugar	Sugar that has been cooked until it reaches a caramel color. The new flavor it attains works nicely in desserts.
+Caraway Seed	The curved, anise flavored seeds popular in German and Austrian cooking. Caraway is a member of the parsley family. The seeds are used as topping on breads and savory pastries, and as accompaniments to cabbage and goulash. Caraway is also employed in the making of certain cheeses and liquers.
+Cardamom	The pods of an aromatic Indian plant related to the ginger family. The seeds of the pods are dried and used as a spice. It is a very expensive spice. cardamom is used mostly in Indian cooking. However, it also shows up in Scandinavian ,spicing up wines, stewed fruits, etc., and in Arabic cooking (called hale) as an accompaniment to coffee.
+Carne Adovada	Pork steak marinated in chile sauce, then roasted or pan fried. Usually served with Spanish rice and refried beans.
+Carne Asada	Beef or pork cut in thin diagonal strips and cooked quickly over very hot coals, as in a brasero or Japanese hibachi.
+Carpaccio	Originally, paper thin slices of raw beef with a creamy sauce, invented at Harry's Bar in Venice. In recent years, the term has come to describe very thinly sliced vegeatables, raw or smoked meats, and fish.
+Celeriac	Also known as celery root. A root vegetable that houses a white fleshed interior beneath its rough skin.
+Cellophane/glass noodles|Cellophane noodles|glass noodles	Also known as bean thread noodles, these are made from mung bean flour. They are usually softened by soaking in hot water for 10 -15 minutes before cooking with other ingredients.
+Chaud	(French) Hot.
+Chauquehue	Blue corn meal much thicker than atole. Served with red chile with pork or spareribs in place of potatoes or rice.
+Chayote	A crisp, delicate, light green squash that is pear shaped and keeps well. It is ideal for stuffing. Otherwise, it can be prepared like zucchini or summer squash.
+Chef	(French) A culinary expert. The chief of the kitchen.
+Chicharrones	(Cracklings) Pieces of fat cooked slowly until lard is rendered out. Lightly salted, may be served as a warm or cold hor d'oeuvre.
+Chicory	The roasted ground roots of a variety of perennial herbs related to the radicchio and curly endive. Caffeine-averse Germans discovered that chicory could be processed into a coffee substitute. In New Orleans, chicory spiked coffee and/or Cafe Au Lait is very popular. Caffeine-averse Germans discovered that chicory could be processed into a coffee substitute.
+Chicos	Dried sweet corn used whole or crushed in a seasoned stew.
+Chiffonade	French for 'made from rags.' In cooking it refers to a small chopped pile of thin strips of an ingredient. Usually it is raw, but sometimes sauteed. Mostly used to garnish.
+Chilaquillas	Called tortilla hash or poor man's dish. Includes leftover tortillas fried until crisp and combined with chile, eggs, jack or sharp cheddar cheese, and red chile sauce.
+Chile Caribe	Red chile pods blended with water to a puree and seasoned. Used in such dishes as carne adovada.
+Chile Con Queso	Melted cheese dip seasoned with chile and served with tostados.
+Chile Rellenos	Green chiles stuffed with cheese or meat, dipped in a cornmeal batter, and deep-fat fried.
+Chiles, Red|Chiles|Red Chiles	Green chile that has ripened and dried. Usually used ground or crushed for added seasoning or in making a variety of sauces.
+Chili oil	This spicy, bright red oil, an essential in Chinese cooking, is made from steeping vegetable oil with crushed or small dried chilies. Because of its strong, fiery flavor, it is used more as a seasoning or condiment than as a cooking oil.
+Chili paste/sauce|Chili paste|Chili sauce	A variety of thick seasoning pastes and sauces made from ground chilies, oil, salt and sometimes garlic and vinegar are used throughout Asia.
+Chimaja	Wild celery, root andleaf
+Chinese broccoli (gai lan)|Chinese broccoli|gai lan	The broad leaves, tender stalks and delicate white flowers of this vegetable are all edible. They have a mild flavor, similar to Western broccoli, but with a slightly bitter, earthy flavor. Ideal for steaming and stir-frying; often paired with oyster sauce.
+Chinese chives	Also known as garlic chives, these flat green chives are quite pungent and are used extensively in stir-fries and soups.
+Chinese egg noodles	These wheat-flour-based egg noodles are sold in both fresh and dried forms; substitute spaghetti or fettuccine if unavailable.
+Chinese rice wine (Shaoxing)|Chinese rice wine|Shaoxing	This brown, nutty-tasting wine is made from glutinous rice, millet, yeast and spring water, and is similar in taste and smell to dry sherry, which can be used as a substitute if Shaoxing wine is not available. An important ingredient in Chinese cuisine, rice wine imparts a rich flavor and aroma to marinades and sauces.
+Chipotle	Smoked dried jalapeno chiles. The distinctive smoky heat of chipotles is used to flavor Southwestern and Mexican dishes. They are sold both dried and in cans, in a vinegary sauce called adobo. Most big supermarkets carry them, but a Latin-American market is your best bet.
+Chorizo	Highly seasoned hog link sausage.
+Chutney	A fruit condiment used commonly in Indian cuisine. It looks like fruit preserves, but contains vinegar, spices, and at times nuts. Its taste varies from sweet to tart, and mild to spicy. The most common chutney is mango.
+Cilantro	Also known as Coriander and Chinese Parsley. This herb is often used in Chinese and Mexican cooking. It resembles and is often used like parsley. The seeds of this aromatic plant are often dried and used as spices (whole or ground). Its flavor is reminiscent of slightly burnt oranges.
+Clamart, a la|Clamart|a la Clamart	Any of a few dishes that include green peas (either whole or in a puree). Its named after a district of Hauts-de-Seine that was famous forits pea crops. Famous Clamart dishes include Clamart soup (puree of fresh peas in consomme), poached eggs Clamart, and puff pastry Clamart. There is also a garnish called Clamart (tartlets or artichoke bottoms filled with buttered peas).
+Cloves	The brown, hard dried flower buds of an aromatic Southeast Asian evergreen. They are useful in both whole and ground forms. Ground, they are used in cakes and soups. Whole, they add great flavor to mulled wines and ciders. Cloves also have natural preservative qualities.
+Cocoa Powder	There are two basic types of cocoa: regular (or American) and Dutch process (sometimes labeled 'European process'). Dutch process cocoa has a slightly stronger flavor and richer color than regular cocoa: It's been treated with a mild alkali, such as baking soda, which neutralizes its acidity. Both regular and Dutch process cocoa have far less fat and fewer calories than baking and eating chocolate because the cocoa butter has been removed. This also means cocoa tastes less rich, so when you're cooking with it, you have to find another way to put the moisture and richness back in.
+Coconut Cream	Coconut cream is made by combining 1 parts water and 4 parts shredded fresh or desiccated coconut meat and simmering until foamy. The mixture is then strained , squeezing as much of the liquid as possible from the coconut meat. Milk can be substituted for water for an even richer result. Coconut cream comes canned and may sometimes be found frozen in Asian markets and some supermarkets.
+Coconut Milk	Coconut milk is made by combining equal parts water and shredded fresh or desiccated coconut meat and simmering until foamy. The mixture is then strained , squeezing as much of the liquid as possible from the coconut meat. The coconut meat can be combined with water again for a second, diluted batch of coconut milk. Coconut milk comes canned and may sometimes be found frozen in Asian markets and some supermarkets.
+Coddling	Cooking just below the boiling point; such as Coddled Eggs.
+Comino	(Spanish) Cumin, powder or seeds
+Condensed Milk	A preserved milk in which the water content of the milk is evaporated and a lot of sugar is added. It was very popular in wartime England because of how well it preserved. These days it is used mainly in sweets and confectionery making. It is also used in iced drinks (Thai iced tea) because of its high sugar content (it won't freeze easily).
+Confectioners Sugar	Powdered sugar, often used in baking and in frostings.
+Coquille	(French) Shell.
+Cornmeal	(also known as polenta) A yellow, grainy powder made from yellow degermed ground corn. It is similar to semolina in texture. Tortillas and cornbread are two of the most common cornmeal based foods. However, cornmeal is versatile enough to be used in both sweet and savory dishes. White cornmeal is also available.
+Cornstarch	A white, powdery thickener finer than flour. It is extracted from the starch endosperm of wheat or corn. It must be dissolved in a cold liquid before it is added to a hot mixture or it will lump. It results in a glazy, opaque finish.
+Coulis	A thin puree of fruit, sweetened and thinned to a sauce consistency using sugar.
+Coupe	Ice cream that is topped with fruit and traditionally served in stemmed glasses or silver goblets.
+Court Bouillion	A liquid mixture of salt and water, although some variations include herbs, milk, wine, and lemon or vinegar. It is used mainly for cooking fish and shellfish. The food cooked in the liquid absorbs the flavors of the liquid.
+Couscous	A grain-like hard wheat semolina that has been ground, moistened, and rolled in flour. The grain is then steamed (for 40 minutes) and traditionally served with a stew. There are also sweet couscous dishes. It is a staple dish in the North African countries of Algeria, Tunisia, and Morocco. The couscous you find in most American grocery (usually in the rice aisle) stores is precooked.
+Cream of Tartar	The common name for potassium bitartare, a by-product of wine-making. Its is a major ingredient in baking powder and is used to stabilize beaten egg whites.
+Crema Centroamerica	A Latin-style cream that is as rich or richer than whipping cream. It can be liquid and sweet, or thick, rich, and tangy. Some brands are labeled soft-ripened cheese. It is similar to mascarpone.
+Crema Centroamericana Acida	A Latin-style cream that has the consistency, tang, and fat content of salted sour cream.
+Crema Fresca Casera	Literally 'homestyle fresh cream'. It is a sweet pourable whipping cream used in Latin cooking.
+Crema Mexican Agria	A Latin-style cream as thick as sour cream with 15-20 percent fat content. It also has a tartness similar to sour cream, and is salted.
+Crema Mexicana	A Latin-style cream that has the same amount or more of butterfat as whipping cream. It can be sweet and pourable like whipping cream, or delicately tart and very thick, like creme fraiche.
+Creme de Casis	A sweet cordial flavored with black currants. It can be bought at most liquor stores.
+Creme Fraiche	A matured, thickened cream that has a slightly tangy, nutty flavor and velvety rich texture. The thickness of cr�me fra”che can range from that of commercial sour cream to almost as solid as room-temperature margarine. In France, where cr�me fra”che is a specialty, the cream is unpasteurized and therefore contains the bacteria necessary to thicken it naturally. In America, where all commercial cream is pasteurized, the fermenting agents necessary for cr�me fra”che can be obtained by adding buttermilk or sour cream. To make your own: combine 1 cup whipping cream and 2 tablespoons buttermilk in a glass container. Cover and let stand at room temperature (about 70¡F) from 8 to 24 hours, or until very thick. Stir well before covering and refrigerate up to 10 days. Cr�me fra”che is the ideal addition for sauces or soups because it can be boiled without curdling. It's delicious spooned over fresh fruit or other desserts such as warm cobblers or puddings.
+Cremini Mushrooms	A wild mushroom.
+Crepe	(French) Thin pancakes.
+Cumin	An Indian spice with an earthy flavor, also known as comino. It usually appears in its ground form and as cumin seed. Cumin is featured in Middle Eastern (lentil and lamb dishes) and Latin American cuisines (chili, tamales).
+Curry Powder	A spice mixture more popular in the West than in India. It usually consists of coriander, turmeric, fenugreek, cumin, and chili.
+Cuttlefish	A rounder, thicker and chewier relative of the squid. This lean and nutritious seafood can be found in ethnic markets.
+Daikon	A popular Japanese root vegetable, also known as Chinese white radish. Daikon resembles a large, white carrot and has a firm texture that can withstand long cooking. It can be stir-fried, braised, boiled, steamed or served raw (often grated or finely shredded) in salads. It should be firm, heavy and unblemished with solid, smooth skin.
+Daikon Radish	A long sweet tasting radish used prominently in Japanese cooking. It can be found in most produce sections.
+Daube	A slowly cooked French stew of meat or fish ibraised n wine and stock with vegetables and herbs.
+Deglaze	To add liquid such as wine, stock, or water to the bottom of a pan to dissolve the carmelized drippings so that they may be added to a sauce, for added flavor.
+Demiglace	A thick, intensely flavored, glossy brown sauce that is served with meat, poultry, or fish or used as a base for other sauces. It is made by thickening a rich veal stock, enriching it with diced vegetables, tomato paste and Madiera or sherry, then reducing it until concentrated.
+Diable	Devilled.
+Diced	Cut into small cubes.
+Doria, a la|Doria|a la Doria	The name given to various dishes dedicated to the famous Genoese Doria family. The dishes evoke an Italian image in one way or another; for example, combining green, white, or red colors (the colors of the Italian flag) or by including Piedmontese truffles. Famous a la Doria dishes include bombe Doria, chicken Doria, and Doria salad.
+Double Boiler	Like a bain-marie, a double broiler is a method of cooking without using direct heat. It usually consists of two saucepans that fit together. The bottom sauce pan is filled with water and the top one with the mixture (custard, chocolate, etc.). The saucepans can be made from stainless steel, aluminum, and glass.
+Drawn butter	Melted butter.
+Dredging	To coat with dry ingredients such as flour or bread crumbs.
+Dried black mushrooms (shiitake)|Dried black mushrooms|shiitake	Drying mushrooms concentrates their flavors and produces a deep, meaty taste. Dried mushrooms are ideal in soups, stuffings, stir-fries and braised dishes. To reconstitute, soak in warm water 15-20 minutes; remove fibrous stems.
+Dusting	To sprinkle with sugar or flour.
+Dutch Cocoa Powder	An alkalized cocoa. It has an intense flavor. Droste is a good and widely available brand.
+E.P.	Edible Portion.
+Eau-de-vie deFramboise	Eau de vie is an 80 - 90 proof clear fruit alcohol. Framboise means it is raspberry flavored.
+Ecossaise	(French) The way of the Scottish.
+Emince	(French) Cut fine, or sliced thin.
+Empanada	Fried or baked turnovers with either dried fruit or sweet meat filling.
+Enchilada	Rolled or flat corn tortillas topped or stuffed with meat, cheese, onions, and red or green chile sauce.
+Enchilada Sauce	Red sauce made of mild to hot chile pulp or chile powder, spices, and beef or pork or both. Used for enchiladas. Also called red chile sauce.
+Espagnole	A mother sauce. Basic brown sauce.
+Evaporated Milk	A preserved milk that has much of the water content removed via evaporation. It is similar to condensed milk, although not as sweet.
+Farce	(French) Forcemeat or Stuffing.
+Farci	Stuffed.
+Farfalle	Butterfly (also bow-tie) shaped pasta. Farfalle brighten any meal with their interesting shape. Thick enough for any sauce, or make into a salad or soup.
+Farina	Inner portion of coarsely ground hard wheat.
+Fettuccine	Long, flat pasta meaning "Small Ribbons". Perfect for heavier sauces, like cheese, meat and tomato sauces. For variety, try breaking in half and putting in soups, or use for a salad.
+Finnan Haddie	Smoked haddock.
+Fish Sauce	A pungent, salty liquid made from fresh anchovies that is essential in Thai cooking.
+Five-spice powder	A fragrant, pungent, slightly sweet and hot Chinese spice mixture. The blend traditionally includes star anise, cinnamon, Szechuan peppercorns, cloves and fennel. Five-spice powder is used in marinades, as a spice rub for meats and in dipping salt mixtures.
+Flan	Caramelized custard.
+Flautas	Meaning "flute," a taco variation; two corn tortillas are overlapped, filled with meat, cheese, onion, and chile, rolled, then
+Fondant	A creamy white substance created by kneading cooked sugar syrup. It is used often as a filling for chocolates, frosting for cakes, petit fours or pastries. It can also be flavored and made into individual sweets.
+Forcemeat	Ground meat or meats, mixed with seasonings used for stuffing.
+Framboise	a raspberry liqueur with a high alcohol content
+Frappe	(from the French frappe) A simple sugar syrup mixed with fruit or other flavorings and frozen, then processed to a slightly slushy consistency. It can be served as a drink or a dessert. In some parts of the United States, a milk shake is sometimes referred to as a frappe.
+Fresh Masa	A moist dough of ground, dried corn that has been soaked in limewater, then cooked. Used in tamales.
+fried.	Frijoles Beans. Most commonly used bean is the pinto bean.
+Frijoles Refritos	Refried beans. Pinto beans that have been boiled, mashed, fried in pork fat, and topped with longhorn or jack cheese.
+Froid	(French) Cold.
+Fromage	French for cheese.
+Fusilli	Literally means "Twisted Spaghetti". This long, spiraled shaped pasta can be topped with any sauce, broken in half and added to soups, or turned into a beautiful salad. Fusilli also bakes well in casseroles.
+Galangal	Known as laos (Indonesian), lengkuas (Malaysian), kah (Thai), isen, or galingale. It is sometimes called Java root or Siamese ginger. Galangal is a fresh root (a rhizome of a Zinginber species) that resembles fresh ginger root, but has a thinner, translucent, striped skin. Often, it has pink shoots. Its texture is tougher and its flavor is more citrusyand more astringent than ginger. It is always used in cooked dishes and never eaten raw. If you can't find it, ginger is an adequate substitute.
+Garam Masala	An Indian spice mixture usually composed of coriander, cumin, cloves, cinnamon, and black pepper.
+Garbanzo Beans	Also known as ceci or chickpeas. They are very popular in Mediterranean cuisine. Canned chickpeas can be found in the bean aisle of most grocery stores.
+Garde Manger	(French) The person in charge of cold meat department or the department itself.
+Garnish	To decorate. Also referring to the food used to decorate.
+Garniture	French for garnish.
+Gateau	(French) Cake.
+Gaufres	(French) Wafers.
+Gaufrette	A delicate wafer cookie, honey-combed and fan-shaped, made on an oblong iron. It is typically served as a garnish atop ice creams.
+Gazpacho	A cold vegetable soup with a meat broth or tomato juice base containing a variety of raw vegetables.
+Gelato	An Italian ice cream made with a base of milk or egg yolks and milk. It is denser and more icy in texture than American ice creams.It usually has stronger flavors as well.
+Giblets	The trimmings from poultry such as the liver, heart, etc..
+Ginger	A Southeastern Asian (originally) plant cultivated for its spicy aromatic rhizomes. It comes in powdered, preserved, and fresh forms. It is most commonly used in Asian cooking, showing up in savory curries, marinades, rice, tea, or just eaten as a sweetmeat in its crystallized form. In western cooking, the use of ginger has been limited to confectionery and pastry making. For candied ginger: Peel 1 pound gingerroot, and cut into 1/4-inch-thick slices. In 2-qt. saucepan, heat ginger slices and 2 cups water to boiling over high heat. Boil 5 minutes. Drain. Repeat boiling (in fresh water) and draining 3 more times. In same saucepan, heat 1 1/2 cups sugar and 1 1/2 cups water to boiling over high heat. Add ginger slices and return to boiling. Reduce heat to gently simmer ginger, stirring occasionally, until translucent -- about 1 hour. With slotted spoon, transfer ginger to wire rack placed over a tray. Let ginger stand until surface is dry to touch. Roll ginger, a few slices at a time, in 1/4 cup sugar until well coated. Store ginger in jars.
+Ginger root	This knobby, light beige-colored rhizome comes in two varieties: young and mature. Young ginger is more tender and milder in flavor and can be used with its skin on. Mature ginger has a more assertive, peppery bite. Both should be firm and free of wrinkles. Grated, slivered, minced and sliced ginger can be used in a range of dishes - from marinades and stir-fries to curries and soups.
+Glucose	A thick, clear form of sugar which is produced by the breakdown of starch cells that have been treated with acids or enzymes and then fermented to form sugars. The thickness of the liquid glucose depends on how much the starch cells have broken down. It can be produced from corn, starch, potatoes, grapes, and honey (corn being the most common). In fact, liquid glucose is known as corn syrup in the USA. When glucose is mixed with maple syrup, it is called pancake syrup. Glucose is most commonly used in confectionery to give elasticity to caramel or sugar piece and to help prevent crystallization. It can also be added to chocolate to produce a modeling paste.
+Glycerin	A clear, sweet syrupy liquid extracted from animal fats and vegetable oils, and is a by-product of soap manufacturing. It is used (in small amounts) in certain cake, pastry, and icing mixtures. The reason being that it is able to draw moisture from the air, keeping these products most and extending their shelf life.
+Gnocchi	Italian dumpling.
+Goat Cheese	Also known as Chevre. A soft fresh goat's milk cheese sold in a variety of shapes (rounds and cylinders are most common). They are usually sold fresh, but some are marinated in oil. Montrachet and Coach Farms are among my favorites.
+Golden Beets	These are yellow ocher colored beets. They are sweeter than red beets. Like all beets, they go well with tart (i.e. citrus fruit) and salty foods i.e. cheese).
+Gorgonzola	An Italian cow's milk cheese (48% fat) that is white or yellow and streaked with blue. It has a distinct smell and can have a mellow, strong, or sharp flavor, depending on its degree of maturity. It is similar to the American blue cheese and the French roquefort.
+Gouda Cheese	A cow's milk, firm, smooth cheese similar to cheddar. This Dutch cheese comes in both young and aged forms.
+Gourmet	(French) Connoisseur of culinary delights.
+Grand Marnier	Orange flavored, cognac based liqueur from France.
+Granita	A mixture of water, sugar, and liquid flavorings (i.e. fruit juice or coffee) that is stirred occasionally while being frozen to create a granular texture.
+Granulated Sugar	Regular sugar for everyday use.
+Gratin	Any sweet or savory dish baked or broiled so its topping forms a golden crust.
+Grits	Coarsely ground hominy (corn with the hull and germ removed). In the Southern United States, it is commonly boiled and served for breakfast or as a dinner side dish.
+Guacamole	Avacado salad served as a dip or on lettuce as a salad, or ingredient in many other dishes.
+Halbtrocken	Literally means half dry in German. Used in reference to German wines with 9 to 18 grams of residual sugar per liter.
+Haricots Verts	Tiny green string beans.
+Harina	All-purpose flour.
+Harina Azul	Blue corn meal flour for tortillas.
+Harina Para Atole	Blue corn meal flour for gruel.
+Harina Para Panocha	Sprout wheat flour for Indian pudding (Panocha).
+Harrisa	An extremely spicy, red chili paste from North Africa. It is made of a mixture of chilies, garlic, and spices
+Hasenpfeffer	A German stew made from rabbit.
+Heifer	A young female cow that has not had a calf yet.
+Herb Bouquet	A mixture of tied herms used for seasoning in soups, sauces, and stocks.
+Herbaceous	A term used in decribing the aroma of herbs in the following wines: Sauvignon Blanc, Cabarnet Sauvignons, and Merlots. If the odor is too pronounced, the wine is considered vegetal (not a good thing).
+Hermitage	A French appellation located in northern Rhone. Its reds, made from Syrah grapes, and its whites, made from Marsanne andd Rousanne, are highly regarded.
+Hijiki	A dried, squiggly black seaweed used in Japanese cooking. Its usually rehydrated before using. Hijiki is high in calcium.
+Hock	A British term for Rhine wines. Its derived from the german wine town of Hochhheim.
+Hoisin Sauce	Also known as Peking sauce. A reddish-brown sweet and spicy Chinese sauce reminiscent of barbecue sauce. It is made from soybeans and peppers and can be found in the Asian section of most grocery stores.
+Hor d'oeuvre	( ohr-duh-vr ) (French) Petite appetizers or relishes. Serve as the first course of the meal.
+Hotte	Grape picking basket worn on the backs of French grape pickers. Its traditionally made of wood, but is also found in metal and plastic.
+Huevos Rancheros	Served in several ways, but generally is a fried egg on a corn tortilla and topped with a special green chile sauce with onions and tomatoes. Sometimes served with red or green enchilada sauce and garnished with lettuce and cheese.
+Ice Cream Soda	A beverage made of carbonated water, a flavored syrup, and a scoop or two of ice cream.
+Ice Milk	A sorbet to which a small amount of milk has been added. It is lighter and icier than ice cream.
+Infusion	Liquid derived from steeping herbs, spices, etc..
+Jalapeno	A small green chile pepper that is mildly hot. They are named after Jalapa, the capital of Veracruz. Serrano peppers are a good substitute when there are no jalapenos on hand.
+Jamoncillo	(Cream Candy) Condensed milk used as a spread or ice cream topping.
+Jarlsberg Cheese	A Norwegian cow's milk cheese that is firm in texture and nutty in flavor. It is very similar to Swiss cheese.
+Jasmine Rice	A fragrant long grain rice from Thailand that is distinctly aromatic, soft and sticky when cooked. The length of each grain four to five times its width.
+Jicama	A bulbous, brown root with a crunchy white interior used in Latin American cooking. The sweet and nutty interior is great for crudite platters and salads. It can be found from May to November in many Mexican markets.
+Jocoque	A Mexican style sour cream. It has equal or less fat content than the American sour cream. Some labels describe it as salted buttermilk, but its thicker; some call it a thin sour cream. The taste of jocoque ranges from mildly tangy to refreshingly sharp.
+Julienne	(French) A cut of meat, poultry, or vegetables which is 1/8 x 1/8 x 1 1/2 inches long.
+Jus	Usually refers to the natural juice from meat. See au Jus.
+Kalamata Olives	Also Calamata. Purple-black Greek olives cured in vinegar.
+Karo	Light or dark corn Syrup.
+Kasha	Buckwheat grouts.
+Kippered Herring	Smoked or dried herring.
+Kitchen Bouquet	A trade name a bottled sauce flavor and color enhancer.
+Kosher	(meat) Meat sold within 48 hours after being butchered in accordance to Hebrew religious laws. The style of Jewish dietary cooking.
+Kumquats	Small oval citrus fruit that is golden-orange in color.
+Lait	(French) Milk.
+Langouste	(lahn-goost) (French) Crawfish.
+Larding	Salt pork strips inserted into meat with a special needle. Used to add flavor and moisture to meat.
+Lardons	Juienne of bacon. Strips of salt pork used for larding.
+Lasagne	From "lasanum", Latin for pot. Lasagne is a large, flat, rectangular pasta. It is almost always used in baked dishes. Create new Lasagne casseroles by using chopped vegetables, cheeses and any kind of sauce. You can also assemble your casserole and freeze it for later.
+Leek	Small onion like plant, used as an aromatic seasoning or vegetable.
+Legumes	(French) Dried beans, peas, lentils and such.
+Lemon Grass	Known as sereh (or serai Indonesian and Malaysian), takrai (Thai), xa (Vietnamese). Thick, rough pale green stalks with a citrus flavor and scent. To prepare for cooking, cut off and discard the tough root end and green grass top. Use only the tender inner white portion. You can substitute an equal amount of grated lemon zest moistened with a bit of fresh lemon juice.
+Lemongrass	See 'Lemon Grass'
+Lentil	A brown or yellow flat seed resembling a pea used for soups, garnishes, and as a vegetable.
+Liaison	A binding agent made up of egg yolks and cream, used for thickening soups and sauces.
+Lily Buds	Also called tiger lily bids or golden needles, dried day lily buds that are nutritious and sweet. They are used often in Chinese dishes.
+Linguine	Literally means "Little Tongues". This pasta has a long, thin shape great for all sauces. Also a good choice for salads and stir-fry dishes.
+Liquid Tamarind Concentrate	Tart brown fruit puree sold in most Indian supermarkets. Do not confuse this with the pastelike concentrate that is black. To make to make your own liquid tamarind concentrate: Soak 1/4 cup tamarind pulp in 1/2 cup hot water for four minutes (until pulp is soft). Squeeze pulp off seeds and rub mixture through a fine sieve into a bowl. Make about 1/4 cup.
+Lyonnaise Potatoes	(French) Potatoes sliced and sauteed with onions.
+Macadamia Nut	Also known as the Queensland nut, the macadamia is a fleshy white nut with a coconut-like flavor. In Asia, it it is used in savory soups and stews. In the US, the macadamia is used mostly in sweets. It has an extremely high fat content.
+Macaroni	A tubular pasta 1/4 inch in diameter. It gets its name from the Italian word "maccherone", meaning fine paste. Its highly versatile pasta shape, allows macaroni to be topped with any sauce, baked, or put in soups, salads and stir-fry dishes. It can also be molded into a timbale or ring shape.
+Macerate	To soak a fruit in a liquer or wine. This softens the fruit while releasing its juices and absorbing the macerating liquid's flavor.
+Mache	Also known as lamb's lettuce, corn salad, and field salad. It has small, rounded dark green leaves. Mache does not keep well and is best bought right before preparation. Its attractive leaves make a nice garnish.
+Maitre d'Hotel, a la|Maitre d'Hotel|a la Maitre d'Hotel	(French) A yellow butter sauce consisting of lemon juice, parsley, salt, pepper, and drawn butter. Butter: Same as theother but with whole butter.
+Malted Milk Shake	A milk shake to which malted milk powder (a mixture if pure cow's milk and extracts of malted barley and wheat) is added.
+Manhattan Clam Chowder	Made with quahog clams, tomatoes, onions, celery, and potatoes.
+Manicotti	This large, tubular pasta literally means "Small Muffs". Stuff Manicotti with a mixture of meat, cheese and vegetables, top with your favorite sauce, and bake. Or stuff and freeze for a later time.
+Maraschino	An Italian cherry cordial. Also cherries.
+Marinate	To let food stand in a mixture called a marinade (such as a liquid, dry rub, or a paste) before cooking. Some marinades are meant for lending flavor; whereas, those that include an acid (lemon, wine, vinegar, and yogurt) are meant for tenderizing. Of course, some marinades do both.
+Marsala	Semi-dry, pale golden, Italian wine from Sicily.
+Marzipan	A thick almond paste used in confectioneries. Marzipan is mainly used in cakes and pastries of the European tradition. It is also colored and sculpted into individual sweetmeats. The play dough-like consistency of marzipan makes it a great medium for garnish making. The Odense brand of Marzipan is readily available in most supermarkets for $6-$7. However, I have managed to find it at Ernie's Imports in Ingelwood, CA for only $3.98. You can also make marzipan at home. Here's a good recipe (you'll find many, many variations). 2 cups superfine sugar, 4 1/2 cups confectioner's sugar, 4 cups finely ground almonds, 1 tablespoon rose water (or rum, brandy, whisky) optional, 1 egg, lightly beaten In a large bowl, combine the sugars and the almonds and mix thoroughly. make a well in the middle, add the rose water and most of the egg. Stir into a stiff paste. If its too dry add more egg. Work the mixture by hand and knead until well combined.
+Masa Harina	Corn dough used mainly for tortillas and tamales. It is made by cooking dried corn kernels with calcium oxide, or limes, until the skins loosen. When the skin is removed, the corn is then ground into masa.
+Mascarpone Cheese	An Italian cream cheese most often used in desserts. It is said to have originated in Lombardy in the 16th century. The name comes from the Spanish 'mas que bono' (better than good). It has a soft and buttery consistency, resembling stiffly whipped cream. Mascarpone goes well with savory dishes as well as fruit and desserts. It is found in most supermarkets and Italian groceries. It can be expensive. Here is a recipe for a good substitute from the Stars Desserts cookbook. 4 cups heavy whipping cream, 1/4 teaspoon tartaric acid. Line a mesh strainer with a dish cloth folded over to make a double thickness. Rest the strainer over a bowl, making sure the strainer does not touch the bottom of the bowl. Set aside. Heat the cream in a double boiler over medium high heat. When the cream reaches 180 degrees F, add the tartaric acid and stir for 30 seconds. Remove the cream from the stove and continue to stir for another 2 minutes. Pour the cream into a lined strainer and refrigerate. When it is cold, cover it with plastic wrap. Let the cream sit in the refrigerator for 12 to 18 hours. It will become very thick and firm. The mascarpone will keep for a week in the refrigerator. Makes 2 cups.
+Medium Egg Noodles	From "Nudel", German meaning paste with egg. This size of Egg Noodle can be baked, tossed in soups or salads, or topped with cream, tomato, cheese or meat sauces for a delicious meal.
+Mejorama	(Spanish) Marjoram
+Melba Sauce	This sauce is a combination of pureed and strained fresh raspberries, red currant jelly, sugar and cornstarch. It accompanies the dessert Peach Melba,but can also top ice cream, fruit, pound cakes and puddings. It was created by the famous French chef Auguste Escoffier for Australian opera singer Dame Nellie Melba.
+Melba Toast	A thin and dry toast that usually accompanies soups and salads. It was created by Auguste Escoffier for opera singer DameNellie Melba (as was Melba sauce and Peach Melba).
+Menthe	(French) Mint.
+Menudo	Tripe and hominy traditionally served on Christmas or New Year's Eve.
+Mexican Chocolate	Hot chocolate using Mexican chocolate as a main ingredient and seasoned with cinnamon, cloves and vanilla. Usually served with biscochitos.
+Milk Chocolate	This is the most popular form of eating chocolate in the United States, probably because of its mild, mellow flavor. It has only 10% chocolate liquor and usually contains about 12% milk solids. Milk chocolate has a less robust flavor than sweet or semisweet.
+Milk Shake	Milk, ice cream, and a syrup or other flavorings mixed in a blender until the ice cream is soft enough to be sipped through a straw.
+Minced	Ground or chopped fine.
+mirepois	Also mirepoix. It is a mixture of diced carrots, onions, celery and herbs (and sometimes ham or bacon) sauteed in butter. It is usually used to season sauces, soups and stews.
+Mirin	A sweet Japanese rice wine related to sake used only in cooking. It adds a hint of sweetness to most dishes.
+Mise en place	Literally 'put in place' in French. Refers to the preparations for cooking, setting out bowls, pots, and pans and measuring, washing, peeling, and chopping and mincing ingredients.
+Miso	A fermented soybean paste that is an essential Japanese flavoring ingredient, miso is available in a variety of flavors and colors. It is used in sauces, soups, marinades, dressings, dips and main dishes.
+Mistika	Arabic gum; it can be found in most Mid-Eastern grocery stores. Its got a hard, crystalline texture and is usually ground before adding to a recipe.
+Mizuna	A delicate, leafy green with long, jagged-edged leaves; can be used in salads or stir-fries.
+Mojo	Cuban seasoning mix made of garlic, olive oil, and sour oranges (usually Seville oranges). It is used as a dip, marinade, or sauce for vegeatbles and meats.
+Molasses	Also known as dark treacle. What is leftover in the sugar cane after the granulated sugar has been removed. It is very dark, thick, strong in flavor and aroma. It comes in light, dark, unsulfured, and blackstrap forms.
+Mole	Mexican sauce made with red chiles, spices, and chocolate and served over meat or poultry. Crushed sesame seed, pumpkin seed, or nuts are often added for flavor and thickening. (sometimes called Pipian.)
+Molletes	Sweet anise seed rolls. Usaully accompanied by Mexican chocolate.
+Monkfish	A saltwater fish of which only the tail meat is eaten.
+Morsillo	Blood pudding made with hog's blood, raisins, pinon nuts, oregano, and mint.
+Mostaccioli	Literally means "Small Mustaches". This tubular pasta goes well with sauce, used in salads, baked in casseroles, or made into stir fry dishes.
+Mousse	A frozen dessert consisting of either a flavored custard or a fruit puree lightened with whipped cream.
+Nachos	An hors d'oeuvre of tostados topped with jack cheese, sour cream, and jalapeno chile.
+Napa cabbage	This oval-shaped broad-leafed head has very crisp, pale green crinkled leaves and a sweet, delicate flavor. It is used extensively in stir-fried dishes and soups, and absorbs flavors beautifully.
+Natillas	Soft custard topped with egg white and sprinkled with cinnamon.
+Navarin	(French) Lamb stew with root vegetables, cut green beans, tomatoes, and peas.
+Neufchatel	A soft unripened cheese originally from Neufchatel-en-Bray, France. It has a fat content of 44-48%. Philadelphia sells it as low-fat cream cheese in the U.S..
+Nicoise	Literally 'in the style of Nice (France)'. The term srefers to the region's cooking, characterized by the use of tomatoes, garlic, olive oil, and brown-black olives.
+Noir	(French) Black.
+Nopales	Leaves or pads of prickly pear cactus. Taste and texture resemble green beans. Used alone as a vegetable or in soups, salads, and omelets.
+Nouilles	(French) Noodles.
+Nutmeg	The oval, brown, wrinkly seed of the nutmeg tree. It is grated to spice up both sweet and savory dishes. You can find it in cakes, custards, souffles, as well as meatballs and soups.
+O'Brien	With diced pimiento and green pepper
+Oeuf	(French) Egg.
+Okra	A vegetable pod used mainly in gumbos, but also other soups, and served as a vegetable.
+Oloroso	One of the two types of sherry (the other being fino). Oloroso means fragrant in Spanish and these sherries have an intense bouquet. They are darker, higher in alcohol and fuller bodied than finos. Olorosos with added sweetners are called cream sherries.
+Omelet	Seasoned eggs that are beaten and fried. The eggs will puff up at which time, they are rolled or folded over.
+Oporto	Portugal's sweet dessert wines (ports). They are named after Oporto, Portugal's second largest city, on the Douro river. or with a chile sauce as a meat substitute.
+Oregano	(Spanish) Oregano dried leaves
+Orzo	This small, grain shaped pasta can be topped with any sauce, added to soups, or baked as a casserole. Perfect as a side dish as well as a main course.
+Oxidized	Wine that has been in contact with air too long, causing it to darken and small stale.
+Oyster Sauce	A bottled all-purpose Chinese seasoning made from oysters, water, salt,cornstarch, and caramel coloring.
+Paella	A classic dish combining rice and a variety of both meat and seafood.
+Palm Hearts	Hearts of young palm trees.
+Palm Sugar	Known as gula jawa (Indonesian), gula Malacca (Malaysian), nahm tahn beep (Thai). Ivory to light caramel colored sugar cakes. Its flavor is extracted from coconut flower or palm. It is similar to brown sugar. In fact, if you can't find it, you can substitute maple sugar or brown sugar blended with a little maple syrup (to moisten) for palm sugar.
+Pan Broiling	To cook in an uncovered skillet where the fat is poured off during cooking.
+Pancetta	An Italian cured meat made from the belly (pancia) of the big (the same cut used for bacon). It is salted but lightly spiced, but not smoked. You can buy it at Italian delis.
+Panocha	Indian pudding made with panocha flour, brown sugar, and seasonings such as cinnamon and cloves.
+Papas	Potatoes
+Papaya	A sweet tropical fruit. The juice of this fruit yields an enzyme that is used as a meat tenderizer.
+Papillote	(French) Cooked in foil or parchment paper to seal in flavor, then served and cut open at table.
+Pappadums	Crisp Indian wafers made of legume flour or both rice and legume flours. They are usually served with drinks or as a snack with such accompaniements as chopped onions, tomatoes, coriander, and chili.
+Paprika	Hungarian for sweet red pepper. A spicy seasoning ground from a sweet variety of red pepper. It is used to flavor ragouts, stuffings, sauces, and garnish.
+Parboiling	To cook partially by boiling for a short period of time.
+Parchment Paper	A silicon based paper that can withstand high heat. It is especially nice to use with sugar and chocolate because they do not stick to the paper at all. Parchment paper can often be reused several times.
+Parfait	A dessert consisting of ice cream, layered with a dessert sauce, fruit, or liquer. In France, a parfait is a frozen dessert containing either whipped cream and Italian meringue or just whipped cream. Parfaits are traditionally served in tall, narrow, footed glasses.
+Parmesan Cheese	A cow's milk cheese whose taste ranges from sweet to sharp. It is a hard cheese, most suitable for grating. Officially, only Parmigiano Reggiano from the Italian area of Emilia-Romagna may be called Parmesan. Asiago and Romano cheeses are good substitutes for Parmesan.
+Pastelitos	Dried-fruit filled pies -- usually apricot or prune or both.
+Peach Melba	A dessert created in the late 1800s by the famous French chef Escoffier for Dame Nellie Melba, a popular Australian opera singer. It's made with two peach halves that have been poached in syrup and cooled. Each peach half is placed hollow side down on top of a scoop of vanilla ice cream, then topped with Melba sauce (a raspberry sauce) and sometimes with whipped cream and sliced almonds.
+Peche	(French) Peach.
+Pecorino Romano	The Pecorino cheeses are made from sheep's milk in Italy. Romano is the best known. Parmesan is a good Romano substitute.
+Penne	Literally means "Quills". This tubular pasta goes well with sauce, used in salads, baked in casseroles, or made into stir fry dishes.
+Pesto	Pesto is an Italian basil sauce. Many variations of this sauce exist including different nut based pestos, different herb based pestos, sun dried tomato pesto, and black olive pesto. Here is a basic low fat version: 2 tablespoons olive oil, 1 tablespoon nonfat plain yogurt, 2 teaspoons lemon juice, 1/4 cup Parmesan cheese, grated, 1 tablespoon pine nuts, 3 cloves garlic, 1 cup fresh basil, firmly packed. Place all ingredients in blender until almost smooth. Pesto tastes great with pasta, pizza, bread, meats, risottos, or stirred into soups.
+Petit	(French) Small.
+Philadelphia Ice Cream	Also called uncooked ice cream. An ice cream made without eggs, using various combinations of milk, cream, sugar, and flavorings like fruit. Its texture is grainier than that of custard based ice creams.
+Pickapeppa Sauce	A sweet and sour, mild hot pepper sauce from Jamaica.
+Pico de Gallo	Literally rooster's beak, a coarse uncooked tomato salsa (In Jalisco, Mexico it is a relish of oranges).
+Piloncillo	Brown, unrefined cane sugar found in cone-shaped pieces used to sweeten coffee and desserts.
+Pine Nuts	Also known as pignolias and pinon. The pine nut is the seed of the stone pine. They have a creamy look and a light 'pine' taste. They are used often in Italian, Spanish, and Middle Eastern cooking.
+Pinon	Pine nuts, seeds of large pine cones. Used in deserts and breads or roasted and enjoyed as nut meats.
+Pizzelles	Thin decoratively patterned Italian wafer cookies that are made in an iron similar to a waffle iron. They may be flat or rolled into ice cream cones.
+Plantains	Also known as machos. The plantain is a green skinned, pink fleshed banana which is usually flatter and longer than a regular banana. It also contains more starch and less sugar. It is usually eaten fried, mashed, or in stews in South American, African, and West Indian cuisine.
+Plum sauce	Also known as duck sauce, plum sauce is a Chinese condiment made from plums, apricots, vinegar and sugar. It has a thick, jam-like consistency and tart-sweet flavor. Plum sauce is used predominately as a dipping sauce for roasted meats and fried appetizers.
+Polenta	A coarse yellow cornmeal mush that is a staple of Northern Italy. As versatile as Souther nItaly's pasta, polenta can be served hot with various toppings. It can be molded, then cut into squares and fried or grilled.
+Pomegranate Molasses	Also called pomegranate syrup, A Middle Eastern bottled condiment made from yellow sour pomegranates cooked with sugar, gives a fruity tangy flavor to savory dishes.
+Porcini Mushrooms	Dried Cepes mushrooms found in most Italian markets. They are usually re-hydrated before used in cooking by soaking them in boiling water.
+Porterhouse Steak	A cut of meat from the rear end of the short loin. The name originates from the days when it was served in public alehouses that also served a dark beer called porter. It consists of a hefty chunk of tenderloin with an even heftier chunk of sirloin tip. Some folks like to remove the tenderloin to serve separately as filet mignon.
+Portobello Mushroom	Also Portobella. A full grown cremini mushroom (a variation of regular button mushrooms). The name 'portobello' began as a marketing ploy in the 1980's . Portobellos can easily measure 6 inches in diameter and have an open, flat cap. They have an earthy meaty flavor great in sandwiches and salads. They can be found in most produce sections.
+Posole	Hominy stew made with dried lime-treated corn and combined with pork and seasonings.
+Princess, a la|Princess|a la Princess	Any dish (usually poultry, salmon, sweetbreads, or egg) topped with the rich garnish of asparagus tips and slivers of truffle.
+Proscuitto	The Italian word for ham, used in the names of raw hams coming from Italy, in particular Proscuitto di Parma and Proscuitto di San Daniele.
+Quahaug	Alantic Coast clam.
+Quelites	Spinach combined with pinto beans, seasoned with bacon and crushed chile pods.
+Quenelle	A poached dumpling (oval), usually made of veal or chicken.
+Quesadillas	Made in a number of different ways, buy always with cheese filling. Usually a folded corn tortilla with a chile and jack cheese filling, fried quickly over high heat.
+Queso Fresco	(Native fresh cheese) Made with sweet milk and rennet tablets. It is allowed to set until whey can be separated from the curd. Served with sugar, syrup, or preserves as a dessert.
+Quiche	A pie made of custard and cheese.
+Quinoa	An ancient grain from the Andes, rich in protein, lysine, calcium, and iron. It is whitish, small and pearl shaped. Quinoa cooks like rice (at half the time) and expands to four times its original volume. Its flavor is delicate, plain, and has been compared to that of couscous. It can be included as main dish, a side dish, in soups, in salads and puddings. It can be found in most health food stores.
+Radiatore	Literally means "Radiators". This ruffled, ridged shape adds elegant interest to any sauce. It also works well baked in casseroles, or used in salads and soups.
+Ragout	A stew made from poultry, game, fish, or vegetables cut into pieces and cooked-with or without first having been browned- in a thickened liquid, generally flavored with herbs and seasonings. There are two basic types of ragout: brown and white. For a brown ragout, the meat is first browned in fat, then sprinkled with flour, cooked a little, and finally moistened with clear stock or water (or thickened meat juices, if the meat has not been floured). For a white ragout, , the meat is cooked until firm, but not colored, then sprinkled with flour and diluted with stock.
+Ramekin	Small shallow baking dish. The foods cooked in these are also served in them.
+Ramekins	Porcelain cups, often used to make souffles. They are usually white and can withstand high heat. Some good quality ones can be purchased at Williams-Sonoma and Pottery Barn.
+Rasher	Thin slice of bacon or a portion consisting of 3 slices of bacon.
+Rasin	Dried grape.
+Raw Sugar	Sugar that hasn't been refined enough to achieve a granulated quality. It looks like coffee crystals. This coarse sugar is harder to dissolve, making it a nice choice for sprinkling on foods.
+Rice paper wrappers	Circular sheets made from rice flour measuring approximately 8 inches in diameter, rice paper wrappers are brittle and translucent. They must be softened by dipping in hot water for a few seconds and draining. Once softened they can be used to make fresh Vietnamese-style salad rolls or deep-fried spring rolls.
+Rice stick noodles	Made from rice flour and water, these noodles are translucent when cooked. They are usually softened by soaking in hot water for 10 -15 minutes before cooking with other ingredients. Fine rice stick noodles can also be deep fried to create a crispy garnish often used in Chinese chicken salads.
+Rice vinegar	Used in both Japanese and Chinese cooking, rice vinegar is made from fermented rice and comes in several varieties, each differing in intensity and tartness. In general they are all fairly mild compared to European and American-style vinegars. They can be used in dressings, marinades, as dipping sauces and condiments.
+Ricotta	Ricotta is a soft, unripened Italian curd cheese. It is the by product of the whey of other cheeses. It is sweet in flavor and grainy in texture. Ricotta is used often in Italian sweets (most notably Cassata alla Sicilian) and in savory dishes as pasta stuffing.
+Ricotta Salata	A lightly salted sheep's milk cheese that has been pressed and dried. It is one of the best known Sicilian cheeses.
+Riddling	An important step in removing sediment from Champagne. Bottles are placed in racks and then turned by hand or machine over weeks or months until thay are upside down and the sediment has settled on top of the corks.
+Rigatoni	A large, grooved pasta. Rigatoni's ridges and holes are perfect with any sauce, from cream or cheese to the chunkiest meat sauces.
+Roasted Garlic	Process: Cut the top third of the garlic head off and discard it. Drizzle the remainder with olive oil and put it in aluminum foil. Bake in a 400 degree F oven until edges of the garlic are caramelized (about 40 min.).
+Roasting, Peeling, and Seeding a Bell Pepper|Peeling|Peeling a bell pepper|Roasting|Roasting a Bell Pepper|Seeding|seeding a bell pepper	Many methods exist for roasting peppers. Among them are roasting them atop a stove, in an oven broiler, on a grill, and in hot oil. Using the broiler to roast peppers is my preferred method. I find it the least messy and lends itself to preparing large quantities. It is also the only one I have enough experience to explain in detail. Roasting: Preheat the oven broiler for 15 minutes. Place the peppers on the top rack (3-4 inches away from flame). Once a side has blackened., turn (with tongs, fork, towel, or other utensil). Repeat until all sides are blackened. If you are using this method for chili pepper, other than the bell pepper, you have to monitor closely so as only the skin and not the flesh of the pepper is charred. The bell pepper has a hardier skin and does not burn so easily. Peeling: Two different methods can be employed to peel a charred pepper. I personally prefer the first method. Place the peppers in a plastic or paper bag. Fold over the top of the bag, so no steam can escape. This way the steam will build up between the flesh and the skin, making peeling even easier. When the pepper is cool enough to handle (20 minutes), take out of the bag and peel the rest by hand. OR Submerge the charred pepper into a bowl of ice cold water. This will stop the cooking process and aid in the removal of the skin. Once the pepper is cool enough to handle, peel off the rest of the skin. Seeding: If you are going to be using the peppers whole, make a slit down one side, leaving a small space at both ends. Carefully remove the inside with a knife, small spoon, or one of those otherwise useless melon ballers. Otherwise, just remove the stem, remove the seeds and veins with your fingers, and rinse the pepper under water. Sometimes, I seed the pepper before it is charred, with no real difference in the final result.
+Rock Salt	A crystalline form of salt that is mixed with cracked ice to freeze ice cream.
+Romero	(Spanish) Rosemary
+Rose Water	An aromatic liquid made by distilling rose petals. It is used often in Middle Eastern pastries and can be found in many Middle-eastern groceries.
+Rotini	("Spirals" or "Twists") - This pasta's twisted shape holds bits of meat, vegetables and cheese, so it works well with any sauce, or you can use it to create fun salads, baked casseroles, or stir-fry meals.
+Royale, a la|Royale|a la Royale	Literally 'in the royal style'. Usually poached fish or poultry in a veloute sauce ( a white sauce of stock and cream thickened with butter and flour) with truffles.
+Sabayon	A frothy custard of egg yolk, sugar, and wine that is made by whisking the ingredients over simmering water. Served warm as a dessert or sauce.
+Saccharin	A product made from coal tar, used as a substitute for sugar. Saccharin has no food value.
+Sachet bag	Cloth bag filled with select herbs used to season soups or stocks.
+Saffron	The pistil of the Crocus plant, used for flavoring or coloring of food.
+Sahlab	An extract from the tubers of orchids. It can be found in most Mid-Eastern markets. It can be quite expensive, but cornstarch may be substituted.
+Salamander	A small broiler used to brown or gratin foods.
+Salsa Jalapeno	A hot sauce or relish made of Jalapeno chiles, onions, either red or green tomatoes, and seasonings.
+Scallion	Also known as green onion. A bulbless onion with hollow green tops and a white base. It gives dishes a milder onion taste (and is not as abhorrent as chopping regular onions). It works very well in salads, but can also be used in cooked dishes.
+Scotch Bonnet Chiles	One of the world's hottest peppers, about 30-50 times as hot as a jalapeno. They resemble walnuts in shape and size and range from green to orange in color. Wear gloves and don't touch your face (or other precious parts) when handling them.
+Semisweet or bittersweet chocolate	This is the chocolate most often called for in cake and cookie recipes. 'Bittersweet' and 'semisweet' are often used interchangeably, though bittersweet generally has more chocolate 'liquor' (the paste formed from roasted, ground cocoa beans). Most semisweet chocolate contains at least 35% chocolate liquor, while some fine bittersweets contain 50% or more. Bittersweet and semisweet chocolate have a deep, smooth, intense flavor that comes from the blend of beans used rather than added dairy products. Sugar, vanilla, and cocoa butter are added to the liquor to lend an even richer taste.
+Serrano Chiles	A hot chile pepper. It is both smaller and thinner than the jalapeno.
+Sesame oil	Used extensively in Japanese and Chinese cuisine, this highly aromatic and richly flavored oil ranges in hue from golden to dark brown. It is sometimes used as a cooking oil, but most often is used as a seasoning accent in stir-fries, dressings, sauces and marinades.
+Sesame seeds	Black and white sesame seeds are used whole as a garnish in a variety of Asian cuisines, ground into a paste, or pressed for their rich oil. To bring out their flavor, toast them briefly in a dry skillet.
+Shallots	An onion variety that produces clusters of bulbs. Their flavor is slightly less intense than that of onions. Shallots are excellent for pickling.
+Sherbet	A smooth frozen ice flavored with fruit and sugar or with a mixture of fruit, sugar, and milk or cream.
+Shiitake	Also called Chinese, black or oriental mushroom (in its dried form). Shitake is a strongly flavored mushroom used in both its fresh and dried form.
+Shrimp Flavor Crackers	Known as krupuk. Dried, thin cracker made from shrimp and various flours. The ready made variety are sold alongside potato chips and other snack food. However, you can buy them uncooked for a fresher flavor at home. The Indonesian variety are large cream colored rectangles or small wafers with a strong flavor. Chinese crackers are thin, translucent and pale or pastel in color. They have a mild flavor.
+Shrimp, dried|Shrimp|dried Shrimp	Used in a broad range of Asian dishes, this ingredient adds flavor to fried rice, soups, stir-fries and other dishes. These small dehydrated shrimp lose any strong fishy odor or flavor during cooking. Purchase dried shrimp that are bright orange-pink. Soak them briefly in warm water to soften before cooking.
+Sieve	A fine, mesh strainer.
+Soba	A dark brown buckwheat noodle used in Northern Japanese cooking. Look for it in the Asian section of your supermarket.
+Soba noodles	See 'Soba'.
+Somen noodles	These delicate Japanese wheat flour noodles are often served cold or in soups; if unavailable, substitute angel hair pasta.
+Sopaipillas	Puffy, crisp, deep-fried bread. Accompanies many Southwestern meals, or may be stuffed with refritos or meat and topped with chile sauce, cheese, and lettuce.
+Sorbet	A smooth frozen ice made with flavored liquids, either sweet or savory. Unlike sherbet, it never contains dairy products.
+Sorrel leaves	Bright green leaves with a lemony flavor that soften when cooked.
+Soy Sauce	Soy sauce is one of the world’s oldest condiments. Soybeans and wheat are blended and then yeast culture is added, along with water and salt, to create a mash, which ferments and ages like wine for several months to develop a rich, mellow flavor, aroma and delicate amber color. Once fermentation is complete, the resulting liquid is filtered, pasteurized and packaged. Non-brewed soy sauces are the result of a 20th-century short cut known as acid hydrolysis. There are critical differences between brewed and non-brewed soy sauces. Brewed soy sauce has a mellow, salty-sweet flavor, a subtle aroma and a delicate, transparent color - qualities that enhance other ingredients. The harsh, salty flavor of non-brewed soy sauce is one-dimensional, masking and overpowering other ingredients. Soy sauce can be used in entrees, pasta, pizza, soups, salads, sandwiches and more. Soy Sauce can balance and intensify the salty, sweet and tart flavors of other ingredients, acting as a natural flavor enhancer.
+Spoom	A fruit or wine based ice to which Italian meringue is added when ice is halfway frozen. Spooms are traditionally served in stemmed glasses.
+Squab	Young, domesticated pigeon with dark meat (bird is usually about 4 weeks old and weighs one pound or less). It is often served rare.
+Sugar Loaf	Sugar molded into a cone shape, with the base traditionally wrapped in blue paper. Nowadays its mainly manufactured for export to Arab countries.
+Sumac	A Middle Eastern spice that comes from the grated skin of a dark berry. It has a slightly acidic, astringent flavor.
+Sundae	A dessert of ice cream served with one or more toppings, such as flavored syrup, dessert sauce, nut, whipped cream, fruit, etc. It is said to have originated in Massachusetts when a law prohibiting the sale of all soft beverages on Sunday was passed. An enterprising soda jerk combined ingredients of an ice cream soda but omitted the carbonated beverage to make a 'sundae'.
+Superfine Sugar	Also called Caster sugar. It is pulverized granulated sugar. It can be bought or prepared at home by whizzing some granulated sugar in the blender.
+Sweet chocolate	Very similar in composition to semisweet chocolate, sweet chocolate simply has more sugar added and less chocolate liquor. It's sold on grocery shelves in the baking section. For people with a real sweet tooth, sweet chocolate can be substituted for semisweet in recipes without a significant change in texture.
+Sweet Rice	Known as nasi ketan. Glutinous rice that cooks up stick and sweet. The unhulled rice is black and turns purplish black when cooked. The hulled rice is white.
+Sweet Soy Sauce	Known as kecap manis (Indonesian). Sweetened, slightly thick soy sauce. A good substitute is: 1 part soy sauce to 2 parts palm sugar boiled until syrupy, then cooled.
+Szechuan peppercorns	Not, in fact, related to black and white peppercorns, these are tiny dried berries that contain a seed. They have a pungent aroma and mildly spicy flavor and can be purchased whole or in powdered form. Toasting Szechuan peppercorns in a dry skillet brings out the flavor and aroma. They keep indefinitely when stored airtight.
+Tabasco Sauce	A hot sauce comprised solely of vinegar, red pepper, and salt.
+Taco	A corn tortilla folded in half and fried until crisp, stuffed with meat, or chicken, or refried beans. Before serving, it is topped with lettuce, onion, cheese, and taco sauce.
+Tahini	An oily paste made from ground sesame seeds. A sweetened dark variety also exists. It can be found in health food stores and the ethnic section of most grocery stores.
+Tamale	Red chile pork encased in fresh masa and wrapped in a corn shuck. Usually steamed and served with red chile sauce.
+Tamarind Paste	A vitamin-rich, tangy, prune like pulp from the pods of a tropical Asian tree. It is used as a seasoning in curries and chutneys or made into drinks, jams, or sorbets.
+Taquitos	(Rolled tacos) Same as tacos except filling is placed inside tortillas and rolled cigar-fashion, then deep-fat fried.
+Tatsoi	Also known as 'spoon cabbage,' tatsoi is a leafy Asian green with a slightly spicy cabbage flavor. It can be used in salads and stir-fries.
+Teriyaki sauce	A marinade and sauce traditionally made from soy sauce, wine, sugar, and other seasonings.
+Thai Chilies	Known as hang prik (Thai), cabe or lombok (Indonesian), cabai or cili (Malaysian), Ot (Vietnamese). Fresh explosive chilies 3 to 4 inches long, and 1/2 to 3/4 inches wide. Their color ranges from the fresh green state to various stages of yellow to red in a ripened state. They are also sold dried and are often soaked in hot water before using.
+Toasting Nuts	Toasting nuts brings the oils closer to the surface, bringing out the flavor. This is especially useful in low fat cooking, where you want to use less nuts, since they tend to be extremely high in fat. Toasting also makes removing the skins off of nuts easier. Preheat the oven to 350 degrees F. In an ungreased cookie sheet, spread the nuts in a single layer and let bake for 6 minutes. Remove from the oven. If you want to remove the skins from nuts, wrap the toasted nuts in a kitchen towel. Let the nuts steam for 5 minutes. Roll the nuts around (while still in towel) until skins rub off.
+Tofu	A soybean curd that comes white cheese like square. Its usually stored in water. It shows up a lot in Oriental and vegetarian cooking.
+Tomatillos	Small, green, firm, tomatoes. They are covered with a paper like husk that's removed before cooking. Their acid flavor add a great flavor for sauces.
+Tomillo	(Spanish) Thyme
+Torta	Stiffly beaten eggs leavened with baking powder and seasoned with salt and oregano, then deep fried. Served during Lent with chile
+Tortillas	Mexican pancakes that are either made of flour or masa harina (ground corn). They make an excellent foundation for all sorts of fillings. Enchiladas are softened tortillas that are filled and rolled. Tacos are fried tortillas.
+Tortillas de Harina	Flour tortillas made from wheat flour. Ussually are 7 - 10 inches in diameter and 1/4 inch thick. They remain mostly white after cooking on a griddle, but are flecked with brown and puffed in spots. Used for burritos and as an accompaniment to any Southwestern meal.
+Tortillas De Mais	Corn tortillas made from masa pressed into a thin pancake, then quickly singed or "blistered" on a hot griddle. Used for enchiladas, tacos, taquitos, chalupas, huevos rancheros, tostadas compuestas.
+Toss	To mix with a rising and falling action.
+Tostadas	Open-faced taco.
+Tostadas Compuestas	Corn tortilla cups filled with chile con carne topped with shredded lettuce, chopped tomatoes, and grated cheese.
+Tostados	Corn tortillas cut in pieces and fried until crisp. Salted or sprinkled with chile powder. Served for dipping with salsa, guacamole, or chile con queso.
+Tripe	The edible lining of stomach (beef).
+Truss	To bind poultry for roasting with string or skewers.
+Tuna	Cactus fruit ranging in color from green to red or maroon. The moist, granular flesh is good served raw as a dessert with lemon and sugar, but is also candied or used in desserts.
+Turmeric	A rhizome that is often dried and ground. It is often used to spice and color dishes (bright yellow). It is used mainly in Indian and Southeast Asian cooking.
+Udon noodles	These Japanese wheat-flour noodles can be purchased either fresh or dried. They are often used in soups.
+Unsaturated fat	A kind of fat that is in liquid form at room temperature.
+Unsweetened chocolate	(also called baking chocolate): You don't eat unsweetened chocolate. It has no added sugar and is generally composed of 55% cocoa butter and 45% chocolate mass from the bean. It has an intense chocolate flavor that has to be tempered by sugar and other ingredients
+Veloute	(French) A sauce made with veal stock, cream, and tightened with a white roux.
+Verdolagas	A common garden weed served as a leafy vegetable. Also called purslane.
+Vermicelli	This pasta literally means "Little Worms". It is slightly thinner than Spaghetti and looks like fine strands. Angel hair pasta is a very fine form of vermicelli. Vermicelli is good topped with any sauce, or as a salad or stir-fry ingredient. It is versatile enough to also be used in certain puddings and souffles. Variations include Chinese vermicelli (made with soya flour) and Far Eastern vermicelli (made with rice flour).
+Vert	(French) Green.
+Viande	(French) Meat.
+Vichyssoise	A cold potato and leek soup thickened with cream and garnished with chives. The term is now applied to many other tuber-based soups.
+vindaloo	The spiciest of all curry dishes. Vindaloos primarily come from central and southwestern coastal India . They are composed of a complicated roasted spice blend which includes mustard seeds, cumin seeds, ginger, peppercorns, fenugreek seeds, cloves, coriander seeds, and tamarind concentrate. One must include red chilies in the mix. Vindaloo sauce is usually served with meat over rice. You can purchase commercial vindaloo pastes and sauces in most Indian grocery stores or the ethnic food aisle in larger grocery stores..
+Waldorf Salad	A salad made with apples, celery, nuts, whip cream, and mayonnaise on a bed of lettuce.
+Walnut	These nuts are native to Asia and grow on walnut trees inside green pods which turn brown and wood like when they dry.
+Walnut Oil	The oil extracted from the walnut. It can be quite expensive and goes rancid quicker than most oils. However, it gives most foods a wonderful nutty flavor whether you cook with or drizzle it. Use it on greens, pasta, or vegetables.
+Wasabi	Also called Japanese horseradish, a pungent green paste made from a rhizome of the watercress family.
+Water bath	Bain marie in French. A method of gently cooking delicate foods such as custards, on the stove or in the oven in a pan partially fillled with water.
+Water chestnuts	The canned variety are more widely available, but fresh water chestnuts are a treat that add incredible sweetness, juiciness and crunchy texture to a variety of Asian stir-fries, stews, stuffings and soups. Fresh water chestnuts have a dark brown-black skin that can be peeled away with a sharp knife. They should be firm with no soft spots.
+Whipping Cream	Consists of at least 35% milk fat content and is commercially produced by centrifugal separation. It is sometimes pasteurized but rarely homogenized. When whipped, it will double in volume and is not very likely to curdle. It is usually used to top desserts and piped over cakes. Here are some tips from the US dairy Association for perfect whipped cream: 1. Chill the bowl and beaters, preferably in the freezer if there' s space. The colder the bowl and beaters, the quicker the cream will whip. 2. Use a small, deep bowl for beating cream. 3. Beat rapidly, scraping the bowl occasionally. Do not overbeat. Beat only until soft or stiff peaks form, as called for in your recipe. 4. Whipped cream to be piped through a pastry tube for decoration should be stiffer than cream whipped to be folded into other ingredients. 5. Ultra-pasteurized whipping cream will take slightly longer to beat than regular whipping cream and will not overbeat as readily. 6. To make sweetened whipped cream, fold 2 to 3 tablespoons sifted confectioners' sugar or granulated sugar into 2 cups whipped cream, after beating. 7. One cup whipping cream yields 2 cups whipped cream.
+Whisk	(n.)A mixing tool designed so its many strands of looped wire make it effective for beating. (v.)To beat with a whisk until well mixed.
+White Chocolate	White 'chocolate' doesn't contain a drop of chocolate. But it does have cocoa butter, from which it gets its faintly chocolaty flavor. The cocoa butter is blended with milk and sugar to form the creamy confection, which is used for both eating and cooking.
+Wonton wrappers	These square sheets of fresh wheat-flour and egg dough can be used to make boiled, steamed or fried wontons, ravioli and other dumplings. They can also be cut into strips and fried to use as a garnish for salads and entr?es.
+Worcestershire Sauce	A spicy sauce composed mainly of water, vinegar, molasses, corn syrup, anchovies, spices and flavorings. Its good for marinating meats. It also helps flavor some sauces, but should be used sparingly, as it has a very strong flavor. A good one to try is Lea & Perrins.
+Ximenia	A small plant found in hot climates in which there fruits are known as mountain plums or wild limes.
+Yams	Sweet potato.
+Yeast	A leavening agent used in doughs and batters. It usually comes in a dry, bead like form (which can be compressed into cakes), although it also exists in a fresh form. It is best activated at a temperature of 110 degrees F to 115 degrees F (the temperature of a baby bottle or a comfortable bath). Anything too cold won't activate it, too hot will kill it.
+Yerba Buena	(Spanish) Wild mint, fresh or dried
+Yogurt Cheese	Yogurt cheese can be eaten as a lowfat cream cheese substitute or as is most common as a lowfat alternative in baking. The final quality of the yogurt cheese is largely dependent on the yogurt you start out with, so try to use a good quality one. Considerable amounts of fat and calories can be cut out by using a low fat yogurt (use one without gelatin, like Dannon). To make: Pour yogurt into a cheesecloth and either let it hang over the kitchen sink or over a bowl. If you drain it over a bowl, you can do it in the refrigerator. Drain overnight. When the yogurt is firm, remove from the bag and transfer it to a separate container. Discard the liquid. Yogurt cheese keeps (refrigerated) for up to 1 week. Six cups of yogurt makes 2 cups of yogurt cheese.
+Yorkshire pudding	A batter made with flour, eggs, salt, and milk that is baked with standing rib roast (prime rib).
+Zaatar	An herb mixture composed of savory, thyme, sumac, and sesame seeds. A prepared mixture of this herb mixture can be found at most Middle Eastern groceries. However, be aware that the quality of zaatar can differ greatly.
+Zabaglione	An Italian custard like dessert made solely of egg yolks, sugar, and (traditionally) Marsala wine.
+Zest	The rind of citrus fruit (most commonly orange, grapefruit, lime, and lemon). The rind of the fruit contains oils if essence that lend a nice flavor to the final dish. It is commonly candied or crystallized for pastry use. When zesting, be careful NOT to include the white pith, as that adds a bitter taste.
+Ziti	Literally means "Bridegrooms". A medium-sized, tubular pasta shape. Ziti is perfect for chunky sauces and meat dishes. It also makes wonderful salads, baked dishes and stir-fry meals.
+Zucchini	Green Italian squash.
+Zwyieka	A Polish sausage.

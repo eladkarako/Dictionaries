@@ -1,0 +1,921 @@
+##name	Military glossary by Adel
+##sourceLang	English
+##targetLang	Arabic
+##bgl_defaultCharset	cp1252
+##bgl_sourceCharset	cp1252
+##bgl_targetCharset	cp1256
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1256
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##author	Adel
+##description	
+##browsingEnabled	
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##bgl_creationTime	2013/03/20, 20:43
+##bgl_middleUpdated	2013/03/20, 20:45
+##bgl_lastUpdated	2013/03/20, 20:45
+15VPS	Abbr.: 15VPS<br>\nMeaning: 15 Volt Power Supply<br>\nالمعنى العربي: <br>
+1SG	Abbr.: 1SG<br>\nMeaning: <br>\nالمعنى العربي: رقيب أول<br>
+5VPS	Abbr.: 5VPS<br>\nMeaning: 5 Volt Power Supply<br>\nالمعنى العربي: <br>
+7thID(L)	Abbr.: 7thID(L)<br>\nMeaning: seventh infantry division (light)<br>\nالمعنى العربي: فرقة المشاة الخفيفة السابعة<br>
+A-10	Abbr.: A-10<br>\nMeaning: Thunderbolt armored ground-attack aircraft<br>\nالمعنى العربي: <br>
+A2C2	Abbr.: A2C2<br>\nMeaning: Army airspace command and control<br>\nالمعنى العربي: قيادة وسيطرة على المجال الجوي للجيش<br>
+AA	Abbr.: AA<br>\nMeaning: Assembly Area<br>\nالمعنى العربي: منطقة التجمع<br>
+AA	Abbr.: AA<br>\nMeaning: Assembly Area, Avenue of Approach<br>\nالمعنى العربي: منطقة تجمع - طريق إقتراب<br>
+AA	Abbr.: AA<br>\nMeaning: Avenue of approach or Assembly Area<br>\nالمعنى العربي: طريق إقتراب أو منطقة تجمع<br>
+AACG	Abbr.: AACG<br>\nMeaning: Arrival airfield control group<br>\nالمعنى العربي: مجموعة السيطرة على مطار الوصول الميداني<br>
+AAR	Abbr.: AAR<br>\nMeaning: After Action Review<br>\nالمعنى العربي: مراجعة ما بعد العمل<br>
+AATF	Abbr.: AATF<br>\nMeaning: Air Assault Task Force<br>\nالمعنى العربي: قوة واجب إقتحام جوي<br>
+AATFC	Abbr.: AATFC<br>\nMeaning: Air Assault Task Force Commander<br>\nالمعنى العربي: قائد قوة واجب اقتحام جوي<br>
+AAV	Abbr.: AAV<br>\nMeaning: Assault amphibious vehicle<br>\nالمعنى العربي: مركبة اقتحام برمائية<br>
+ABCCC	Abbr.: ABCCC<br>\nMeaning: aiborne battlefield command and control center<br>\nالمعنى العربي: قيادة وسيطرة معركة محمولة جوا<br>
+ABMOC	Abbr.: ABMOC<br>\nMeaning: air battle management operation center<br>\nالمعنى العربي: مركز ادارةعمليات معركة جوية<br>
+ACA	Abbr.: ACA<br>\nMeaning: airspace control authority<br>\nالمعنى العربي: سلطة السيطرة على المجال الجوي<br>
+ACL	Abbr.: ACL<br>\nMeaning: allowable cargo load<br>\nالمعنى العربي: حولة الشحنة المسموحة<br>
+ACO	Abbr.: ACO<br>\nMeaning: airspace control order<br>\nالمعنى العربي: امر سيطرة على المجال الجوي<br>
+ACP	Abbr.: ACP<br>\nMeaning: air control point<br>\nالمعنى العربي: نقطة سيطرة جوية<br>
+ACR	Abbr.: ACR<br>\nMeaning: armored cavalry regiment<br>\nالمعنى العربي: فوج استطلاع مدرع<br>
+ACU	Abbr.: ACU<br>\nMeaning: Armament Control Unit<br>\nالمعنى العربي: <br>
+ACofS	Abbr.: ACofS<br>\nMeaning: assistant chief of staff<br>\nالمعنى العربي: مساعد رئيس الأركان<br>
+ADA	Abbr.: ADA<br>\nMeaning: air defense artillery<br>\nالمعنى العربي: مدفعية الدفاع الجوي<br>
+ADC	Abbr.: ADC<br>\nMeaning: assistant division commander<br>\nالمعنى العربي: مساعد قائد الفرقة<br>
+ADC-M	Abbr.: ADC-M<br>\nMeaning: assistant division commander for maneuvre<br>\nالمعنى العربي: مساعد قائد الفرقة للمناورة<br>
+ADCS	Abbr.: ADCS<br>\nMeaning: airdefense coordination center<br>\nالمعنى العربي: مركز تنسيق الدفاع الجوي<br>
+ADC_S	Abbr.: ADC_S<br>\nMeaning: assistant division commander for support<br>\nالمعنى العربي: مساعد قائد الفرقة للإسناد<br>
+ADE	Abbr.: ADE<br>\nMeaning: assistant division engineer<br>\nالمعنى العربي: مساعد مهندس الفرقة<br>
+ADSO	Abbr.: ADSO<br>\nMeaning: assistant division signal officer<br>\nالمعنى العربي: مساعد ضابط اشارة الفرقة<br>
+ADW	Abbr.: ADW<br>\nMeaning: air defense warning<br>\nالمعنى العربي: تحذير دفاع جوي<br>
+AEGR	Abbr.: AEGR<br>\nMeaning: Army Embedded GPS Receiver<br>\nالمعنى العربي: <br>
+AFARN	Abbr.: AFARN<br>\nMeaning: air force air request net<br>\nالمعنى العربي: شبكة طلب طيران القوات الجوية<br>
+AFSCOORD	Abbr.: AFSCOORD<br>\nMeaning: assistant fire support coordinator<br>\nالمعنى العربي: مساعد منسق اسناد النيران<br>
+AFSO	Abbr.: AFSO<br>\nMeaning: assistant fire support officer<br>\nالمعنى العربي: مساعد ضابط اسناد النيران<br>
+AFSS	Abbr.: AFSS<br>\nMeaning: Advanced Fire Support System<br>\nالمعنى العربي: <br>
+AG	Abbr.: AG<br>\nMeaning: adjutant general<br>\nالمعنى العربي: ضابط مساعد للقائد<br>
+AGB	Abbr.: AGB<br>\nMeaning: Accessory GearBox<br>\nالمعنى العربي: صندوق المسننات<br>
+AGTM	Abbr.: AGTM<br>\nMeaning: Anti-Tank Guided Missile<br>\nالمعنى العربي: <br>
+AGTS	Abbr.: AGTS<br>\nMeaning: Advanced Gunnery Training System<br>\nالمعنى العربي: مشبه رماية خاص بالدبابة م60أ3<br>
+AHB	Abbr.: AHB<br>\nMeaning: attack helicopter batallion<br>\nالمعنى العربي: كتيبة مروحيات هجوم<br>
+AHMV	Abbr.: AHMV<br>\nMeaning: Advanced High-Mobility Vehicle<br>\nالمعنى العربي: <br>
+AI	Abbr.: AI<br>\nMeaning: Armor Institute<br>\nالمعنى العربي: معهد المدرعات<br>
+AI	Abbr.: AI<br>\nMeaning: air interdiction<br>\nالمعنى العربي: اعتراض جوي<br>
+AIM	Abbr.: AIM<br>\nMeaning: Analog Input Module<br>\nالمعنى العربي: <br>
+AIM Tank	Abbr.: AIM Tank<br>\nMeaning: Abrams Integrated Management Tank<br>\nالمعنى العربي: <br>
+ALCE	Abbr.: ALCE<br>\nMeaning: airlift control element<br>\nالمعنى العربي: عنصر سيطرة النقل الجوي<br>
+ALO	Abbr.: ALO<br>\nMeaning: air liaison officer<br>\nالمعنى العربي: ضابط ارتباط جوي<br>
+AM	Abbr.: AM<br>\nMeaning: amplitude modulation<br>\nالمعنى العربي: تعديل سعة<br>
+AMB	Abbr.: AMB<br>\nMeaning: air mission brief<br>\nالمعنى العربي: ايجاز مهمة جوية<br>
+AMC	Abbr.: AMC<br>\nMeaning: at my command<br>\nالمعنى العربي: تحت قيادتي<br>
+AMOPES	Abbr.: AMOPES<br>\nMeaning: Air Mobilization and Operations Planning System<br>\nالمعنى العربي: نظام التعبئة الجوية وتخطيط العمليات<br>
+ANGLICO	Abbr.: ANGLICO<br>\nMeaning: Air and Naval Gunfire Liaison Compnay<br>\nالمعنى العربي: سرية إرتباط رماية جوية وبحرية<br>
+AO	Abbr.: AO<br>\nMeaning: Area of operations<br>\nالمعنى العربي: منطقة العمليات<br>
+AOC	Abbr.: AOC<br>\nMeaning: air operation center<br>\nالمعنى العربي: مركز العمليات الجوية<br>
+AOR	Abbr.: AOR<br>\nMeaning: area of responsibility<br>\nالمعنى العربي: منطقة المسئولية<br>
+ARFOR	Abbr.: ARFOR<br>\nMeaning: Army forces<br>\nالمعنى العربي: قوات الجيش<br>
+ASIC	Abbr.: ASIC<br>\nMeaning: all source intelligence center<br>\nالمعنى العربي: مركز الإستخبارات من كافة المصادر<br>
+ASMB	Abbr.: ASMB<br>\nMeaning: medical batallion, area support<br>\nالمعنى العربي: كتيبة طبية اسناد منطقة<br>
+ASMC	Abbr.: ASMC<br>\nMeaning: medical company, area support<br>\nالمعنى العربي: سرية طبية اسناد منطقة<br>
+ASOC	Abbr.: ASOC<br>\nMeaning: air support operation center<br>\nالمعنى العربي: مركز عمليات اسناد جوي<br>
+ASPS	Abbr.: ASPS<br>\nMeaning: all source production section<br>\nالمعنى العربي: قسم انتاج كل المصادر<br>
+ASU	Abbr.: ASU<br>\nMeaning: Accessory Stowage (Storage) Unit<br>\nالمعنى العربي: <br>
+AT	Abbr.: AT<br>\nMeaning: anti tank<br>\nالمعنى العربي: مضاد للدبابات<br>
+ATC	Abbr.: ATC<br>\nMeaning: air traffic control<br>\nالمعنى العربي: مركز السيطرة الجوية<br>
+ATCCS	Abbr.: ATCCS<br>\nMeaning: air tactical command and control system<br>\nالمعنى العربي: نظام القيادة والسيطرة التكتيكية الجوية<br>
+ATEAM	Abbr.: ATEAM<br>\nMeaning: Advanced Turbine Engine Army Maintenance<br>\nالمعنى العربي: <br>
+ATIZ	Abbr.: ATIZ<br>\nMeaning: artillery target intelligence zone<br>\nالمعنى العربي: نطاق استخبارات اهداف المدفعية<br>
+ATMCT	Abbr.: ATMCT<br>\nMeaning: air treminal movement control team<br>\nالمعنى العربي: فريق السيطرة على تحركات المطار<br>
+ATP	Abbr.: ATP<br>\nMeaning: ammunition transfer point<br>\nالمعنى العربي: نقطة نقل ذخيرة<br>
+ATS	Abbr.: ATS<br>\nMeaning: air traffic service<br>\nالمعنى العربي: خدمة المراقبة الجوية<br>
+AVIM	Abbr.: AVIM<br>\nMeaning: aviation intermediate maintenance<br>\nالمعنى العربي: صيانة متوسطة للطيران<br>
+AVLB	Abbr.: AVLB<br>\nMeaning: armored vehicle launched bridge<br>\nالمعنى العربي: عربة مدرعة نصب جسر<br>
+AWACS	Abbr.: AWACS<br>\nMeaning: aiborne warning and control system<br>\nالمعنى العربي: نظام انذار وسيطرة جوية<br>
+AWOL	Abbr.: AWOL<br>\nMeaning: absence without leave<br>\nالمعنى العربي: غياب بدون اجازة (إذن)<br>
+Advance Party	Abbr.: Advance Party<br>\nMeaning: <br>\nالمعنى العربي: جماعة المقدمة<br>
+Air Assualt	Abbr.: Air Assualt<br>\nMeaning: <br>\nالمعنى العربي: إقتحام جوي<br>
+Airborne Corps	Abbr.: Airborne Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح المظليين<br>
+Ammo	Abbr.: Ammo<br>\nMeaning: Ammunition<br>\nالمعنى العربي: ذخيرة<br>
+Area Commander	Abbr.: Area Commander<br>\nMeaning: <br>\nالمعنى العربي: قائد منطقة<br>
+Armor Corps	Abbr.: Armor Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح المدرعات<br>
+Armor Corps Institute	Abbr.: Armor Corps Institute<br>\nMeaning: <br>\nالمعنى العربي: معهد سلاح المدرعات<br>
+Artillery Corps	Abbr.: Artillery Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح المدفعية<br>
+Assault	Abbr.: Assault<br>\nMeaning: <br>\nالمعنى العربي: إقتحام<br>
+B	Abbr.: B<br>\nMeaning: black<br>\nالمعنى العربي: اسود<br>
+BA3	Abbr.: BA3<br>\nMeaning: Bradley A3<br>\nالمعنى العربي: <br>
+BAH	Abbr.: BAH<br>\nMeaning: Booz Allen &amp; Hamilton<br>\nالمعنى العربي: شركة بوز ألن هاميلتون<br>
+BAS	Abbr.: BAS<br>\nMeaning: batallion aid station<br>\nالمعنى العربي: مركز اسعاف الكتيبة<br>
+BCE	Abbr.: BCE<br>\nMeaning: Bradley Control Electronics<br>\nالمعنى العربي: <br>
+BCOC	Abbr.: BCOC<br>\nMeaning: base cluster operation center<br>\nالمعنى العربي: مركز عمليات مجموعة مستودعات القاعدة<br>
+BDE	Abbr.: BDE<br>\nMeaning: Brigade<br>\nالمعنى العربي: لواء<br>
+BDE	Abbr.: BDE<br>\nMeaning: brigade<br>\nالمعنى العربي: لواء <br>
+BDOC	Abbr.: BDOC<br>\nMeaning: base defence operation center<br>\nالمعنى العربي: مركز عمليات دفاع القاعدة<br>
+BDU	Abbr.: BDU<br>\nMeaning: battle dress uniform<br>\nالمعنى العربي: زي المعركة<br>
+BFIST	Abbr.: BFIST<br>\nMeaning: Bradley Fire Support Team<br>\nالمعنى العربي: <br>
+BFVS	Abbr.: BFVS<br>\nMeaning: Bradley Fighting Vehicle System<br>\nالمعنى العربي: <br>
+BFVS A0	Abbr.: BFVS A0<br>\nMeaning: Bradley Fighting Vehicle System A0<br>\nالمعنى العربي: <br>
+BFVS A3	Abbr.: BFVS A3<br>\nMeaning: Bradley Fighting Vehicle System A3<br>\nالمعنى العربي: <br>
+BG	Abbr.: BG<br>\nMeaning: Brigadier General<br>\nالمعنى العربي: عميد (رتبة)<br>
+BHL	Abbr.: BHL<br>\nMeaning: battle hand-over line<br>\nالمعنى العربي: خط تسليم المعركة<br>
+BICU	Abbr.: BICU<br>\nMeaning: Biocular Image Control Unit<br>\nالمعنى العربي: <br>
+BMD	Abbr.: BMD<br>\nMeaning: Base Maintenance Directorate<br>\nالمعنى العربي: صيانة القاعدة<br>
+BOMREP	Abbr.: BOMREP<br>\nMeaning: bombing report<br>\nالمعنى العربي: تقرير قصف<br>
+BOS	Abbr.: BOS<br>\nMeaning: battle operation system<br>\nالمعنى العربي: أنظمة تشغيل ميدان المعركة<br>
+BP	Abbr.: BP<br>\nMeaning: Battle Position<br>\nالمعنى العربي: موقع دفاعي (قتالي)<br>
+BP	Abbr.: BP<br>\nMeaning: battle position<br>\nالمعنى العربي: موقع قتال<br>
+BRADS	Abbr.: BRADS<br>\nMeaning: Bradley Automated Diagnostics System<br>\nالمعنى العربي: <br>
+BRM	Abbr.: BRM<br>\nMeaning: Bradley Resource Module<br>\nالمعنى العربي: <br>
+BSA	Abbr.: BSA<br>\nMeaning: Basic Sight Assembly<br>\nالمعنى العربي: <br>
+BSA	Abbr.: BSA<br>\nMeaning: brigade support area<br>\nالمعنى العربي: منطقة اسناد اللواء<br>
+BSFV	Abbr.: BSFV<br>\nMeaning: Bradley stinger fighting vehicle<br>\nالمعنى العربي: مركبة قتال  ستينجر برادلي<br>
+Battalion Commander	Abbr.: Battalion Commander<br>\nMeaning: <br>\nالمعنى العربي: قائد كتيبة<br>
+Bn	Abbr.: Bn<br>\nMeaning: Battalion<br>\nالمعنى العربي: كتيبة<br>
+Breech	Abbr.: Breech<br>\nMeaning: <br>\nالمعنى العربي: الترباس<br>
+Brigade Commander	Abbr.: Brigade Commander<br>\nMeaning: <br>\nالمعنى العربي: قائد لواء<br>
+C-5	Abbr.: C-5<br>\nMeaning: Galaxy heavy-cargo transport aircraft<br>\nالمعنى العربي: طائرة شحن من طراز سي5<br>
+C2	Abbr.: C2<br>\nMeaning: command and control<br>\nالمعنى العربي: قيادة وسيطرة<br>
+C3	Abbr.: C3<br>\nMeaning: Command, Control and Communications<br>\nالمعنى العربي: القيادة والسيطرة والإتصالات<br>
+C3	Abbr.: C3<br>\nMeaning: command &amp; control &amp;communication<br>\nالمعنى العربي: قيادة وسيطرة واتصالات<br>
+CA	Abbr.: CA<br>\nMeaning: civil affairs<br>\nالمعنى العربي: شئون مدنية<br>
+CANA	Abbr.: CANA<br>\nMeaning: Convulsant antidote nerve agent<br>\nالمعنى العربي: غاز اعصاب تشنج وهلوسة<br>
+CAP	Abbr.: CAP<br>\nMeaning: Commander's Alert Panel<br>\nالمعنى العربي: <br>
+CAPSTONE	Abbr.: CAPSTONE<br>\nMeaning: program that aligns active component and reserve component units to meet the Total Army’s wartime requirements<br>\nالمعنى العربي: برنامج وحدات الجيش العاملة ووحدات الإحتياط لإستيفاء متطلبات الجيش الشاملة في وقت الحرب <br>
+CAS	Abbr.: CAS<br>\nMeaning: close air support<br>\nالمعنى العربي: اسناد جوي قريب<br>
+CBT	Abbr.: CBT<br>\nMeaning: Computer Based Training<br>\nالمعنى العربي: <br>
+CCHA	Abbr.: CCHA<br>\nMeaning: Commander's Control Handle Assembly<br>\nالمعنى العربي: <br>
+CCIR	Abbr.: CCIR<br>\nMeaning: CDR critical info requirements<br>\nالمعنى العربي: مطالب المعلومات الضرورية للقائد<br>
+CCP	Abbr.: CCP<br>\nMeaning: Computer Control Panel<br>\nالمعنى العربي: <br>
+CCP	Abbr.: CCP<br>\nMeaning: Commander's Control Panel<br>\nالمعنى العربي: <br>
+CCT	Abbr.: CCT<br>\nMeaning: combat control team<br>\nالمعنى العربي: فريق سيطرة على القتال<br>
+CDR	Abbr.: CDR<br>\nMeaning: commander<br>\nالمعنى العربي: القائد<br>
+CDS	Abbr.: CDS<br>\nMeaning: container delivery system<br>\nالمعنى العربي: نظام تسليم حاويات<br>
+CDT	Abbr.: CDT<br>\nMeaning: Control Display Terminal<br>\nالمعنى العربي: <br>
+CDU	Abbr.: CDU<br>\nMeaning: Commander's Display Unit<br>\nالمعنى العربي: <br>
+CEU	Abbr.: CEU<br>\nMeaning: Computer Electronics Unit<br>\nالمعنى العربي: <br>
+CEU	Abbr.: CEU<br>\nMeaning: Commander's Electronics Unit<br>\nالمعنى العربي: <br>
+CEWI	Abbr.: CEWI<br>\nMeaning: combat EW intelligence<br>\nالمعنى العربي: استخبارات حرب الكترونية قتال<br>
+CFA	Abbr.: CFA<br>\nMeaning: covering force area<br>\nالمعنى العربي: منطقة قوة التغطية<br>
+CFFZ	Abbr.: CFFZ<br>\nMeaning: call for fire zone<br>\nالمعنى العربي: منطقة طلب نيران<br>
+CFL	Abbr.: CFL<br>\nMeaning: Coordinated Fire Line<br>\nالمعنى العربي: خط تنسيق النيران<br>
+CFL	Abbr.: CFL<br>\nMeaning: coordinated fire line<br>\nالمعنى العربي: خط تنسيق النيران<br>
+CFM	Abbr.: CFM<br>\nMeaning: Common Functions Module<br>\nالمعنى العربي: <br>
+CFPD	Abbr.: CFPD<br>\nMeaning: Color Flat Panel Display<br>\nالمعنى العربي: <br>
+CFT	Abbr.: CFT<br>\nMeaning: Common FLIR/TIS<br>\nالمعنى العربي: <br>
+CFZ	Abbr.: CFZ<br>\nMeaning: critical friendly zone<br>\nالمعنى العربي: منطقة حيوية للقوات الصديقة<br>
+CG	Abbr.: CG<br>\nMeaning: commanding general<br>\nالمعنى العربي: القائد الآمر<br>
+CGE	Abbr.: CGE<br>\nMeaning: Command Guidance Electronics<br>\nالمعنى العربي: <br>
+CHEMWARN	Abbr.: CHEMWARN<br>\nMeaning: chemical warning<br>\nالمعنى العربي: انذار كيماوي<br>
+CHS	Abbr.: CHS<br>\nMeaning: Commander's Hand Station<br>\nالمعنى العربي: <br>
+CI	Abbr.: CI<br>\nMeaning: counterintelligence<br>\nالمعنى العربي: استخبارات مضادة<br>
+CID	Abbr.: CID<br>\nMeaning: Commander's Integrated Display<br>\nالمعنى العربي: <br>
+CID	Abbr.: CID<br>\nMeaning: criminal invesigation division<br>\nالمعنى العربي: قسم تحقيق جنائي<br>
+CIMIC	Abbr.: CIMIC<br>\nMeaning: civil military cooperation<br>\nالمعنى العربي: تعاون عسكري مدني<br>
+CINC	Abbr.: CINC<br>\nMeaning: commander in chief<br>\nالمعنى العربي: القائد العام <br>
+CIR	Abbr.: CIR<br>\nMeaning: critical info  requirements<br>\nالمعنى العربي: متطلبات المعلومات الضرورية <br>
+CITV	Abbr.: CITV<br>\nMeaning: Commander's Independent Thermal Viewer<br>\nالمعنى العربي: <br>
+CIU	Abbr.: CIU<br>\nMeaning: Commander's Interface Unit<br>\nالمعنى العربي: <br>
+CMD	Abbr.: CMD<br>\nMeaning: collection manage.&amp; dissemination<br>\nالمعنى العربي: جمع وادارة وتوزيع<br>
+CMOC	Abbr.: CMOC<br>\nMeaning: civil military operation center<br>\nالمعنى العربي: مركز عمليات مدني عسكري<br>
+CO	Abbr.: CO<br>\nMeaning: company<br>\nالمعنى العربي: سرية<br>
+COA	Abbr.: COA<br>\nMeaning: Course of Action<br>\nالمعنى العربي: طريقة الحل<br>
+COA	Abbr.: COA<br>\nMeaning: course of action<br>\nالمعنى العربي: طريقة حل<br>
+COFT	Abbr.: COFT<br>\nMeaning: Conduct of Fire Trainer<br>\nالمعنى العربي: مشبه الكوفت<br>
+COLT	Abbr.: COLT<br>\nMeaning: combat operation lazer team<br>\nالمعنى العربي: فريق ليزر عمليات القتال<br>
+COMINT	Abbr.: COMINT<br>\nMeaning: communication intelligence<br>\nالمعنى العربي: استخبارات الاشارة<br>
+COMJTF	Abbr.: COMJTF<br>\nMeaning: commander joint task force<br>\nالمعنى العربي: قائد قوة الواجب المشتركة<br>
+COMMZ	Abbr.: COMMZ<br>\nMeaning: communication zone<br>\nالمعنى العربي: منطقة الاتصالات<br>
+COMSEC	Abbr.: COMSEC<br>\nMeaning: communication security<br>\nالمعنى العربي: امن الاتصالات<br>
+CONOPS	Abbr.: CONOPS<br>\nMeaning: continuous operations<br>\nالمعنى العربي: عمليات مستمرة<br>
+CONPLAN	Abbr.: CONPLAN<br>\nMeaning: concept plan<br>\nالمعنى العربي: خطة الفكرة<br>
+CONUS	Abbr.: CONUS<br>\nMeaning: continental USA<br>\nالمعنى العربي: قارة الولايات المتحدة<br>
+COSCOM	Abbr.: COSCOM<br>\nMeaning: Corps Support Command<br>\nالمعنى العربي: قيادة إسناد الفيلق<br>
+COSCOM	Abbr.: COSCOM<br>\nMeaning: corps support command<br>\nالمعنى العربي: قيادة اسناد الفيلق<br>
+CP	Abbr.: CP<br>\nMeaning: Command Post<br>\nالمعنى العربي: مركز قيادة<br>
+CP	Abbr.: CP<br>\nMeaning: command post<br>\nالمعنى العربي: مركز قيادة<br>
+CPX	Abbr.: CPX<br>\nMeaning: <br>\nالمعنى العربي: <br>
+CPX	Abbr.: CPX<br>\nMeaning: command post exercise<br>\nالمعنى العربي: تمرين مركز قيادة<br>
+CS	Abbr.: CS<br>\nMeaning: combat support<br>\nالمعنى العربي: اسناد القتال<br>
+CSB	Abbr.: CSB<br>\nMeaning: corps support batallion<br>\nالمعنى العربي: كتيبة اسناد الفيلق<br>
+CSCP	Abbr.: CSCP<br>\nMeaning: Commander's Sight Control Panel<br>\nالمعنى العربي: <br>
+CSE	Abbr.: CSE<br>\nMeaning: combat support equipment<br>\nالمعنى العربي: معدات اسناد القتال<br>
+CSM	Abbr.: CSM<br>\nMeaning: Command Sergeant Major<br>\nالمعنى العربي: رئيس رقباء القيادة<br>
+CSM	Abbr.: CSM<br>\nMeaning: command sergeant major<br>\nالمعنى العربي: رئيس رقباء القيادة<br>
+CSS	Abbr.: CSS<br>\nMeaning: combat service support<br>\nالمعنى العربي: الاسناد الاداري للقتال<br>
+CW	Abbr.: CW<br>\nMeaning: chemical weapons<br>\nالمعنى العربي: الاسلحة الكيميائية<br>
+CWC	Abbr.: CWC<br>\nMeaning: chemical weapons convention<br>\nالمعنى العربي: اتفاقية الأسلحة الكيميائية<br>
+CWS	Abbr.: CWS<br>\nMeaning: Commander's Weapon Station<br>\nالمعنى العربي: <br>
+CZ	Abbr.: CZ<br>\nMeaning: combat zone<br>\nالمعنى العربي: منطقة قتال<br>
+Chief of Staff	Abbr.: Chief of Staff<br>\nMeaning: <br>\nالمعنى العربي: رئيس هيئة الأركان العامة<br>
+Co	Abbr.: Co<br>\nMeaning: Company<br>\nالمعنى العربي: سرية<br>
+CofS	Abbr.: CofS<br>\nMeaning: chief of staff<br>\nالمعنى العربي: رئيس الأركان<br>
+Command and Control	Abbr.: Command and Control<br>\nMeaning: <br>\nالمعنى العربي: القيادة والسيطرة<br>
+Company Commander	Abbr.: Company Commander<br>\nMeaning: <br>\nالمعنى العربي: قائد سرية<br>
+Concept of the Operation	Abbr.: Concept of the Operation<br>\nMeaning: <br>\nالمعنى العربي: فكرة العملية<br>
+Control Measures	Abbr.: Control Measures<br>\nMeaning: <br>\nالمعنى العربي: مفاييس (إجراءات) السيطرة<br>
+Coordinating Instructions	Abbr.: Coordinating Instructions<br>\nMeaning: <br>\nالمعنى العربي: تعليمات التنسيق<br>
+Corps	Abbr.: Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح - فيلق<br>
+Corps Commnder	Abbr.: Corps Commnder<br>\nMeaning: <br>\nالمعنى العربي: قائد فيلق<br>
+Crusader	Abbr.: Crusader<br>\nMeaning: A new self-propelled howitzer and resupply vehicle<br>\nالمعنى العربي: <br>
+DA	Abbr.: DA<br>\nMeaning: department of the army<br>\nالمعنى العربي: ادارة الجيش<br>
+DACG	Abbr.: DACG<br>\nMeaning: depart.  airfield control group<br>\nالمعنى العربي: مجموعة سيطرة  مطار السفر<br>
+DAHA	Abbr.: DAHA<br>\nMeaning: Dual Axis Head Assembly<br>\nالمعنى العربي: <br>
+DAO	Abbr.: DAO<br>\nMeaning: defence attache office<br>\nالمعنى العربي: مكتب الملحق العسكري<br>
+DAP	Abbr.: DAP<br>\nMeaning: decontamination apparatus<br>\nالمعنى العربي: جهاز ازالة التلوث<br>
+DART	Abbr.: DART<br>\nMeaning: Down Aircraft Recovery Team<br>\nالمعنى العربي: فريق إنتشال الطائرة المسقطة<br>
+DCGE/MGS	Abbr.: DCGE/MGS<br>\nMeaning: Digital Command Guidance Electronics/Missile Guidance Set<br>\nالمعنى العربي: <br>
+DCR	Abbr.: DCR<br>\nMeaning: DSESTS Common Resources<br>\nالمعنى العربي: <br>
+DEA	Abbr.: DEA<br>\nMeaning: drug enforcing agency<br>\nالمعنى العربي: وكالة تطبيق قانون المخدرات<br>
+DECA	Abbr.: DECA<br>\nMeaning: Digital Electronic Control Assembly<br>\nالمعنى العربي: <br>
+DECU	Abbr.: DECU<br>\nMeaning: <br>\nالمعنى العربي: الوحدة الإلكترونية للتحكم في المحرك<br>
+DECU	Abbr.: DECU<br>\nMeaning: Digital Electronic Control Unit<br>\nالمعنى العربي: <br>
+DETCO	Abbr.: DETCO<br>\nMeaning: Detachment Commander<br>\nالمعنى العربي: قائد المفرزة<br>
+DF	Abbr.: DF<br>\nMeaning: direction finding<br>\nالمعنى العربي: تحديد الاتجاه<br>
+DFCP	Abbr.: DFCP<br>\nMeaning: DISCOM forward command post<br>\nالمعنى العربي: مركز قياامامي لقيادة سند فيلق<br>
+DFSCOORD	Abbr.: DFSCOORD<br>\nMeaning: deputy fire support coordinator<br>\nالمعنى العربي: نائب منسق اسناد النيران<br>
+DID	Abbr.: DID<br>\nMeaning: Driver's Integrated Display<br>\nالمعنى العربي: <br>
+DIP	Abbr.: DIP<br>\nMeaning: Driver's Instrument Panel<br>\nالمعنى العربي: <br>
+DISCOM	Abbr.: DISCOM<br>\nMeaning: division support command<br>\nالمعنى العربي: قيادة اسناد الفرقة<br>
+DIVARTY	Abbr.: DIVARTY<br>\nMeaning: division artillery<br>\nالمعنى العربي: مدفعية الفرقة<br>
+DIVISION	Abbr.: DIVISION<br>\nMeaning: <br>\nالمعنى العربي: فرقة<br>
+DLI	Abbr.: DLI<br>\nMeaning: Defense Language Institute<br>\nالمعنى العربي: معهد لغات القوات المسلحة<br>
+DMMC	Abbr.: DMMC<br>\nMeaning: div. material manage. center<br>\nالمعنى العربي: مركز ادارة مواد الفرقة<br>
+DMMO	Abbr.: DMMO<br>\nMeaning: div. material manage. officer<br>\nالمعنى العربي: ضابط ادارة مواد الفرقة<br>
+DMOC	Abbr.: DMOC<br>\nMeaning: division medical operations center<br>\nالمعنى العربي: مركز العمليات الطبية للفرقة<br>
+DMP	Abbr.: DMP<br>\nMeaning: Driver's Master Panel<br>\nالمعنى العربي: <br>
+DMSO	Abbr.: DMSO<br>\nMeaning: division medical supply  officer<br>\nالمعنى العربي: ضابط التموين الطبي للفرقة<br>
+DOD	Abbr.: DOD<br>\nMeaning: Department of Defense<br>\nالمعنى العربي: وزارة الدفاع الأمريكية<br>
+DOD	Abbr.: DOD<br>\nMeaning: department of defense<br>\nالمعنى العربي: وزارة الدفاع<br>
+DOS	Abbr.: DOS<br>\nMeaning: days of supply<br>\nالمعنى العربي: ايام التموين<br>
+DP	Abbr.: DP<br>\nMeaning: decision point<br>\nالمعنى العربي: نقطة اتخاذ القرار<br>
+DPICM	Abbr.: DPICM<br>\nMeaning: Dual-Purpose Improved Conventional Munition<br>\nالمعنى العربي: ذخيرة تقليدية محسنة ثنائية الغرض <br>
+DPICM	Abbr.: DPICM<br>\nMeaning: dual purpose impr. Conven. Muniti<br>\nالمعنى العربي: ذخيرة تقليدية محسنة ثنائية الأغراض<br>
+DRA	Abbr.: DRA<br>\nMeaning: division rear area<br>\nالمعنى العربي: المنطقة الخلفية للفرقة<br>
+DRB	Abbr.: DRB<br>\nMeaning: division ready brigade<br>\nالمعنى العربي: اللواء الجاهز للفرقة<br>
+DRF	Abbr.: DRF<br>\nMeaning: division ready force<br>\nالمعنى العربي: القوة الجاهزة للفرقة<br>
+DS	Abbr.: DS<br>\nMeaning: direct support<br>\nالمعنى العربي: اسناد مباشر<br>
+DSA	Abbr.: DSA<br>\nMeaning: division support area<br>\nالمعنى العربي: منطقة اسناد الفرقة<br>
+DSESTS	Abbr.: DSESTS<br>\nMeaning: Direct Support Electronic Systems Test Set<br>\nالمعنى العربي: <br>
+DST	Abbr.: DST<br>\nMeaning: division transportation template<br>\nالمعنى العربي: نموذج نقل الفرقة<br>
+DSTA	Abbr.: DSTA<br>\nMeaning: DSESTS SRU Test Assembly<br>\nالمعنى العربي: <br>
+DSTAI	Abbr.: DSTAI<br>\nMeaning: DSTA Interface<br>\nالمعنى العربي: <br>
+DSU	Abbr.: DSU<br>\nMeaning: Direct Support Unit<br>\nالمعنى العربي: سرية الصيانة (على مستوى اللواء)<br>
+DTG	Abbr.: DTG<br>\nMeaning: date-time group<br>\nالمعنى العربي: مجموعة الوقت والتاريخ<br>
+DTO	Abbr.: DTO<br>\nMeaning: division transportation officer<br>\nالمعنى العربي: ضابط نقل لفرقة<br>
+DZ	Abbr.: DZ<br>\nMeaning: drop zone<br>\nالمعنى العربي: منطقة الاسقاط<br>
+Deliberate Attack	Abbr.: Deliberate Attack<br>\nMeaning: <br>\nالمعنى العربي: الهجوم المدبر<br>
+Diffuse Housing	Abbr.: Diffuse Housing<br>\nMeaning: <br>\nالمعنى العربي: جرم ناشرة الهواء<br>
+Division Commander	Abbr.: Division Commander<br>\nMeaning: <br>\nالمعنى العربي: قائد فرقة<br>
+Doctrine	Abbr.: Doctrine<br>\nMeaning: <br>\nالمعنى العربي: العقيدة العسكرية<br>
+EA	Abbr.: EA<br>\nMeaning: Engagement Area<br>\nالمعنى العربي: منطقة إشتباك<br>
+EA	Abbr.: EA<br>\nMeaning: engagement area<br>\nالمعنى العربي: منطقة الاشتباك<br>
+EAC	Abbr.: EAC<br>\nMeaning: echelons above corps<br>\nالمعنى العربي: الأنساق اعلى من الفيلق<br>
+EAD	Abbr.: EAD<br>\nMeaning: echelons above division<br>\nالمعنى العربي: الأنساق اعلى من الفرقة<br>
+EAPU	Abbr.: EAPU<br>\nMeaning: Engine Auxillary Power Unit<br>\nالمعنى العربي: <br>
+ECA	Abbr.: ECA<br>\nMeaning: Electronic Control Assembly<br>\nالمعنى العربي: <br>
+ECCM	Abbr.: ECCM<br>\nMeaning: electro. counter counter measures<br>\nالمعنى العربي: اجراءات مضادة لإجرات الكترونية مضادة<br>
+ECM	Abbr.: ECM<br>\nMeaning: electro. counter  measures<br>\nالمعنى العربي: اجراءات الكترونية مضادة<br>
+ECU	Abbr.: ECU<br>\nMeaning: Electronics Control Unit<br>\nالمعنى العربي: <br>
+ED	Abbr.: ED<br>\nMeaning: Embedded Diagnostics<br>\nالمعنى العربي: <br>
+EEFI	Abbr.: EEFI<br>\nMeaning: essential elements of friendly info<br>\nالمعنى العربي: عناصر المعلومات الأساسية للقوات الصديقة<br>
+EEI	Abbr.: EEI<br>\nMeaning: essential elements of information<br>\nالمعنى العربي: العناصر الأساسية للمعلومات<br>
+EEP	Abbr.: EEP<br>\nMeaning: embassy evacuation plan<br>\nالمعنى العربي: خطة اخلاء السفارة<br>
+EL	Abbr.: EL<br>\nMeaning: Electro-Luminescent<br>\nالمعنى العربي: <br>
+ELINT	Abbr.: ELINT<br>\nMeaning: electronic intelligence<br>\nالمعنى العربي: استخبارات الكترونية<br>
+ELRF	Abbr.: ELRF<br>\nMeaning: Eyesafe Laser Rangefinder<br>\nالمعنى العربي: <br>
+EMA	Abbr.: EMA<br>\nMeaning: ECA Motor Assembly<br>\nالمعنى العربي: <br>
+EOC	Abbr.: EOC<br>\nMeaning: emergency operations center<br>\nالمعنى العربي: مركز عمليات الطوارئ<br>
+EOD	Abbr.: EOD<br>\nMeaning: explosive ordnance disposal<br>\nالمعنى العربي: التخلص من العبوات المتفجرة<br>
+EPB	Abbr.: EPB<br>\nMeaning: electro. Prepar. of the battelfield<br>\nالمعنى العربي: الاعداد الالكتروني لميدان المعركة<br>
+EPW	Abbr.: EPW<br>\nMeaning: enemy prisoner of war<br>\nالمعنى العربي: اسير حرب من العدو<br>
+ESF	Abbr.: ESF<br>\nMeaning: emergency support function<br>\nالمعنى العربي: وظيفة اسناد الطوارئ<br>
+ESM	Abbr.: ESM<br>\nMeaning: electronic support measures<br>\nالمعنى العربي: اجراءات اسناد الكتروني<br>
+EU	Abbr.: EU<br>\nMeaning: Electronics Unit<br>\nالمعنى العربي: <br>
+EW	Abbr.: EW<br>\nMeaning: electronic warfare<br>\nالمعنى العربي: حرب الكترونية<br>
+EWL	Abbr.: EWL<br>\nMeaning: engineer work line<br>\nالمعنى العربي: خط عمل المهندسين<br>
+EWO	Abbr.: EWO<br>\nMeaning: electronic warfare officer<br>\nالمعنى العربي: ضابط حرب الكترونية<br>
+EWSM	Abbr.: EWSM<br>\nMeaning: electronic warfare suport measures<br>\nالمعنى العربي: اجراءات اسناد الحرب الالكترونية<br>
+EZ	Abbr.: EZ<br>\nMeaning: extraction zone<br>\nالمعنى العربي: منطقة الالتقاط<br>
+Engage / Engagement	Abbr.: Engage / Engagement<br>\nMeaning: <br>\nالمعنى العربي: يشتبك / إشتباك<br>
+Engineers Corps	Abbr.: Engineers Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح المهندسين<br>
+F	Abbr.: F<br>\nMeaning: fahrenheit<br>\nالمعنى العربي: درجة فهرنهيت<br>
+FA	Abbr.: FA<br>\nMeaning: field artillery<br>\nالمعنى العربي: مدفعية ميدان<br>
+FAA	Abbr.: FAA<br>\nMeaning: forward assembly area<br>\nالمعنى العربي: منطقة تجمع امامية<br>
+FAAD	Abbr.: FAAD<br>\nMeaning: forward  area air defence<br>\nالمعنى العربي: دفاع جوي المنطقة الأمامية<br>
+FAIO	Abbr.: FAIO<br>\nMeaning: field artillery intelligence officer<br>\nالمعنى العربي: ضابط استخبارات مدفعية ميدان<br>
+FARP	Abbr.: FARP<br>\nMeaning: forward arming &amp; refuelling point<br>\nالمعنى العربي: منطقة تموين امامية ذخيرة وقود<br>
+FASCAM	Abbr.: FASCAM<br>\nMeaning: Field Artillery Scatterable Mines<br>\nالمعنى العربي: الألغام المنثورة بالمدفعية<br>
+FASCAM	Abbr.: FASCAM<br>\nMeaning: family of scatterable mines<br>\nالمعنى العربي: عائلة الغام تنثر بالمدفعية<br>
+FCB	Abbr.: FCB<br>\nMeaning: Fan Control Box<br>\nالمعنى العربي: <br>
+FCC	Abbr.: FCC<br>\nMeaning: flight coordination center<br>\nالمعنى العربي: مركز تنسيق الرحلات الجوية<br>
+FCEU	Abbr.: FCEU<br>\nMeaning: Fire Control Electronics Unit<br>\nالمعنى العربي: <br>
+FCO	Abbr.: FCO<br>\nMeaning: federal control officer<br>\nالمعنى العربي: ضابط سيطرة فيديرالي<br>
+FDB	Abbr.: FDB<br>\nMeaning: FIST Distribution Box<br>\nالمعنى العربي: <br>
+FDC	Abbr.: FDC<br>\nMeaning: fire direction center<br>\nالمعنى العربي: مركز توجيه النيران<br>
+FEBA	Abbr.: FEBA<br>\nMeaning: Forward Ege of Battle Area<br>\nالمعنى العربي: الحافة الأمامية لمنطقة المعركة<br>
+FEBA	Abbr.: FEBA<br>\nMeaning: forward edge of battle area<br>\nالمعنى العربي: الحافة الأمامية لمنطقة المعركة<br>
+FEMA	Abbr.: FEMA<br>\nMeaning: federal emergency managem. agency<br>\nالمعنى العربي: الوكالةالفيدرالية لادارة الطوارئ<br>
+FFA	Abbr.: FFA<br>\nMeaning: free fire area<br>\nالمعنى العربي: منطقة رماية حرة<br>
+FFIR	Abbr.: FFIR<br>\nMeaning: friendly foces informa. requirements<br>\nالمعنى العربي: مطالب معلومات القوات الصديقة<br>
+FIST	Abbr.: FIST<br>\nMeaning: Fire Support Team<br>\nالمعنى العربي: <br>
+FIST	Abbr.: FIST<br>\nMeaning: fire support team<br>\nالمعنى العربي: فريق اسمناد نيران<br>
+FLIR	Abbr.: FLIR<br>\nMeaning: Forward Looking Infrared Radar<br>\nالمعنى العربي: <br>
+FLIR	Abbr.: FLIR<br>\nMeaning: forward looking infrared<br>\nالمعنى العربي: رؤية امامية بالأشعة تحت الحمراء<br>
+FLOT	Abbr.: FLOT<br>\nMeaning: Forward Line of own Troops<br>\nالمعنى العربي: حد التقدم الأمامي لقواتنا<br>
+FLOT	Abbr.: FLOT<br>\nMeaning: forward line of own troops<br>\nالمعنى العربي: الخط الأمامي للقوات الصديقة<br>
+FM	Abbr.: FM<br>\nMeaning: Field Manual<br>\nالمعنى العربي: كراس ميدان<br>
+FM	Abbr.: FM<br>\nMeaning: field manual, frequency modulated<br>\nالمعنى العربي: كراس ميدان، تعديل تردد<br>
+FMI	Abbr.: FMI<br>\nMeaning: Field Manual Interim<br>\nالمعنى العربي: كراس ميدان مؤقت<br>
+FMS	Abbr.: FMS<br>\nMeaning: Foreign Military Sales<br>\nالمعنى العربي: مبيعات الأسلحة الخارجية<br>
+FOB	Abbr.: FOB<br>\nMeaning: Forward Operating Base<br>\nالمعنى العربي: قاعدة عمليات متقدمة<br>
+FORCECOM	Abbr.: FORCECOM<br>\nMeaning: US Army forces Command<br>\nالمعنى العربي: قيادة قوات الجيش الأمريكي<br>
+FRAGO	Abbr.: FRAGO<br>\nMeaning: Fragmentary Order<br>\nالمعنى العربي: أمر مجزأ<br>
+FRAGO	Abbr.: FRAGO<br>\nMeaning: fragmentary order<br>\nالمعنى العربي: امر مجزأ<br>
+FS	Abbr.: FS<br>\nMeaning: fire support<br>\nالمعنى العربي: اسناد نيران <br>
+FSB	Abbr.: FSB<br>\nMeaning: forward support batallion<br>\nالمعنى العربي: كتيبة اسناد امامي<br>
+FSCL	Abbr.: FSCL<br>\nMeaning: fire support coordination line<br>\nالمعنى العربي: خط تنسيق اسناد النيران<br>
+FSCOORD	Abbr.: FSCOORD<br>\nMeaning: fire support coordinator<br>\nالمعنى العربي: منسق اسناد النيران<br>
+FSE	Abbr.: FSE<br>\nMeaning: Fire Support Element<br>\nالمعنى العربي: عنصر إسناد النيران<br>
+FSE	Abbr.: FSE<br>\nMeaning: fire support element<br>\nالمعنى العربي: عنصر اسناناد النير<br>
+FSMC	Abbr.: FSMC<br>\nMeaning: forward support medical company<br>\nالمعنى العربي: سرية اسناد طبي امامي<br>
+FSO	Abbr.: FSO<br>\nMeaning: Fire Support Officer<br>\nالمعنى العربي: ضابط إسناد النيران<br>
+FSO	Abbr.: FSO<br>\nMeaning: fire support officer<br>\nالمعنى العربي: ضابط اسناد نيران<br>
+FSOP	Abbr.: FSOP<br>\nMeaning: field standing operating procedure<br>\nالمعنى العربي: الأوامر المستديمة للميدان<br>
+FSR	Abbr.: FSR<br>\nMeaning: Field Services Representative<br>\nالمعنى العربي: مندوب الخدمات الميدانية<br>
+FST	Abbr.: FST<br>\nMeaning: Functional Self Test<br>\nالمعنى العربي: <br>
+FTX	Abbr.: FTX<br>\nMeaning: <br>\nالمعنى العربي: <br>
+FTX	Abbr.: FTX<br>\nMeaning: field training exercise<br>\nالمعنى العربي: تمرين تدريب ميداني<br>
+FVS	Abbr.: FVS<br>\nMeaning: Fighting Vehicle System<br>\nالمعنى العربي: <br>
+Facility / Facilities	Abbr.: Facility / Facilities<br>\nMeaning: <br>\nالمعنى العربي: منشأة / منشآت<br>
+Fire Support	Abbr.: Fire Support<br>\nMeaning: <br>\nالمعنى العربي: إسناد النيران<br>
+G	Abbr.: G<br>\nMeaning: green<br>\nالمعنى العربي: اخضر<br>
+G1	Abbr.: G1<br>\nMeaning: <br>\nالمعنى العربي: ركن الإدارة (في لواء فأعلى)<br>
+G1	Abbr.: G1<br>\nMeaning: assistant chief of staff G1 personel<br>\nالمعنى العربي: مساعد رئيس الأركان للأفراد<br>
+G2	Abbr.: G2<br>\nMeaning: <br>\nالمعنى العربي: ركن الاستخبارات (في لواء فأعلى)<br>
+G2	Abbr.: G2<br>\nMeaning: assistant chief of staff G2 intelligence<br>\nالمعنى العربي: مساعد رئيس الأركان للاستخبارات<br>
+G3	Abbr.: G3<br>\nMeaning: <br>\nالمعنى العربي: ركن العمليات (في لواء فأعلى)<br>
+G3	Abbr.: G3<br>\nMeaning: assistant chief of staff operati/ plans<br>\nالمعنى العربي: مساعد رئيس الأركان للعمليات/الخطط<br>
+G4	Abbr.: G4<br>\nMeaning: <br>\nالمعنى العربي: ركن التموين (في لواء فأعلى)<br>
+G4	Abbr.: G4<br>\nMeaning: assistant chief of staff G4 logistics<br>\nالمعنى العربي: مساعد رئيس الأركان للتموين<br>
+G5	Abbr.: G5<br>\nMeaning: assistant chief of staff G5 civil affairs<br>\nالمعنى العربي: مساعد رئيس الأركان للشئون المدنية<br>
+GCCA	Abbr.: GCCA<br>\nMeaning: Generic Circuit Card Assembly<br>\nالمعنى العربي: <br>
+GCDP	Abbr.: GCDP<br>\nMeaning: Gunner's Control and Display Panel<br>\nالمعنى العربي: <br>
+GCHA	Abbr.: GCHA<br>\nMeaning: Gunner's Control Handle Assembly<br>\nالمعنى العربي: <br>
+GCU	Abbr.: GCU<br>\nMeaning: Gun Control Unit<br>\nالمعنى العربي: <br>
+GD Arabia	Abbr.: GD Arabia<br>\nMeaning: <br>\nالمعنى العربي: شركة جي دي العربية<br>
+GDLS	Abbr.: GDLS<br>\nMeaning: General Dynamics Land Systems<br>\nالمعنى العربي: شركة جنرال دبنامكس للأنظمة البرية<br>
+GFM	Abbr.: GFM<br>\nMeaning: GPS Functions Module<br>\nالمعنى العربي: <br>
+GFM/E	Abbr.: GFM/E<br>\nMeaning: GFM/Enhanced<br>\nالمعنى العربي: <br>
+GHS	Abbr.: GHS<br>\nMeaning: Gunner's Hand Station<br>\nالمعنى العربي: <br>
+GPEOH	Abbr.: GPEOH<br>\nMeaning: General Purpose Electro Optic Head<br>\nالمعنى العربي: <br>
+GPIA	Abbr.: GPIA<br>\nMeaning: General Purpose Interface Assembly<br>\nالمعنى العربي: <br>
+GPS	Abbr.: GPS<br>\nMeaning: Gunner's Primary Sight<br>\nالمعنى العربي: <br>
+GPS	Abbr.: GPS<br>\nMeaning: global positioning systems<br>\nالمعنى العربي: اجهزة تحديد الموقع العالمي<br>
+GRREG	Abbr.: GRREG<br>\nMeaning: graves registration<br>\nالمعنى العربي: تسجيل القبور<br>
+GS	Abbr.: GS<br>\nMeaning: general support<br>\nالمعنى العربي: اسناد عام<br>
+GSCP	Abbr.: GSCP<br>\nMeaning: Gunner's Sight Control Panel<br>\nالمعنى العربي: <br>
+GSE	Abbr.: GSE<br>\nMeaning: general support element<br>\nالمعنى العربي: عنصر اسناد عام<br>
+GSO	Abbr.: GSO<br>\nMeaning: General Supply Office<br>\nالمعنى العربي: مكتب التموين العام<br>
+GSR	Abbr.: GSR<br>\nMeaning: gen sup rein ground  surveil. radar<br>\nالمعنى العربي: رادار مراقبة ارضية اسناد عام<br>
+GTC	Abbr.: GTC<br>\nMeaning: ground tactical commander<br>\nالمعنى العربي: القائد التكتيكي الأرضي<br>
+GTD	Abbr.: GTD<br>\nMeaning: Gun/Turret Drive<br>\nالمعنى العربي: <br>
+GUI	Abbr.: GUI<br>\nMeaning: Graphics User Interface<br>\nالمعنى العربي: <br>
+Graphics	Abbr.: Graphics<br>\nMeaning: <br>\nالمعنى العربي: رسوم بيانية<br>
+Guardrail	Abbr.: Guardrail<br>\nMeaning: speci electro mission plane<br>\nالمعنى العربي: طائرة مهمة الكترونية خاصة<br>
+Guidance	Abbr.: Guidance<br>\nMeaning: <br>\nالمعنى العربي: إرشاد<br>
+HAHO	Abbr.: HAHO<br>\nMeaning: high altitude high opening<br>\nالمعنى العربي: فتحة عالية على ارتفاع عالي<br>
+HALO	Abbr.: HALO<br>\nMeaning: high altitude low opening<br>\nالمعنى العربي: فتحة منخفضة على ارتفاع عالي<br>
+HD	Abbr.: HD<br>\nMeaning: heavy drop<br>\nالمعنى العربي: اسقاط ثقيل<br>
+HDB	Abbr.: HDB<br>\nMeaning: Hull Distribution Box<br>\nالمعنى العربي: <br>
+HE	Abbr.: HE<br>\nMeaning: high explosive<br>\nالمعنى العربي: شديد الانفجار<br>
+HEAT	Abbr.: HEAT<br>\nMeaning: High-Explosive Anti-Tank <br>\nالمعنى العربي: ذخيرة شديدة الإنفجار مضادة للدبابات<br>
+HEMTT	Abbr.: HEMTT<br>\nMeaning: heavy expan mobi tact truck<br>\nالمعنى العربي: شاحنة تكتيكية ثقيلة بخفة حركة واسعة<br>
+HEP-T	Abbr.: HEP-T<br>\nMeaning: high explosive plastic tracer<br>\nالمعنى العربي: متفجر بلاستيك خطاطي<br>
+HEPI	Abbr.: HEPI<br>\nMeaning: heavy equipt point of impact<br>\nالمعنى العربي: نقطة تاثير المعدة الثقيلة<br>
+HET	Abbr.: HET<br>\nMeaning: heavy equipment transport<br>\nالمعنى العربي: معدات نقل ثقيل<br>
+HEU	Abbr.: HEU<br>\nMeaning: Hull Electronics Unit<br>\nالمعنى العربي: <br>
+HF	Abbr.: HF<br>\nMeaning: high frequency<br>\nالمعنى العربي: تردد عالي<br>
+HHB	Abbr.: HHB<br>\nMeaning: headquarter &amp; hq battery<br>\nالمعنى العربي: القيادة وبطارية القيادة<br>
+HHC	Abbr.: HHC<br>\nMeaning: Headquarters, Headquarters Company<br>\nالمعنى العربي: قيادة سرية القيادة<br>
+HHC	Abbr.: HHC<br>\nMeaning: headquarter &amp; hq company<br>\nالمعنى العربي: القيادة وسرية القيادة<br>
+HHT	Abbr.: HHT<br>\nMeaning: headquarter &amp;hq troop<br>\nالمعنى العربي: القيادة وقوات القيادة<br>
+HIDACZ	Abbr.: HIDACZ<br>\nMeaning: high density airspace cont zone<br>\nالمعنى العربي: منطقة سيطرة على مجال جوي كثيف <br>
+HIMAD	Abbr.: HIMAD<br>\nMeaning: high/medium altit. Air defense<br>\nالمعنى العربي: دفاع جوي ارتفاع عالي/ موسط<br>
+HLZ	Abbr.: HLZ<br>\nMeaning: helicopter landing zone<br>\nالمعنى العربي: منطقة هبوط مروحيات<br>
+HMMWV	Abbr.: HMMWV<br>\nMeaning: high mobili. multi purp. vehicle<br>\nالمعنى العربي: مركبة متعددة الأغراض خفة حركة عالية<br>
+HMPU	Abbr.: HMPU<br>\nMeaning: Hull Mission Processor Unit<br>\nالمعنى العربي: <br>
+HN	Abbr.: HN<br>\nMeaning: host nation<br>\nالمعنى العربي: الدولة المضيفة<br>
+HNB	Abbr.: HNB<br>\nMeaning: Hull Networks Box<br>\nالمعنى العربي: <br>
+HPB	Abbr.: HPB<br>\nMeaning: Hull Power Box<br>\nالمعنى العربي: <br>
+HPDU	Abbr.: HPDU<br>\nMeaning: Hull Power Distribution Unit<br>\nالمعنى العربي: <br>
+HPT	Abbr.: HPT<br>\nMeaning: high payoff target<br>\nالمعنى العربي: هدف ذو مردود عالي<br>
+HPTL	Abbr.: HPTL<br>\nMeaning: high payoff target list<br>\nالمعنى العربي: قائمة اهداف ذات مردود عالي<br>
+HPU	Abbr.: HPU<br>\nMeaning: Hull Power Unit<br>\nالمعنى العربي: <br>
+HQ	Abbr.: HQ<br>\nMeaning: Headquarters<br>\nالمعنى العربي: مقر القيادة<br>
+HQ	Abbr.: HQ<br>\nMeaning: headquarters<br>\nالمعنى العربي: القيادة<br>
+HRPT	Abbr.: HRPT<br>\nMeaning: highway regulating point team<br>\nالمعنى العربي: فريق نقطة تنظيم الطريق السريع<br>
+HRSM	Abbr.: HRSM<br>\nMeaning: Hull Remote Switching Module<br>\nالمعنى العربي: <br>
+HSS	Abbr.: HSS<br>\nMeaning: health service support<br>\nالمعنى العربي: اسناد الخدمة الصحية<br>
+HUMINT	Abbr.: HUMINT<br>\nMeaning: human intelligence<br>\nالمعنى العربي: استخبارات الأفراد<br>
+HVT	Abbr.: HVT<br>\nMeaning: high value target<br>\nالمعنى العربي: هدف ذو قيمة عالية<br>
+I Corps	Abbr.: I Corps<br>\nMeaning: First Corps<br>\nالمعنى العربي: الفيلق الأول<br>
+I&S	Abbr.: I&amp;S<br>\nMeaning: interrogation &amp; surveillance<br>\nالمعنى العربي: الاستجواب والمراقبة<br>
+IA	Abbr.: IA<br>\nMeaning: Interface Adapter<br>\nالمعنى العربي: <br>
+IADS	Abbr.: IADS<br>\nMeaning: Interactive Authoring and Display System<br>\nالمعنى العربي: <br>
+ICE	Abbr.: ICE<br>\nMeaning: Internal Combustion Engine<br>\nالمعنى العربي: <br>
+ICM	Abbr.: ICM<br>\nMeaning: improved conventional munitions<br>\nالمعنى العربي: ذخائر تقليدية محسنة<br>
+ICU	Abbr.: ICU<br>\nMeaning: Image Control Unit<br>\nالمعنى العربي: <br>
+ID	Abbr.: ID<br>\nMeaning: identification<br>\nالمعنى العربي: تعريف<br>
+ID (L)	Abbr.: ID (L)<br>\nMeaning: light infantry division<br>\nالمعنى العربي: فرقة مشاة خفيفة<br>
+IDAD	Abbr.: IDAD<br>\nMeaning: internal defense &amp; development<br>\nالمعنى العربي: الدفاع الداخلي والتطوير<br>
+IETM	Abbr.: IETM<br>\nMeaning: Interactive Electronic Technical Manual<br>\nالمعنى العربي: <br>
+IEW	Abbr.: IEW<br>\nMeaning: intelligence &amp; electronic warfare<br>\nالمعنى العربي: الاستخبارات والحرب الالكترونية<br>
+IEWSE	Abbr.: IEWSE<br>\nMeaning: intel.&amp; electro. Warf. Supp. element<br>\nالمعنى العربي: عنصر سنداستخبارات وحرب الكترونية<br>
+IFF	Abbr.: IFF<br>\nMeaning: identification friend or foe<br>\nالمعنى العربي: التعرف على الصديق من العدو<br>
+IFV	Abbr.: IFV<br>\nMeaning: infantry fighting vehicle<br>\nالمعنى العربي: مركبة قتال مشاة<br>
+IG	Abbr.: IG<br>\nMeaning: inspector general<br>\nالمعنى العربي: المفتش العام<br>
+IGV	Abbr.: IGV<br>\nMeaning: Inlet Guide Vane<br>\nالمعنى العربي: ريش توجيه هواء الدخول<br>
+ILECU	Abbr.: ILECU<br>\nMeaning: Improved Launcher Electronics Control Unit <br>\nالمعنى العربي: <br>
+IMINT	Abbr.: IMINT<br>\nMeaning: imagery intelligence<br>\nالمعنى العربي: استخبارات الصور<br>
+INU	Abbr.: INU<br>\nMeaning: Inertial Navigation Unit<br>\nالمعنى العربي: <br>
+IP	Abbr.: IP<br>\nMeaning: initial point<br>\nالمعنى العربي: نقطة الأساس<br>
+IPAO	Abbr.: IPAO<br>\nMeaning: intel. Prepar. of area of operations<br>\nالمعنى العربي: الاعداد الاستخباري لمنطقة العمليات<br>
+IPB	Abbr.: IPB<br>\nMeaning: intel. Preparation of the battlefield<br>\nالمعنى العربي: الاعداد الاستخباري لميدان المعركة<br>
+IPW	Abbr.: IPW<br>\nMeaning: prisonner of war interrogation<br>\nالمعنى العربي: استجواب اسير الحرب<br>
+IR	Abbr.: IR<br>\nMeaning: information requirements<br>\nالمعنى العربي: مطالب المعلومات<br>
+ISB	Abbr.: ISB<br>\nMeaning: intermediate staging base<br>\nالمعنى العربي: قاعدة تخزين متوسطة<br>
+ISU	Abbr.: ISU<br>\nMeaning: Integrated Sight Unit<br>\nالمعنى العربي: <br>
+ITV	Abbr.: ITV<br>\nMeaning: improved TOW vehicle<br>\nالمعنى العربي: مركبة صواريخ تو محسنة<br>
+IUC	Abbr.: IUC<br>\nMeaning: ISU Unity Cover<br>\nالمعنى العربي: <br>
+Infantry Corps	Abbr.: Infantry Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح المشاة<br>
+JAAP	Abbr.: JAAP<br>\nMeaning: joint aiborne advance party<br>\nالمعنى العربي: فريق مقدمة مشترك محمول جوا<br>
+JAAT	Abbr.: JAAT<br>\nMeaning: joint airborne attack team<br>\nالمعنى العربي: فريق هجوم مشترك محمول جوا<br>
+JAG	Abbr.: JAG<br>\nMeaning: judge advocate general<br>\nالمعنى العربي: مسئول الشئون القانونية<br>
+JCS	Abbr.: JCS<br>\nMeaning: joint chief of staff<br>\nالمعنى العربي: رئيس الأركان<br>
+JIC	Abbr.: JIC<br>\nMeaning: joint information committee<br>\nالمعنى العربي: لجنة المعلومات المشتركة<br>
+JOPES	Abbr.: JOPES<br>\nMeaning: joint operations planning system<br>\nالمعنى العربي: نظام تخطي العمليات المشتركة<br>
+JP	Abbr.: JP<br>\nMeaning: Joint Publication<br>\nالمعنى العربي: مطبوعة (كراس) مشتركة<br>
+JSEAD	Abbr.: JSEAD<br>\nMeaning: joint suppression enemy air defense<br>\nالمعنى العربي: الاخماد المشترك لدفاع جوي العدو<br>
+JSOC	Abbr.: JSOC<br>\nMeaning: joint special operations command<br>\nالمعنى العربي: قيادة العمليات الخاصة المشتركة<br>
+JSOTF	Abbr.: JSOTF<br>\nMeaning: joint special operations task force<br>\nالمعنى العربي: قوة واجب العمليات الخاصة المشتركة<br>
+JSTARS	Abbr.: JSTARS<br>\nMeaning: Joint Surveillance Target Attack Radar System<br>\nالمعنى العربي: <br>
+JTF	Abbr.: JTF<br>\nMeaning: Joint Task Force<br>\nالمعنى العربي: قوة واجب مشتركة<br>
+JTF	Abbr.: JTF<br>\nMeaning: joint task force<br>\nالمعنى العربي: قوة الواجب المشتركة<br>
+JTF-LA	Abbr.: JTF-LA<br>\nMeaning: joint task force-Los Angeles<br>\nالمعنى العربي: قوة الواجب المشتركة - لوس انجلوس<br>
+Janus	Abbr.: Janus<br>\nMeaning: A high-fidelity, force-on-force simulation<br>\nالمعنى العربي: مشبه الجانيس<br>
+KAMC	Abbr.: KAMC<br>\nMeaning: <br>\nالمعنى العربي: تبوك (مدينة الملك عبدالعزيز العسكرية)- المنطقة الشمالية الغربية<br>
+KEK	Abbr.: KEK<br>\nMeaning: key encryption key<br>\nالمعنى العربي: مفتاح الشفرة الأساسية<br>
+KFMC	Abbr.: KFMC<br>\nMeaning: <br>\nالمعنى العربي: خميس مشيط (مدينة الملك فيصل العسكرية) - المنطقة الجنوبية<br>
+KIA	Abbr.: KIA<br>\nMeaning: killed in action<br>\nالمعنى العربي: قٌتل في الحرب<br>
+KKMC	Abbr.: KKMC<br>\nMeaning: King Khaled Military City<br>\nالمعنى العربي: حفر الباطن (مدينة الملك خالد العسكرية) - المنطقة الشمالية<br>
+KZ	Abbr.: KZ<br>\nMeaning: Kill Zone<br>\nالمعنى العربي: منطقة قتل<br>
+LAPES	Abbr.: LAPES<br>\nMeaning: low altitude extraction system<br>\nالمعنى العربي: نظام التقاط من ارتفاع منخفض<br>
+LAV	Abbr.: LAV<br>\nMeaning: Light Armored Vehicle<br>\nالمعنى العربي: آاية مدرعة خفيفة<br>
+LAW	Abbr.: LAW<br>\nMeaning: light antitank weapon<br>\nالمعنى العربي: سلاح خفيف مضاد للدبابات<br>
+LC	Abbr.: LC<br>\nMeaning: line of contact<br>\nالمعنى العربي: خط الاتصال (التماس)<br>
+LCE	Abbr.: LCE<br>\nMeaning: load carrying equipment<br>\nالمعنى العربي: معدات تحميل الشحنات<br>
+LCM	Abbr.: LCM<br>\nMeaning: landing craft, mechanized<br>\nالمعنى العربي: معدة انزال آلية<br>
+LCU	Abbr.: LCU<br>\nMeaning: landing craft, utility<br>\nالمعنى العربي: معدة انزال خدمة عامة<br>
+LD	Abbr.: LD<br>\nMeaning: Line of Departure<br>\nالمعنى العربي: خط البدء<br>
+LD	Abbr.: LD<br>\nMeaning: line of departure<br>\nالمعنى العربي: خط الابتداء<br>
+LEA	Abbr.: LEA<br>\nMeaning: law enforcement agency<br>\nالمعنى العربي: وكالة تطبيق القانون<br>
+LHR	Abbr.: LHR<br>\nMeaning: Launcher<br>\nالمعنى العربي: <br>
+LMC	Abbr.: LMC<br>\nMeaning: Lockheed Martin Company<br>\nالمعنى العربي: شركة لوكهيد مارتن<br>
+LO	Abbr.: LO<br>\nMeaning: Liasion Officer<br>\nالمعنى العربي: ضابط إتصال (إرتباط)<br>
+LO	Abbr.: LO<br>\nMeaning: liaison officer<br>\nالمعنى العربي: ضابط ارتباط<br>
+LOB	Abbr.: LOB<br>\nMeaning: line of bearing<br>\nالمعنى العربي: خط الاتجاه<br>
+LOC	Abbr.: LOC<br>\nMeaning: lines of communication<br>\nالمعنى العربي: خطوط المواصلات<br>
+LOGPAC	Abbr.: LOGPAC<br>\nMeaning: logistic package<br>\nالمعنى العربي: حزمة ادارية<br>
+LOGSEC	Abbr.: LOGSEC<br>\nMeaning: logistic security<br>\nالمعنى العربي: الأمن الاداري<br>
+LOS	Abbr.: LOS<br>\nMeaning: Line Of Sight<br>\nالمعنى العربي: <br>
+LOS	Abbr.: LOS<br>\nMeaning: line of sight<br>\nالمعنى العربي: خط البصر<br>
+LOS-R	Abbr.: LOS-R<br>\nMeaning: line of sight- rear<br>\nالمعنى العربي: خط البصر للخلف<br>
+LOSAT	Abbr.: LOSAT<br>\nMeaning: Line-Of-Sight Anti-Tank missile<br>\nالمعنى العربي: <br>
+LP	Abbr.: LP<br>\nMeaning: listening post<br>\nالمعنى العربي: مركز تنصت<br>
+LPS	Abbr.: LPS<br>\nMeaning: LRU Power Supply<br>\nالمعنى العربي: <br>
+LRF	Abbr.: LRF<br>\nMeaning: Laser Rangefinder<br>\nالمعنى العربي: <br>
+LRF	Abbr.: LRF<br>\nMeaning: lazer range finder<br>\nالمعنى العربي: مقدر مسافة بالليزر<br>
+LRS	Abbr.: LRS<br>\nMeaning: long range surveillance<br>\nالمعنى العربي: مراقبة بعيدة المدى<br>
+LRSD	Abbr.: LRSD<br>\nMeaning: long range surveil. Detachm.<br>\nالمعنى العربي: مفرزة مراقبة بعيدة المدى<br>
+LRSU	Abbr.: LRSU<br>\nMeaning: long range surveillance unit<br>\nالمعنى العربي: وحدة مراقبة بعيدة المدى<br>
+LRU	Abbr.: LRU<br>\nMeaning: Line replacement Unit<br>\nالمعنى العربي: <br>
+LRU	Abbr.: LRU<br>\nMeaning: Line Replaceable Unit<br>\nالمعنى العربي: <br>
+LSA	Abbr.: LSA<br>\nMeaning: life support area<br>\nالمعنى العربي: منطقة اسناد الحياة<br>
+LSB	Abbr.: LSB<br>\nMeaning: Load Switching Box<br>\nالمعنى العربي: <br>
+LSC	Abbr.: LSC<br>\nMeaning: life support center<br>\nالمعنى العربي: مركز اسناد الحياة<br>
+LSD	Abbr.: LSD<br>\nMeaning: landing ship, docks<br>\nالمعنى العربي: سفينة انزال ارصفة<br>
+LSDIS	Abbr.: LSDIS<br>\nMeaning: light &amp;spec. div interim sensor<br>\nالمعنى العربي: حساس انتقالي فرقة خفيفة وخاصة<br>
+LST	Abbr.: LST<br>\nMeaning: landing ship, tanks<br>\nالمعنى العربي: سفينة انزال دبابات<br>
+LTACFIRE	Abbr.: LTACFIRE<br>\nMeaning: lightweight tac fire direc system<br>\nالمعنى العربي: نظام توجيه نيران تك خفيف الحركة<br>
+LTAS	Abbr.: LTAS<br>\nMeaning: Lower Target Acquisition System<br>\nالمعنى العربي: <br>
+LZ	Abbr.: LZ<br>\nMeaning: landing zone<br>\nالمعنى العربي: منطقة هبوط/ انزال<br>
+Lion range	Abbr.: Lion range<br>\nMeaning: <br>\nالمعنى العربي: ميدان الرماية أسد (خميس مشيط)<br>
+Logistics	Abbr.: Logistics<br>\nMeaning: <br>\nالمعنى العربي: الإمدادات<br>
+M/S	Abbr.: M/S<br>\nMeaning: mobility &amp; survivability<br>\nالمعنى العربي: خفة الحركة والقدرة على البقاء<br>
+M109 Howitzer	Abbr.: M109 Howitzer<br>\nMeaning: <br>\nالمعنى العربي: مدفع هاوتزر م109<br>
+M1A2S	Abbr.: M1A2S<br>\nMeaning: <br>\nالمعنى العربي: دبابة القتال إبرامز م1أ2 س (السعودية)<br>
+M1A3	Abbr.: M1A3<br>\nMeaning: Abrams main battle tank, notional future version<br>\nالمعنى العربي: <br>
+M2A3	Abbr.: M2A3<br>\nMeaning: Bradley fighting vehicle, latest infantry version<br>\nالمعنى العربي: <br>
+M2A4	Abbr.: M2A4<br>\nMeaning: Bradley fighting vehicle, notional future version<br>\nالمعنى العربي: <br>
+M3A3	Abbr.: M3A3<br>\nMeaning: Bradley fighting vehicle, latest cavalry version<br>\nالمعنى العربي: <br>
+MA	Abbr.: MA<br>\nMeaning: mortuary affairs<br>\nالمعنى العربي: شئون الموتى<br>
+MACG	Abbr.: MACG<br>\nMeaning: marshalling area control group<br>\nالمعنى العربي: مجموعة السيطرة على منطقة التنظيم<br>
+MACOM	Abbr.: MACOM<br>\nMeaning: major Army command<br>\nالمعنى العربي: قيادة جيش رئيسية<br>
+MANPAD	Abbr.: MANPAD<br>\nMeaning: man- portable air defence<br>\nالمعنى العربي: نظام دفاع جوي محمول على الكتف<br>
+MBA	Abbr.: MBA<br>\nMeaning: main battle area<br>\nالمعنى العربي: منطقة المعركة الرئيسية<br>
+MCO	Abbr.: MCO<br>\nMeaning: movement control office ®<br>\nالمعنى العربي: مكتب السيطرة على التحركات<br>
+MCOO	Abbr.: MCOO<br>\nMeaning: modifi. Combi. obstacl. overlay<br>\nالمعنى العربي: شفاف العوائق المجمع المعدل<br>
+MCS	Abbr.: MCS<br>\nMeaning: Missile Control Set<br>\nالمعنى العربي: <br>
+MCS	Abbr.: MCS<br>\nMeaning: maneuvre control system<br>\nالمعنى العربي: نظام السيطرة على المناورة<br>
+MEDEVAC	Abbr.: MEDEVAC<br>\nMeaning: medical evacuation<br>\nالمعنى العربي: اخلاء طبي<br>
+METL	Abbr.: METL<br>\nMeaning: Mission Essential Task List<br>\nالمعنى العربي: قائمة الواجبات الأساسية للمهمة<br>
+METL	Abbr.: METL<br>\nMeaning: mission essential task list<br>\nالمعنى العربي: قائمة الواجبات الأساسية للمهمة<br>
+METT-T	Abbr.: METT-T<br>\nMeaning: Mission, Enemy, Terrain, Troops &amp; Time Available<br>\nالمعنى العربي: <br>
+METT-T	Abbr.: METT-T<br>\nMeaning: mission enemy terrain troops time <br>\nالمعنى العربي: المهمة العدو الأرض القوات الوقت<br>
+METT-T-P	Abbr.: METT-T-P<br>\nMeaning: mission enemy terrain troops time pol. Fact. <br>\nالمعنى العربي: المهمة العدو الأرض القوات الوقت عوامل سياسية<br>
+METT-TC	Abbr.: METT-TC<br>\nMeaning: Mission, Enemy, Terrain and Weather, Troops and Support available, Time available, Civil considerations<br>\nالمعنى العربي: المهمة ، العدو ، الأرض والطقس ، القوات والإسناد المتوفران ، الوقت المتوفر ، الإعتبارات المدنية<br>
+MFM	Abbr.: MFM<br>\nMeaning: M1A2 Functions Module<br>\nالمعنى العربي: <br>
+MFM/E	Abbr.: MFM/E<br>\nMeaning: MFM/Enhanced<br>\nالمعنى العربي: <br>
+MG	Abbr.: MG<br>\nMeaning: Major General<br>\nالمعنى العربي: لواء (رتبة)<br>
+MG	Abbr.: MG<br>\nMeaning: Master Gunner<br>\nالمعنى العربي: رامي ماهر<br>
+MG	Abbr.: MG<br>\nMeaning: machine gun<br>\nالمعنى العربي: مدفع رشاش<br>
+MGz	Abbr.: MGz<br>\nMeaning: megahertz<br>\nالمعنى العربي: ميجا هيرتز<br>
+MHA	Abbr.: MHA<br>\nMeaning: Mounting Housing Assembly<br>\nالمعنى العربي: <br>
+MI	Abbr.: MI<br>\nMeaning: military intelligence<br>\nالمعنى العربي: استخبارات عسكرية<br>
+MIA	Abbr.: MIA<br>\nMeaning: missing in action<br>\nالمعنى العربي: مفقود في العمليات<br>
+MIJI	Abbr.: MIJI<br>\nMeaning: meaconing jamming intrusion interference<br>\nالمعنى العربي: تعتيم وشوشرة وتدخل وتداخل الحرب الالكترونية<br>
+MILES	Abbr.: MILES<br>\nMeaning: Multiple Integrated Laser Engagement System<br>\nالمعنى العربي: مشبه المايلز<br>
+MILSIM	Abbr.: MILSIM<br>\nMeaning: Military Simulation<br>\nالمعنى العربي: مشبه الملسم<br>
+MLRS	Abbr.: MLRS<br>\nMeaning: Multiple Launch Rocket System<br>\nالمعنى العربي: راجمة صواريخ<br>
+MLRS	Abbr.: MLRS<br>\nMeaning: multiple launch rocket system<br>\nالمعنى العربي: نظام اطلاق متعدد للصواريخ<br>
+MMC	Abbr.: MMC<br>\nMeaning: material management center<br>\nالمعنى العربي: مركز ادارة المواد<br>
+MMU	Abbr.: MMU<br>\nMeaning: Mass Memory Unit<br>\nالمعنى العربي: <br>
+MMU	Abbr.: MMU<br>\nMeaning: Mass Memory Unit<br>\nالمعنى العربي: <br>
+MOG	Abbr.: MOG<br>\nMeaning: minimum on ground<br>\nالمعنى العربي: اقل الموجود على الأرض<br>
+MOGAS	Abbr.: MOGAS<br>\nMeaning: motor gasoline<br>\nالمعنى العربي: بنزين محركات<br>
+MOPP	Abbr.: MOPP<br>\nMeaning: mission oriented protective posture<br>\nالمعنى العربي: حالة الوقاية المناسبة للمهمة<br>
+MORTREP	Abbr.: MORTREP<br>\nMeaning: mortar report<br>\nالمعنى العربي: تقرير هاون<br>
+MOS	Abbr.: MOS<br>\nMeaning: military occupational speciality<br>\nالمعنى العربي: تخصص وظيفي عسكري<br>
+MOUT	Abbr.: MOUT<br>\nMeaning: military operations on urbanized terrain<br>\nالمعنى العربي: عمليات عسكرية في مناطق مبنية<br>
+MP	Abbr.: MP<br>\nMeaning: military police<br>\nالمعنى العربي: الشرطة العسكرية<br>
+MPU	Abbr.: MPU<br>\nMeaning: Mission Processor Unit<br>\nالمعنى العربي: <br>
+MRE	Abbr.: MRE<br>\nMeaning: meals ready to eat<br>\nالمعنى العربي: وجبات جاهزة للتناول (إعاشة الميدان)<br>
+MRL	Abbr.: MRL<br>\nMeaning: multiple rocket launcher<br>\nالمعنى العربي: راجمة صواريخ متعدد<br>
+MRR	Abbr.: MRR<br>\nMeaning: minimum risk route/ motorized rifle rgiment<br>\nالمعنى العربي: اقل طريق مخاطرة/ فوج بنادق آلي<br>
+MSB	Abbr.: MSB<br>\nMeaning: main support batallion<br>\nالمعنى العربي: كتيبة اسناد رئيسية<br>
+MSC	Abbr.: MSC<br>\nMeaning: major subordinate command<br>\nالمعنى العربي: قيادة رئيسية مرؤوسة<br>
+MSE	Abbr.: MSE<br>\nMeaning: mobile subscriber equipment<br>\nالمعنى العربي: معدات إتصال متنقلة<br>
+MSMC	Abbr.: MSMC<br>\nMeaning: main support medical company<br>\nالمعنى العربي: سرية اسناد طبي رئيسية<br>
+MSR	Abbr.: MSR<br>\nMeaning: main supply route<br>\nالمعنى العربي: طريق التموين الرئيسي<br>
+MTF	Abbr.: MTF<br>\nMeaning: medical treatment facility<br>\nالمعنى العربي: منشأة علاج طبي<br>
+MTOE	Abbr.: MTOE<br>\nMeaning: modified tables of organizations&amp; equipment<br>\nالمعنى العربي: الجداول المعدلة للتنظيم والمعدات<br>
+MTP	Abbr.: MTP<br>\nMeaning: mission training plan<br>\nالمعنى العربي: خطة التدريب على المهمة<br>
+Marines	Abbr.: Marines<br>\nMeaning: <br>\nالمعنى العربي: مشاة البحرية في الجيش الأمريكي<br>
+Monte Carlo	Abbr.: Monte Carlo<br>\nMeaning: A type of simulation in which random numbers are\ndrawn for every probabilistic variable in each run<br>\nالمعنى العربي: <br>
+Most Likely course of Action	Abbr.: Most Likely course of Action<br>\nMeaning: <br>\nالمعنى العربي: طريقة الحل الأكثر إحتمالاً<br>
+N	Abbr.: N<br>\nMeaning: Speed<br>\nالمعنى العربي: السرعة<br>
+N2 range	Abbr.: N2 range<br>\nMeaning: North2 range<br>\nالمعنى العربي: ميدان الرماية شمال 2 (حفر الباطن)<br>
+NAI	Abbr.: NAI<br>\nMeaning: Named Area of Interest<br>\nالمعنى العربي: منطقة إهتمام<br>
+NAI	Abbr.: NAI<br>\nMeaning: named area of interest<br>\nالمعنى العربي: منطقة الاهتمام المحددة<br>
+NAPP	Abbr.: NAPP<br>\nMeaning: nerve agent pretreatment pyridostigmine<br>\nالمعنى العربي: علاج وقائي ضد غازات الأعصاب<br>
+NASA	Abbr.: NASA<br>\nMeaning: National Aeronautics and Space Administration<br>\nالمعنى العربي: <br>
+NATO	Abbr.: NATO<br>\nMeaning: north atlantic treaty organization<br>\nالمعنى العربي: حلف شمال الأطلنطي<br>
+NAVAID	Abbr.: NAVAID<br>\nMeaning: navigational aid<br>\nالمعنى العربي: مساعدات ملاحية<br>
+NBC	Abbr.: NBC<br>\nMeaning: nuclear biological and chemical<br>\nالمعنى العربي: نووي جرثومي كيماوي (ن ج ك)<br>
+NCA	Abbr.: NCA<br>\nMeaning: National Comm Authorities<br>\nالمعنى العربي: سلطات القيادة الوطنية<br>
+NCO	Abbr.: NCO<br>\nMeaning: noncommissioned offier<br>\nالمعنى العربي: ضابط صف<br>
+NCS	Abbr.: NCS<br>\nMeaning: net control station<br>\nالمعنى العربي: محطة سيطرة على الشبكة<br>
+NEO	Abbr.: NEO<br>\nMeaning: noncombatt.Evac.operation<br>\nالمعنى العربي: عملية اخلاء الغير مقاتلين<br>
+NFA	Abbr.: NFA<br>\nMeaning: no fire area<br>\nالمعنى العربي: منطقة منع النيران<br>
+NFL	Abbr.: NFL<br>\nMeaning: no fire line<br>\nالمعنى العربي: خط منع النيران<br>
+NGF	Abbr.: NGF<br>\nMeaning: naval gun fire<br>\nالمعنى العربي: نيران مدفعية بحرية<br>
+NLT	Abbr.: NLT<br>\nMeaning: no later than<br>\nالمعنى العربي: ليس متاخرا عن<br>
+NTC	Abbr.: NTC<br>\nMeaning: National Training Center<br>\nالمعنى العربي: مركز التدريب الوطني<br>
+NUCWARN	Abbr.: NUCWARN<br>\nMeaning: nuclear warning<br>\nالمعنى العربي: تحذير نووي<br>
+NVD	Abbr.: NVD<br>\nMeaning: night vision device<br>\nالمعنى العربي: جهاز رؤية ليلية<br>
+NWA	Abbr.: NWA<br>\nMeaning: North West Area<br>\nالمعنى العربي: المنطقة الشمالية الغربية (تبوك)<br>
+Nh	Abbr.: Nh<br>\nMeaning: High Pressure Compressor Speed<br>\nالمعنى العربي: سرعة ضاغطة الضغط العالي<br>
+OCOKA	Abbr.: OCOKA<br>\nMeaning: Observation, Cover and Concealment, Obstacles, Key Terrain, Avenues of Approach<br>\nالمعنى العربي: الخصائص الطبيعية للأرض<br>
+OCONUS	Abbr.: OCONUS<br>\nMeaning: ouside continental USA<br>\nالمعنى العربي: خارج قارة الولايات المتحدة<br>
+OFA	Abbr.: OFA<br>\nMeaning: obstacle free area<br>\nالمعنى العربي: منطقة خالية من العوائق<br>
+OIC	Abbr.: OIC<br>\nMeaning: officer in charge<br>\nالمعنى العربي: الضابط المسئول<br>
+OIU	Abbr.: OIU<br>\nMeaning: Operator Interface Unit<br>\nالمعنى العربي: <br>
+OMG	Abbr.: OMG<br>\nMeaning: operational mneuvre group<br>\nالمعنى العربي: مجموعة مناورة العمليات<br>
+OP	Abbr.: OP<br>\nMeaning: observation post<br>\nالمعنى العربي: مركز مراقبة<br>
+OPCON	Abbr.: OPCON<br>\nMeaning: Operational Control<br>\nالمعنى العربي: السيطرة العملياتية<br>
+OPCON	Abbr.: OPCON<br>\nMeaning: operational  control<br>\nالمعنى العربي: سيطرة العمليات<br>
+OPLAN	Abbr.: OPLAN<br>\nMeaning: operation plan<br>\nالمعنى العربي: خطة العمليات<br>
+OPORD	Abbr.: OPORD<br>\nMeaning: Operations Order<br>\nالمعنى العربي: أمر عمليات<br>
+OPORD	Abbr.: OPORD<br>\nMeaning: operation order<br>\nالمعنى العربي: امر العمليات<br>
+OPSEC	Abbr.: OPSEC<br>\nMeaning: opration security<br>\nالمعنى العربي: امن العمليات<br>
+Oil Replinisher	Abbr.: Oil Replinisher<br>\nMeaning: <br>\nالمعنى العربي: معوضة الزيت (الدبابة م1أ2)<br>
+Operations overlay	Abbr.: Operations overlay<br>\nMeaning: <br>\nالمعنى العربي: شفاف العمليات<br>
+Ordnance Corps	Abbr.: Ordnance Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح الصيانة<br>
+Ordnance Corps	Abbr.: Ordnance Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح الصيانة<br>
+Overlay	Abbr.: Overlay<br>\nMeaning: <br>\nالمعنى العربي: شفاف<br>
+PA	Abbr.: PA<br>\nMeaning: public affairs<br>\nالمعنى العربي: الشئون العامة<br>
+PAC	Abbr.: PAC<br>\nMeaning: personnel administra center<br>\nالمعنى العربي: مركز ادارةالأفراد<br>
+PAO	Abbr.: PAO<br>\nMeaning: public affairs office<br>\nالمعنى العربي: مكتب الشئون العامة<br>
+PCM	Abbr.: PCM<br>\nMeaning: Power Control Module<br>\nالمعنى العربي: <br>
+PCMCIA	Abbr.: PCMCIA<br>\nMeaning: Personal Computer Memory Card International Association<br>\nالمعنى العربي: <br>
+PCOFT	Abbr.: PCOFT<br>\nMeaning: Platoon Conduct of Fire Trainer<br>\nالمعنى العربي: مشبه رماية الفصيل (البيكوفت)<br>
+PCU	Abbr.: PCU<br>\nMeaning: Power Control Unit<br>\nالمعنى العربي: <br>
+PDU	Abbr.: PDU<br>\nMeaning: Power Distribution Unit<br>\nالمعنى العربي: <br>
+PERINTREP	Abbr.: PERINTREP<br>\nMeaning: priodic intelligence report<br>\nالمعنى العربي: تقرير الاستخبارات الدوري<br>
+PFN	Abbr.: PFN<br>\nMeaning: Power Forming Network<br>\nالمعنى العربي: وحدة قوى تكوين النبضات<br>
+PHEAD	Abbr.: PHEAD<br>\nMeaning: Periscope Head<br>\nالمعنى العربي: <br>
+PIB	Abbr.: PIB<br>\nMeaning: Position Interface Box<br>\nالمعنى العربي: <br>
+PIR	Abbr.: PIR<br>\nMeaning: priority info requirements<br>\nالمعنى العربي: مطالب المعلومات ذات الأسبقية<br>
+PL	Abbr.: PL<br>\nMeaning: Phase Line<br>\nالمعنى العربي: خط المرحلة<br>
+PL	Abbr.: PL<br>\nMeaning: phase line<br>\nالمعنى العربي: خط المرحلة<br>
+PLM	Abbr.: PLM<br>\nMeaning: Programmable Load Module<br>\nالمعنى العربي: <br>
+PLO	Abbr.: PLO<br>\nMeaning: fighter liaison officer<br>\nالمعنى العربي: ضابط ارتباط المقاتلات<br>
+PM	Abbr.: PM<br>\nMeaning: provost marshal<br>\nالمعنى العربي: قائد الشرطة العسكرية<br>
+PMO	Abbr.: PMO<br>\nMeaning: provost marshal office<br>\nالمعنى العربي: مكتب قائد الشرطة العسكرية<br>
+POC	Abbr.: POC<br>\nMeaning: point of contact<br>\nالمعنى العربي: نقطة الاتصال<br>
+POL	Abbr.: POL<br>\nMeaning: petroleum oils &amp;lubricants<br>\nالمعنى العربي: وقود وزيوت وشحم<br>
+POM	Abbr.: POM<br>\nMeaning: prep for overseas movem.<br>\nالمعنى العربي: التجهيز لتحرك عبر البحار<br>
+POS/NAV	Abbr.: POS/NAV<br>\nMeaning: Position/Navigation Unit<br>\nالمعنى العربي: <br>
+PP	Abbr.: PP<br>\nMeaning: passage point<br>\nالمعنى العربي: نقطة مرور<br>
+PPI	Abbr.: PPI<br>\nMeaning: personnel point of impact<br>\nالمعنى العربي: نقطة التأثير في الأفراد<br>
+PSA	Abbr.: PSA<br>\nMeaning: Power Supply Assembly<br>\nالمعنى العربي: <br>
+PSC	Abbr.: PSC<br>\nMeaning: personnel support company<br>\nالمعنى العربي: سرية اسناد الأفراد<br>
+PSYOP	Abbr.: PSYOP<br>\nMeaning: psychological operations<br>\nالمعنى العربي: العمليات النفسية<br>
+PTS	Abbr.: PTS<br>\nMeaning: Power Turbine Stator<br>\nالمعنى العربي: العضو الثابت لمجموعة القدرة التوربينية<br>
+PZ	Abbr.: PZ<br>\nMeaning: pickup zone<br>\nالمعنى العربي: منطقة الالتقاط<br>
+Platoon	Abbr.: Platoon<br>\nMeaning: <br>\nالمعنى العربي: فصيل<br>
+Platoon Leader	Abbr.: Platoon Leader<br>\nMeaning: <br>\nالمعنى العربي: قائد فصيل<br>
+Quartering Party	Abbr.: Quartering Party<br>\nMeaning: <br>\nالمعنى العربي: جماعة الإيواء<br>
+Quickfix	Abbr.: Quickfix<br>\nMeaning: tactical heliborne commo intercept<br>\nالمعنى العربي: نظام حرب الكترونية مضادة واعتراض اشارة<br>
+Quicklookairborne noncommunications	Abbr.: Quicklookairborne noncommunications<br>\nMeaning:   airborne noncommunications<br>\nالمعنى العربي: مكتشف بواعث انظمة غير الاتصالات محمول<br>
+R	Abbr.: R<br>\nMeaning: reinforcing/ red<br>\nالمعنى العربي: تعزيز/ احمر<br>
+R&D	Abbr.: R&amp;D<br>\nMeaning: Research and Development<br>\nالمعنى العربي: البحث والتطوير<br>
+R&S	Abbr.: R&amp;S<br>\nMeaning: reconaissance &amp;surveillance<br>\nالمعنى العربي: الاستطلاع والمراقبة<br>
+RAA	Abbr.: RAA<br>\nMeaning: Rrear assembly area<br>\nالمعنى العربي: منطقة تجمع خلفية<br>
+RAAM	Abbr.: RAAM<br>\nMeaning: remote antiarmor mine<br>\nالمعنى العربي: لغم مضاد للدبابات تحكم عن بعد<br>
+RADAR	Abbr.: RADAR<br>\nMeaning: radio detection &amp; ranging<br>\nالمعنى العربي: اكتشاف موقع ومدى الراديو<br>
+RAGS	Abbr.: RAGS<br>\nMeaning: regimental artillery group<br>\nالمعنى العربي: مجموعة مدفعية الفوج<br>
+RAP	Abbr.: RAP<br>\nMeaning: rocket assisted projectile<br>\nالمعنى العربي: مقذوف دفع صاروخي<br>
+RBD	Abbr.: RBD<br>\nMeaning: Remote Biocular Device<br>\nالمعنى العربي: <br>
+RCU	Abbr.: RCU<br>\nMeaning: remote control unit<br>\nالمعنى العربي: وحدة تحكم عن بعد<br>
+REDCON	Abbr.: REDCON<br>\nMeaning: readiness condition<br>\nالمعنى العربي: حالة الجاهزية<br>
+REMAB	Abbr.: REMAB<br>\nMeaning: remote marshalling base<br>\nالمعنى العربي: قاعدة تنظيم وترتيب بعيدة<br>
+REMBASS	Abbr.: REMBASS<br>\nMeaning: remot.monito.battlefield sensor sys.<br>\nالمعنى العربي: نظام حساس مراقبة ميدان المعركة عن بعد<br>
+RFA	Abbr.: RFA<br>\nMeaning: restrictive fire area<br>\nالمعنى العربي: منطة مقيدة النيران<br>
+RFI	Abbr.: RFI<br>\nMeaning: request for information<br>\nالمعنى العربي: طلب معلومات<br>
+RFL	Abbr.: RFL<br>\nMeaning: restrictive fire line<br>\nالمعنى العربي: خط تقييد النيران<br>
+RGB	Abbr.: RGB<br>\nMeaning: Reduction GearBox<br>\nالمعنى العربي: مخفف السرعة<br>
+RIU	Abbr.: RIU<br>\nMeaning: Radio Interface Unit<br>\nالمعنى العربي: <br>
+RKV	Abbr.: RKV<br>\nMeaning: rekeying variable<br>\nالمعنى العربي: اعادة ادخال متغيرات بالأزرار<br>
+RMC	Abbr.: RMC<br>\nMeaning: Removable Memory Cartridge<br>\nالمعنى العربي: <br>
+ROC	Abbr.: ROC<br>\nMeaning: rear operations center<br>\nالمعنى العربي:  مركز عمليات خلفي<br>
+ROE	Abbr.: ROE<br>\nMeaning: rules of engagement<br>\nالمعنى العربي: قواعد الاشتباك<br>
+ROM	Abbr.: ROM<br>\nMeaning: refuel on the move<br>\nالمعنى العربي: التزود بالوقود اثناء التحرك<br>
+ROWPU	Abbr.: ROWPU<br>\nMeaning: reverse osmosis water purification Unit<br>\nالمعنى العربي: وحدة تنقية المياه بالتناضح العكسي<br>
+ROZ	Abbr.: ROZ<br>\nMeaning: restricted operations zone<br>\nالمعنى العربي: منطقة عمليات مقيدة<br>
+RP	Abbr.: RP<br>\nMeaning: release point<br>\nالمعنى العربي: نقطة تفرق<br>
+RPV	Abbr.: RPV<br>\nMeaning: remotely piloted vehicle<br>\nالمعنى العربي: طائرة بدون طيار تحكم عن بعد<br>
+RSL	Abbr.: RSL<br>\nMeaning: remote spring launch<br>\nالمعنى العربي: قذف نابضي تحكم عن بعد<br>
+RSLF	Abbr.: RSLF<br>\nMeaning: Royal Saudi Land Forces<br>\nالمعنى العربي: القوات البرية الملكية السعودية<br>
+RSOI	Abbr.: RSOI<br>\nMeaning: Reception, Staging, onward movement, and integration<br>\nالمعنى العربي: الإستقبال ، الإنتقال ، التحرك للأمام ، والدمج<br>
+RST-V	Abbr.: RST-V<br>\nMeaning: Reconnaissance, Surveillance and Target Acquisition\nVehicle<br>\nالمعنى العربي: <br>
+RSTA	Abbr.: RSTA<br>\nMeaning: recon, surveilla. &amp; target acquisition<br>\nالمعنى العربي: استطلاع ومراقبة ورصد اهداف<br>
+RTO	Abbr.: RTO<br>\nMeaning: rail tranportation officer<br>\nالمعنى العربي: ضابط نقل بالسكة الحديد<br>
+RYA	Abbr.: RYA<br>\nMeaning: Relay Assembly<br>\nالمعنى العربي: <br>
+RYJ	Abbr.: RYJ<br>\nMeaning: Relay Junction Box<br>\nالمعنى العربي: <br>
+Range	Abbr.: Range<br>\nMeaning: <br>\nالمعنى العربي: ميدان رماية<br>
+S&S	Abbr.: S&amp;S<br>\nMeaning: supply &amp; service<br>\nالمعنى العربي: خدمة وتموين<br>
+S1	Abbr.: S1<br>\nMeaning: <br>\nالمعنى العربي: ركن الإدارة (في كتيبة)<br>
+S2	Abbr.: S2<br>\nMeaning: <br>\nالمعنى العربي: ركن الاستخبارات (في كتيبة)<br>
+S3	Abbr.: S3<br>\nMeaning: <br>\nالمعنى العربي: ركن العمليات (في كتيبة)<br>
+S4	Abbr.: S4<br>\nMeaning: <br>\nالمعنى العربي: ركن التموين (في كتيبة)<br>
+S5	Abbr.: S5<br>\nMeaning: civil affairs officer<br>\nالمعنى العربي: ضابط شئون مدنية<br>
+SA	Abbr.: SA<br>\nMeaning: Sight Assembly<br>\nالمعنى العربي: <br>
+SAAB	Abbr.: SAAB<br>\nMeaning: <br>\nالمعنى العربي: شركة ساب السويدية (الشركة المصنعة للتويقز)<br>
+SAAFR	Abbr.: SAAFR<br>\nMeaning: standard use army plane flight route<br>\nالمعنى العربي: استخدام عادي لخط طيران طائرات الجيش<br>
+SABOT	Abbr.: SABOT<br>\nMeaning: <br>\nالمعنى العربي: ذخيرة خارقة<br>
+SAR	Abbr.: SAR<br>\nMeaning: search &amp; rescue<br>\nالمعنى العربي: البحث والانقاذ<br>
+SAU	Abbr.: SAU<br>\nMeaning: Sensor Assembly Unit<br>\nالمعنى العربي: <br>
+SCB	Abbr.: SCB<br>\nMeaning: Stinger Control Box<br>\nالمعنى العربي: <br>
+SCB	Abbr.: SCB<br>\nMeaning: System Control Box<br>\nالمعنى العربي: <br>
+SCI	Abbr.: SCI<br>\nMeaning: sensitive compartmented information<br>\nالمعنى العربي: معلومات حساسة مقتصرة على أفراد معينين<br>
+SCSI	Abbr.: SCSI<br>\nMeaning: Small Computer System Interface<br>\nالمعنى العربي: <br>
+SDU	Abbr.: SDU<br>\nMeaning: Stinger Distribution Unit<br>\nالمعنى العربي: <br>
+SEAD	Abbr.: SEAD<br>\nMeaning: suppression of enemy air defenses<br>\nالمعنى العربي: اخماد الدفاع الجوي للعدو<br>
+SEE	Abbr.: SEE<br>\nMeaning: small emplacement excavator<br>\nالمعنى العربي: حفار مواقع صغيرة<br>
+SEP	Abbr.: SEP<br>\nMeaning: System Enhancement Program<br>\nالمعنى العربي: <br>
+SERE	Abbr.: SERE<br>\nMeaning: survival evasion resistance &amp; escape<br>\nالمعنى العربي: قدرة على البقاء ومراوغة واقاومة وهروب<br>
+SEU	Abbr.: SEU<br>\nMeaning: Servo Electronics Unit<br>\nالمعنى العربي: <br>
+SF	Abbr.: SF<br>\nMeaning: Special Forces<br>\nالمعنى العربي: قوات خاصة<br>
+SF	Abbr.: SF<br>\nMeaning: special forces<br>\nالمعنى العربي: القوات الخاصة<br>
+SGCEU	Abbr.: SGCEU<br>\nMeaning: Second Gen Common Electronics Unit<br>\nالمعنى العربي: <br>
+SGS	Abbr.: SGS<br>\nMeaning: secretary of the general staff<br>\nالمعنى العربي: سكرتير الأركان العامة<br>
+SGSA	Abbr.: SGSA<br>\nMeaning: Second Gen Sight Assembly<br>\nالمعنى العربي: <br>
+SGTRU	Abbr.: SGTRU<br>\nMeaning: Second Gen Thermal Receiver Unit<br>\nالمعنى العربي: <br>
+SHORAD	Abbr.: SHORAD<br>\nMeaning: short range air defense<br>\nالمعنى العربي: دفاع جوي قصير المدى<br>
+SICPS	Abbr.: SICPS<br>\nMeaning: standardi. Integrat. command post sys.<br>\nالمعنى العربي: نظام مركز قيادة مدمج قياسي<br>
+SIGINT	Abbr.: SIGINT<br>\nMeaning: signal intelligence<br>\nالمعنى العربي: استخبارات الاشارة<br>
+SINCGARS	Abbr.: SINCGARS<br>\nMeaning: single Chan.ground &amp; airb. Radio sys.<br>\nالمعنى العربي: نظام راديو ارضي وحمول جوا احادي القناة<br>
+SITREP	Abbr.: SITREP<br>\nMeaning: situation report<br>\nالمعنى العربي: تقرير موقف<br>
+SJA	Abbr.: SJA<br>\nMeaning: staff judge advocate<br>\nالمعنى العربي: ركن الشئون الانونية<br>
+SL/V	Abbr.: SL/V<br>\nMeaning: Software Loader/Verfier<br>\nالمعنى العربي: <br>
+SLAR	Abbr.: SLAR<br>\nMeaning: side looking airborne radar<br>\nالمعنى العربي: رادار رؤية جانبية محمول جوا<br>
+SO	Abbr.: SO<br>\nMeaning: Special Operations<br>\nالمعنى العربي: عمليات خاصة<br>
+SOC	Abbr.: SOC<br>\nMeaning: special operations command<br>\nالمعنى العربي: قيادة العمليات الخاصة<br>
+SOCCE	Abbr.: SOCCE<br>\nMeaning: special oper. Com.&amp;control elements<br>\nالمعنى العربي: عناصر قيادة وسيطرة العمليات الخاصة<br>
+SOF	Abbr.: SOF<br>\nMeaning: special operation forces<br>\nالمعنى العربي: قوات العمليات الخاصة<br>
+SOI	Abbr.: SOI<br>\nMeaning: Signal Operating Instructions<br>\nالمعنى العربي: تعليمات تشغيل الإشارة<br>
+SOI	Abbr.: SOI<br>\nMeaning: signal operations instructions<br>\nالمعنى العربي: تعليمات عمليات الاشارة<br>
+SOP	Abbr.: SOP<br>\nMeaning: standing operating procedures<br>\nالمعنى العربي: التعليمات المستديمة<br>
+SP	Abbr.: SP<br>\nMeaning: start point, strong point, selfpropelled<br>\nالمعنى العربي: نقطة البدء ، نقطة قوية ، ذاتي الحركة<br>
+SPH	Abbr.: SPH<br>\nMeaning: Self-Propelled Howitzer<br>\nالمعنى العربي: مدفع هاوتزر ذاتي الدفع<br>
+SPIRS Trailer (truck)	Abbr.: SPIRS Trailer (truck)<br>\nMeaning: <br>\nالمعنى العربي: عربة مراجعة مابعد العمل<br>
+SPMO	Abbr.: SPMO<br>\nMeaning: Sword Project Management Offıce<br>\nالمعنى العربي: مكتب إدارة مشروع السيف<br>
+SPORT	Abbr.: SPORT<br>\nMeaning: Soldier Portable On-system Repair Tool<br>\nالمعنى العربي: <br>
+SPOTREP	Abbr.: SPOTREP<br>\nMeaning: spot report<br>\nالمعنى العربي: تقرير فوري<br>
+SR	Abbr.: SR<br>\nMeaning: supply route<br>\nالمعنى العربي: طريق تموين<br>
+SRU	Abbr.: SRU<br>\nMeaning: Shop Replaceable Unit<br>\nالمعنى العربي: <br>
+SSS	Abbr.: SSS<br>\nMeaning: Stinger Sight System<br>\nالمعنى العربي: <br>
+STANAG	Abbr.: STANAG<br>\nMeaning: standardization agreement<br>\nالمعنى العربي: اتفاق المواصفات القياسية<br>
+STE	Abbr.: STE<br>\nMeaning: Simpified Test Equipment<br>\nالمعنى العربي: <br>
+SVML	Abbr.: SVML<br>\nMeaning: standard vehicle missile launcher<br>\nالمعنى العربي: آلية  قاذفة صواريخ قياسية<br>
+SWO	Abbr.: SWO<br>\nMeaning: staff weather officer<br>\nالمعنى العربي: ضابط اركان الطقس<br>
+SYSCON	Abbr.: SYSCON<br>\nMeaning: systems control<br>\nالمعنى العربي: السيطرة على الأنظمة<br>
+Sgt.	Abbr.: Sgt.<br>\nMeaning: Sergeant<br>\nالمعنى العربي: رقيب<br>
+Signal Corps	Abbr.: Signal Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح الإشارة<br>
+Speed Trim	Abbr.: Speed Trim<br>\nMeaning: <br>\nالمعنى العربي: رقم المحرك الثابت<br>
+Squad	Abbr.: Squad<br>\nMeaning: <br>\nالمعنى العربي: حضيرة<br>
+Strike	Abbr.: Strike<br>\nMeaning: <br>\nالمعنى العربي: ضربة<br>
+Supply Corps	Abbr.: Supply Corps<br>\nMeaning: <br>\nالمعنى العربي: سلاح التموين<br>
+Support	Abbr.: Support<br>\nMeaning: <br>\nالمعنى العربي: إسناد - يسند<br>
+Sustainment	Abbr.: Sustainment<br>\nMeaning: <br>\nالمعنى العربي: تعزيز<br>
+Sustainment Training	Abbr.: Sustainment Training<br>\nMeaning: <br>\nالمعنى العربي: تدريب تعزيزي<br>
+T	Abbr.: T<br>\nMeaning: towed<br>\nالمعنى العربي: مجرور<br>
+TA	Abbr.: TA<br>\nMeaning: theater Army<br>\nالمعنى العربي: جيش المسرح<br>
+TAA	Abbr.: TAA<br>\nMeaning: tactical assembly area<br>\nالمعنى العربي: منطقة التجمع التكتيكية<br>
+TAC AIR	Abbr.: TAC AIR<br>\nMeaning: tactical air<br>\nالمعنى العربي: تكتيكي جوي<br>
+TAC CP	Abbr.: TAC CP<br>\nMeaning: tactical command post<br>\nالمعنى العربي: مركز القيادة التكتيكي<br>
+TACCON	Abbr.: TACCON<br>\nMeaning: Tactical Control<br>\nالمعنى العربي: السيطرة التكتيكية<br>
+TACON	Abbr.: TACON<br>\nMeaning: tactical control<br>\nالمعنى العربي: السيطرة التكتيكية<br>
+TACP	Abbr.: TACP<br>\nMeaning: tactical air control party<br>\nالمعنى العربي: فريق السيطرة الجوية التكتيكية<br>
+TACS	Abbr.: TACS<br>\nMeaning: tactical air control system<br>\nالمعنى العربي: نظام السيطرة الجوية التكتيكية<br>
+TACSAT	Abbr.: TACSAT<br>\nMeaning: tactical satellite<br>\nالمعنى العربي: القمر التكتيكي<br>
+TACSOP	Abbr.: TACSOP<br>\nMeaning: Tactical Standing Operating Procedures<br>\nالمعنى العربي: التعليمات المستديمة التكتيكية<br>
+TAI	Abbr.: TAI<br>\nMeaning: target area of intrest<br>\nالمعنى العربي: منطقة اهداف ذات اهتمام<br>
+TALO	Abbr.: TALO<br>\nMeaning: tactical airlift liaison officer<br>\nالمعنى العربي: ضابط ارتباط انقل الجوي التكتيكي<br>
+TAS	Abbr.: TAS<br>\nMeaning: Target Acquisition System<br>\nالمعنى العربي: <br>
+TB-3 range	Abbr.: TB-3 range<br>\nMeaning: Tiger B3<br>\nالمعنى العربي: ميدان الرماية نمر ب3 ( ميدان العويند)<br>
+TCAE	Abbr.: TCAE<br>\nMeaning: technical control &amp; analysis element<br>\nالمعنى العربي: عنصر سيطرة فنية وتحليل<br>
+TCB	Abbr.: TCB<br>\nMeaning: Turret Control Box<br>\nالمعنى العربي: <br>
+TCF	Abbr.: TCF<br>\nMeaning: tactical combat force<br>\nالمعنى العربي: قوة قتال تكتيكية<br>
+TCP	Abbr.: TCP<br>\nMeaning: Tank Commander's Panel<br>\nالمعنى العربي: <br>
+TCP	Abbr.: TCP<br>\nMeaning: Tactical Command Post<br>\nالمعنى العربي: مركز قيادة تكتيكي<br>
+TCP	Abbr.: TCP<br>\nMeaning: traffic control point<br>\nالمعنى العربي: نقطة سيطرة على المرور<br>
+TCU	Abbr.: TCU<br>\nMeaning: Temperature Control Unit<br>\nالمعنى العربي: <br>
+TDA	Abbr.: TDA<br>\nMeaning: tables distributions &amp; allowances<br>\nالمعنى العربي: جدول التوزيعات والمقننات<br>
+TDB	Abbr.: TDB<br>\nMeaning: Turret Distribution Box<br>\nالمعنى العربي: <br>
+TDCU	Abbr.: TDCU<br>\nMeaning: Turret Drive Control Unit<br>\nالمعنى العربي: <br>
+TDM	Abbr.: TDM<br>\nMeaning: TIS Display Module<br>\nالمعنى العربي: <br>
+TDT	Abbr.: TDT<br>\nMeaning: Tank Driver Trainer<br>\nالمعنى العربي: مشبه السياقة<br>
+TEK	Abbr.: TEK<br>\nMeaning: transmission encryption key<br>\nالمعنى العربي: مفتاح تشفير البث<br>
+TEU	Abbr.: TEU<br>\nMeaning: Turret Electronics Unit<br>\nالمعنى العربي: <br>
+TF	Abbr.: TF<br>\nMeaning: Task Force<br>\nالمعنى العربي: قوة واجب<br>
+TF	Abbr.: TF<br>\nMeaning: task force<br>\nالمعنى العربي: قوة واجب<br>
+THREATCON	Abbr.: THREATCON<br>\nMeaning: threat condition<br>\nالمعنى العربي: حالة تهديد العدو<br>
+TIRS	Abbr.: TIRS<br>\nMeaning: terrain index reference system<br>\nالمعنى العربي: نظام مرجع دليل الأرض<br>
+TIS	Abbr.: TIS<br>\nMeaning: Thermal Imaging System<br>\nالمعنى العربي: <br>
+TM	Abbr.: TM<br>\nMeaning: Technical Manual<br>\nالمعنى العربي: <br>
+TM	Abbr.: TM<br>\nMeaning: TECHNICAL MANUAL<br>\nالمعنى العربي: كراس فني<br>
+TMC	Abbr.: TMC<br>\nMeaning: Training Management Course<br>\nالمعنى العربي: دورة إدارة التدريب<br>
+TML	Abbr.: TML<br>\nMeaning: TOW Missile Launcher<br>\nالمعنى العربي: <br>
+TMPU	Abbr.: TMPU<br>\nMeaning: Turret Mission Processor Unit<br>\nالمعنى العربي: <br>
+TMT	Abbr.: TMT<br>\nMeaning: transportation motor transport<br>\nالمعنى العربي: نقل محركات المركبات<br>
+TNB	Abbr.: TNB<br>\nMeaning: Turret Networks Box<br>\nالمعنى العربي: <br>
+TNBD	Abbr.: TNBD<br>\nMeaning: Turret Networks Box- Digital<br>\nالمعنى العربي: <br>
+TOC	Abbr.: TOC<br>\nMeaning: tactical operation center<br>\nالمعنى العربي: مركز العمليات التكتيكي<br>
+TOE	Abbr.: TOE<br>\nMeaning: tables of organizatios &amp; equipment<br>\nالمعنى العربي: جدول التنظيمات والمعدات<br>
+TOR	Abbr.: TOR<br>\nMeaning: terms of reference<br>\nالمعنى العربي: شروط المرجع<br>
+TOT	Abbr.: TOT<br>\nMeaning: time on target<br>\nالمعنى العربي: زمن الوصول فوق الهدف<br>
+TOW	Abbr.: TOW<br>\nMeaning: Tube launched, Optically tracked, Wire guided<br>\nالمعنى العربي: <br>
+TOW	Abbr.: TOW<br>\nMeaning: tube launch optically tracked wire guided<br>\nالمعنى العربي: صاروخ تو - يقذف من انبوب موجه بصريا بسلك<br>
+TPB	Abbr.: TPB<br>\nMeaning: Turret Power Box<br>\nالمعنى العربي: <br>
+TPL	Abbr.: TPL<br>\nMeaning: time phase line<br>\nالمعنى العربي: وقت خط المرحلة<br>
+TPU	Abbr.: TPU<br>\nMeaning: Turret Power Unit<br>\nالمعنى العربي: <br>
+TRADOC	Abbr.: TRADOC<br>\nMeaning: training &amp; doctrine comm. US Army<br>\nالمعنى العربي: قيادة العقيدة والتدريب للجيش الامريكي<br>
+TRP	Abbr.: TRP<br>\nMeaning: target reference point<br>\nالمعنى العربي: نقطة مرجعية للهدف<br>
+TRSM	Abbr.: TRSM<br>\nMeaning: Turret Remote Switching Module<br>\nالمعنى العربي: <br>
+TRU	Abbr.: TRU<br>\nMeaning: Thermal Receiver Unit<br>\nالمعنى العربي: <br>
+TSCP	Abbr.: TSCP<br>\nMeaning: Targeting Station Control Panel<br>\nالمعنى العربي: <br>
+TSM	Abbr.: TSM<br>\nMeaning: TIS Signal Module<br>\nالمعنى العربي: <br>
+TSOP	Abbr.: TSOP<br>\nMeaning: tactical standing operating procedure<br>\nالمعنى العربي: التعليمات المستديمة تكتيك<br>
+TTC	Abbr.: TTC<br>\nMeaning: Tactical Training Center<br>\nالمعنى العربي: مركز التدريب التكتيكي<br>
+TTS	Abbr.: TTS<br>\nMeaning: <br>\nالمعنى العربي: الكاميرا الحرارية<br>
+TVA	Abbr.: TVA<br>\nMeaning: target value analysis<br>\nالمعنى العربي: تحليل قيمة الهدف<br>
+TVM	Abbr.: TVM<br>\nMeaning: TOW Visual Module<br>\nالمعنى العربي: <br>
+TWB	Abbr.: TWB<br>\nMeaning: TOW Control Box<br>\nالمعنى العربي: <br>
+TWGSS	Abbr.: TWGSS<br>\nMeaning: Tank Weapons Gunnery Simulation System<br>\nالمعنى العربي: مشبه التويقز<br>
+Techniques	Abbr.: Techniques<br>\nMeaning: <br>\nالمعنى العربي: أساليب<br>
+UAV	Abbr.: UAV<br>\nMeaning: Unmanned Arial Vehicle<br>\nالمعنى العربي: طائرة بدون طيار<br>
+UAV	Abbr.: UAV<br>\nMeaning: unmanned aerial vehicle<br>\nالمعنى العربي: طائرة بدون طيار<br>
+UBL	Abbr.: UBL<br>\nMeaning: unit basic load<br>\nالمعنى العربي: الحمولة الأساسية للوحدة<br>
+UCMJ	Abbr.: UCMJ<br>\nMeaning: uniform code of military justice<br>\nالمعنى العربي: قانون القضاء العسكري<br>
+UGS	Abbr.: UGS<br>\nMeaning: Unattended Ground Sensor<br>\nالمعنى العربي: <br>
+UHF	Abbr.: UHF<br>\nMeaning: ultra high frequency<br>\nالمعنى العربي: تردد عالي جدا<br>
+UMR	Abbr.: UMR<br>\nMeaning: unit manning report<br>\nالمعنى العربي: تقرير افراد قوة الوحدة<br>
+UN	Abbr.: UN<br>\nMeaning: united nations<br>\nالمعنى العربي: الامم المتحدة<br>
+US	Abbr.: US<br>\nMeaning: united states<br>\nالمعنى العربي: الولايات المتحدة<br>
+USAF	Abbr.: USAF<br>\nMeaning: united states airforce<br>\nالمعنى العربي: القوات الجوية الأمريكية<br>
+USG	Abbr.: USG<br>\nMeaning: united states government<br>\nالمعنى العربي: الحكومة الأمريكية<br>
+USMC	Abbr.: USMC<br>\nMeaning: united states marine corps<br>\nالمعنى العربي: سلاح البحرية الأمريكي<br>
+USMTM	Abbr.: USMTM<br>\nMeaning: US Military Training Mission<br>\nالمعنى العربي: بعثة التدريب العسكرية للجيش الأمريكي<br>
+USPS	Abbr.: USPS<br>\nMeaning: united states post service<br>\nالمعنى العربي: خدمة بريد الولايات المتحدة<br>
+UTCP	Abbr.: UTCP<br>\nMeaning: Upgraded Tank Commander's Panel<br>\nالمعنى العربي: <br>
+UTM	Abbr.: UTM<br>\nMeaning: universal transverse mercator<br>\nالمعنى العربي: اسقاط  ميركاتور العرضي العالمي<br>
+UUT	Abbr.: UUT<br>\nMeaning: Unit Under Test<br>\nالمعنى العربي: <br>
+V Corps	Abbr.: V Corps<br>\nMeaning: Fifth Corps<br>\nالمعنى العربي: الفيلق الخامس<br>
+V/S	Abbr.: V/S<br>\nMeaning: vulcan/ stinger<br>\nالمعنى العربي: صاروخ فولكان/ ستينجر<br>
+VADS	Abbr.: VADS<br>\nMeaning: Vehicle Automated Diagnostic System<br>\nالمعنى العربي: <br>
+VDB	Abbr.: VDB<br>\nMeaning: Vehicle Distribution Box<br>\nالمعنى العربي: <br>
+VDMS	Abbr.: VDMS<br>\nMeaning: Vehicle Diagnostics Management System<br>\nالمعنى العربي: <br>
+VFR	Abbr.: VFR<br>\nMeaning: visual flight rules<br>\nالمعنى العربي: قواعد الطيران المرئي<br>
+VHF	Abbr.: VHF<br>\nMeaning: very high frequency<br>\nالمعنى العربي: تردد عالي جدا<br>
+VIGS	Abbr.: VIGS<br>\nMeaning: <br>\nالمعنى العربي: مشبه الفقز<br>
+VIP	Abbr.: VIP<br>\nMeaning: very important person<br>\nالمعنى العربي: شخص هام جدا<br>
+VSM	Abbr.: VSM<br>\nMeaning: Video Signal Module<br>\nالمعنى العربي: <br>
+W	Abbr.: W<br>\nMeaning: wheeled<br>\nالمعنى العربي: مدولب<br>
+WARNO	Abbr.: WARNO<br>\nMeaning: Warning Order<br>\nالمعنى العربي: أمر إنذاري<br>
+WCB	Abbr.: WCB<br>\nMeaning: Weapon Control Box<br>\nالمعنى العربي: <br>
+WCS	Abbr.: WCS<br>\nMeaning: weapons control status<br>\nالمعنى العربي: حالة السيطرة على الأسلحة<br>
+WETM	Abbr.: WETM<br>\nMeaning: weather team<br>\nالمعنى العربي: فريق حالة الطقس<br>
+WFZ	Abbr.: WFZ<br>\nMeaning: weapons free zone<br>\nالمعنى العربي: منطقة اسلحة حرة<br>
+WIA	Abbr.: WIA<br>\nMeaning: wounded in action<br>\nالمعنى العربي: مصاب حرب<br>
+WO	Abbr.: WO<br>\nMeaning: warning order<br>\nالمعنى العربي: امر انذاري<br>
+WP	Abbr.: WP<br>\nMeaning: white phosphorous<br>\nالمعنى العربي: الفوسفور الابيض<br>
+WX	Abbr.: WX<br>\nMeaning: weather<br>\nالمعنى العربي: الطقس<br>
+WXFCST	Abbr.: WXFCST<br>\nMeaning: weather forecast<br>\nالمعنى العربي: التنبؤ بالطقس<br>
+XO	Abbr.: XO<br>\nMeaning: executive officer<br>\nالمعنى العربي: الضابط التنفيذي<br>
+abn	Abbr.: abn<br>\nMeaning: airborne<br>\nالمعنى العربي: محمول جوا<br>
+armd	Abbr.: armd<br>\nMeaning: armored<br>\nالمعنى العربي: مدرع<br>
+arty	Abbr.: arty<br>\nMeaning: artillery<br>\nالمعنى العربي: مدفعية<br>
+aslt	Abbr.: aslt<br>\nMeaning: assault<br>\nالمعنى العربي: اقتحام<br>
+atchd	Abbr.: atchd<br>\nMeaning: attached<br>\nالمعنى العربي: ملحق<br>
+atk	Abbr.: atk<br>\nMeaning: attack<br>\nالمعنى العربي: هجوم<br>
+auth	Abbr.: auth<br>\nMeaning: authorized <br>\nالمعنى العربي: مسموح<br>
+avn	Abbr.: avn<br>\nMeaning: aviation<br>\nالمعنى العربي: طيران<br>
+bn	Abbr.: bn<br>\nMeaning: batallion<br>\nالمعنى العربي: كتيبة<br>
+btry	Abbr.: btry<br>\nMeaning: battery<br>\nالمعنى العربي: بطارية<br>
+cal	Abbr.: cal<br>\nMeaning: caliber<br>\nالمعنى العربي: عيار<br>
+cav	Abbr.: cav<br>\nMeaning: cavalry<br>\nالمعنى العربي: استطلاع مدرع<br>
+cbt	Abbr.: cbt<br>\nMeaning: combat<br>\nالمعنى العربي: قتال<br>
+cgo	Abbr.: cgo<br>\nMeaning: cargo<br>\nالمعنى العربي: شحنة<br>
+chem	Abbr.: chem<br>\nMeaning: chemical<br>\nالمعنى العربي: كيماوي<br>
+decon	Abbr.: decon<br>\nMeaning: decontamination<br>\nالمعنى العربي: ازالة التلوث<br>
+demo	Abbr.: demo<br>\nMeaning: demonstration<br>\nالمعنى العربي: بيان<br>
+det	Abbr.: det<br>\nMeaning: detachement<br>\nالمعنى العربي: مفرزة<br>
+div	Abbr.: div<br>\nMeaning: division<br>\nالمعنى العربي: فرقة<br>
+elec	Abbr.: elec<br>\nMeaning: electric, electrical<br>\nالمعنى العربي: كهربي، كهربيا<br>
+en	Abbr.: en<br>\nMeaning: enemy<br>\nالمعنى العربي: عدو<br>
+engr	Abbr.: engr<br>\nMeaning: engineer<br>\nالمعنى العربي: مهندس<br>
+exec	Abbr.: exec<br>\nMeaning: executive<br>\nالمعنى العربي: تنفيذي<br>
+fax	Abbr.: fax<br>\nMeaning: facsimile<br>\nالمعنى العربي: فاكس<br>
+ft	Abbr.: ft<br>\nMeaning: foot, feet<br>\nالمعنى العربي: قدم، اقدام<br>
+gal	Abbr.: gal<br>\nMeaning: gallon<br>\nالمعنى العربي: جالون<br>
+gp	Abbr.: gp<br>\nMeaning: group<br>\nالمعنى العربي: مجموعة<br>
+hel	Abbr.: hel<br>\nMeaning: helicopter<br>\nالمعنى العربي: مروحية<br>
+hp	Abbr.: hp<br>\nMeaning: horse power<br>\nالمعنى العربي: القدرة بالحصان<br>
+hr	Abbr.: hr<br>\nMeaning: hour<br>\nالمعنى العربي: ساعة<br>
+inf	Abbr.: inf<br>\nMeaning: infantry<br>\nالمعنى العربي: مشاة<br>
+intel	Abbr.: intel<br>\nMeaning: intelligence<br>\nالمعنى العربي: استخبارات<br>
+kHz	Abbr.: kHz<br>\nMeaning: kilohertz<br>\nالمعنى العربي: كيلو هيرتز<br>
+km	Abbr.: km<br>\nMeaning: kilometer<br>\nالمعنى العربي: كيلومتر<br>
+kmph	Abbr.: kmph<br>\nMeaning: kilometer per hour<br>\nالمعنى العربي: كيلومتر في الساعة<br>
+kt	Abbr.: kt<br>\nMeaning: kiloton<br>\nالمعنى العربي: كيلوطن<br>
+lb	Abbr.: lb<br>\nMeaning: pound<br>\nالمعنى العربي: رطل<br>
+loc	Abbr.: loc<br>\nMeaning: location<br>\nالمعنى العربي: موقع<br>
+lt	Abbr.: lt<br>\nMeaning: light<br>\nالمعنى العربي: خفيف<br>
+m	Abbr.: m<br>\nMeaning: meter<br>\nالمعنى العربي: متر<br>
+maint	Abbr.: maint<br>\nMeaning: maintenance<br>\nالمعنى العربي: صيانة<br>
+med	Abbr.: med<br>\nMeaning: medical, medium<br>\nالمعنى العربي: طبي/ متوسط<br>
+mm	Abbr.: mm<br>\nMeaning: millimeter<br>\nالمعنى العربي: ملليمتر<br>
+mph	Abbr.: mph<br>\nMeaning: miles per hour<br>\nالمعنى العربي: ميل في الساعة<br>
+no	Abbr.: no<br>\nMeaning: number<br>\nالمعنى العربي: رقم<br>
+obj	Abbr.: obj<br>\nMeaning: objective<br>\nالمعنى العربي: هدف<br>
+opns	Abbr.: opns<br>\nMeaning: operations<br>\nالمعنى العربي: العمليات<br>
+ops	Abbr.: ops<br>\nMeaning: operations<br>\nالمعنى العربي: العمليات<br>
+pit	Abbr.: pit<br>\nMeaning: platoon<br>\nالمعنى العربي: فصيل<br>
+ppm	Abbr.: ppm<br>\nMeaning: parts per million<br>\nالمعنى العربي: جزء في المليون<br>
+proj	Abbr.: proj<br>\nMeaning: project<br>\nالمعنى العربي: مشروع<br>
+rd	Abbr.: rd<br>\nMeaning: round<br>\nالمعنى العربي: طلقة<br>
+rec	Abbr.: rec<br>\nMeaning: recorder<br>\nالمعنى العربي: مسجل<br>
+recon	Abbr.: recon<br>\nMeaning: radio electronic combat (soviet)<br>\nالمعنى العربي: راديو الكتروني للقتال (سوفيتي)<br>
+retrans	Abbr.: retrans<br>\nMeaning: retransmission<br>\nالمعنى العربي: اعادة بث<br>
+sec	Abbr.: sec<br>\nMeaning: section<br>\nالمعنى العربي: قسم<br>
+semitrl	Abbr.: semitrl<br>\nMeaning: semitrailer<br>\nالمعنى العربي: نصف مقطورة<br>
+sig	Abbr.: sig<br>\nMeaning: signal<br>\nالمعنى العربي: اشارة<br>
+smk	Abbr.: smk<br>\nMeaning: smoke<br>\nالمعنى العربي: دخان<br>
+sqd	Abbr.: sqd<br>\nMeaning: squad<br>\nالمعنى العربي: حضيرة<br>
+sqdn	Abbr.: sqdn<br>\nMeaning: squadron<br>\nالمعنى العربي: كتيبة (سرب طيران)<br>
+tac	Abbr.: tac<br>\nMeaning: tactical<br>\nالمعنى العربي: تكتيكي<br>
+tac fire	Abbr.: tac fire<br>\nMeaning: tactical fire direction system<br>\nالمعنى العربي: نظام توجيه النيران التكتيكية<br>
+tm	Abbr.: tm<br>\nMeaning: team<br>\nالمعنى العربي: فريق<br>
+topo	Abbr.: topo<br>\nMeaning: topography, topographic<br>\nالمعنى العربي: طبوغرافيا، طبوغرافي<br>

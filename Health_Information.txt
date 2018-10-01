@@ -1,0 +1,176 @@
+##name	Health Information
+##sourceLang	English
+##targetLang	English
+##bgl_defaultEncoding	cp1252
+##bgl_sourceEncoding	cp1252
+##bgl_targetEncoding	cp1252
+##sourceCharset	UTF-8
+##targetCharset	UTF-8
+##utf8Encoding	
+##spellingAlternatives	
+##caseSensitive	
+##author	National Institutes of Health
+##copyright	<a href='http://www.nih.gov/nidcd/health/glossary/glos1.htm'>National Institute of Deafness and Other Communication Disorders</a>
+##description	General reference for frequently used medical terms.
+##bgl_creationTime	2000/06/06, 06:15
+##bgl_middleUpdated	2000/06/27, 11:15
+Acoustic Neurinoma	tumor, usually benign, which may develop on the hearing and balance nerves and can cause gradual hearing loss, tinnitus, and/or dizziness. (sometimes called vestibular schwannoma). Also see Neurofibromatosis Type 2.
+Acquired Deafness	loss of hearing that occurs or develops some time during the lifespan but is not present at birth.
+Aguesia	loss of the sense of taste.
+Albinism	lack of normal pigment in the skin, eyes, and hair.
+Alport Syndrome	hereditary condition characterized by kidney disease, sensorineural hearing loss, and sometimes eye defects.
+American Sign Language (ASL)|american-sign-language|asl	manual language with its own syntax and grammar, used primarily by people who are deaf.
+Anosmia	absence of the sense of smell.
+Aphasia	total or partial loss of the ability to use or understand language; usually caused by stroke, brain disease, or injury.
+Aphonia	complete loss of voice.
+Apraxia	inability to execute a voluntary movement despite being able to demonstrate normal muscle function.
+Articulation Disorder	inability to correctly produce speech sounds (phonemes) because of imprecise placement, timing, pressure, speed, or flow of movement of the lips, tongue, or throat.
+Assistive Devices	technical tools and devices such as alphabet boards, text telephones, or text-to-speech conversion software used to aid individuals who have communication disorders perform actions, tasks, and activities.
+Audiologist	health care professional who is trained to evaluate hearing loss and related disorders, including balance (vestibular) disorders and tinnitus, and to rehabilitate individuals with hearing loss and related disorders. An audiologist uses a variety of tests and procedures to assess hearing and balance function and to fit and dispense hearing aids and other assistive devices for hearing.
+Auditory Brainstem Response (ABR) test|auditory-brainstem-response-test	a test for brain functioning in comatose, unresponsive, etc., patients, and for hearing in infants and young children; involves attaching electrodes to the head to record electrical activity from the hearing nerve and other parts of the brain.
+Auditory Nerve	eighth cranial nerve that connects the inner ear to the brainstem and is responsible for hearing and balance.
+Auditory Perception	ability to identify, interpret, and attach meaning to sound.
+Auditory Prosthesis	device that substitutes or enhances the ability to hear.
+Augmentative Devices	tools that help individuals with limited or absent speech to communicate, such as communication boards, pictographs (symbols that look like the things they represent), or ideographs (symbols representing ideas).
+Aural Rehabilitation	techniques used with people who are hearing impaired to improve their ability to speak and communicate.
+Autism	brain disorder that begins in early childhood and persists throughout adulthood; affects three crucial areas of development: communication, social interaction, and creative or imaginative play.
+Autoimmune Deafness	individual's immune system produces abnormal antibodies that react against the body's healthy tissues.
+Balance	biological system that enables individuals to know where their bodies are in the environment and to maintain a desired position. Normal balance depends on information from the labyrinth in the inner ear, from other senses such as sight and touch, and from muscle movement.
+Balance Disorder	disruption in the labryrinth, the inner ear organ that controls the balance system, which allows individuals to know where their bodies are in the environment. The labyrinth works with other systems in the body, such as the visual and skeletal systems, to maintain posture.
+Barotrauma	injury to the middle ear caused by a reduction of air pressure.
+Benign Paroxysmal Positional Vertigo (BPPV)|benign-paroxysmal-positional-vertigo|bppv	balance disorder that results in sudden onset of dizziness, spinning, or vertigo when moving the head.
+Brainstem Implant	auditory prosthesis that bypasses the cochlea and auditory nerve. This type of implant helps individuals who can not benefit from a cochlear implant because the auditory nerves are not working.
+Captioning	text display of spoken words, presented on a television or a movie screen, that allows a deaf or hard-of-hearing viewer to follow the dialogue and the action of a program simultaneously.
+Central Auditory Processing Disorder	inability to differentiate, recognize or understand sounds; hearing and intelligence are normal.
+Chemosensory Disorders	diseases or problems associated with the sense of smell or the sense of taste.
+Cholesteatoma	accumulation of dead cells in the middle ear, caused by repeated middle ear infections.
+Cochlea	snail-shaped structure in the inner ear that contains the organ of hearing.
+Cochlear Implant	medical device that bypasses damaged structures in the inner ear and directly stimulates the auditory nerve, allowing some deaf individuals to learn to hear and interpret sounds and speech.
+Cognition	thinking skills that include perception, memory, awareness, reasoning, judgment, intellect, and imagination.
+Conductive Hearing Impairment	hearing loss caused by dysfunction of the outer or middle ear.
+Cued Speech	method of communication that combines speech reading with a system of handshapes placed near the mouth to help deaf or hard-of-hearing individuals differentiate words that look similar on the lips (e.g., bunch vs. punch) or are hidden (e.g., gag).
+Cytomegalovirus (Congenital)	one group of herpes viruses that infects humans and can cause a variety of clinical symptoms, including deafness or hearing impairment; infection with the virus may be either before or after birth.
+Decibel	unit that measures the intensity or loudness of sound.
+Dizziness	physical unsteadiness, imbalance, and lightheadedness associated with balance disorders.
+Dysarthria	group of speech disorders caused by disturbances in the strength or coordination of the muscles of the speech mechanism as a result of damage to the brain or nerves.
+Dysequilibrium	any disturbance of balance.
+Dysfluency	disruption in the smooth flow or expression of speech.
+Dysgeusia	distortion or absence of the sense of taste.
+Dyslexia	learning disability characterized by reading difficulties. Some individuals may also have difficulty writing, spelling, or working with numbers.
+Dysosmia	distortion or absence of the sense of smell.
+Dysphagia	difficulty swallowing.
+Dysphonia	any impairment of the voice or speaking ability.
+Dyspraxia of Speech	in individuals with normal muscle tone and speech muscle coordination, partial loss of the ability to consistently pronounce words.
+Dystonia	abnormal muscle tone of one or more muscles.
+Ear Infection	presence and growth of bacteria or viruses in the ear.
+Ear Wax	yellow secretion from glands in the outer ear (cerumen) that keeps the skin of the ear dry and protected from infection.
+Endolymph	fluid in the labryinth (the organ of balance located in the inner ear that consists of three semicircular canals and the vestibule).
+Gustation	act or sensation of tasting.
+Hair Cells	sensory cells of the inner ear, which are topped with hair-like structures, the stereocilia, and which transform the mechanical energy of sound waves into nerve impulses.
+Haptic Sense	sense of physical contact or touch.
+Haptometer	instrument for measuring sensitivity to touch.
+Hearing	series of events in which sound waves in the air are converted to electrical signals, which are sent as nerve impulses to the brain, where they are interpreted.
+Hearing Aid	electronic device that brings amplified sound to the ear. A hearing aid usually consists of a microphone, amplifier, and receiver.
+Hearing Disorder	disruption in the normal hearing process that may occur in outer, middle or inner ear, whereby sound waves are not converted to electrical signals and nerve impulses are not transmitted to the brain to be interpreted.
+Hereditary Hearing Impairment	hearing loss passed down through generations of a family.
+Hoarseness	abnormally rough or harsh-sounding voice caused by vocal abuse and other disorders such as gastroesophageal reflux, thyroid problems, or trauma to the larynx (voice box).
+Hypogeusia	diminished sensitivity to taste.
+Hyposmia	diminished sensitivity to smell.
+Inner Ear	part of the ear that contains both the organ of hearing (the cochlea) and the organ of balance (the labyrinth).
+Kallmann's Syndrome|kallmann-s-syndrome|kallmanns-syndrome	disorder that can include several characteristics such as absence of the sense of smell and decreased functional activity of the gonads (organs that produce sex cells), affecting growth and sexual development.
+Labyrinth	organ of balance located in the inner ear. The labyrinth consists of three semicircular canals and the vestibule.
+Labyrinthine Hydrops	excessive fluid in the organ of balance (labyrinth); can cause pressure or fullness in the ears, hearing loss, dizziness, and loss of balance.
+Labyrinthitis	viral or bacterial infection or inflammation of the inner ear that can cause dizziness, loss of balance, and temporary hearing loss.
+Landau-Kleffner Syndrome	childhood disorder of unknown origin which often extends into adulthood and can be identified by gradual or sudden loss of the ability to understand and use spoken language.
+Language	system for communicating ideas and feelings using sounds, gestures, signs, or marks.
+Language Disorders	any of a number of problems with verbal communication and the ability to use or understand a symbol system for communication.
+Laryngeal Neoplasms	abnormal growths in the larynx (voice box) that can be cancerous or noncancerous.
+Laryngeal Nodules	noncancerous, callous-like growths on the inner parts of the vocal folds (vocal cords); usually caused by vocal abuse or misuse.
+Laryngeal Paralysis	loss of function or feeling of one or both of the vocal folds caused by injury or disease to the nerves of the larynx.
+Laryngectomy	surgery to remove part or all of the larynx (voice box).
+Laryngitis	hoarse voice or the complete loss of the voice because of irritation to the vocal folds (vocal cords).
+Larynx	valve structure between the trachea (windpipe) and the pharynx (the upper throat) that is the primary organ of voice production.
+Learning Disabilities	childhood disorders characterized by difficulty with certain skills such as reading or writing in individuals with normal intelligence.
+Mastoid	back portion of the temporal bone that contains the inner ear.
+Mastoid Surgery	surgical procedure to remove infection from the mastoid bone.
+Meige Syndrome	movement disorder that can involve excessive eye blinking (blepharospasm) with involuntary movements of the jaw muscles, lips, and tongue (oromandibular dystonia).
+Meningitis	inflammation of the meninges, the membranes that envelop the brain and the spinal cord; may cause hearing loss or deafness.
+Middle Ear	part of the ear that includes the eardrum and three tiny bones of the middle ear, ending at the round window that leads to the inner ear.
+Misarticulation	inaccurately produced speech sound (phoneme) or sounds.
+Motion Sickness	dizziness, sweating, nausea, vomiting, and generalized discomfort experienced when an individual is in motion.
+Motor Speech Disorders	group of disorders caused by the inability to accurately produce speech sounds (phonemes) because of muscle weakness or incoordination or difficulty performing voluntary muscle movements.
+Ménière's Disease|meniere-s-disease|menieres-disease	inner ear disorder that can affect both hearing and balance. It can cause episodes of vertigo, hearing loss, tinnitus, and the sensation of fullness in the ear.
+Neural Plasticity	ability of the brain and/or certain parts of the nervous system to adapt to new conditions, such as an injury.
+Neural Prostheses	devices that substitute for an injured or diseased part of the nervous system, such as the cochlear implant.
+Neural Stimulation	to activate or energize a nerve through an external source.
+Neurofibromatosis Type 1 (NF-1 von Recklinghausen's)|neurofibromatosis-type-1|neurofibromatosis-type-1-(nf-1-von-recklinghausen-s)|neurofibromatosis-type-1-(nf-1-von-recklinghausens)	group of inherited disorders in which noncancerous tumors grow on several nerves that may include the hearing nerve. The symptoms of NF-1 include coffee-colored spots on the skin, enlargement deformation of bones and neurofibromas.
+Neurofibromatosis Type 2 (NF-2)|neurofibromatosis-type-2	group of inherited disorders in which noncancerous tumors grow on several nerves that usually include the hearing nerve. The symptoms of NF-2 include tumors on the hearing nerve which can affect hearing and balance. NF-2 may occur in the teenage years with hearing loss. Also see acoustic neurinoma.
+Neurogenic Communication Disorder	inability to exchange information with others because of hearing, speech, and/or language problems caused by impairment of the nervous system (brain or nerves).
+Noise-Induced Hearing Loss	hearing loss caused by exposure to harmful sounds, either very loud impulse sound(s) or repeated exposure to sounds over 90 decibel levels over an extended period of time that damage the sensitive structures of the inner ear.
+Nonsyndromic Hereditary Hearing Impairment	hearing loss or deafness that is inherited and is not associated with other inherited clinical characteristics.
+Odorant	substance that stimulates the sense of smell.
+Olfaction	the act of smelling.
+Olfactometer	device for estimating the intensity of the sense of smell.
+Open	Set Speech Recognition</B> - understanding speech without visual clues (speech reading).
+Otitis Externa	inflammation of the outer part of the ear extending to the auditory canal.
+Otitis Media	inflammation of the middle ear caused by infection.
+Otoacoustic Emissions	low-intensity sounds produced by the inner ear that can be quickly measured with a sensitive microphone placed in the ear canal.
+Otolaryngologist	physician/surgeon who specializes in diseases of the ears, nose, throat, and head and neck.
+Otologist	physician/surgeon who specializes in diseases of the ear.
+Otosclerosis	abnormal growth of bone of the inner ear. This bone prevents structures within the ear from working properly and causes hearing loss. For some people with otosclerosis, the hearing loss may become severe.
+Ototoxic Drugs	drugs such as a special class of antibiotics, aminoglycoside antibiotics, that can damage the hearing and balance organs located in the inner ear for some individuals.
+Outer Ear	external portion of the ear, consisting of the pinna, or auricle, and the ear canal.
+Papillomavirus	group of viruses that can cause noncancerous wartlike tumors to grow on the surface of skin and internal organs such as the respiratory tract; can be life-threatening.
+Parosmia	any disease or perversion of the sense of smell, especially the subjective perception of odors that do not exist.
+Perception (Hearing)|perception	process of knowing or being aware of information through the ear.
+Perilymph Fistula	leakage of inner ear fluid to the middle ear that occurs without apparent cause or that is associated with head trauma, physical exertion, or barotrauma.
+Pervasive Developmental Disorders	disorders characterized by delays in several areas of development that may include socialization and communication.
+Pheromones	chemical substances secreted by an animal that elicit a specific behavioral or physiological response in another animal of the same species.
+Phonology	study of speech sounds.
+Postlingually Deafened	individual who becomes deaf after having acquired language.
+Prelingually Deafened	individual who is either born deaf or who lost his or her hearing early in childhood, before acquiring language.
+Presbycusis	loss of hearing that gradually occurs because of changes in the inner or middle ear in individuals as they grow older.
+Reading Disorders	any of a group of problems characterized by difficulty using or understanding the symbol system for written language.
+Round Window	membrane separating the middle ear and inner ear.
+Sensorineural Hearing Loss	hearing loss caused by damage to the sensory cells and/or nerve fibers of the inner ear.
+Sign Language	method of communication for people who are deaf or hard of hearing in which hand movements, gestures and facial expressions convey grammatical structure and meaning.
+Smell	to perceive odor or scent through stimuli affecting the olfactory nerves.
+Smell Disorder	inability to perceive odors. It may be temporary, caused by a head cold or swelling or blockage of the nasal passages. It can be permanent when any part of the olfactory region is damaged by factors such as brain injury, tumor, disease, or chronic rhinitis.
+Sound Vocalization	ability to produce voice.
+Spasmodic Dysphonia	momentary disruption of voice caused by involuntary movements of one or more muscles of the larynx or voice box.
+Specific Language Impairment (SLI)|sli|specific-language-impairment	difficulty with language or the organized-symbol-system used for communication in the absence of problems such as mental retardation, hearing loss, or emotional disorders.
+Speech	spoken communication.
+Speech Disorder	any defect or abnormality that prevents an individual from communicating by means of spoken words. Speech disorders may develop from nerve injury to the brain, muscular paralysis, structural defects, hysteria, or mental retardation.
+Speech-Language Pathologist	health professional trained to evaluate and treat people who have voice, speech, language, or swallowing disorders (including hearing impairment) that affect their ability to communicate.
+Speech Processor	part of a cochlear implant that converts speech sounds into electrical impulses to stimulate the auditory nerve, allowing an individual to understand sound and speech.
+Stroke	also known as a cerebrovascular accident (CVA); caused by a lack of blood to the brain, resulting in the sudden loss of speech, language, or the ability to move a body part and, if severe enough, death.
+Stuttering	frequent repetition of words or parts of words that disrupts the smooth flow of speech.
+Sudden Deafness	loss of hearing that occurs quickly due to such causes as explosion, a viral infection, or the use of some drugs.
+Swallowing Disorders	any of a group of problems that interferes with the transfer of food from the mouth to the stomach.
+Syndromic Hearing Impairment	hearing loss or deafness that, along with other characteristics, is inherited or passed down through generations of a family.
+Tactile	related to touch or the sense of touch.
+Tactile Devices	mechanical instruments that make use of touch to help individuals who have certain disabilities, such as deaf-blindness, to communicate.
+Taste	sensation produced by a stimulus applied to the gustatory nerve endings in the tongue. The four tastes are salt, sour, sweet, and bitter. Some scientists indicate the existence of a fifth taste, described as savory.
+Taste Buds	groups of cells located on the tongue that enable one to recognize different tastes.
+Taste Disorder	inability to perceive different flavors. Taste disorders may result from poor oral hygiene, gum disease, hepatitis, or medicines and chemotherapeutic drugs. Taste disorders may also be neurological.
+Throat Disorders	disorders or diseases of the larynx (voice box), pharynx or esophagus.
+Thyroplasty	surgical technique to improve voice by altering the cartilages of the larynx, which houses the vocal folds (vocal cords), in order to change the position or length of the vocal folds. Also known as laryngeal framework surgery.
+Tinnitus	sensation of a ringing, roaring, or buzzing sound in the ears or head. It is often associated with many forms of hearing impairment and noise exposure.
+Tongue	large muscle on the floor of the mouth that manipulates food for chewing and swallowing. It is the main organ of taste, and assists in forming speech sounds.
+Touch	tactile sense; the sense by which contact with the skin or mucous membrane is experienced.
+Tourette Syndrome	neurological disorder characterized by recurring movements and sounds (called tics).
+Tracheostomy	surgical opening into the trachea (windpipe) to help someone breathe who has an obstruction or swelling in the larynx (voice box) or upper throat or who have their larynx surgically removed.
+Tympanoplasty	surgical repair of the eardrum (tympanic membrane) or bones of the middle ear.
+Usher Syndrome	hereditary disease that affects hearing and vision and sometimes balance.
+Velocardiofacial Syndrome	inherited disorder characterized by cleft palate (opening in the roof of the mouth), heart defects, characteristic facial appearance, minor learning problems, and speech and feeding problems.
+Vertigo	illusion of movement; a sensation as if the external world were revolving around an individual (objective vertigo) or as if the individual were revolving in space (subjective vertigo).
+Vestibular Neuronitis	infection at the vestibular nerve.
+Vestibular System	system in the body that is responsible for maintaining balance, posture, and the body's orientation in space. This system also regulates locomotion and other movements and keeps objects in visual focus as the body moves.
+Vestibule	bony cavity of the inner ear.
+Vibrotactile Aids	mechanical instruments that help individuals who are deaf to detect and interpret sound through the sense of touch.
+Vocal Cord Paralysis	inability of one or both vocal folds (vocal cords) to move because of damage to the brain or nerves.
+Vocal Cords (Vocal Folds)|vocal-cords|vocal-folds	muscularized folds of mucous membrane that extend from the larynx (voice box) wall. The folds are enclosed in elastic vocal ligament and muscle that control the tension and rate of vibration of the cords as air passes through them.
+Vocal Tremor	trembling or shaking of one or more of the muscles of the larynx, resulting in an unsteady-sounding voice.
+Voice	sound produced by air passing out through the larynx and upper respiratory tract.
+Voice Disorders	group of problems involving abnormal pitch, loudness, or quality of the sound produced by the larynx (voice box).
+Waardenburg Syndrome	hereditary disorder that is characterized by hearing impairment, a white shock of hair and/or distinctive blue color to one or both eyes, and wide-set inner corners of the eyes. Balance problems are also associated with some types of Waardenburg syndrome.
